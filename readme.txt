@@ -10,6 +10,15 @@ $ bundle install
 
 bundle exec nanoc create-site blog
 
+The signal USR1 is in use by the JVM and will not work correctly on this platform
+The signal USR1 is in use by the JVM and will not work correctly on this platform
+      create  nanoc.yaml
+      create  Rules
+      create  content/index.html
+      create  content/stylesheet.css
+      create  layouts/default.html
+Created a blank nanoc site at 'blog'. Enjoy!
+
 ================
 ================
 ================
