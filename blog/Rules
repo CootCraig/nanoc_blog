@@ -1,4 +1,7 @@
 #!/usr/bin/env ruby
+require 'compass'
+
+Compass.add_project_configuration 'compass.rb'
 
 # A few helpful tips about the Rules file:
 #
@@ -17,6 +20,10 @@ compile '/stylesheet/' do
   # don’t filter or layout
 end
 
+compile '/assets/stylesheets/*' do
+  filter :sass, Compass.sass_engine_options.merge(:syntax => item[:extension].to_sym)
+end
+
 compile '*' do
   if item.binary?
     # don’t filter binary items
@@ -24,6 +31,19 @@ compile '*' do
     filter :erb
     layout 'default'
   end
+end
+
+route '/assets/images/*' do
+  #ignore images for now
+end
+
+route '/assets/javascripts/*' do
+  #ignore javascripts for now
+end
+
+route '/assets/stylesheets/*' do
+  # flatten assets to assets/ similar to rails
+  '/assets/' + File.basename(item.identifier) + '.css'
 end
 
 route '/stylesheet/' do

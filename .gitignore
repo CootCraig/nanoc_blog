@@ -1,0 +1,6 @@
+.bundle/
+bin/
+blog/tmp/
+.sass-cache/
+crash.log
+
