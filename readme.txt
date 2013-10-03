@@ -314,6 +314,24 @@ dev/cootcraig_blog/blog/nanoc.yaml
 git commit -m 'applied chickenboot instructions through compass and foundation integration.  Using Foundation 4 needed to set allow_periods_in_identifiers: true in nanoc.yaml'
 
 ================
+http://chickenboot.com/2013/05/18/zurb-foundation-with-nanoc-part-1/
+
+> Haml Layouts
+> 
+> Having used it for a while in Rails, I can firmly say I'm a big fan of
+> haml. It reduces the verbosity of markup to the extent that it almost
+> looks nice!
+> 
+> To switch the layouts from erb enabled html we just need to change the
+> layout line in Rules to the following:
+> 
+> layout '*', :haml, :format => :html5
+> And now we need to change the default layout—I've also added a simple
+> Foundation top-bar nav:
+> 
+> vintaginvite$ mv layouts/default.html layouts/default.haml
+> vintaginvite$ subl layouts/default.haml
+
 ================
 ================
 ================
