@@ -16,12 +16,13 @@ Compass.add_project_configuration 'compass.rb'
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
-compile '/stylesheet/' do
-  # don’t filter or layout
-end
-
 compile '/assets/stylesheets/*' do
   filter :sass, Compass.sass_engine_options.merge(:syntax => item[:extension].to_sym)
+end
+
+compile '/assets/javascripts/*' do
+  filter :erb
+  filter :uglify_js if @config[:javascripts][:passthrough].include?(File.basename(item.identifier))
 end
 
 compile '*' do
@@ -37,17 +38,14 @@ route '/assets/images/*' do
   #ignore images for now
 end
 
-route '/assets/javascripts/*' do
-  #ignore javascripts for now
-end
-
 route '/assets/stylesheets/*' do
   # flatten assets to assets/ similar to rails
   '/assets/' + File.basename(item.identifier) + '.css'
 end
 
-route '/stylesheet/' do
-  '/style.css'
+route '/assets/javascripts/*' do
+  filename = File.basename(item.identifier)
+  '/assets/' + filename + '.js' if @config[:javascripts][:passthrough].include?(filename)
 end
 
 route '*' do
