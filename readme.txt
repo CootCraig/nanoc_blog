@@ -505,6 +505,174 @@ concat_files item.identifier /assets/javascripts/foundation/foundation.topbar/
 Site compiled in 141.99s.
 
 ================
+craig@craigs:~/dev/cootcraig_blog$ git branch
+  001_chickenboot_part_2
+---------------
+> http://chickenboot.com/2013/05/22/zurb-foundation-with-nanoc-part-3/
+> 
+> Directories and Helpers
+> 
+> We're using a slightly different structure to Dave as our site isn't
+> just a blog—it's just one part of our company site. As such, we're
+> making a subdirectory, imaginatively entitled blog, to contain all the
+> blog related files.
+> 
+> vintageinvite$ mkdir -p content/blog/posts
+> 
+> Because a blog is a fairly common usage of a static site generator, nanoc
+> ships with some helpers. To use these, we need to add some includes to
+> the lib directory. Rather than adding to default.rb (as Dave does above),
+> I've gone with creating a new file, includes.rb:
+> 
+> vintageinvite$ subl lib/includes.rb
+> File: lib/includes.rb
+> include Nanoc3::Helpers::Blogging
+> include Nanoc3::Helpers::Tagging
+> include Nanoc3::Helpers::Rendering
+> include Nanoc3::Helpers::LinkTo
+> 
+> 
+> Dave Clark helpfully explains these in his tutorial:
+> 
+> http://clarkdave.net/2012/02/building-a-static-blog-with-nanoc/
+> 
+> The Blogging helper extends nanoc content items with a few fields such
+> as title and created_at, and also provides some helper methods to our
+> layouts we can use to list posts.
+> 
+> The Tagging helper lets us add tags to content items and query them.
+> 
+> The Rendering helper lets us use view partials, which allows us to nest
+> layouts (this’ll let us built sub-layouts for posts)
+> 
+> The LinkTo helper lets us construct URLs for other items
+> 
+> LinkTo and Rendering include helpers that will be familiar to a Rails
+> developer - link_to and render are frequently used in Rails views.
+
+craig@craigs:~/dev/cootcraig_blog/blog$ mkdir -p content/blog/posts
+
+gvim /home/craig/dev/cootcraig_blog/blog/lib/includes.rb
+
+----------------------------------------------
+> http://chickenboot.com/2013/05/22/zurb-foundation-with-nanoc-part-3/
+> 
+> Markdown
+> 
+> We still need to add a bit more configuration. The plan for the blog is
+> to allow any of the team to write their own posts—writing in html or
+> haml would be a bit of an ask for the non-technically-minded members (and
+> would still be a pain for the rest of us!). That's why someone invented
+> the "lightweight markup language" (or "clever text-to-html converter"
+> as I prefer), and pretty much the de-facto language is Markdown, so
+> let's add support for that.
+> 
+> First we add the kramdown gem, which is a library that does the
+> conversion:
+> 
+> vintageinvite$ subl Gemfile
+> File: Gemfile
+> gem 'kramdown'
+> gem 'listen'
+> vintageinvite$ bundle install
+> 
+> You'll notice I've also added the listen gem, so that I can use the
+> nanoc watch command (which keeps an eye on changed files, and compiles
+> them on the fly, so you don't need to continuously compile and view).
+> 
+> Then we need to tell nanoc that our blog posts should be converted by
+> this library, by adding a compilation rule:
+> 
+> vintageinvite$ subl Rules
+> File: Rules
+> compile '/blog/posts/*' do
+>   filter :kramdown
+>   layout 'default'
+> end
+> 
+> Now we can create a post to test it all:
+> 
+> vintageinvite$ subl content/blog/posts/2013-05-22-welcome-to-the-blog.md
+> File: content/blog/posts/2013-05-22-welcome-to-the-blog.md
+> ---
+> title: "Welcome to the Blog"
+> created_at: 2013-05-22 09:00:00 +0000
+> kind: article
+> ---
+> 
+> ### Welcome
+> 
+> I will be replaced by a sensical post long before I get published to the web!
+> 
+> ------------------
+> 
+> The post starts with the metadata (between the two --- lines) which
+> we'll be using later (it isn't rendered)—we need the kind: article
+> line to tell the nanoc blogging helper that this item should be handled
+> as a blog post.
+> 
+> Now we can compile and view the site, and access our blog post at
+> /blog/posts/2013-05-22-welcome-to-the-blog/, and see this:
+
+Note, kramdown is already in the Gemfile.  I don't want to use listen.
+
+------------------------
+> http://chickenboot.com/2013/05/22/zurb-foundation-with-nanoc-part-3/
+> 
+> Routes and a Post Template
+> 
+> We can borrow a few more tricks from Dave Clark's tutorial to improve
+> the routes for our blog posts:
+> 
+> vintageinvite$ subl Rules
+> File: Rules
+> route '/blog/posts/*' do
+>   y,m,d,slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
+> 
+>   "/blog/#{y}/#{m}/#{slug}/index.html"
+> end
+> 
+> This changes the url above (using a regular expression) to
+> /blog/posts/2013/05/welcome-to-the-blog/ which is much nicer.
+> 
+> Next on Dave's agenda: we can create a new layout specifically for our
+> blog posts, by creating a new file in the layouts folder.
+> 
+> vintageinvite$ subl layouts/post.haml
+> File: layouts/post.haml
+> = render 'default' do
+>   .post
+>     %h3= item[:title]
+>     %aside= "Posted on #{attribute_to_time(item[:created_at]).strftime('%A, %B %-d %Y')}"
+>     %article= yield
+> 
+> We're using the default layout (by using the Nanoc::Helpers::Rendering
+> helper), and in the content for that, we're putting the title from the
+> metadata in as a header (with item[:title]), adding the creation date
+> (processed through the Nanoc::Helpers::Blogging method attribute_to_time,
+> and pretty-printed using strftime) and finally yielding the content
+> wrapped in an article tag.
+> 
+> All we need to do to use this new layout, is to switch it in the Rules
+> file:
+> 
+> vintageinvite$ subl Rules
+> File: Rules
+> compile '/blog/posts/*' do
+>   filter :kramdown
+>   layout 'post'
+> end
+> 
+> If you compile and view the blog post now (or are using nanoc watch),
+> you'll notice that there are two headers—this is because our post
+> template uses the title as a header, but we still have a header in
+> the post. We'll fix this later when we add some styling and create the
+> blog homepage.
+
+http://localhost:3000/blog/posts/2013-10-06-welcome-to-the-blog/
+  to
+http://localhost:3000/blog/2013/10/welcome-to-the-blog/
+
 ================
 ================
 ================
