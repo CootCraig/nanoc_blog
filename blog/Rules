@@ -16,6 +16,10 @@ Compass.add_project_configuration 'compass.rb'
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
+preprocess do
+  build_tag_pages(items)
+end
+
 compile '/assets/stylesheets/*' do
   filter :sass, Compass.sass_engine_options.merge(:syntax => item[:extension].to_sym)
 end
@@ -34,7 +38,7 @@ compile '*' do
   if item.binary?
     # don’t filter binary items
   else
-    filter :erb
+    filter :haml
     layout 'default'
   end
 end

@@ -8,17 +8,22 @@
     %link{:rel => "stylesheet", :href => "/assets/app.css" }
     %script{:src => "/assets/modernizr.foundation.js" }
   %body
-    .contain-to-grid
-      %nav.top-bar
-        %ul
-          %li.name
-            %a{:href => "/"} Coot the Craig's Blog
-          %li.toggle-topbar
-            %a{:href => "#"}
-        %section
-          %ul.right
-            %li
-              %a{:href => "#"} Contact
+    .header
+      .contain-to-grid
+        %nav.top-bar
+          %ul.title-area
+            %li.name
+              %a{:href => "/"} Coot the Craig's Blog
+            %li{:class => "toggle-topbar menu-icon"}
+              %a{:href => "#"}
+                %span Menu
+          %section.top-bar-section
+            %ul.left
+            %ul.right
+              %li
+                %a{:href => "/blog/"} Blog
+              %li
+                %a{:href => "#"} Contact
     .row
       .twelve.columns
         = yield
