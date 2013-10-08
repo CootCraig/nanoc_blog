@@ -1,3 +1,8 @@
+
+http://66.147.244.143/~cootnet/
+
+(cd blog/output; rsync --recursive --relative  -e ssh . cootnet@66.147.244.143:public_html)
+
 ================
 > http://chickenboot.com/2013/05/18/zurb-foundation-with-nanoc-part-1/
 

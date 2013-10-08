@@ -8,4 +8,5 @@ gem "zurb-foundation", "~> 4.3.2"
 gem 'compass'
 gem 'uglifier'
 gem 'therubyrhino'
+gem 'systemu'
 
