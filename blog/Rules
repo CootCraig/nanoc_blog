@@ -20,6 +20,9 @@ preprocess do
   build_tag_pages(items)
 end
 
+compile '/assets/iframe_pages/*' do
+end
+
 compile '/assets/stylesheets/*' do
   filter :sass, Compass.sass_engine_options.merge(:syntax => item[:extension].to_sym)
 end

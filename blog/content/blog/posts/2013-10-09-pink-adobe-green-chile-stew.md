@@ -5,5 +5,9 @@ kind: article
 tags: [ 'recipe','green chile']
 ---
 
-Embed iframe here
------------------
+From
+----
+<a href="http://www.shockinglydelicious.com/green-chile-stew-from-the-pink-adobe-hatch-chiles/">shockinglydelicious.com</a>
+
+<iframe width="600" height="1200" src="/assets/iframe_pages/green-chile-stew-from-the-pink-adobe-hatch-chiles/index.html" ></iframe>
+
