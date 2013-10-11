@@ -44,10 +44,6 @@ compile '*' do
   end
 end
 
-route '/assets/images/*' do
-  #ignore images for now
-end
-
 route '/assets/stylesheets/*' do
   # flatten assets to assets/ similar to rails
   '/assets/' + File.basename(item.identifier) + '.css'

@@ -46,6 +46,123 @@
         <div class='row'>
           <div class='small-8 large-10 columns'>
             <h3>
+              11 October 2013
+              &raquo;
+              <a href="/blog/2013/10/rails-api/">Rails-API - Rails for Restful JSON</a>
+            </h3>
+            <h1 id="do-the-cool-kids-like-it">Do the cool kids like it?</h1>
+            
+            <ul>
+              <li><a href="https://github.com/rails-api/rails-api">rails-api at github</a></li>
+              <li><a href="http://railscasts.com/episodes/348-the-rails-api-gem?view=asciicast">RailsCasts - #348 The Rails API Gem</a></li>
+            </ul>
+            <hr>
+            <h3>
+              11 October 2013
+              &raquo;
+              <a href="/blog/2013/10/passenger-phusion-and-bluehost/">Phusion Passenger and Bluehost</a>
+            </h3>
+            <h1 id="what-is-phusion-passenger-and-why-should-i-care">What is Phusion Passenger and why should I care?</h1>
+            
+            <p>Overview image.
+            <img src="/assets/images/phusion_passenter_overview.png" alt="phusion_passenger_overview" /></p>
+            
+            <p><a href="http://stackoverflow.com/questions/4113299/ruby-on-rails-server-options">Stack Overflow question on App. Servers</a></p>
+            <hr>
+            <h3>
+              10 October 2013
+              &raquo;
+              <a href="/blog/2013/10/move-email-to-bluehost/">Move Email to Bluehost</a>
+            </h3>
+            <h3 id="download-the-mail-from-godaddy">Download the mail from GoDaddy</h3>
+            <p><a href="http://pyropus.ca/software/getmail/">getmail mail retriever</a></p>
+            
+            <p>getmail is a mail retriever designed to allow you to get your mail from
+            one or more mail accounts on various mail servers to your local machine
+            for reading with a minimum of fuss. getmail is designed to be secure,
+            flexible, reliable, and easy-to-use. getmail is designed to replace
+            other mail retrievers such as fetchmail.</p>
+            
+            <h4 id="configuration">Configuration</h4>
+            
+            <p>Configuration file is
+            <em>~/.getmail/getmails</em></p>
+            
+            <pre><code>.
+            [retriever]
+            type = SimplePOP3Retriever
+            server = pop.theserver.net
+            username = me@domain.com
+            password = strongpassword
+            
+            [destination]
+            type = Maildir
+            path = ~/.getmail/maildir/
+            </code></pre>
+            
+            <p>It was necessary to move the emails from the saved folder to the inbox,
+            run getmail to grab them
+            and then move them back to the saved folder.</p>
+            
+            <h3 id="upload-to-bluehost">Upload to Bluehost</h3>
+            <p>Perhaps use software like this,
+            <a href="http://imap-upload.sourceforge.net/">imap-upload</a></p>
+            
+            <p><a href="http://lifehacker.com/332624/import-messages-into-gmail-via-imap">Lifehacker article on importing to gmail with imap</a></p>
+            
+            <p>Apparently Thunderbird can drag and drop to an imap server.</p>
+            
+            <h4 id="maildir-directory-structure">Maildir Directory Structure</h4>
+            
+            <p>Dovecot uses Maildir++ directory layout for organizing mailbox
+            directories. This means that all the folders are directly inside ~/Maildir
+            directory:</p>
+            
+            <p>~/Maildir/new, ~/Maildir/cur and ~/Maildir/tmp directories contain
+            the messages for INBOX. The tmp directory is used during delivery,
+            new messages arrive in new and read shall be moved to cur by the clients.</p>
+            
+            <p>~/Maildir/.folder/ is a mailbox folder</p>
+            
+            <p>~/Maildir/.folder.subfolder/ is a subfolder of a folder
+            (ie. “folder/subfolder”)</p>
+            
+            <p>Most importantly this means that if your maildir folders exist in
+            eg. ~/Maildir/folder and ~/Maildir/folder/subfolder, Dovecot won’t see
+            them unless you rename them to Maildir++ layout. v1.1 supports them by
+            adding :LAYOUT=fs to mail_location.</p>
+            
+            <pre><code>.
+            ~/godaddy_export/cur/
+            ~/godaddy_export/new/
+            ~/godaddy_export/tmp/
+            ~/godaddy_export/.craig/cur/
+            ~/godaddy_export/.craig/new/
+            ~/godaddy_export/.craig/tmp/
+            ~/godaddy_export/.gcs/cur/
+            ~/godaddy_export/.gcs/new/
+            ~/godaddy_export/.gcs/tmp/
+            </code></pre>
+            
+            <p>I could rsync to these folders on Bluehost</p>
+            
+            <pre><code>.
+            ~/godaddy_export/.craig/
+            ~/godaddy_export/.gcs/
+            
+            to
+            
+            ~/mail/coot.net/craig/.godaddy_craig/
+            ~/mail/coot.net/craig/.godaddy_gcs/
+            </code></pre>
+            
+            <p>cd ~/godaddy_export/
+            scp -r .gcs cootnet@coot.net:mail/coot.net/godaddy_gcs
+            scp -r .craig cootnet@coot.net:mail/coot.net/craig/.godaddy_craig</p>
+            
+            <p>Then in Roundcube the folder must be subscribed to.</p>
+            <hr>
+            <h3>
               09 October 2013
               &raquo;
               <a href="/blog/2013/10/pink-adobe-green-chile-stew/">Pink Adobe Green Chile Stew Recipe</a>
@@ -158,12 +275,16 @@
           <div class='small-4 large-2 columns'>
             <h5>Tags</h5>
             <ul class='no-bullet'>
+              <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
+              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
               <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
               <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
-              <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
               <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
               <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
               <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
+              <li><a href="/blog/tags/email" rel="tag">email</a></li>
+              <li><a href="/blog/tags/rails" rel="tag">rails</a></li>
+              <li><a href="/blog/tags/rails-api" rel="tag">rails-api</a></li>
             </ul>
           </div>
         </div>
