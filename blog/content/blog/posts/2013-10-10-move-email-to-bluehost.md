@@ -19,16 +19,17 @@ other mail retrievers such as fetchmail.
 Configuration file is
 _~/.getmail/getmails_
 
-    .
-    [retriever]
-    type = SimplePOP3Retriever
-    server = pop.theserver.net
-    username = me@domain.com
-    password = strongpassword
-    
-    [destination]
-    type = Maildir
-    path = ~/.getmail/maildir/
+<pre><code>
+[retriever]
+type = SimplePOP3Retriever
+server = pop.theserver.net
+username = me@domain.com
+password = strongpassword
+
+[destination]
+type = Maildir
+path = ~/.getmail/maildir/
+</code></pre>
 
 It was necessary to move the emails from the saved folder to the inbox,
 run getmail to grab them
@@ -63,30 +64,37 @@ them unless you rename them to Maildir++ layout. v1.1 supports them by
 adding :LAYOUT=fs to mail_location.
 
     .
-    ~/godaddy_export/cur/
-    ~/godaddy_export/new/
-    ~/godaddy_export/tmp/
-    ~/godaddy_export/.craig/cur/
-    ~/godaddy_export/.craig/new/
-    ~/godaddy_export/.craig/tmp/
-    ~/godaddy_export/.gcs/cur/
-    ~/godaddy_export/.gcs/new/
-    ~/godaddy_export/.gcs/tmp/
+<pre><code>
+~/godaddy_export/cur/
+~/godaddy_export/new/
+~/godaddy_export/tmp/
+~/godaddy_export/.craig/cur/
+~/godaddy_export/.craig/new/
+~/godaddy_export/.craig/tmp/
+~/godaddy_export/.gcs/cur/
+~/godaddy_export/.gcs/new/
+~/godaddy_export/.gcs/tmp/
+</code></pre>
 
 I could rsync to these folders on Bluehost
-
     .
-    ~/godaddy_export/.craig/
-    ~/godaddy_export/.gcs/
+<pre><code>
+~/godaddy_export/.craig/
+~/godaddy_export/.gcs/
+</code></pre>
     
-    to
+to
     
-    ~/mail/coot.net/craig/.godaddy_craig/
-    ~/mail/coot.net/craig/.godaddy_gcs/
+<pre><code>
+~/mail/coot.net/craig/.godaddy_craig/
+~/mail/coot.net/craig/.godaddy_gcs/
+</code></pre>
     
+<pre><code>
 cd ~/godaddy_export/
 scp -r .gcs cootnet@coot.net:mail/coot.net/godaddy_gcs
 scp -r .craig cootnet@coot.net:mail/coot.net/craig/.godaddy_craig
+</code></pre>
 
 Then in Roundcube the folder must be subscribed to.
 
