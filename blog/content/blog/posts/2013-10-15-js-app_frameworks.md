@@ -14,6 +14,7 @@ tags: [ 'javascript']
 + [ANGULARJS VS EMBERJS NOTES](http://neverfriday.com/2013/09/01/angularjs-vs-emberjs-notes/)
 + [The Battle of Modern Javascript Frameworks: Conclusion – Which One to Choose](http://www.softfinity.com/blog/the-battle-of-modern-javascript-frameworks-conclusion-which-one-to-choose/)
 + [Ember vs Angular – Templates](http://pivotallabs.com/ember-vs-angular-templates/)
++ [Why Angular, Ember, or Backbone don't work for us](https://moot.it/blog/technology/frameworkless-javascript.html)
 
 # backbone.js Recommended
 
@@ -54,4 +55,42 @@ tags: [ 'javascript']
 # Spine Recommended
 
 # KnockoutJS Recommended
+
+# Quotes of Note
+
+### [AngularJS vs Ember](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
+
+Discourse is an Ember application and has been since the first prototype,
+so I have a lot of experience with it.
+
+If I were to rank the amount of tools various client side MVC frameworks
+give you, Angular seems to exist somewhere near the half way point
+between Backbone and Ember.
+
+Ember has more concepts to learn and more to wrap your head around than
+AngularJS. Before you write off Ember due to its complexity, consider
+why the developers added all that extra stuff. Perhaps it’s there for
+a reason?
+
+Ember is a toolbox full of concepts you will find useful if you want to
+build a large and maintainable application. The trade offs it has made
+in its API are there to help you structure your code in a sane way. As
+you learn Ember you will notice several philosophies and opinions that
+are completely absent from the AngularJS framework.
+
+In Ember, all models extend the Ember.Object base class. When you do this,
+you gain the ability to declare relationships within and between models
+
+This illustrates a key difference between Ember and AngularJS. Ember
+subscribes to the Uniform Access Principle. In an Ember template,
+regardless of whether you are accessing something that is computed
+or something that is a primitive, the expression looks the same. In
+AngularJS, functions have to be specifically demarcated.
+
+This can cause maintainability nightmares down the road. Over time, in
+a large software project, you will inevitably want to replace something
+that was previously a primitive with a method. In Ember you can do this
+painlessly; in AngularJS you’ll have to update every template where
+that model is used.
+
 

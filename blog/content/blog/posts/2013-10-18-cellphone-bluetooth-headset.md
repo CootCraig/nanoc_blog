@@ -46,3 +46,21 @@ tags: [ 'bluetooth','cellphone','headset']
 <br> 
 <hr>
 <br>
+
+### More Headsets
+
+* [Samsung HM3700 Stereo Bluetooth Wireless Headset](http://www.amazon.com/Samsung-HM3700-Bluetooth-Wireless-Headset/dp/B0052XQFKE)
+* [iKross ikbt19](http://www.ikross.com/Tablet/Samsung/Bluetooth/IKBT19-Bluetooth-Stereo-Music-Audio-Receiver-Stereo-Handsfree-Headset?utm_source=productAccessories&utm_medium=list&utm_campaign=productId-69)
+
+### table
+
+<table>
+  <tr><th>Samsung HM3700</th><th>Price</th><th>call features</th><th>range</th><th>Sound Quality</th></tr>
+  <tr><td>Sony SBH20</td><td>Price</td><td>call features</td><td>range</td><td>Sound Quality</td></tr>
+  <tr><td>Jabra Clipper</td><td>Price</td><td>call features</td><td>range</td><td>Sound Quality</td></tr>
+  <tr><td>iKross ikbt19</td><td>$30</td><td>call features</td><td>10 meters or 33 feet</td><td>Sound Quality</td></tr>
+  <tr><td>Headset Model</td><td>Price</td><td>call features</td><td>range</td><td>Sound Quality</td></tr>
+</table>
+
+
+

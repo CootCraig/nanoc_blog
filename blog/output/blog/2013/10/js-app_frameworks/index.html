@@ -56,6 +56,7 @@
               <li><a href="http://neverfriday.com/2013/09/01/angularjs-vs-emberjs-notes/">ANGULARJS VS EMBERJS NOTES</a></li>
               <li><a href="http://www.softfinity.com/blog/the-battle-of-modern-javascript-frameworks-conclusion-which-one-to-choose/">The Battle of Modern Javascript Frameworks: Conclusion – Which One to Choose</a></li>
               <li><a href="http://pivotallabs.com/ember-vs-angular-templates/">Ember vs Angular – Templates</a></li>
+              <li><a href="https://moot.it/blog/technology/frameworkless-javascript.html">Why Angular, Ember, or Backbone don’t work for us</a></li>
             </ul>
             
             <h1 id="backbonejs-recommended">backbone.js Recommended</h1>
@@ -105,6 +106,43 @@
             <h1 id="spine-recommended">Spine Recommended</h1>
             
             <h1 id="knockoutjs-recommended">KnockoutJS Recommended</h1>
+            
+            <h1 id="quotes-of-note">Quotes of Note</h1>
+            
+            <h3 id="angularjs-vs-emberhttpeviltroutcom20130615ember-vs-angularhtml"><a href="http://eviltrout.com/2013/06/15/ember-vs-angular.html">AngularJS vs Ember</a></h3>
+            
+            <p>Discourse is an Ember application and has been since the first prototype,
+            so I have a lot of experience with it.</p>
+            
+            <p>If I were to rank the amount of tools various client side MVC frameworks
+            give you, Angular seems to exist somewhere near the half way point
+            between Backbone and Ember.</p>
+            
+            <p>Ember has more concepts to learn and more to wrap your head around than
+            AngularJS. Before you write off Ember due to its complexity, consider
+            why the developers added all that extra stuff. Perhaps it’s there for
+            a reason?</p>
+            
+            <p>Ember is a toolbox full of concepts you will find useful if you want to
+            build a large and maintainable application. The trade offs it has made
+            in its API are there to help you structure your code in a sane way. As
+            you learn Ember you will notice several philosophies and opinions that
+            are completely absent from the AngularJS framework.</p>
+            
+            <p>In Ember, all models extend the Ember.Object base class. When you do this,
+            you gain the ability to declare relationships within and between models</p>
+            
+            <p>This illustrates a key difference between Ember and AngularJS. Ember
+            subscribes to the Uniform Access Principle. In an Ember template,
+            regardless of whether you are accessing something that is computed
+            or something that is a primitive, the expression looks the same. In
+            AngularJS, functions have to be specifically demarcated.</p>
+            
+            <p>This can cause maintainability nightmares down the road. Over time, in
+            a large software project, you will inevitably want to replace something
+            that was previously a primitive with a method. In Ember you can do this
+            painlessly; in AngularJS you’ll have to update every template where
+            that model is used.</p>
           </article>
         </div>
       </div>
