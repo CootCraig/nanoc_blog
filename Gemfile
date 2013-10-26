@@ -9,4 +9,5 @@ gem 'compass'
 gem 'uglifier'
 gem 'therubyrhino'
 gem 'systemu'
+gem 'heel'
 

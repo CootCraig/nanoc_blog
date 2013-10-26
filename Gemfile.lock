@@ -1,9 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.3.5)
     adsf (1.1.1)
       rack (>= 1.0.0)
     chunky_png (1.2.8)
+    coderay (1.1.0)
     colored (1.2)
     compass (0.12.2)
       chunky_png (~> 1.2)
@@ -15,10 +17,20 @@ GEM
     fssm (0.2.10)
     haml (4.0.3)
       tilt
+    heel (3.1.2)
+      coderay (~> 1.1)
+      launchy (~> 2.3)
+      mime-types (~> 1.25)
+      puma (~> 2.0)
     kramdown (1.2.0)
+    launchy (2.3.0)
+      addressable (~> 2.3)
+    mime-types (1.25)
     multi_json (1.8.1)
     nanoc (3.6.5)
       cri (~> 2.3)
+    puma (2.6.0-java)
+      rack (>= 1.1, < 2.0)
     rack (1.5.2)
     sass (3.2.12)
     systemu (2.5.2)
@@ -39,6 +51,7 @@ DEPENDENCIES
   adsf
   compass
   haml
+  heel
   kramdown
   nanoc
   sass

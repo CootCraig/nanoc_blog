@@ -1,0 +1,738 @@
+---
+title: "TV and FM Antennas"
+created_at: Fri Oct 25 21:27:45 MDT 2013
+kind: article
+tags: [ 'antenna','tv','fm']
+---
+
+
+38.319631, -104.591637
+
++38° 19' 10.67", -104° 35' 29.89"
+
+FMFool
+
+<img src="/assets/images/Radar-FM.png"></img>
+
+The North American broadcast television frequencies are on designated television channels numbered 2 through 69, approximately between 54 and 806 MHz.
+
+<table border="1" >
+<caption><b>VHF low-band (<a href="/wiki/Band_I" title="Band I">band I</a>)</b><br>
+(frequencies in MHz)</caption>
+<tbody><tr>
+<th>&nbsp;Channel&nbsp;</th>
+<th>&nbsp;Lower edge&nbsp;</th>
+<th>&nbsp;Video carrier&nbsp;</th>
+<th>&nbsp;ATSC pilot&nbsp;</th>
+<th>&nbsp;Audio carrier&nbsp;</th>
+<th>&nbsp;Upper edge&nbsp;</th>
+</tr>
+<tr>
+<td>2</td>
+<td>54</td>
+<td>55.25</td>
+<td>54.31</td>
+<td>59.75</td>
+<td>60</td>
+</tr>
+<tr>
+<td>3</td>
+<td>60</td>
+<td>61.25</td>
+<td>60.31</td>
+<td>65.75</td>
+<td>66</td>
+</tr>
+<tr>
+<td>4</td>
+<td>66</td>
+<td>67.25</td>
+<td>66.31</td>
+<td>71.75</td>
+<td>72</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>76</td>
+<td>77.25</td>
+<td>76.31</td>
+<td>81.75</td>
+<td>82</td>
+</tr>
+<tr>
+<td>6</td>
+<td>82</td>
+<td>83.25</td>
+<td>82.31</td>
+<td>87.75</td>
+<td>88</td>
+</tr>
+</tbody></table>
+
+<table border="1" >
+<caption><b>VHF high-band (<a href="/wiki/Band_III" title="Band III">band III</a>)</b><br>
+(frequencies in MHz)</caption>
+<tbody><tr>
+<th>&nbsp;Channel&nbsp;</th>
+<th>&nbsp;Lower edge &nbsp;</th>
+<th>&nbsp;Video carrier&nbsp;</th>
+<th>&nbsp;ATSC pilot&nbsp;</th>
+<th>&nbsp;Audio carrier&nbsp;</th>
+<th>&nbsp;Upper edge&nbsp;</th>
+</tr>
+<tr>
+<td>7</td>
+<td>174</td>
+<td>175.25</td>
+<td>174.31</td>
+<td>179.75</td>
+<td>180</td>
+</tr>
+<tr>
+<td>8</td>
+<td>180</td>
+<td>181.25</td>
+<td>180.31</td>
+<td>185.75</td>
+<td>186</td>
+</tr>
+<tr>
+<td>9</td>
+<td>186</td>
+<td>187.25</td>
+<td>186.31</td>
+<td>191.75</td>
+<td>192</td>
+</tr>
+<tr>
+<td>10</td>
+<td>192</td>
+<td>193.25</td>
+<td>192.31</td>
+<td>197.75</td>
+<td>198</td>
+</tr>
+<tr>
+<td>11</td>
+<td>198</td>
+<td>199.25</td>
+<td>198.31</td>
+<td>203.75</td>
+<td>204</td>
+</tr>
+<tr>
+<td>12</td>
+<td>204</td>
+<td>205.25</td>
+<td>204.31</td>
+<td>209.75</td>
+<td>210</td>
+</tr>
+<tr>
+<td>13</td>
+<td>210</td>
+<td>211.25</td>
+<td>210.31</td>
+<td>215.75</td>
+<td>216</td>
+</tr>
+</tbody></table>
+
+
+<table class="toccolours" border="1" style="text-align: center; border-collapse:collapse">
+<caption><b>UHF band</b><br>
+(frequencies in MHz) ATSC signal 3 MHz above lower edge</caption>
+<tbody><tr bgcolor="#EEEEEE">
+<th>&nbsp;Channel&nbsp;</th>
+<th>&nbsp;Lower edge&nbsp;</th>
+<th>&nbsp;Video carrier&nbsp;</th>
+<th>&nbsp;ATSC pilot&nbsp;</th>
+<th>&nbsp;Audio carrier&nbsp;</th>
+<th>&nbsp;Upper edge&nbsp;</th>
+</tr>
+<tr>
+<td>14</td>
+<td>470</td>
+<td>471.25</td>
+<td>470.31</td>
+<td>475.75</td>
+<td>476</td>
+</tr>
+<tr>
+<td>15</td>
+<td>476</td>
+<td>477.25</td>
+<td>476.31</td>
+<td>481.75</td>
+<td>482</td>
+</tr>
+<tr>
+<td>16</td>
+<td>482</td>
+<td>483.25</td>
+<td>482.31</td>
+<td>487.75</td>
+<td>488</td>
+</tr>
+<tr>
+<td>17</td>
+<td>488</td>
+<td>489.25</td>
+<td>488.31</td>
+<td>493.75</td>
+<td>494</td>
+</tr>
+<tr>
+<td>18</td>
+<td>494</td>
+<td>495.25</td>
+<td>494.31</td>
+<td>499.75</td>
+<td>500</td>
+</tr>
+<tr>
+<td>19</td>
+<td>500</td>
+<td>501.25</td>
+<td>500.31</td>
+<td>505.75</td>
+<td>506</td>
+</tr>
+<tr>
+<td>20</td>
+<td>506</td>
+<td>507.25</td>
+<td>506.31</td>
+<td>511.75</td>
+<td>512</td>
+</tr>
+<tr>
+<td>21</td>
+<td>512</td>
+<td>513.25</td>
+<td>512.31</td>
+<td>517.75</td>
+<td>518</td>
+</tr>
+<tr>
+<td>22</td>
+<td>518</td>
+<td>519.25</td>
+<td>518.31</td>
+<td>523.75</td>
+<td>524</td>
+</tr>
+<tr>
+<td>23</td>
+<td>524</td>
+<td>525.25</td>
+<td>524.31</td>
+<td>529.75</td>
+<td>530</td>
+</tr>
+<tr>
+<td>24</td>
+<td>530</td>
+<td>531.25</td>
+<td>530.31</td>
+<td>535.75</td>
+<td>536</td>
+</tr>
+<tr>
+<td>25</td>
+<td>536</td>
+<td>537.25</td>
+<td>536.31</td>
+<td>541.75</td>
+<td>542</td>
+</tr>
+<tr>
+<td>26</td>
+<td>542</td>
+<td>543.25</td>
+<td>542.31</td>
+<td>547.75</td>
+<td>548</td>
+</tr>
+<tr>
+<td>27</td>
+<td>548</td>
+<td>549.25</td>
+<td>548.31</td>
+<td>553.75</td>
+<td>554</td>
+</tr>
+<tr>
+<td>28</td>
+<td>554</td>
+<td>555.25</td>
+<td>554.31</td>
+<td>559.75</td>
+<td>560</td>
+</tr>
+<tr>
+<td>29</td>
+<td>560</td>
+<td>561.25</td>
+<td>560.31</td>
+<td>565.75</td>
+<td>566</td>
+</tr>
+<tr>
+<td>30</td>
+<td>566</td>
+<td>567.25</td>
+<td>566.31</td>
+<td>571.75</td>
+<td>572</td>
+</tr>
+<tr>
+<td>31</td>
+<td>572</td>
+<td>573.25</td>
+<td>572.31</td>
+<td>577.75</td>
+<td>578</td>
+</tr>
+<tr>
+<td>32</td>
+<td>578</td>
+<td>579.25</td>
+<td>578.31</td>
+<td>583.75</td>
+<td>584</td>
+</tr>
+<tr>
+<td>33</td>
+<td>584</td>
+<td>585.25</td>
+<td>584.31</td>
+<td>589.75</td>
+<td>590</td>
+</tr>
+<tr>
+<td>34</td>
+<td>590</td>
+<td>591.25</td>
+<td>590.31</td>
+<td>595.75</td>
+<td>596</td>
+</tr>
+<tr>
+<td>35</td>
+<td>596</td>
+<td>597.25</td>
+<td>596.31</td>
+<td>601.75</td>
+<td>602</td>
+</tr>
+<tr>
+<td>36</td>
+<td>602</td>
+<td>603.25</td>
+<td>602.31</td>
+<td>607.75</td>
+<td>608</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>37</td>
+<td>608</td>
+<td>609.25</td>
+<td>-</td>
+<td>613.75</td>
+<td>614</td>
+</tr>
+<tr>
+<td>38</td>
+<td>614</td>
+<td>615.25</td>
+<td>614.31</td>
+<td>619.75</td>
+<td>620</td>
+</tr>
+<tr>
+<td>39</td>
+<td>620</td>
+<td>621.25</td>
+<td>620.31</td>
+<td>625.75</td>
+<td>626</td>
+</tr>
+<tr>
+<td>40</td>
+<td>626</td>
+<td>627.25</td>
+<td>626.31</td>
+<td>631.75</td>
+<td>632</td>
+</tr>
+<tr>
+<td>41</td>
+<td>632</td>
+<td>633.25</td>
+<td>632.31</td>
+<td>637.75</td>
+<td>638</td>
+</tr>
+<tr>
+<td>42</td>
+<td>638</td>
+<td>639.25</td>
+<td>638.31</td>
+<td>643.75</td>
+<td>644</td>
+</tr>
+<tr>
+<td>43</td>
+<td>644</td>
+<td>645.25</td>
+<td>644.31</td>
+<td>649.75</td>
+<td>650</td>
+</tr>
+<tr>
+<td>44</td>
+<td>650</td>
+<td>651.25</td>
+<td>650.31</td>
+<td>655.75</td>
+<td>656</td>
+</tr>
+<tr>
+<td>45</td>
+<td>656</td>
+<td>657.25</td>
+<td>656.31</td>
+<td>661.75</td>
+<td>662</td>
+</tr>
+<tr>
+<td>46</td>
+<td>662</td>
+<td>663.25</td>
+<td>662.31</td>
+<td>667.75</td>
+<td>668</td>
+</tr>
+<tr>
+<td>47</td>
+<td>668</td>
+<td>669.25</td>
+<td>668.31</td>
+<td>673.75</td>
+<td>674</td>
+</tr>
+<tr>
+<td>48</td>
+<td>674</td>
+<td>675.25</td>
+<td>674.31</td>
+<td>679.75</td>
+<td>680</td>
+</tr>
+<tr>
+<td>49</td>
+<td>680</td>
+<td>681.25</td>
+<td>680.31</td>
+<td>685.75</td>
+<td>686</td>
+</tr>
+<tr>
+<td>50</td>
+<td>686</td>
+<td>687.25</td>
+<td>686.31</td>
+<td>691.75</td>
+<td>692</td>
+</tr>
+<tr bgcolor="#EEEFFF">
+<td>51</td>
+<td>692</td>
+<td>693.25</td>
+<td>692.31</td>
+<td>697.75</td>
+<td>698<sup id="cite_ref-FCCUHF51_3-1" class="reference"><a href="#cite_note-FCCUHF51-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-ICUHF51_4-1" class="reference"><a href="#cite_note-ICUHF51-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<th>&nbsp;Channel&nbsp;</th>
+<th>&nbsp;Lower edge&nbsp;</th>
+<th>&nbsp;Video carrier&nbsp;</th>
+<th>&nbsp;ATSC carrier&nbsp;</th>
+<th>&nbsp;Audio carrier&nbsp;</th>
+<th>&nbsp;Upper edge&nbsp;</th>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>52</td>
+<td>698</td>
+<td>699.25</td>
+<td>698.31</td>
+<td>703.75</td>
+<td>704</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>53</td>
+<td>704</td>
+<td>705.25</td>
+<td>704.31</td>
+<td>709.75</td>
+<td>710</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>54</td>
+<td>710</td>
+<td>711.25</td>
+<td>710.31</td>
+<td>715.75</td>
+<td>716</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>55</td>
+<td>716</td>
+<td>717.25</td>
+<td>716.31</td>
+<td>721.75</td>
+<td>722</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>56</td>
+<td>722</td>
+<td>723.25</td>
+<td>722.31</td>
+<td>727.75</td>
+<td>728</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>57</td>
+<td>728</td>
+<td>729.25</td>
+<td>728.31</td>
+<td>733.75</td>
+<td>734</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>58</td>
+<td>734</td>
+<td>735.25</td>
+<td>734.31</td>
+<td>739.75</td>
+<td>740</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>59</td>
+<td>740</td>
+<td>741.25</td>
+<td>740.31</td>
+<td>745.75</td>
+<td>746</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>60</td>
+<td>746</td>
+<td>747.25</td>
+<td>746.31</td>
+<td>751.75</td>
+<td>752</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>61</td>
+<td>752</td>
+<td>753.25</td>
+<td>752.31</td>
+<td>757.75</td>
+<td>758</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>62</td>
+<td>758</td>
+<td>759.25</td>
+<td>758.31</td>
+<td>763.75</td>
+<td>764</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>63</td>
+<td>764</td>
+<td>765.25</td>
+<td>764.31</td>
+<td>769.75</td>
+<td>770</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>64</td>
+<td>770</td>
+<td>771.25</td>
+<td>770.31</td>
+<td>775.75</td>
+<td>776</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>65</td>
+<td>776</td>
+<td>777.25</td>
+<td>776.31</td>
+<td>781.75</td>
+<td>782</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>66</td>
+<td>782</td>
+<td>783.25</td>
+<td>782.31</td>
+<td>787.75</td>
+<td>788</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>67</td>
+<td>788</td>
+<td>789.25</td>
+<td>788.31</td>
+<td>793.75</td>
+<td>794</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>68</td>
+<td>794</td>
+<td>795.25</td>
+<td>794.31</td>
+<td>799.75</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#EEEEEE">
+<td>69</td>
+<td>800</td>
+<td>801.25</td>
+<td>800.31</td>
+<td>805.75</td>
+<td>806</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<th>&nbsp;Channel&nbsp;</th>
+<th>&nbsp;Lower edge&nbsp;</th>
+<th>&nbsp;Video carrier&nbsp;</th>
+<th>&nbsp;ATSC carrier&nbsp;</th>
+<th>&nbsp;Audio carrier&nbsp;</th>
+<th>&nbsp;Upper edge&nbsp;</th>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>70</td>
+<td>806</td>
+<td>807.25</td>
+<td>-</td>
+<td>811.75</td>
+<td>812</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>71</td>
+<td>812</td>
+<td>813.25</td>
+<td>-</td>
+<td>817.75</td>
+<td>818</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>72</td>
+<td>818</td>
+<td>819.25</td>
+<td>-</td>
+<td>823.75</td>
+<td>824</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>73</td>
+<td>824</td>
+<td>825.25</td>
+<td>-</td>
+<td>829.75</td>
+<td>830</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>74</td>
+<td>830</td>
+<td>831.25</td>
+<td>-</td>
+<td>835.75</td>
+<td>836</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>75</td>
+<td>836</td>
+<td>837.25</td>
+<td>-</td>
+<td>841.75</td>
+<td>842</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>76</td>
+<td>842</td>
+<td>843.25</td>
+<td>-</td>
+<td>847.75</td>
+<td>848</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>77</td>
+<td>848</td>
+<td>849.25</td>
+<td>-</td>
+<td>853.75</td>
+<td>854</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>78</td>
+<td>854</td>
+<td>855.25</td>
+<td>-</td>
+<td>859.75</td>
+<td>860</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>79</td>
+<td>860</td>
+<td>861.25</td>
+<td>-</td>
+<td>865.75</td>
+<td>866</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>80</td>
+<td>866</td>
+<td>867.25</td>
+<td>-</td>
+<td>871.75</td>
+<td>872</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>81</td>
+<td>872</td>
+<td>873.25</td>
+<td>-</td>
+<td>877.75</td>
+<td>878</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>82</td>
+<td>878</td>
+<td>879.25</td>
+<td>-</td>
+<td>883.75</td>
+<td>884</td>
+</tr>
+<tr bgcolor="#DDDDDD">
+<td>83</td>
+<td>884</td>
+<td>885.25</td>
+<td>-</td>
+<td>889.75</td>
+<td>890</td>
+</tr>
+</tbody></table>
+
