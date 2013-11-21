@@ -28,3 +28,5 @@ As usual the board can be wired for triode, UL and pentode mode. Provision
 for global negative feedback is available. It can be used if needed,
 and it is needed in pentode mode.
 
+<img src="/assets/images/BiggerTransformers_b.jpg" >
+

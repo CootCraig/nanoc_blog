@@ -5,13 +5,56 @@ kind: article
 tags: [ 'antenna','am']
 ---
 
+## Freq. / Wavelength
+
+<pre><code>
+λ1 = 3*10^8 m/s/1.6*10^6 Hz = 187.5 m shortest wl 
+λ2 = 3*10^8 m/s/5.5*10^5 Hz = 545.5 m longest wl 
+</code></pre>
+
+<table>
+    <tr>
+        <td>Frequency</td>
+        <td>Wavelength Meters</td>
+        <td>Wavelength Feet</td>
+    </tr>
+    <tr>
+        <td>550k</td>
+        <td>545m</td>
+        <td>1788ft</td>
+    </tr>
+    <tr>
+        <td>1600k</td>
+        <td>187m</td>
+        <td>614ft</td>
+    </tr>
+</table>
+
 ## Links
+
+### Info
 
 * [Instructions for Putting up a Long-Wire Antenna](http://www.iw5edi.com/ham-radio/?instructions-for-putting-up-a-long-wire-antenna,116)
 * [Can you hang a random length wire outside?](http://db.audioasylum.com/mhtml/m.html?forum=tuner&n=7363&highlight=random&search_url=%2Fcgi%2Fsearch.mpl%3Fforum%3Dtuner%26searchtext%3Drandom)
 
 
+### Parts
+
+* [Copper Antenna Wire - 100 Feet - $26](http://www.amateurradiosupplies.com/Copper-Antenna-Wire-p/11355.htm)
+* [Budwig End Insulator](http://www.amateurradiosupplies.com/product-p/20041.htm)
+* [Dogbone Insulator](http://www.amateurradiosupplies.com/product-p/55556.htm)
+* [No. 18 AWG CopperWeld Antenna Wire - 50 FT](http://www.amateurradiosupplies.com/product-p/10196.htm)
+
 ## Collected Posts
+
+
+### Instructions for Putting up a Long-Wire Antenna
+
+[Instructions for Putting up a Long-Wire Antenna](http://www.iw5edi.com/ham-radio/?instructions-for-putting-up-a-long-wire-antenna,116)
+
+<img src="/assets/images/longwire.gif" >
+
+<img src="/assets/images/longwire2.gif" >
 
 ### Can you hang a random length wire outside? - Timbo in Oz
 
@@ -101,11 +144,29 @@ addition, a nylon shaft is added to the tuning capacitor to reduce “hand
 capacity” while tuning. Kit time is less than one hour experienced
 builder and should add performance to your crystal radio station.
 
-<img src="/assets/images/TUNER.gif" >
+<img src="/assets/images/tuner_midnight.gif" >
 
 ### Variable Capacitors & Reduction Drives: Using, Mounting & Wiring.
 
 [Variable Capacitor Use Article](http://www.midnightscience.com/cap-lineup-mounting.html)
 
 <img src="/assets/images/cap-lineup-050308.jpg" >
+
+### T-MATCH ATU
+
+The T-Network Antenna Matching Unit
+
+[T-MATCH ATU](http://vk6ysf.com/t-match.htm)
+
+
+<img src="/assets/images/t-match_image07.JPG" >
+
+<img src="/assets/images/t-match_image02.JPG" >
+
+
+### Homebrew Antenna Tuner - Steve Yates - AA5TB
+
+[Homebrew Antenna Tuner](http://www.aa5tb.com/tuner.html)
+
+<img src="/assets/images/tuner_aa5tb.gif" >
 
