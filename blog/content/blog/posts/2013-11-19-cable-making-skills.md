@@ -20,5 +20,11 @@ tags: [ 'led','diy']
 * [ilektronx - How to solder wires together, easily and professionally](https://www.youtube.com/watch?v=XQvxXMlhOeo)
 * [4Diyers - DIY: Soldering Wire](https://www.youtube.com/watch?v=JL5Q2lJAAdk)
 * [Flite Test : Solder Thick Gauge Wire - FAST TIP](https://www.youtube.com/watch?v=7t9nT3Hn9b0)
+* [How to Solder : Soldering Connectors to Instrument Cable ](http://www.youtube.com/watch?v=Y0HBxLxy218)
+* [ThePureMixTutorials - Soldering a Guitar Cable](http://www.youtube.com/watch?v=nE9P67_E5N8)
+* [Ric Wallace - Soldering 101: Audio Cabling & Shielding](https://www.youtube.com/watch?v=7eOSrH_jSYE)
+* [Ric Wallace - Cable Wrapping: A Detailed Explanation](https://www.youtube.com/watch?v=IqR_mQuP4KI)
+* [Techflex Sleeving at Parts Express](http://www.parts-express.com/brand/techflex/299)
+* [wirecareTV - How To Use a Hot Knife To Cut Braided Expandable Sleeving](http://www.youtube.com/watch?v=-GGuWD_8LwE)
 
 
