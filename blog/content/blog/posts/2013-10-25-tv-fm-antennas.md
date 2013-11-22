@@ -90,6 +90,20 @@ be installed indoors.
 
 </table>
 
+## Other TV Antenna
+
+* Antennas Direct - 91XG Uni-Directional Ultra Long Range DTV Antenna
+* Channel Master CM-5018 Masterpiece Antenna Series Fringe 80 Mile Antenna
+* Winegard HD7084 
+* [Solidsignal - Channel Master 4228HD 8-bay HDTV High VHF/UHF TV Antenna (4228-HD)](http://www.solidsignal.com/pview.asp?p=4228-HD)
+* Antennacraft by RadioShack MXU59 
+
+## TV Antenna Forums
+
+* [TvFool Forum](http://forum.tvfool.com/forumdisplay.php?f=10)
+* [AVS Forum](http://www.avsforum.com/t/381623/the-official-avs-antenna-and-related-hardware-topic)
+
+
 ### TV / Radio Spectrum
 
 <img src="/assets/images/rfban.gif">
@@ -125,6 +139,12 @@ Our home coordinates are:
   <tr><td>23</td><td>333 (325)</td><td>KZCS</td><td>Azteca</td><td>Notes</td></tr>
   <tr><td>27</td><td>24 (16)</td><td>KGHB</td><td>Univision</td><td>Low power</td></tr>
   <tr><td>48.1</td><td>334 (325)</td><td>KVSN</td><td>Univision</td><td>Notes</td></tr>
+</table>
+
+### TV Stations at 325 magnetic
+
+<table>
+  <tr><td>8</td><td> 22</td><td> 23</td><td> 24</td><td> 42</td><td> 48</td><td> 49</td></tr>
 </table>
 
 ## [TVFool](http://www.tvfool.com/?option=com_wrapper&Itemid=29)
