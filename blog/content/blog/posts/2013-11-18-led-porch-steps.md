@@ -2,7 +2,7 @@
 title: "LED Lighting on Porch Steps"
 created_at: Mon Nov 18 20:54:21 MST 2013
 kind: article
-tags: [ 'led','diy']
+tags: [ 'led','diy','porch_steps_led']
 ---
 
 # Skills
@@ -43,6 +43,12 @@ tags: [ 'led','diy']
 * HS3-025FT	1/4" to 1/12"	Black, Clear, Red, White, Yellow, Purple -	$1.38	/ ft
 * HS3-0375FT	3/8" to 1/8"	Black, Clear, Red, White, Yellow, Gray, Blue, Purple, Orange - $1.72 / ft
 * HS3-050FT	1/2" to 1/6"	Black, Clear, Red, White, Yellow, Blue, Gray, Purple - $2.03 / ft
+
+### See also
+
+* [Heat Shring Supplies dot com](http://heatshrinksupplies.com/3-1-professional-grade.html)
+* [Wire Care Heat Shrink 3:1](http://www.wirecare.com/products.asp?prodline=h3)
+
 
 ## Techflex F6 Split Sleeving for power cords to supply - $20.01
 
