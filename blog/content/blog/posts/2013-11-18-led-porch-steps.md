@@ -27,6 +27,51 @@ tags: [ 'led','diy','porch_steps_led']
 * Eco friendly – uses very little energy, without harmful radiations.
 * DC jack on one end, and wires on other end.
 
+## Inline 12v power plug and jack
+
+* [Parts Express - DC power connector. 2.1 mm x 5.5 mm x 14 mm plug.](http://www.parts-express.com/21mm-x-55mm-x-14mm-dc-plug--090-498)
+* [Parts Express - 2.1mm Center Pin In-Line DC Jack](http://www.parts-express.com/21mm-center-pin-in-line-dc-jack--090-481)
+* [5.5mm x 2.1mm Barrel Plug MCM Part #: 27-130](http://www.mcmelectronics.com/product/27-130)
+
+
+### [Coaxial power connector](http://en.wikipedia.org/wiki/Coaxial_power_connector)
+
+A coaxial power connector is an electrical power connector used for
+attaching extra-low voltage devices such as consumer electronics to
+external electricity. Also known as barrel connectors, concentric barrel
+connectors or tip connectors, these small cylindrical connectors come
+in an enormous variety of sizes.
+
+### [LED Wholesalers - 12 Volt 12 Amp 144 Watt AC Power Adapter Transformer Power Supply](http://www.ledwholesalers.com/store/index.php?act=viewProd&productId=973)
+
+* Output Voltage 12VDC
+* Output Current 12A
+* Power 144W
+* DC Jack Outer Diameter 5.5mm
+* DC Jack Inner Diameter 2.5mm
+* DC Jack Polarity Center Positive
+
+### [LED Wholesalers - AC Power Adapter 5V with 5mm DC Jack](http://www.ledwholesalers.com/store/index.php?act=viewProd&productId=1041)
+
+* Output Voltage	5 Volts DC
+* Power	30W
+* Current Output	6A
+* DC Jack 5.5x2.1mm
+
+
+### [PWM Dimming Controller For LED Lights or Ribbon, 12 Volt 8 Amp](http://www.ledwholesalers.com/store/index.php?act=viewProd&productId=574)
+
+Product Code: 3301
+
+### [LED Wholesalers - Dimmer with 5.5mm barrel power connector](http://www.ledwholesalers.com/store/index.php?act=viewProd&productId=740)
+
+Universal single color LED dimmer can dim any 12VDC LED products from 0
+to 100 percent using Pulse Width Modulation (PWM) circuit.  Knob control
+for full intensity adjustment range. Maximum Load is 2 Amps, has Male
+and Female 5.5mm barrel power connector for connecting in-line with our
+CPS series Power Supplies.
+
+
 ## Ordered Power Supply - $28.00
 
 [Waterproof LED Driver Transformer 60 Watt 12V with 3-prong Plug](http://www.ledwholesalers.com/store/index.php?act=viewProd&productId=550)

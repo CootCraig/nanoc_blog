@@ -5,6 +5,8 @@ kind: article
 tags: [ 'antenna','tv','fm']
 ---
 
+[Nice wavelength calculator](http://home.comcast.net/~wxtofly/wavecalc.htm)
+
 ### Installed a new TV antenna - Winegard 7694P
 
 <img src="/assets/images/HD7694P_zoom.jpg" >
@@ -90,6 +92,17 @@ be installed indoors.
 
 </table>
 
+## Other FM Antenna
+
+* [JSC Wire has twin lead?](http://www.jscwire.com/jsc_website.taf)
+* [Speaker wire at Frys](http://www.frys.com/product/3147130?site=sr:SEARCH:MAIN_RSLT_PG)
+* [Twin lead at Frys](http://www.frys.com/product/5231757)
+* [FM6 at Summit Source](http://www.summitsource.com/antennacraft-antenna-electronic-elements-triple-driven-directional-near-fringe-outdoor-radio-station-signal-digital-p-6055.html)
+
+
+* [Antennacraft FM-6 - ham-radio.com](http://www.ham-radio.com/k6sti/fm6.htm)
+
+
 ## Other TV Antenna
 
 * Antennas Direct - 91XG Uni-Directional Ultra Long Range DTV Antenna
@@ -126,6 +139,63 @@ Our home coordinates are:
 <table>
   <tr><td>Frequency</td><td>Azimuth</td><td>Call Letters</td><td>Network</td><td>Notes</td></tr>
 </table>
+### by received power
+
+<br>kpht 99.5 -18.3db 3.7mi 309magn - Pueblo's greatest hits
+<br>ktsc 89.5 -25.3db 1.0mi 123magn - CSUP Rev89
+<br>ktpl 88.3 -28.0db 34.1mi 213 magn - Power88 Moody bible network
+<br>kgft 100.7 -28.1db 32.8mi 325magn - Christian talk
+<br>kkfm 98.1 -28.2db 32.7mi 325magn - Rock
+<br>kkpk 92.9 -28.5db 32.8mi 325magn -Peak
+<br>kilo 93.2 -28.7db 32.8mi 325magn - 
+<br>katc 95.1 -28.8db 32.8mi 325magn - Cat Country
+<br>kccy 96.9 -29.9db 32.8mi 325magn - New Country
+<br>kkmg 98.9 -23.2db 32.8mi 325magn - Magic top 40
+<br>kvuu 99.9 -29.3db 32.8mi 325magn - My hit music
+<br>kbiq 102.7 -29.2db 32.8mi 325magn - Christian
+<br>kcfp 91.9 -31.7db 4mi. 15magn - CPR classical
+<br>kdza 107.9 --32.6db 32.8mi 325magn - legends of class rock
+<br>ktlf 90.5 -33.0db 32.8mi 325magn - christian
+<br>krye 104.9 -34.7db 34.1mi 213magn - spanish
+<br>kfez 101.3 -35.7db 37mi 163magn - easy favorits 70's, 80's
+<br>kfvr 94.7 -35.9db 36.5mi 205magn - classic rock
+<br>kcme 88.7 -36.3db 32.8mi 325magn - classical
+<br>krwa 90.9 -36.4db 34.1mi 213magn - christian
+<br>kjqy 103.3 -40.8db 37.3mi 167magn - sports talk
+<br>krcc 91.5 -43.1db 32.8mi 325magn - Colorado College
+<br>krxp 103.9 -44.8db 32.8mi 325magn - alternative
+<br>ksty 104.5 -44.9db 33.7mi 261magn - Canon City country
+<br>krdo 105.5 -45.3db 32.8mi 325magn - 
+<br>kkli 106.3 -45.4db 32.8mi 325magn - klite
+
+### by azimuth
+
+<br>kcfp 91.9 -31.7db 4mi. 15magn - CPR classical
+<br>ktsc 89.5 -25.3db 1.0mi 123magn - CSUP Rev89
+<br>kfez 101.3 -35.7db 37mi 163magn - easy favorits 70's, 80's
+<br>kjqy 103.3 -40.8db 37.3mi 167magn - sports talk
+<br>kfvr 94.7 -35.9db 36.5mi 205magn - classic rock
+<br>ktpl 88.3 -28.0db 34.1mi 213 magn - Power88 Moody bible network
+<br>krye 104.9 -34.7db 34.1mi 213magn - spanish
+<br>krwa 90.9 -36.4db 34.1mi 213magn - christian
+<br>ksty 104.5 -44.9db 33.7mi 261magn - Canon City country
+<br>kpht 99.5 -18.3db 3.7mi 309magn - Pueblo's greatest hits
+<br>kgft 100.7 -28.1db 32.8mi 325magn - Christian talk
+<br>kkfm 98.1 -28.2db 32.7mi 325magn - Rock
+<br>kkpk 92.9 -28.5db 32.8mi 325magn -Peak
+<br>kilo 93.2 -28.7db 32.8mi 325magn - 
+<br>katc 95.1 -28.8db 32.8mi 325magn - Cat Country
+<br>kccy 96.9 -29.9db 32.8mi 325magn - New Country
+<br>kkmg 98.9 -23.2db 32.8mi 325magn - Magic top 40
+<br>kvuu 99.9 -29.3db 32.8mi 325magn - My hit music
+<br>kbiq 102.7 -29.2db 32.8mi 325magn - Christian
+<br>kdza 107.9 --32.6db 32.8mi 325magn - legends of class rock
+<br>ktlf 90.5 -33.0db 32.8mi 325magn - christian
+<br>kcme 88.7 -36.3db 32.8mi 325magn - classical
+<br>krcc 91.5 -43.1db 32.8mi 325magn - Colorado College
+<br>krxp 103.9 -44.8db 32.8mi 325magn - alternative
+<br>krdo 105.5 -45.3db 32.8mi 325magn - 
+<br>kkli 106.3 -45.4db 32.8mi 325magn - klite
 
 ## TV stations of interest
 

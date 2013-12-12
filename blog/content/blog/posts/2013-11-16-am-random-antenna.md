@@ -40,10 +40,16 @@ tags: [ 'antenna','am']
 
 ### Parts
 
-* [Copper Antenna Wire - 100 Feet - $26](http://www.amateurradiosupplies.com/Copper-Antenna-Wire-p/11355.htm)
-* [Budwig End Insulator](http://www.amateurradiosupplies.com/product-p/20041.htm)
-* [Dogbone Insulator](http://www.amateurradiosupplies.com/product-p/55556.htm)
-* [No. 18 AWG CopperWeld Antenna Wire - 50 FT](http://www.amateurradiosupplies.com/product-p/10196.htm)
+* [amateurradiosupplies Copper Antenna Wire - 100 Feet - $26](http://www.amateurradiosupplies.com/Copper-Antenna-Wire-p/11355.htm)
+* [amateurradiosupplies Budwig End Insulator](http://www.amateurradiosupplies.com/product-p/20041.htm)
+* [amateurradiosupplies Dogbone Insulator](http://www.amateurradiosupplies.com/product-p/55556.htm)
+* [amateurradiosupplies No. 18 AWG CopperWeld Antenna Wire - 50 FT](http://www.amateurradiosupplies.com/product-p/10196.htm)
+* [Wireman - 501 - 18 AWG solid copper-clad steel](http://thewireman.com/antennap.html)
+* [Wireman - 890	PULLEY, 3/4" - marine type, swivel - for 3/32" - 3/16" rope](http://thewireman.com/antacc.html#1)
+* [Wireman - 810	Budwig brand end insulators, HQ-2. Fiberglass-reinforced ABS plastic](http://thewireman.com/antacc.html#1)
+* [Wireman - 813	End insulator (pair), 3" mineral filled acrylic](http://thewireman.com/antacc.html#1)
+* [Parts Express - magnet wire](http://www.parts-express.com/cat/magnet-wire/3493)
+
 
 ## Collected Posts
 
