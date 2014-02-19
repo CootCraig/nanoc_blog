@@ -7,6 +7,20 @@ tags: [ 'tuner']
 
 ## Tuners of Interest
 
+### Adcom Gft 1a
+
+Affordable on ebay right now.  Try this some time.
+
+### Marantz ST6000
+
+Top choice right now.
+
+### Yamaha T-1
+
+Affordable on ebay
+
+* 1/2/2013 $41 2 bids
+
 ### Harman/Kardon HK-930 Receiver
 
 [Harman/Kardon HK-930 Receiver](http://www.audioasylum.com/forums/tuner/messages/1/10716.html)

@@ -4,6 +4,22 @@ created_at: Wed Nov 20 11:14:48 MST 2013
 kind: article
 tags: [ 'turntable','ebay']
 ---
+## ebay search terms
+
+### current interest
+
+* technics 1600 mk
+* technics 1700 mk
+* Denon DP-30L II
+* pioneer pl-400
+
+### consider
+
+* JVC QL-7 
+
+### rejected or inactive interest
+
+## Ebay listings
 
 <table>
   <tr>
@@ -143,6 +159,113 @@ SL Q 303.---I own two of these models and am very happy with them and
 ZERO mechanical or electronic issues with them.None whatsoever, and they
 are circa 1980-81.
 
+## Technics SL 1600 / 1700 Mk2
+
+[AudioAsylum - Need Technics SL-1700 mkII information](http://www.audioasylum.com/cgi/vt.mpl?f=vinyl&m=975883)
+
+### Opus 104 - MK II versions are Quartz-Lock
+
+All Technics MK II versions are Quartz-Lock, not servo., posted on July 20, 2011 at 17:04:01
+
+Opus 104
+
+Yes, the arms in the MKIIs are similar. Plus, IIRC, it has a suspended
+subchasis holding the platter and arm. My SL-1600 MKII had this, too,
+and it was on a par, performance wise, with my SL-1200 MK2.  There is
+a source for the small belt that operates the cueing system. Try
+www.electronicplus.com. The part number is 1407-52, and the cost as of
+11/27/03 excluding shipping is $4.00.
+
+
+### matt67bianco - The 1700 MK2 is the semi-auto model
+
+The 1700 MK2 is the semi-auto model of the 1600 MK2 that I have..., posted on July 20, 2011 at 18:11:02
+
+matt67bianco
+
+Location: Phoenix, AZ
+
+Except the 1600 MK2 is a full-auto/start-stop 'table, but can be used
+as a semi-auto, as well.
+
+The 1700 MK 2 has:
+
+A servo-motorized arm using a belt(independent from any
+linkages,gears,etc. connected to the platter motor). You manually cue it
+up but the arm will return by itself at the end of play to the resting
+position(hence, semi-auto).
+
+The top plinth is die-cast aluminum(no plastic).Double suspension
+system/isolators/shocks/springs.Inner base is TNRC material(Technics
+Non Resonance Compound,rubber, like the 1200 MK2).
+
+The motor(even specs),platter,mat,arm(sans auto feature) are exactly
+the same as the 1200.It's a brushless DC,Quartz speed controlled motor
+for better(more accurate) pitch,wow & flutter specs than if it was just
+a regular servo motor used on their lower end models.
+
+Now, this is what I found out about the differences between the playback
+sound characteristics and anti-resonant plinth damping qualities between
+the 1600 MK2/1700 MK2 versus the 1200 MK2.--- I currently own a 1200
+MK2 and a 1600 MK2 for several years,now( I actually had a 1200 M3D(MK2)
+model,but, sold it years ago and just a month ago bought a 1200 MK2)...
+Don't be fooled by the 1700 MK2 weighing less than the 1200 MK2. Its
+iso-sprung suspension does the job that it is intended to do---and VERY
+well indeed, I might add;Keeps any external unwanted vibrations from
+speakers,footfalls,etc. isolated or at bay.
+
+While the 1200 is heftier than the 1700/1600 MK2, if you finger tap
+test the top plinth on the 1200, you can still hear a light 'thud'
+out the speakers(though,compared to lighter tables I've owned, it's
+still obviously well damped). Finger tap the top of a 1700/1600MK2 and
+nothing!No 'thud' sound. Nada. I was really impressed and taken aback by
+how well the 1700/1600 MK2 were well made back in the day and outperformed
+a 1200 MK2 in that respect!
+
+Sound and music-wise,the stock 1200 MK2 does come across very pleasing
+and GOOD to these ears(my ears, my experience). Yes, it does have what
+some call a somewhat "dark" or slightly heavy sonic characteristic and
+presentation with the music---the louder you crank your system it becomes
+more evident(the TNRC plinth doing its job).
+
+In contrast, the 1700 MK2/1600 MK2 does NOT have this same sonic or
+musical playback characteristic. Music comes across as more lively. The
+louder I crank my system, I detect no "heavy solid" sound as I do with
+the 1200. There is something to be said for some suspended turntable
+plinths when that design is executed very well(Technics definitely knew
+what they were doing with the 1600 and 1700 MK2's).
+
+Going from your SL D2 to the 1700 MK2 is night and day---I had an SL
+D2,also.What you have to look out for is the tonearm belt needing to be
+replaced(as the automated servo arm cueing belts are known to malfunction
+from age). On the 1700 MK2, you do not have a cueing mechanical arm
+lever like on the 1200, only a button on the front control bezel; It's
+done with the arm servo belt motor.If the belt goes, you have no arm
+lifting or lowering function.
+
+I can tell you that others I've talked to over the years who own the 1700
+MK2 and 1600 MK2(including myself)absolutely enjoy what these particular
+Technics models can do; Both automatically and sonically!!They were the
+sleeper cousins to the 1200 MK2.Also, when these vintage 'tables are
+modified,tweaked,customized,the results take them to a whole 'nother
+level of great performance. Over the years, I've heard more comments
+about the(stock) 1200 not being musical enough, or detailed,or well imaged
+versus what I've heard and experienced with the other MK2 models.The 1200
+MK2 and 1700MK2,despite sharing a lot in common, except for suspension
+design and automation, are two different flavors IMHO and experience;
+One's vanilla and one's chocolate---I like both.
+
+(Btw, VA inmate, Scott Thompson---and I am ever so grateful to the
+man---introduced me to what the 1600 MK2 is capable of doing as I own
+one of his 1600 MK2 models).
+
+I hope this helps.
+
+Cheers,
+
+Matt
+
+
 ## Information on the Technics SL-Q2 and SL-Q3
 
 
@@ -197,6 +320,25 @@ and going strong).I just apply a drop or two of spindle bearing oil once
 a year.According to the Vintage Technics site, the Q2 was $200 with the
 Q3 at $240(MSRP prices).
 
+## Denon
+
+### AudioAsylum - reelsmith - In the day of the DP-52F ...
+
+[straight-forward table called the DP-30L](http://db.audioasylum.com/mhtml/m.html?forum=vinyl&n=825023&highlight=Denon+DP-30L&r=&search_url=%2Fcgi%2Fsearch.mpl%3Fforum%3Dvinyl%26searchtext%3DDenon%2BDP-30L)
+
+In the day of the DP-52F ...
+
+Posted by reelsmith. (A) on April 2, 2009 at 13:21:53
+
+In Reply to: Denon DP 1200 vs. Denon DP-52F posted by scottier1 on April 2, 2009 at 12:25:51:
+
+...Denon also sold a very straight-forward table called the DP-30L. It
+was essentially the base, motor and platter of the 50 series, but with
+a plain-Jane S-shaped arm ...rather than the arm of the 52F with its
+electronic resonance control. I worked in a hi-fi shop at the time and
+it was very hard to sell the 52F if folks listened to the 30L. The 30L
+was less expensive and better sounding.
+
 ## Recommends
 
 * Technics sl1200
@@ -205,6 +347,7 @@ Q3 at $240(MSRP prices).
 * Philips 800 series. 212, 312, late 70s models like 777, 829
 * Pioneer Pl-12D, PL-120
 * Technics SQ DD. 1300/1400/1500
+* Technics SL 1600mk2, 1700mk2
 * Dual 500 series. 700 series, 505, 1249, 1019
 * Sansui SR222, 525 
 * Russco/Rek-O-Kut (US inmates)

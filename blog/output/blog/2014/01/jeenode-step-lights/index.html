@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>
+      Coot Craig Blog
+      Step Light Control
+    </title>
+    <link href='/assets/app.css' rel='stylesheet'>
+    <script src='/assets/modernizr.js'></script>
+    <script src='/assets/jquery-2.0.3.min.js'></script>
+    <script src='/assets/foundation.js'></script>
+    <script src='/assets/foundation.topbar.js'></script>
+  </head>
+  <body>
+    <div class='header'>
+      <div class='contain-to-grid'>
+        <nav class='top-bar'>
+          <ul class='title-area'>
+            <li class='name'>
+              <a href='/'>Coot Craig Blog</a>
+            </li>
+            <li class='toggle-topbar menu-icon'>
+              <a href='#'>
+                <span>Menu</span>
+              </a>
+            </li>
+          </ul>
+          <section class='top-bar-section'>
+            <ul class='left'></ul>
+            <ul class='right'>
+              <li>
+                <a href='/blog/'>Blog</a>
+              </li>
+              <li>
+                <a href='#'>Contact</a>
+              </li>
+            </ul>
+          </section>
+        </nav>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='twelve columns'>
+        <div class='post'>
+          <h3>Step Light Control</h3>
+          <aside>Posted on Saturday, January 25 2014</aside>
+          <article>
+            <p>Now looking at Modeino instead of JeeNodes</p>
+            
+            <ul>
+              <li><a href="http://learn.adafruit.com/rgb-led-strips/usage">Tutorial on MosFET PWM LED dimming</a></li>
+              <li><a href="http://joost.damad.be/2012/09/dimming-12v-led-strip-with-mosfet-and.html">joost - Dimming 12v LED dimming with MosFET</a></li>
+              <li><a href="http://www.instructables.com/id/Semi-Conducting-A-Guide/step14/Totem-Poles/">instructables - Semiconductor totem-pole</a></li>
+              <li><a href="http://www.adafruit.com/products/355">Adafruit - N-channel power MOSFET - 30V / 60A</a></li>
+              <li><a href="http://jeelabs.org/">JeeNodes got me looking at arduino with radio</a></li>
+              <li><a href="http://jeelabs.net/projects/cafe/wiki/Dive_Into_JeeNodes">JeeLabs - Dive into JeeNodes</a></li>
+              <li><a href="http://moderndevice.com/product/jeenode-v6-kit/">Modern Device is US seller of JeeLabs</a></li>
+            </ul>
+            
+            <p>Radios are available in 433 MHz &amp; 915 MHz in the US, all unlicensed ISM
+            (Industrial, Scientific, Medical) bands.</p>
+            
+            <p>The JeeNode Kit contains all the parts needed to build a JeeNode v6
+            – including an ATmega328p processor and an RFM12B radio module. The
+            processor chip is pre-flashed with the Arduino boot loader and the
+            RF12demo sketch, so it works to talk to another JeeNode right out of
+            the box.</p>
+            
+            <ul>
+              <li><a href="http://moderndevice.com/product/jee-proto-boards/">Modern Device - Jee Proto Board $4.75</a></li>
+              <li><a href="http://moderndevice.com/product/jeelabs-lux-plug/">Modern Device - JeeLabs Lux Plug</a></li>
+              <li><a href="http://jeelabs.net/projects/hardware/wiki/Lux_Plug">JeeLabs - Light detector</a></li>
+              <li><a href="http://moderndevice.com/product/relay-plug/">Modern Device - JeeLabs Relay Plug $14.00</a></li>
+              <li><a href="http://jeelabs.org/2010/08/18/meet-the-relay-plug/">Meet the Relay Plug</a></li>
+              <li><a href="http://moderndevice.com/product/jeelabs-mosfet-plug-kit/">Modern Device - JeeLabs MOSFET Plug Kit $14.00</a></li>
+              <li><a href="http://moderndevice.com/product/jeelabs-dimmer-plug/">Modern Device - JeeLabs Dimmer Plug $12.50</a></li>
+              <li><a href="http://jeelabs.org/2012/12/14/meet-the-led-node-v2/">JeeLabs - Meet the LED Node</a></li>
+              <li><a href="http://moderndevice.com/product/jeelabs-led-node-v2-kit/">Modern Device - JeeLabs LED Node v2 Kit $28.00</a></li>
+              <li><a href="http://moderndevice.com/product/jeelabs-aa-power-board/">Modern Device - Jee Labs battery power board</a></li>
+              <li><a href="http://www.adafruit.com/blog/2009/10/20/example-code-for-multi-button-checker-with-debouncing/">Adafruit - 6 push buttons example</a></li>
+              <li><a href="http://moderndevice.com/product/jeelabs-memory-plug/">Modern Device - Jeelabs memory plug</a></li>
+              <li><a href="http://www.adafruit.com/products/1141">Adafruit Assembled Data Logging shield for Arduino - ID: 1141</a></li>
+            </ul>
+            
+            <h3 id="hardware-newbie-project---wireless-exterior-led-strip-control">Hardware newbie project - Wireless exterior LED strip control.</h3>
+            
+            <p>Here is an introduction of my first attempt at an Arduino project.</p>
+            
+            <p>I have installed </p>
+            
+            <p>260 inches of this 
+            <a href="http://www.ledwholesalers.com/store/index.php?act=viewProd&amp;productId=887">12v LED strip</a>
+            into my front steps.</p>
+            
+            <p>My estimate of maximum power consumed is 32W as shown here.
+            Their rating is 24W for a 16.4 foot reel. So my power estimate is</p>
+            
+            <p>260 in. X (24w / 197in) ~= 32W.</p>
+            
+            <p>The strip is too bright by itself so I use a PWM dimmer from
+            LEDWholesalers set about as low as it will go.</p>
+            
+            <p>What I would like to do is use a JeeNode and LEDnode pair to
+            make a remote controller for the lights.</p>
+            
+            <ul>
+              <li>Main control: On / Off / Sunset timer</li>
+              <li>Select sunset timer duration: 2 / 4 / 6 hours</li>
+              <li>Restart timer momentary switch if in Sunset timer mode.</li>
+              <li>Brightness control rotary dial</li>
+            </ul>
+            
+            <p>I’m hoping to get some help and encouragement here and to end up
+            with a sweet controller for our LED step lighting.</p>
+            
+            <h3 id="tinker-kit-mosfethttpwwwtinkerkitcommosfet"><a href="http://www.tinkerkit.com/mosfet/">Tinker Kit MosFET</a></h3>
+            
+            <p>This module switches a high current load using a high power
+            transistor. Unlike a mechanical relay, this is capable of high speed
+            switching for use with PWM.</p>
+            
+            <p>Output: This module lets you control devices operating at a maximun of
+            24VDC with an Arduino pin. To wire the module, connect the power supply
+            for your device (max 24 V) to the V+ and GND terminals. Connect the
+            device to M+ and M-. Be aware of your circuit’s polarity, you could
+            damage your components if it is not wired correctly.</p>
+            
+            <p>Module Description: This module features an IRF520 power MOSFET
+            transistor, a kick-back diode, a standard TinkerKit 3pin connector,a
+            signal amplifier, a green LED that signals that the module is correctly
+            powered and one yellow LED whose brightness depends on the input signal
+            received by the module.</p>
+            
+            <h3 id="sparkfun-rotary-encoder-com-09117httpswwwsparkfuncomproducts9117"><a href="https://www.sparkfun.com/products/9117">SparkFun Rotary Encoder COM-09117</a></h3>
+            
+            <p>Description: This is a 12-step rotary encoder with a nice ‘clicking’
+            feel. It’s breadboard friendly, and has a pretty handy select switch (by
+            pushing in on the knob). The encoder is different from a potentiometer in
+            that an encoder has full rotation without limits. The unit outputs gray
+            code so that you can tell how much and in which direction the encoder
+            has been turned.</p>
+            
+            <h3 id="jeelabs---16-channel-input-multiplexerhttpmoderndevicecomproductjeelabs-input-plug"><a href="http://moderndevice.com/product/jeelabs-input-plug/">JeeLabs - 16-channel input multiplexer</a></h3>
+            
+            <p>The Input Plug is a small board containing a CD4067 16-channel analog
+            multiplexer plus a dedicated ATtiny microcontroller to take care of
+            channel selection. It allows you to connect up to 16 analog inputs to a
+            single AIO pin on any port. There is an “InputPlug” class in the Ports
+            library to interface with this board and perform the channel selection.</p>
+            
+            <p>This board can also be used as 16-channel digital input multiplexer,
+            and even for digital outputs or PWM – with the restriction than a
+            channel goes into high-impedance mode when not selected (there is no
+            latching or buffering).</p>
+            
+            <h3 id="sparkfun---momentary-push-button-switch---12mm-squarehttpswwwsparkfuncomproducts9190"><a href="https://www.sparkfun.com/products/9190">Sparkfun - Momentary Push Button Switch - 12mm Square</a></h3>
+            
+            <p>Description: This is a standard 12mm square momentary button. What we
+            really like is the large button head and good tactile feel (it ‘clicks’
+            really well). This button is great for user input on a PCB or a good,
+            big reset button on a breadboard. Breadboard friendly!</p>
+            
+            <h3 id="sparkfun---tsl2561-luminosity-sensor-breakouthttpswwwsparkfuncomproducts12055"><a href="https://www.sparkfun.com/products/12055">Sparkfun - TSL2561 Luminosity Sensor Breakout</a></h3>
+            
+            <p>The TSL2561 Luminosity Sensor Breakout is a sophisticated light sensor
+            which has a flat response across most of the visible spectrum. Unlike
+            simpler sensors, the TSL2561 measures both infrared and visible light
+            to better approximate the response of the human eye. And because the
+            TSL2561 is an integrating sensor (it soaks up light for a predetermined
+            amount of time), it is capable of measuring both small and large amounts
+            of light by changing the integration time.</p>
+            
+            <p>The TSL2561 is capable of direct I2C communication and is able to conduct
+            specific light ranges from 0.1 - 40k+ Lux easily. Additionally, the
+            TSL12561 contains two integrating analog-to-digital converters (ADC) that
+            integrate currents from two photodiodes, simultaneously. Each breakout
+            requires a supply voltage of 3V and a low supply current max of 0.6mA.</p>
+          </article>
+        </div>
+      </div>
+    </div>
+    <script src='/assets/app.js'></script>
+  </body>
+</html>
+
