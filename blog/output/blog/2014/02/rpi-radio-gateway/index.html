@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>
+      Coot Craig Blog
+      Raspberry Pi Radio Gateway Build
+    </title>
+    <link href='/assets/app.css' rel='stylesheet'>
+    <script src='/assets/modernizr.js'></script>
+    <script src='/assets/jquery-2.0.3.min.js'></script>
+    <script src='/assets/foundation.js'></script>
+    <script src='/assets/foundation.topbar.js'></script>
+  </head>
+  <body>
+    <div class='header'>
+      <div class='contain-to-grid'>
+        <nav class='top-bar'>
+          <ul class='title-area'>
+            <li class='name'>
+              <a href='/'>Coot Craig Blog</a>
+            </li>
+            <li class='toggle-topbar menu-icon'>
+              <a href='#'>
+                <span>Menu</span>
+              </a>
+            </li>
+          </ul>
+          <section class='top-bar-section'>
+            <ul class='left'></ul>
+            <ul class='right'>
+              <li>
+                <a href='/blog/'>Blog</a>
+              </li>
+              <li>
+                <a href='#'>Contact</a>
+              </li>
+            </ul>
+          </section>
+        </nav>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='twelve columns'>
+        <div class='post'>
+          <h3>Raspberry Pi Radio Gateway Build</h3>
+          <aside>Posted on Wednesday, February 19 2014</aside>
+          <article>
+            <h2 id="overview">Overview</h2>
+            
+            <p>A Raspberry Pi based gateway to distributed Moteino radio connected Arduinos.</p>
+            
+            <ul>
+              <li>Moteino USB attached as radio interface</li>
+              <li>Raspberry Pi hosted gateway based on a JRuby/JVM/Reel based HTTP server</li>
+            </ul>
+            
+            <h2 id="looking-for-a-minimal-server-install">Looking for a minimal server install</h2>
+            
+            <h3 id="raspbian-wheezy-armhf-raspberry-pi-minimal-imagehttpwwwlinuxsystemsitraspbian-wheezy-armhf-raspberry-pi-minimal-image"><a href="http://www.linuxsystems.it/raspbian-wheezy-armhf-raspberry-pi-minimal-image/">Raspbian Wheezy armhf Raspberry Pi minimal image</a></h3>
+            
+            <p>After the Debian Wheezy armel image I made a new one based on Raspbian
+            armhf. This one is compiled with hard float support, so basically
+            floating point operations are MUCH faster because they are done in
+            hardware instead of software emulation :)</p>
+            
+            <h4 id="features-include">Features include:</h4>
+            
+            <ul>
+              <li>A minimal Raspbian Wheezy installation (similar to a netinstall)</li>
+              <li>Hard Float binaries: floating point operations are done in hardware instead of software emulation, that means higher performances</li>
+              <li>Disabled incremental updates, means apt-get update is much faster</li>
+              <li>Workaround for a kernel bug which hangs the Raspberry Pi under heavy network/disk loads</li>
+              <li>3.6.11+ hardfp kernel with latest raspberry pi patches</li>
+              <li>Latest version of the firmwares</li>
+              <li>Fits 1GB SD cards</li>
+              <li>A very tiny 118MB image: even with a 2GB SD there is a lot of free space</li>
+              <li>ssh starts by default</li>
+              <li>The clock is automatically updated using ntp</li>
+              <li>IPv6 support</li>
+              <li>Just 14MB of ram usage after the boot</li>
+            </ul>
+            
+            <h3 id="other-linux-images-passed-over">Other Linux images passed over</h3>
+            
+            <ul>
+              <li><a href="http://moebiuslinux.sourceforge.net/">Moebius v1.1.1 available</a> </li>
+              <li><a href="http://sirlagz.net/2013/03/04/raspbian-server-edition-version-2-3-1gb-image/">Raspbian Server Edition Version 2.3</a></li>
+              <li><a href="http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&amp;t=50310">raspbian-ua-netinst - Raspbian unattended netinstaller</a></li>
+            </ul>
+            
+            <p>The most interesting on here is the raspbian-ua-netinst.  There is Github repo for it:</p>
+            
+            <p><a href="https://github.com/hifi/raspbian-ua-netinst">Github repo with raspbian-ua-netinst</a></p>
+            
+            <p>I had previously used the Raspbian net installer here: <a href="http://www.raspbian.org/RaspbianInstaller">RaspbianInstaller</a></p>
+            
+            <p>But the notes now say: Currently we reccomend using hifi’s
+            raspbian-ua-netinst instead if you want to use an installer rather than
+            a pre-installed image.</p>
+            
+            <h2 id="dark-basic-install-notes">Dark Basic install notes</h2>
+            
+            <p><a href="http://www.linuxsystems.it/raspbian-wheezy-armhf-raspberry-pi-minimal-image/">Dark Basic install page</a></p>
+            
+            <p><a href="http://raspberrypi.mirrors.node2.hadrill.org.uk/darkbasic/raspbian_wheezy_20130923.img.7z">Dark Basic Raspbian SDHC Boot image</a></p>
+            
+            <h3 id="start-with-the-dark-basic-install-notes">Start with the Dark Basic install notes</h3>
+            
+            <p>You will have to extract the image with p7zip:</p>
+            
+            <pre><code>
+            7za x raspbian_wheezy_20130923.img.7z
+            </code></pre>
+            
+            <p>Then flash it to your SD with dd:</p>
+            
+            <pre><code>
+            $ sudo dd bs=1M if=raspbian_wheezy_20130923.img of=/dev/sdc
+            </code></pre>
+            
+            <p>Finally, if you have an sd larger than 1GB, grow the partition with gparted (first move the swap partition at the end).</p>
+            
+            <pre><code>
+            $ sudo gparted /dev/sdc
+            </code></pre>
+            
+            <p>At this point install the SDHC card on the RPI, plug in the ethernet cable,
+            plug in the USB terminal cable which will power up the RPI.</p>
+            
+            <p>Now use screen to watch the boot up messages.</p>
+            
+            <pre><code>
+            $ sudo screen /dev/ttyUSB0 115200
+            </code></pre>
+            
+            <p>Found the IP address on the router: 192.168.88.223</p>
+            
+            <p>ssh into the RPI and have a go.
+            The root password is raspberry.</p>
+            
+            <pre><code>
+            # ssh root@192.168.88.223
+            </code></pre>
+            
+            <p>Change the root password</p>
+            
+            <pre><code>
+            # passwd
+            </code></pre>
+            
+            <p>You will have to reconfigure your timezone after the first boot:</p>
+            
+            <pre><code>
+            # dpkg-reconfigure tzdata
+            </code></pre>
+            
+            <p>The keyboard layout:</p>
+            
+            <pre><code>
+            # dpkg-reconfigure console-data
+            </code></pre>
+            
+            <p>And the localization:</p>
+            
+            <pre><code>
+            # dpkg-reconfigure locales
+            </code></pre>
+            
+            <h3 id="some-docs">Some docs</h3>
+            
+            <ul>
+              <li><a href="http://www.debian.org/doc/manuals/debian-reference/index.en.html">Debian Reference</a></li>
+              <li><a href="http://debian-handbook.info/browse/wheezy/">Debian 7 The Debian Administrator’s Handbook</a></li>
+              <li><a href="http://www.debian.org/doc/manuals/maint-guide/index.en.html">Debian New Maintainers’ Guide</a></li>
+            </ul>
+            
+            <h3 id="and-proceed">And proceed</h3>
+            
+            <p>Add a user</p>
+            
+            <pre><code>
+            # adduser craig
+            
+            Note that from now on:
+            # prompt means run as root. 
+            $ prompt means run as user craig
+            </code></pre>
+            
+            <pre><code>
+            # su - craig
+            </code></pre>
+            
+            <p>Generate a key pair</p>
+            
+            <pre><code>
+            $ ssh-keygen
+            </code></pre>
+            
+            <p>Check the Debian version</p>
+            
+            <pre><code>
+            $ cat /etc/debian_version
+            7.2
+            </code></pre>
+            
+            <p>Update the system</p>
+            
+            <pre><code>
+            # apt-get update
+            # apt-get dist-upgrade
+            </code></pre>
+            
+            <p>Install python, vim, tmux, git</p>
+            
+            <pre><code>
+            # apt-get install python
+            </code></pre>
+            
+            <pre><code>
+            # apt-get install vim tmux git
+            </code></pre>
+            
+            <p>Personalize git</p>
+            
+            <pre><code>
+            # git config --global user.name "Your Name Here"
+            Sets the default name for git to use when you commit
+            
+            # git config --global user.email "your_email@example.com"
+            Sets the default email for git to use when you commit
+            </code></pre>
+            
+            <p>Set up the vim dotfiles and vundle.</p>
+            
+            <pre><code>
+            $ git clone git@github.com:CootCraig/dotfiles_again.git
+            
+            $ cd dotfiles_again/linux
+            $ bash ./install.sh 
+            
+            cd ~/dotfiles_again/windows/vimfiles/bundle
+            git clone https://github.com/gmarik/vundle.git
+            </code></pre>
+            
+            <p>There are some notes on using vundle in the file ~/.vim/bundle/Readme.txt
+            The Raspbian vim does not have python support, so disable UltiSnips
+            vim script.  Comment out the following line in ~/.vimrc</p>
+            
+            <pre><code>
+            Bundle 'vim-scripts/UltiSnips'
+              to
+            "Bundle 'vim-scripts/UltiSnips'
+            </code></pre>
+            
+            <p>And then run BundleInstall.</p>
+            
+            <pre><code>
+            in vim. :BundleInstall
+            </code></pre>
+            
+            <h3 id="set-up-wifi">Set up wifi</h3>
+            
+            <p><a href="http://elinux.org/RPi_edimax_EW-7811Un">Installing the Edimax EW-7811UN wireless adapter on Raspberry Pi</a></p>
+            
+            <p><a href="http://www.howtogeek.com/167425/how-to-setup-wi-fi-on-your-raspberry-pi-via-the-command-line/">How to Setup Wi-Fi On Your Raspberry Pi via the Command Line</a></p>
+          </article>
+        </div>
+      </div>
+    </div>
+    <script src='/assets/app.js'></script>
+  </body>
+</html>
+
