@@ -129,7 +129,25 @@ And the localization:
 
 ### And proceed
 
-Add a user
+#### Change the hostname
+
+Edit /etc/hostname to have the hostname.
+
+<pre><code>
+$ cat /etc/hostname
+pika
+</code></pre>
+
+Edit /etc/hosts and a line with the new hostname.
+
+<pre><code>
+$ cat /etc/hosts
+127.0.0.1	localhost
+127.0.0.1	pika       <<< added this line with hostname
+ ...
+</code></pre>
+
+#### Add a user
 
 <pre><code>
 # adduser craig
@@ -139,12 +157,11 @@ Note that from now on:
 $ prompt means run as user craig
 </code></pre>
 
-
 <pre><code>
 # su - craig
 </code></pre>
 
-Generate a key pair
+Generate a key pair for the new user
 
 <pre><code>
 $ ssh-keygen
@@ -212,10 +229,119 @@ And then run BundleInstall.
 in vim. :BundleInstall
 </code></pre>
 
+#### password less ssh
+
+These instructions worked fine.
+
+[How to set up ssh so you aren't asked for a password](https://www.debian.org/devel/passwordlessssh)
+
+Add the contents of the public key file into ~/.ssh/authorized_keys on
+the remote site (the file should be mode 600).
+
+#### make user a sudoer
+
+<pre><code>
+# apt-get install sudo
+# adduser craig sudo
+</code></pre>
+
+#### Pause and make a backup of the SDHC image
+
+On the Ubuntu host.
+
+<pre><code>
+$ sudo dd bs=1M if=/dev/sdc of=pika_20140220_1441.img
+7519+0 records in
+7519+0 records out
+7884242944 bytes (7.9 GB) copied, 446.404 s, 17.7 MB/s
+
+$ 7za a -t7z pika_20140220_1441.img.7z pika_20140220_1441.img
+
+$ ls -l pika_2014*
+-rw-r--r-- 1 craig craig 7884242944 Feb 20 14:49 pika_20140220_1441.img
+-rw-r--r-- 1 craig craig  254215741 Feb 20 15:09 pika_20140220_1441.img.7z
+</code></pre>
+
+
+
+#### Install Compiler tools
+
+<pre><code>
+# apt-get install build-essential checkinstall libtool automake uuid-dev
+
+The following extra packages will be installed:
+  autoconf autotools-dev binutils bzip2 cpp cpp-4.6 dpkg-dev fakeroot g++ g++-4.6 gcc gcc-4.6 libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl libdpkg-perl libfile-fcntllock-perl libgmp10 libgomp1 libltdl-dev
+  libltdl7 libmpc2 libmpfr4 libstdc++6-4.6-dev libtimedate-perl m4 make
+Suggested packages:
+  autoconf2.13 autoconf-archive gnu-standards autoconf-doc gettext binutils-doc bzip2-doc cpp-doc gcc-4.6-locales debian-keyring gcc-4.6-doc libstdc++6-4.6-dbg gcc-multilib manpages-dev automake1.9 flex bison gdb gcc-doc
+  libmudflap0-4.6-dev libgcc1-dbg libgomp1-dbg libquadmath-dbg libmudflap0-dbg binutils-gold libtool-doc libstdc++6-4.6-doc automaken gfortran fortran95-compiler gcj make-doc
+The following NEW packages will be installed:
+  autoconf automake autotools-dev binutils build-essential bzip2 checkinstall cpp cpp-4.6 dpkg-dev fakeroot g++ g++-4.6 gcc gcc-4.6 libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl libdpkg-perl
+  libfile-fcntllock-perl libgmp10 libgomp1 libltdl-dev libltdl7 libmpc2 libmpfr4 libstdc++6-4.6-dev libtimedate-perl libtool m4 make uuid-dev
+0 upgraded, 32 newly installed, 0 to remove and 0 not upgraded.
+Need to get 26.8 MB of archives.
+After this operation, 69.2 MB of additional disk space will be used.
+</code></pre>
+
+#### Zeromq build and install
+
+[Source for stable release 3.2.4](http://download.zeromq.org/zeromq-3.2.4.tar.gz)
+
+This is supported by ffi-rzmq, the JRuby librar I plan to use.
+I unpacked for build at:
+
+<pre><code>
+# cd /opt/zeromq/zeromq-3.2.4
+</code></pre>
+
+The installation will be to /usr/local/
+
+<pre><code>
+# ./configure --help
+Installation directories:
+  --prefix=PREFIX         install architecture-independent files in PREFIX
+                          [/usr/local]
+  --exec-prefix=EPREFIX   install architecture-dependent files in EPREFIX
+                          [PREFIX]
+</code></pre>
+
+Build and install.
+
+<pre><code>
+# ./configure
+# make
+# checkinstall
+</code></pre>
+
+A debian package was left here:
+
+<pre><code>
+/opt/zeromq/zeromq-3.2.4/zeromq_3.2.4-1_armhf.deb
+</code></pre>
+
 ### Set up wifi
+
 
 [Installing the Edimax EW-7811UN wireless adapter on Raspberry Pi](http://elinux.org/RPi_edimax_EW-7811Un)
 
 [How to Setup Wi-Fi On Your Raspberry Pi via the Command Line](http://www.howtogeek.com/167425/how-to-setup-wi-fi-on-your-raspberry-pi-via-the-command-line/)
 
+
+## todo list
+
+### done
+
+* password less ssh
+* make user a sudoer
+
+### todo
+
+* checkinstall and compile tools
+* wifi setup
+* serial console
+* zeromq compile and install
+* fixed IP address
+* Oracle JVM
+* JRuby
+* JRuby/Reel test
 

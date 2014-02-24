@@ -181,7 +181,25 @@
             
             <h3 id="and-proceed">And proceed</h3>
             
-            <p>Add a user</p>
+            <h4 id="change-the-hostname">Change the hostname</h4>
+            
+            <p>Edit /etc/hostname to have the hostname.</p>
+            
+            <pre><code>
+            $ cat /etc/hostname
+            pika
+            </code></pre>
+            
+            <p>Edit /etc/hosts and a line with the new hostname.</p>
+            
+            <pre><code>
+            $ cat /etc/hosts
+            127.0.0.1	localhost
+            127.0.0.1	pika       &lt;&lt;&lt; added this line with hostname
+             ...
+            </code></pre>
+            
+            <h4 id="add-a-user">Add a user</h4>
             
             <pre><code>
             # adduser craig
@@ -195,7 +213,7 @@
             # su - craig
             </code></pre>
             
-            <p>Generate a key pair</p>
+            <p>Generate a key pair for the new user</p>
             
             <pre><code>
             $ ssh-keygen
@@ -263,11 +281,121 @@
             in vim. :BundleInstall
             </code></pre>
             
+            <h4 id="password-less-ssh">password less ssh</h4>
+            
+            <p>These instructions worked fine.</p>
+            
+            <p><a href="https://www.debian.org/devel/passwordlessssh">How to set up ssh so you aren’t asked for a password</a></p>
+            
+            <p>Add the contents of the public key file into ~/.ssh/authorized_keys on
+            the remote site (the file should be mode 600).</p>
+            
+            <h4 id="make-user-a-sudoer">make user a sudoer</h4>
+            
+            <pre><code>
+            # apt-get install sudo
+            # adduser craig sudo
+            </code></pre>
+            
+            <h4 id="pause-and-make-a-backup-of-the-sdhc-image">Pause and make a backup of the SDHC image</h4>
+            
+            <p>On the Ubuntu host.</p>
+            
+            <pre><code>
+            $ sudo dd bs=1M if=/dev/sdc of=pika_20140220_1441.img
+            7519+0 records in
+            7519+0 records out
+            7884242944 bytes (7.9 GB) copied, 446.404 s, 17.7 MB/s
+            
+            $ 7za a -t7z pika_20140220_1441.img.7z pika_20140220_1441.img
+            
+            $ ls -l pika_2014*
+            -rw-r--r-- 1 craig craig 7884242944 Feb 20 14:49 pika_20140220_1441.img
+            -rw-r--r-- 1 craig craig  254215741 Feb 20 15:09 pika_20140220_1441.img.7z
+            </code></pre>
+            
+            <h4 id="install-compiler-tools">Install Compiler tools</h4>
+            
+            <pre><code>
+            # apt-get install build-essential checkinstall libtool automake uuid-dev
+            
+            The following extra packages will be installed:
+              autoconf autotools-dev binutils bzip2 cpp cpp-4.6 dpkg-dev fakeroot g++ g++-4.6 gcc gcc-4.6 libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl libdpkg-perl libfile-fcntllock-perl libgmp10 libgomp1 libltdl-dev
+              libltdl7 libmpc2 libmpfr4 libstdc++6-4.6-dev libtimedate-perl m4 make
+            Suggested packages:
+              autoconf2.13 autoconf-archive gnu-standards autoconf-doc gettext binutils-doc bzip2-doc cpp-doc gcc-4.6-locales debian-keyring gcc-4.6-doc libstdc++6-4.6-dbg gcc-multilib manpages-dev automake1.9 flex bison gdb gcc-doc
+              libmudflap0-4.6-dev libgcc1-dbg libgomp1-dbg libquadmath-dbg libmudflap0-dbg binutils-gold libtool-doc libstdc++6-4.6-doc automaken gfortran fortran95-compiler gcj make-doc
+            The following NEW packages will be installed:
+              autoconf automake autotools-dev binutils build-essential bzip2 checkinstall cpp cpp-4.6 dpkg-dev fakeroot g++ g++-4.6 gcc gcc-4.6 libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl libdpkg-perl
+              libfile-fcntllock-perl libgmp10 libgomp1 libltdl-dev libltdl7 libmpc2 libmpfr4 libstdc++6-4.6-dev libtimedate-perl libtool m4 make uuid-dev
+            0 upgraded, 32 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 26.8 MB of archives.
+            After this operation, 69.2 MB of additional disk space will be used.
+            </code></pre>
+            
+            <h4 id="zeromq-build-and-install">Zeromq build and install</h4>
+            
+            <p><a href="http://download.zeromq.org/zeromq-3.2.4.tar.gz">Source for stable release 3.2.4</a></p>
+            
+            <p>This is supported by ffi-rzmq, the JRuby librar I plan to use.
+            I unpacked for build at:</p>
+            
+            <pre><code>
+            # cd /opt/zeromq/zeromq-3.2.4
+            </code></pre>
+            
+            <p>The installation will be to /usr/local/</p>
+            
+            <pre><code>
+            # ./configure --help
+            Installation directories:
+              --prefix=PREFIX         install architecture-independent files in PREFIX
+                                      [/usr/local]
+              --exec-prefix=EPREFIX   install architecture-dependent files in EPREFIX
+                                      [PREFIX]
+            </code></pre>
+            
+            <p>Build and install.</p>
+            
+            <pre><code>
+            # ./configure
+            # make
+            # checkinstall
+            </code></pre>
+            
+            <p>A debian package was left here:</p>
+            
+            <pre><code>
+            /opt/zeromq/zeromq-3.2.4/zeromq_3.2.4-1_armhf.deb
+            </code></pre>
+            
             <h3 id="set-up-wifi">Set up wifi</h3>
             
             <p><a href="http://elinux.org/RPi_edimax_EW-7811Un">Installing the Edimax EW-7811UN wireless adapter on Raspberry Pi</a></p>
             
             <p><a href="http://www.howtogeek.com/167425/how-to-setup-wi-fi-on-your-raspberry-pi-via-the-command-line/">How to Setup Wi-Fi On Your Raspberry Pi via the Command Line</a></p>
+            
+            <h2 id="todo-list">todo list</h2>
+            
+            <h3 id="done">done</h3>
+            
+            <ul>
+              <li>password less ssh</li>
+              <li>make user a sudoer</li>
+            </ul>
+            
+            <h3 id="todo">todo</h3>
+            
+            <ul>
+              <li>checkinstall and compile tools</li>
+              <li>wifi setup</li>
+              <li>serial console</li>
+              <li>zeromq compile and install</li>
+              <li>fixed IP address</li>
+              <li>Oracle JVM</li>
+              <li>JRuby</li>
+              <li>JRuby/Reel test</li>
+            </ul>
             <hr>
             <h3>
               09 February 2014
