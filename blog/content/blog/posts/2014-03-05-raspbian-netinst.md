@@ -340,7 +340,13 @@ A debian package was left here:
 /opt/zeromq/zeromq-3.2.4/zeromq_3.2.4-1_armhf.deb
 </code></pre>
 
-## Install supervisor with python-pip
+### install socat
+
+<pre><code>
+pika# apt-get install socat
+</code></pre>
+
+### Install supervisor with python-pip
 
 <pre><code>
 pika# apt-get install python-pip
@@ -370,10 +376,14 @@ The following NEW packages will be installed:
  ...
 </code></pre>
 
-### install socat
+#### supervisor setup - run socat at boot
+
+* [supervisord online help - configuration](http://supervisord.org/configuration.html)
+* [bixly blog - user supervisord](http://bixly.com/blog/supervisord-or-how-i-learned-to-stop-worrying-and-um-use-supervisord/)
+
 
 <pre><code>
-pika# apt-get install socat
+for copy and paste
 </code></pre>
 
 ### Install Oracle jdk 8

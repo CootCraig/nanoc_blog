@@ -89,6 +89,77 @@
             <h3 id="alexanderbrevig---simple-templated-fifo-class">alexanderbrevig - Simple templated FIFO class</h3>
             
             <p><a href="https://code.google.com/p/alexanderbrevig/downloads/list">alexanderbrevig - Simple templated FIFO class</a></p>
+            
+            <h3 id="robin2---demonstration-code-for-several-things-at-the-same-time">Robin2 - Demonstration code for several things at the same time</h3>
+            
+            <p><a href="http://forum.arduino.cc/index.php?PHPSESSID=pb10cdmt3l826s6m095frhf341&amp;topic=223286.0">forum.arduino.cc - Demonstration code for several things at the same time</a></p>
+            
+            <p>Robin2 - March 04, 2014, 07:28:03 am</p>
+            
+            <p>My sketch uses the concept in “blink without delay” to cause three LEDs
+            to blink at different intervals, a fourth LED is controlled by a button
+            and a servo sweeps back and forth at two different speeds. The idea is
+            to demonstrate how different processes can be accommodated in the same
+            general framework.</p>
+            
+            <p>It also uses the “state machine” concept to manage the various activities
+            and enable the different functions to determine what to do.</p>
+            
+            <p>I have deliberately designed the sketch as a series of short
+            functions. Short pieces of code are much easier to understand and debug
+            and it will be an easy matter for a user to delete functions that they
+            don’t need or to duplicate and modify functions if they need more of
+            the same (for example to flash 5 LEDS at different intervals).</p>
+            
+            <p>There is a case for saying there is too much in the sketch but I concluded
+            that the larger number of activities is a better demonstration of the
+            capabilities of this approach.</p>
+            
+            <p><a href="/assets/other/SeveralThingsAtTheSameTimeRev1.ino">SeveralThingsAtTheSameTimeRev1.ino</a></p>
+            
+            <p><a href="http://arduino.cc/en/Tutorial/BlinkWithoutDelay#.UyJjix_I0fA">arduino.cc tutorial - Blink Without Delay</a></p>
+            
+            <p>Sometimes you need to do two things at once. For example you might want
+            to blink an LED (or some other time-sensitive function) while reading
+            a button press or other input. In this case, you can’t use delay(), or
+            you’d stop everything else the program while the LED blinked. The program
+            might miss the button press if it happens during the delay(). This sketch
+            demonstrates how to blink the LED without using delay(). It keeps track
+            of the last time the Arduino turned the LED on or off. Then, each time
+            through loop(), it checks if a long enough interval has passed. If it has,
+            it toggles the LED on or off.</p>
+            
+            <pre><code>
+            </code></pre>
+            
+            <h3 id="simpletimer-library-for-arduino">SimpleTimer Library for Arduino</h3>
+            
+            <ul>
+              <li>SimpleTimer Library for Arduino</li>
+              <li>Author:  Marcello Romani</li>
+              <li>Contact: mromani@ottotecnica.com</li>
+              <li>License: GNU LGPL 2.1+</li>
+            </ul>
+            
+            <p><a href="http://playground.arduino.cc/Code/SimpleTimer#.UyJk5B_I0fA">SimpleTimer Library for Arduino</a></p>
+            
+            <p>This is (yet another) simple library to launch timed actions.</p>
+            
+            <p>It’s based on millis(), thus it has 1 ms resolution.</p>
+            
+            <p>It uses polling, so no guarantee can be made about the exact time when
+            a callback is fired. For example, if you setup the library so that it
+            calls a function every 2ms, but this function requires 5ms to complete,
+            then you’ll have an invocation every 5ms.</p>
+            
+            <p>For applications where non-strict timing is enough, not using interrupts
+            avoids potential problems with global variables shared between the
+            interrupt service routine and the main program, and doesn’t consune a
+            hardware timer.</p>
+            
+            <h3 id="nick-gammon---how-to-do-multiple-things-at-once--like-cook-bacon-and-eggs">Nick Gammon - How to do multiple things at once … like cook bacon and eggs</h3>
+            
+            <p><a href="http://www.gammon.com.au/forum/?id=11411">Nick Gammon - How to do multiple things at once … like cook bacon and eggs</a></p>
             <hr>
           </div>
           <div class='small-4 large-2 columns'>
@@ -96,53 +167,33 @@
             <ul class='no-bullet'>
               <li><a href="/blog/tags/diy" rel="tag">diy</a></li>
               <li><a href="/blog/tags/arduino" rel="tag">arduino</a></li>
-              <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
               <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
+              <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
+              <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
               <li><a href="/blog/tags/cellphone" rel="tag">cellphone</a></li>
               <li><a href="/blog/tags/led" rel="tag">led</a></li>
-              <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
-              <li><a href="/blog/tags/am" rel="tag">am</a></li>
-              <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
+              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
               <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
               <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
-              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
-              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
-              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
-              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
-              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
-              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
-              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
+              <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
+              <li><a href="/blog/tags/am" rel="tag">am</a></li>
               <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
               <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
-              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
               <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
+              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
+              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
+              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
               <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
-              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
-              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
-              <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
-              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
-              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
-              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
-              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
-              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
-              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
-              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
-              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
-              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
-              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
-              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
-              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
-              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
-              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
-              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
+              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
+              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
+              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
+              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
               <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
               <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
               <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
-              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
               <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
               <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
               <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
-              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
               <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
               <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
               <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
@@ -153,8 +204,6 @@
               <li><a href="/blog/tags/vinyl_lp" rel="tag">vinyl_lp</a></li>
               <li><a href="/blog/tags/cleaning" rel="tag">cleaning</a></li>
               <li><a href="/blog/tags/survival" rel="tag">survival</a></li>
-              <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
-              <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
               <li><a href="/blog/tags/job_hunt" rel="tag">job_hunt</a></li>
               <li><a href="/blog/tags/gammu" rel="tag">gammu</a></li>
               <li><a href="/blog/tags/rs232" rel="tag">rs232</a></li>
@@ -164,7 +213,6 @@
               <li><a href="/blog/tags/rails-api" rel="tag">rails-api</a></li>
               <li><a href="/blog/tags/tuned_loop" rel="tag">tuned_loop</a></li>
               <li><a href="/blog/tags/repair" rel="tag">repair</a></li>
-              <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
               <li><a href="/blog/tags/bluez" rel="tag">bluez</a></li>
               <li><a href="/blog/tags/programming" rel="tag">programming</a></li>
               <li><a href="/blog/tags/pc_audio" rel="tag">pc_audio</a></li>
@@ -172,6 +220,29 @@
               <li><a href="/blog/tags/headset" rel="tag">headset</a></li>
               <li><a href="/blog/tags/ebay" rel="tag">ebay</a></li>
               <li><a href="/blog/tags/hardware_hackers" rel="tag">hardware_hackers</a></li>
+              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
+              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
+              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
+              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
+              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
+              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
+              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
+              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
+              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
+              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
+              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
+              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
+              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
+              <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
+              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
+              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
+              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
+              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
+              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
+              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
+              <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
+              <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
+              <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
             </ul>
           </div>
         </div>

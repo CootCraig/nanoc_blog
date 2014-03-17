@@ -85,6 +85,77 @@
             <h3 id="alexanderbrevig---simple-templated-fifo-class">alexanderbrevig - Simple templated FIFO class</h3>
             
             <p><a href="https://code.google.com/p/alexanderbrevig/downloads/list">alexanderbrevig - Simple templated FIFO class</a></p>
+            
+            <h3 id="robin2---demonstration-code-for-several-things-at-the-same-time">Robin2 - Demonstration code for several things at the same time</h3>
+            
+            <p><a href="http://forum.arduino.cc/index.php?PHPSESSID=pb10cdmt3l826s6m095frhf341&amp;topic=223286.0">forum.arduino.cc - Demonstration code for several things at the same time</a></p>
+            
+            <p>Robin2 - March 04, 2014, 07:28:03 am</p>
+            
+            <p>My sketch uses the concept in “blink without delay” to cause three LEDs
+            to blink at different intervals, a fourth LED is controlled by a button
+            and a servo sweeps back and forth at two different speeds. The idea is
+            to demonstrate how different processes can be accommodated in the same
+            general framework.</p>
+            
+            <p>It also uses the “state machine” concept to manage the various activities
+            and enable the different functions to determine what to do.</p>
+            
+            <p>I have deliberately designed the sketch as a series of short
+            functions. Short pieces of code are much easier to understand and debug
+            and it will be an easy matter for a user to delete functions that they
+            don’t need or to duplicate and modify functions if they need more of
+            the same (for example to flash 5 LEDS at different intervals).</p>
+            
+            <p>There is a case for saying there is too much in the sketch but I concluded
+            that the larger number of activities is a better demonstration of the
+            capabilities of this approach.</p>
+            
+            <p><a href="/assets/other/SeveralThingsAtTheSameTimeRev1.ino">SeveralThingsAtTheSameTimeRev1.ino</a></p>
+            
+            <p><a href="http://arduino.cc/en/Tutorial/BlinkWithoutDelay#.UyJjix_I0fA">arduino.cc tutorial - Blink Without Delay</a></p>
+            
+            <p>Sometimes you need to do two things at once. For example you might want
+            to blink an LED (or some other time-sensitive function) while reading
+            a button press or other input. In this case, you can’t use delay(), or
+            you’d stop everything else the program while the LED blinked. The program
+            might miss the button press if it happens during the delay(). This sketch
+            demonstrates how to blink the LED without using delay(). It keeps track
+            of the last time the Arduino turned the LED on or off. Then, each time
+            through loop(), it checks if a long enough interval has passed. If it has,
+            it toggles the LED on or off.</p>
+            
+            <pre><code>
+            </code></pre>
+            
+            <h3 id="simpletimer-library-for-arduino">SimpleTimer Library for Arduino</h3>
+            
+            <ul>
+              <li>SimpleTimer Library for Arduino</li>
+              <li>Author:  Marcello Romani</li>
+              <li>Contact: mromani@ottotecnica.com</li>
+              <li>License: GNU LGPL 2.1+</li>
+            </ul>
+            
+            <p><a href="http://playground.arduino.cc/Code/SimpleTimer#.UyJk5B_I0fA">SimpleTimer Library for Arduino</a></p>
+            
+            <p>This is (yet another) simple library to launch timed actions.</p>
+            
+            <p>It’s based on millis(), thus it has 1 ms resolution.</p>
+            
+            <p>It uses polling, so no guarantee can be made about the exact time when
+            a callback is fired. For example, if you setup the library so that it
+            calls a function every 2ms, but this function requires 5ms to complete,
+            then you’ll have an invocation every 5ms.</p>
+            
+            <p>For applications where non-strict timing is enough, not using interrupts
+            avoids potential problems with global variables shared between the
+            interrupt service routine and the main program, and doesn’t consune a
+            hardware timer.</p>
+            
+            <h3 id="nick-gammon---how-to-do-multiple-things-at-once--like-cook-bacon-and-eggs">Nick Gammon - How to do multiple things at once … like cook bacon and eggs</h3>
+            
+            <p><a href="http://www.gammon.com.au/forum/?id=11411">Nick Gammon - How to do multiple things at once … like cook bacon and eggs</a></p>
           </article>
         </div>
       </div>
