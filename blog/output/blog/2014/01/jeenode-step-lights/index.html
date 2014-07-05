@@ -176,6 +176,139 @@
             TSL12561 contains two integrating analog-to-digital converters (ADC) that
             integrate currents from two photodiodes, simultaneously. Each breakout
             requires a supply voltage of 3V and a low supply current max of 0.6mA.</p>
+            
+            <p><a href="https://learn.sparkfun.com/tutorials/tsl2561-luminosity-sensor-hookup-guide">TSL2561 Luminosity Sensor Hookup Guide</a></p>
+            
+            <p><img src="/assets/images/spark_fun_luminosity_breakout.jpg" /></p>
+            
+            <table>
+              <tbody>
+                <tr>
+                  <th>TSL2561 label</th>
+                  <th>Pin function</th>
+                  <th>Arduino connection</th>
+                </tr>
+                <tr>
+                  <td>SDA</td>
+                  <td>I2C data</td>
+                  <td>pin labeled A4/SDA</td>
+                </tr>
+                <tr>
+                  <td>SCL</td>
+                  <td>I2C clock</td>
+                  <td>pin labeled A5/SCL</td>
+                </tr>
+                <tr>
+                  <td>GND</td>
+                  <td>Ground</td>
+                  <td>GND</td>
+                </tr>
+                <tr>
+                  <td>3V3</td>
+                  <td>3.3V power supply</td>
+                  <td>3.3V (NOT 5V)</td>
+                </tr>
+                <tr>
+                  <td>INT</td>
+                  <td>Interrupt</td>
+                  <td>Optional, leave disconnected unless you're using interrupts.</td>
+                </tr>
+              </tbody>
+            </table>
+            
+            <p><a href="http://learn.adafruit.com/tsl2561/wiring">Adafruit tsl2561 Breakout - wiring Tsl2561 and RTC</a></p>
+            
+            <p>Notes on using the Tsl2561 and the RTC both on I2c.</p>
+            
+            <p>You may be wondering, how is it OK to connect a 3.3V chip like the TSL2561
+            to 5.0V data pins like the Arduino? Isn’t that bad? Well, in this specific
+            case its OK. I2c uses pullup lines to the 3.3V power pin, so the data
+            is actually being sent at 3.3V. As long as all the sensors/device on
+            the i2c bus are running on 3.3V power, we’re fine. However, don’t use a
+            5.0v powered i2c device (like the DS1307) with pullups at the same time
+            as a 3.3V device like the TSL2561! If you want to use this sensor with a
+            datalogger that uses the DS1307, remove any/all of the pullup resistors
+            from the DS1307 SDA/SCL pins. The pullups built into the TSL2561 will
+            then be active and keep the voltage at 3.3V which is safe for both the
+            RTC and the sensor.</p>
+            
+            <p>You don’t need to connect the ADDR (i2c address change) or INT (interrupt
+            output) pins.</p>
+            
+            <p>The ADDR pin can be used if you have an i2c address conflict, to change
+            the address. Connect it to ground to set the address to 0x29, connect
+            it to 3.3V (vcc) to set the address to 0x49 or leave it floating
+            (unconnected) to use address 0x39.</p>
+            
+            <p>The INT pin is an ouput from the sensor used when you have the sensor
+            configured to signal when the light level has changed. We don’t have
+            that code written in this tutorial so you don’t have to use it. If you
+            do end up using it, use a 10K-100K pullup from INT to 3.3V (vcc)</p>
+            
+            <h4 id="changing-the-i2c-address-addr---default-0x29">Changing the I2C address (ADDR) - default 0x29</h4>
+            
+            <p>Every component attached to an I2C bus has a fixed address from 0 to
+            127. You can theoretically have a maximum of 128 devices on a single bus,
+            but in practice you are limited to the options available for each part.</p>
+            
+            <p>The TSL2561 supports three possible addresses: 0x29, 0x39, or
+            0x49. Practically speaking, this means you can have up to three TSL2561s
+            attached to a single I2C bus.</p>
+            
+            <p>Which address the part uses is controlled by the solder jumper labeled
+            “ADDR”. When there is no solder on this jumper, the TSL2561 will
+            used the default address of 0x39.</p>
+            
+            <p>To use one of the other addresses, add solder to bridge the center pad
+            to ONE of the two side pads. If you bridge to the “0” side, the
+            address will be 0x29. If you bridge to the “1” side, the address
+            will be 0x49. Don’t bridge both sides.</p>
+            
+            <h3 id="adafruit-ds1307-rtc-breakouthttplearnadafruitcomds1307-real-time-clock-breakout-board-kitoverview"><a href="http://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/overview">Adafruit DS1307 RTC breakout</a></h3>
+            
+            <p><img src="/assets/images/adafruit_ds1307rtc_LRG.jpg" /></p>
+            
+            <p><a href="https://github.com/adafruit/RTClib/blob/master/RTClib.cpp">RTC breakout i2c address</a></p>
+            
+            <pre><code>
+             #define DS1307_ADDRESS 0x68
+            </code></pre>
+            
+            <p>## </p>
+            
+            <h3 id="using-solderable-breadboards---off-board-connections">Using Solderable breadboards - Off-board Connections</h3>
+            
+            <p><a href="http://www.busboard.us/pdfs/BPS-AN0002-Solderable_PC_BreadBoard.pdf">BPS AN0002 Introducing Solderable PC BreadBoard</a></p>
+            
+            <p>Here are some suggestions for connecting power and other off-board signal connections to a solderable PC
+            breadboard:</p>
+            
+            <ol>
+              <li>Use stranded 22 AWG wire for wire connections running off-board to other boards or devices. Solid 22 AWG wire will crack and break after being flexed many times. Stranded wire can be flexed more times.</li>
+              <li>Use a strain relief to keep the wire from flexing at the point where it is soldered. Solder will wick up stranded wire when it is soldered, and make it stiff and susceptible to cracking. Using a strain relief causes the wire to flex away from the solder joint, where it is more flexible.</li>
+              <li>Use headers or other connectors with removable plugs for off-board</li>
+            </ol>
+            
+            <h2 id="to-5v-regulations">9/12 to 5v Regulations</h2>
+            
+            <p><a href="http://jumptuck.com/2011/11/15/voltage-regulation-friend-7805/">Jumptuck - Voltage regulation with our friend the 7805</a></p>
+            
+            <p><img src="/assets/images/lm7805_application.png" /></p>
+            
+            <p>Electrolytic smoothing caps</p>
+            
+            <ul>
+              <li>input - 0.33uF</li>
+              <li>
+                <p>output - 0.1uF</p>
+              </li>
+              <li>Digikey - 0.1uF.  Nichicon UVR1H0R1MDD CAP ALUM 0.1UF 50V 20% RADIAL</li>
+              <li>Digikey - 0.33uf.  Nichicon UVR1HR33MDD CAP ALUM 0.33UF 50V 20% RADIA</li>
+            </ul>
+            
+            <h2 id="jst-ph-connectors">JST PH connectors</h2>
+            
+            <p>Digikey - JST Sales America Inc B2B-PH-K-S(LF)(SN) CONN HEADER PH TOP 2POS 2MM</p>
           </article>
         </div>
       </div>

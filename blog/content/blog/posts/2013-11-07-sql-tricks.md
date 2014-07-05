@@ -17,3 +17,7 @@ group by CONVERT(CHAR(8), READ_AT, 112)
 order by CONVERT(CHAR(8), READ_AT, 112)
 </code></pre>
 
+
+[Drop foreign key constraints and recreate them](http://blog.sqlauthority.com/2014/04/11/sql-server-drop-all-the-foreign-key-constraint-in-database-create-all-the-foreign-key-constraint-in-database/)
+
+

@@ -543,11 +543,11 @@
             pika# adduser craig staff
             
             pika# cd /opt/jruby/jruby/lib/ruby/gems
-            pika# find shared -type d |xargs chmod 775
-            pika# find shared |xargs chmod g+w
+            pika# sudo bash -c "find shared -type d |xargs chmod 775"
+            pika# sudo bash -c "find shared |xargs chmod g+w"
             
             pika# cd /opt/jruby/jruby-1.7.11
-            pika# find bin |xargs chmod g+w
+            pika# sudo bash -c "find bin |xargs chmod g+w"
             </code></pre>
             
             <h4 id="gem-install-bundler">gem install bundler</h4>

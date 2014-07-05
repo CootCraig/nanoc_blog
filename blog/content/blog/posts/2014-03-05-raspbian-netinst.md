@@ -499,11 +499,11 @@ jruby 1.7.11 (1.9.3p392) 2014-02-24 86339bb on Java HotSpot(TM) Client VM 1.8.0-
 pika# adduser craig staff
 
 pika# cd /opt/jruby/jruby/lib/ruby/gems
-pika# find shared -type d |xargs chmod 775
-pika# find shared |xargs chmod g+w
+pika# sudo bash -c "find shared -type d |xargs chmod 775"
+pika# sudo bash -c "find shared |xargs chmod g+w"
 
 pika# cd /opt/jruby/jruby-1.7.11
-pika# find bin |xargs chmod g+w
+pika# sudo bash -c "find bin |xargs chmod g+w"
 </code></pre>
 
 #### gem install bundler

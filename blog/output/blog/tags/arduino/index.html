@@ -162,6 +162,157 @@
             <p><a href="http://www.gammon.com.au/forum/?id=11411">Nick Gammon - How to do multiple things at once … like cook bacon and eggs</a></p>
             <hr>
             <h3>
+              30 March 2014
+              &raquo;
+              <a href="/blog/2014/03/arduino-hardware-notes/">Arduino Hardware Notes</a>
+            </h3>
+            <h1 id="power-supply-parts">Power Supply parts</h1>
+            
+            <h2 id="pololu-adjustable-boost-regulator-25-95vhttpwwwpololucomproduct791"><a href="http://www.pololu.com/product/791">Pololu Adjustable Boost Regulator 2.5-9.5V</a></h2>
+            
+            <p>$11.95</p>
+            
+            <h3 id="overview">Overview</h3>
+            
+            <p>The Pololu adjustable boost regulator is a very flexible switching
+            regulator (also called a switched-mode power supply, SMPS, or DC-to-DC
+            converter) that can generate voltages higher than its input voltage. We
+            offer two adjustable ranges: approximately 2.5 V to 9.5 V and 4 V to 25
+            V. The output voltage can be set using the trimmer potentiometer in the
+            upper-right corner of the board. The input voltage range is 1.5 V to
+            16 V (the input voltage should be kept below the output voltage). The
+            integrated 2 A switch allows for output currents high enough to drive
+            small motors, as in our 3pi robot, and allows large voltage gains,
+            such as obtaining 24 V from two NiMH or NiCd cells.</p>
+            
+            <h3 id="some-example-applications-include">Some example applications include:</h3>
+            
+            <ul>
+              <li>Powering 5 V or 3.3 V systems from lower-voltage batteries</li>
+              <li>Powering 5 V subsystems (e.g. sensors) in lower-voltage (e.g. 3.3 V) systems</li>
+              <li>Achieving consistent actuator operation when powered by fluctuating batteries</li>
+              <li>Powering high-brightness LEDs or a large number of LEDs in series</li>
+            </ul>
+            
+            <h3 id="feature-summary">Feature summary</h3>
+            
+            <ul>
+              <li>input voltage: 1.5 V to 16 V</li>
+              <li>output adjustable from 2.5 V to 9.5 V or 4 V to 25 V</li>
+              <li>750 kHz switching frequency</li>
+              <li>2 A switch (and input) limit</li>
+              <li>integrated over-temperature and over-current shutoff</li>
+              <li>typical efficiency of 80-90% when doubling voltage and with 100-500 mA output</li>
+              <li>small size: 10.7 x 22.4 x 5.8 mm (0.42″ x 0.88″ x 0.23″)</li>
+              <li>weight without header pins: 1.6 g (0.06 oz)</li>
+            </ul>
+            
+            <h3 id="feature-summary-1">Feature summary</h3>
+            
+            <ul>
+              <li>input voltage: 1.5 V to 16 V</li>
+              <li>output adjustable from 2.5 V to 9.5 V or 4 V to 25 V</li>
+              <li>750 kHz switching frequency</li>
+              <li>2 A switch (and input) limit</li>
+              <li>integrated over-temperature and over-current shutoff</li>
+              <li>typical efficiency of 80-90% when doubling voltage and with 100-500 mA output</li>
+              <li>small size: 10.7 x 22.4 x 5.8 mm (0.42″ x 0.88″ x 0.23″)</li>
+              <li>weight without header pins: 1.6 g (0.06 oz)</li>
+            </ul>
+            
+            <h3 id="connections">Connections</h3>
+            
+            <p>The boost regulator has just three connections: the input voltage, ground,
+            and the output voltage. These three connections are labeled on the back
+            side of the PCB, and they are arranged with a 0.1″ spacing along the
+            edge of the board for compatibility with standard solderless breadboards
+            and perfboards and connectors that use a 0.1″ grid. You can solder
+            wires directly to the board or solder in either the 3×1 straight male
+            header strip or the 3×1 right-angle male header strip that is included.</p>
+            
+            <h3 id="setting-the-output-voltage">Setting the output voltage</h3>
+            
+            <p>The output voltage can be adjusted using a meter and a light load
+            (e.g. a 10 kΩ resistor). Turning the potentiometer clockwise increases
+            the output voltage. The output voltage can be affected by a screwdriver
+            touching the potentiometer, so the output measurement should be done
+            with nothing touching the potentiometer.</p>
+            
+            <p><img src="/assets/images/polulu_adj_boost_protoboard.jpg" /></p>
+            
+            <p><img src="/assets/images/polulu_adj_boost_pins.jpg" /></p>
+            
+            <p><img src="/assets/images/polulu_adj_boost_detail.jpg" /></p>
+            
+            <h2 id="pololu-5v-step-up-voltage-regulator-u1v11f5httpwwwpololucomproduct2562"><a href="http://www.pololu.com/product/2562">Pololu 5V Step-Up Voltage Regulator U1V11F5</a></h2>
+            
+            <p>$4.95</p>
+            
+            <p>This compact (0.45″×0.6″) U1V11F5 switching step-up (or boost)
+            voltage regulator efficiently generates 5 V from input voltages as low as
+            0.5 V. Unlike most boost regulators, the U1V11F5 offers a true shutdown
+            option that turns off power to the load, and it automatically switches
+            to a linear down-regulation mode when the input voltage exceeds the
+            output. The pins have a 0.1″ spacing, making this board compatible
+            with standard solderless breadboards and perfboards.</p>
+            
+            <h3 id="overview-1">Overview</h3>
+            
+            <p>This 5 V boost (step-up) voltage regulator generates higher output
+            voltages from input voltages as low as 0.5 V, and it also automatically
+            switches to a linear down-regulation mode when the input voltage exceeds
+            the output. This makes it great for powering 5 V electronics projects
+            from 1 to 3 NiMH, NiCd, or alkaline cells or from a single lithium-ion
+            cell. Additionally, unlike most boost regulators, this unit offers a
+            true shutdown option that turns off power to the load (with typical
+            boost regulators, the input voltage will pass directly through to the
+            output when they are disabled).</p>
+            
+            <p>When boosting, this module acts as a switching regulator (also called
+            switched-mode power supplies (SMPS) or DC-to-DC converters) and has a
+            typical efficiency between 70% to 90%. The available output current is
+            a function of the input voltage, output voltage, and efficiency (see
+            Typical Efficiency and Output Current section below), but the input
+            current can typically be as high as 1.2 A.</p>
+            
+            <h3 id="features">Features</h3>
+            
+            <ul>
+              <li>Input voltage: 0.5 V to 5.5 V</li>
+              <li>Fixed 5 V output with 4% accuracy</li>
+              <li>True shutdown option that turns off power to the load</li>
+              <li>Automatic linear down-regulation when the input voltage is greater than the output voltage</li>
+              <li>1.2 A switch allows for input currents up to 1.2 A</li>
+              <li>Good efficiency at light load: &lt;1 mA typical no-load quiescent current, though it can exceed 1 mA for very low input voltages (&lt;100 μA typical quiescent current with SHDN = LOW)</li>
+              <li>Integrated over-temperature shutoff</li>
+              <li>Small size: 0.45″ × 0.6″; × 0.1″ (12 × 15 × 3 mm)</li>
+            </ul>
+            
+            <h3 id="connections-1">Connections</h3>
+            
+            <p>The boost regulator has four connections: shutdown (SHDN), input voltage
+            (VIN), ground (GND), and output voltage (VOUT).</p>
+            
+            <p>The SHDN can be driven low (typically under 0.4 V) to power down the
+            regulator and turn off power to the load (unlike most boost regulators,
+            the input power does not pass through to the output when the board is
+            disabled). This pin is internally pulled up to VIN through an 100 kΩ
+            resistor, so it can be left disconnected or connected directly to VIN
+            if you do not need to use the disable feature. The disable threshold is
+            a function of the input voltage as follows:</p>
+            
+            <ul>
+              <li>For VIN &lt; 0.8 V, SHDN voltage must be below 0.1×VIN to disable the regulator and above 0.9×VIN to enable it.</li>
+              <li>For 0.8 V ≤ VIN ≤ 1.5 V, SHDN voltage must be below 0.2×VIN to disable the regulator and above 0.8×VIN to enable it.</li>
+              <li>For VIN &gt; 1.5 V, SHDN voltage must be below 0.4 V to disable the regulator and above 1.2 V to enable it.</li>
+              <li>The input voltage, VIN, must be at least 0.5 V for the regulator to turn on. However, once the regulator is on, the input voltage can drop as low as 0.3 V and the 5 V output voltage will be maintained on VOUT. Unlike standard boost regulators, this regulator has an additional linear down-regulation mode that allows it to convert input voltages as high as 5.5 V down to 5 V for small to moderate sized loads (for example, in our tests, the adjustable version of this regulator was able to supply 300 mA while converting an input of 5.5 V down to 1.8 V). When the input voltage exceeds 5 V, the regulator automatically switches to this down-regulation mode. The input voltage should not exceed 5.5 V. Please be wary of destructive LC spikes that might cause the input voltage to surpass 5.5 V (see below for more information).</li>
+            </ul>
+            
+            <p><img src="/assets/images/polulu_5v_stepup_pins.jpg" /></p>
+            
+            <p><img src="/assets/images/polulu_5v_stepup_breadboard.jpg" /></p>
+            <hr>
+            <h3>
               13 March 2014
               &raquo;
               <a href="/blog/2014/03/run-socat-for-arduino-io/">Run socat for Arduino IO</a>
@@ -1019,7 +1170,193 @@
               &raquo;
               <a href="/blog/2014/02/arduino-ide/">Arduino IDE</a>
             </h3>
+            <h1 id="makefile-alternative-to-arduino-ide">Makefile alternative to Arduino IDE</h1>
             
+            <p>I am goint to try out the Github Makefile project for Arduino from
+            Sudar Muthu</p>
+            
+            <h2 id="a-makefile-for-arduino-sketches---managed-by-sudar-muthu">A Makefile for Arduino Sketches - managed by Sudar Muthu</h2>
+            
+            <ul>
+              <li><a href="https://github.com/sudar/Arduino-Makefile">Sudar Muthu - A Makefile for Arduino Sketches</a></li>
+            </ul>
+            
+            <p>This is a very simple Makefile which knows how to build Arduino
+            sketches. It defines entire workflows for compiling code, flashing it
+            to Arduino and even communicating through Serial monitor. You don’t need
+            to change anything in the Arduino sketches.</p>
+            
+            <h3 id="installation-options">Installation Options</h3>
+            
+            <h4 id="through-package">Through package</h4>
+            
+            <p>If you’re using FreeBSD, Debian or Ubuntu, you can find this in the
+            arduino-mk package and can be installed using apt-get or aptitude.</p>
+            
+            <h4 id="from-source">From source</h4>
+            
+            <p>Download the latest release</p>
+            
+            <p>Or clone it from Github using the command git clone 
+            <a href="git@github.com:sudar/Arduino-Makefile.git">Github Repo</a></p>
+            
+            <h3 id="sudar-muthu">Sudar Muthu</h3>
+            
+            <ul>
+              <li><a href="http://sudarmuthu.com/">Sudar Muthu - Night Dreaming (by Sudar)</a></li>
+            </ul>
+            
+            <p>Night Dreaming (by Sudar) WordPress, JavaScript, Android, Arduino and some random stuff</p>
+            
+            <p>Hello and Welcome</p>
+            
+            <p>I am Sudar and this is my personal site. It serves as a starting point
+            for most of the information I have put on the web. I started this site
+            as a hobby so that I can return back what I can to this online world from
+            where I have learned and still learning so many things. Have a nice sta</p>
+            
+            <ul>
+              <li><a href="http://sudarmuthu.com/blog/why-you-should-open-source-your-next-pet-project/">Sudar Muthu - Why you should open source your next pet project</a></li>
+            </ul>
+            
+            <h3 id="features">Features</h3>
+            
+            <ul>
+              <li>Very robust</li>
+              <li>Highly customizable</li>
+              <li>Supports all official AVR-based Arduino boards</li>
+              <li>Supports chipKIT</li>
+              <li>Works on all three major OS (Mac, Linux, Windows)</li>
+              <li>Auto detects serial baud rate and libraries used</li>
+              <li>Support for *.ino and *.pde sketches as well as raw *.c and *.cpp</li>
+              <li>Support for Arduino Software versions 1.0.x as well as 0.x. Support for Arduino 1.5.x is still work in progress</li>
+              <li>Automatic dependency tracking. Referred libraries are automatically included in the build process. Changes in *.h files lead to recompilation of sources which include them</li>
+            </ul>
+            
+            <h3 id="article--guide---compiling-arduino-sketches-using-makefilehttphardwarefuncomtutorialscompiling-arduino-sketches-using-makefile"><a href="http://hardwarefun.com/tutorials/compiling-arduino-sketches-using-makefile">Article / guide - Compiling Arduino sketches using Makefile</a></h3>
+            
+            <p>One of the main reasons why Arduino is very popular with beginners is that
+            it is completely self-contained which makes it very easy to use. Once you
+            have an Arduino board, all you have to do is to download the software
+            and within minutes you can make your first led blink. The software has
+            everything you need right from the IDE, to the compiler and even serial
+            monitor to communicate with Arduino, all within one single package.</p>
+            
+            <p>While the Arduino IDE is very good for beginners, you might start to
+            feel its limitations, once you start working with it regularly. I use
+            vim for everything and always wished writing Arduino sketches in vim.</p>
+            
+            <p>I configured Arduino IDE, to use an external editor and started using
+            vim to write code and then Arduino IDE to compile and upload. While this
+            worked for sometime, I started to feel the need for a proper makefile
+            so that I can do everything from vim itself.</p>
+            
+            <h2 id="my-setup-and-use-log">My Setup and Use Log</h2>
+            
+            <h3 id="get-the-linux-tarball">Get the Linux tarball.</h3>
+            
+            <p><a href="http://arduino.googlecode.com/files/arduino-1.0.5-linux64.tgz">Linux tarball</a></p>
+            
+            <pre><code>
+            lug$ cd /opt/Arduino
+            log$ wget http://arduino.googlecode.com/files/arduino-1.0.5-linux64.tgz
+            lug$ tar xzf arduino-1.0.5-linux64.tgz
+            lug$ ln -s arduino-1.0.5 arduino
+            lug$ ls -l
+            lrwxrwxrwx 1 craig craig       13 Mar 23 14:45 arduino -&gt; arduino-1.0.5
+            drwxr-xr-x 8 craig craig     4096 May 17  2013 arduino-1.0.5
+            </code></pre>
+            
+            <h3 id="install-dependencies">Install dependencies</h3>
+            
+            <p>The Makefile delegates resetting the board to a short Perl
+            program. You’ll need to install Device::SerialPort and YAML library.</p>
+            
+            <p>On Debian or Ubuntu:</p>
+            
+            <pre><code>
+            apt-get install libdevice-serialport-perl
+            apt-get install libyaml-perl
+            </code></pre>
+            
+            <h3 id="clone-arduino-makefile-from-github">Clone Arduino-Makefile from github</h3>
+            
+            <p>I forked Arduino-Makefile from sudar.</p>
+            
+            <pre><code>
+            $ mkdir /opt/sudar; cd /opt/sudar
+            $ git clone git@github.com:CootCraig/Arduino-Makefile.git
+            $ cd /opt/sudar/Arduino-Makefile
+            </code></pre>
+            
+            <p>Pull in upstream changes</p>
+            
+            <pre><code>
+            $ git remote add upstream https://github.com/sudar/Arduino-Makefile.git
+            $ git fetch upstream
+            $ git merge upstream/master
+            </code></pre>
+            
+            <p>Set up git branches for craig local working changes.
+            Leave master as copy of upsteam.</p>
+            
+            <pre><code>
+             $ git checkout -b craig
+             Switched to a new branch 'craig'
+             craig@lug:/opt/sudar/Arduino-Makefile$ git branch
+             * craig
+               master
+             $ git checkout -b craig-develop
+             Switched to a new branch 'craig-develop'
+             $ git branch
+               craig
+             * craig-develop
+               master
+            </code></pre>
+            
+            <h3 id="setup-environment-variables">Setup environment variables</h3>
+            
+            <p>What are the avr packages.</p>
+            
+            <pre><code>
+            $ dpkg --get-selections |grep avr
+            avr-libc					install
+            avrdude						install
+            binutils-avr					install
+            gcc-avr						install
+            </code></pre>
+            
+            <p>Where are the avr files.</p>
+            
+            <pre><code>
+            /usr/bin/avr-g++
+            /usr/bin/avrdude
+            /usr/lib/avr/lib/libc.a
+            /usr/lib/avr/bin/ar
+            /usr/lib/gcc/avr/4.7.2/
+            </code></pre>
+            
+            <p>~/.profile</p>
+            
+            <pre><code>
+            export ARDUINO_DIR=/opt/arduino/arduino
+            export ARDMK_DIR=/opt/sudar/Arduino-Makefile
+            export AVR_TOOLS_DIR=/usr
+            </code></pre>
+            
+            <h3 id="example-sketch-makefile">Example sketch Makefile</h3>
+            
+            <pre><code>
+            /opt/sudar/Arduino-Makefile/Arduino.mk
+            </code></pre>
+            
+            <p>Per sketch variables</p>
+            
+            <p>After the global settings, you will need to specify the following variables for each sketch</p>
+            
+            <p>BOARD_TAG – The Arduino board that you are using. By default Uno is used
+            ARDUINO_PORT – The serial port where Arduino is connected
+            ARDUINO_LIBS – Space separated set of libraries that are used by your sketch</p>
             <hr>
             <h3>
               25 January 2014
@@ -1156,6 +1493,139 @@
             TSL12561 contains two integrating analog-to-digital converters (ADC) that
             integrate currents from two photodiodes, simultaneously. Each breakout
             requires a supply voltage of 3V and a low supply current max of 0.6mA.</p>
+            
+            <p><a href="https://learn.sparkfun.com/tutorials/tsl2561-luminosity-sensor-hookup-guide">TSL2561 Luminosity Sensor Hookup Guide</a></p>
+            
+            <p><img src="/assets/images/spark_fun_luminosity_breakout.jpg" /></p>
+            
+            <table>
+              <tbody>
+                <tr>
+                  <th>TSL2561 label</th>
+                  <th>Pin function</th>
+                  <th>Arduino connection</th>
+                </tr>
+                <tr>
+                  <td>SDA</td>
+                  <td>I2C data</td>
+                  <td>pin labeled A4/SDA</td>
+                </tr>
+                <tr>
+                  <td>SCL</td>
+                  <td>I2C clock</td>
+                  <td>pin labeled A5/SCL</td>
+                </tr>
+                <tr>
+                  <td>GND</td>
+                  <td>Ground</td>
+                  <td>GND</td>
+                </tr>
+                <tr>
+                  <td>3V3</td>
+                  <td>3.3V power supply</td>
+                  <td>3.3V (NOT 5V)</td>
+                </tr>
+                <tr>
+                  <td>INT</td>
+                  <td>Interrupt</td>
+                  <td>Optional, leave disconnected unless you're using interrupts.</td>
+                </tr>
+              </tbody>
+            </table>
+            
+            <p><a href="http://learn.adafruit.com/tsl2561/wiring">Adafruit tsl2561 Breakout - wiring Tsl2561 and RTC</a></p>
+            
+            <p>Notes on using the Tsl2561 and the RTC both on I2c.</p>
+            
+            <p>You may be wondering, how is it OK to connect a 3.3V chip like the TSL2561
+            to 5.0V data pins like the Arduino? Isn’t that bad? Well, in this specific
+            case its OK. I2c uses pullup lines to the 3.3V power pin, so the data
+            is actually being sent at 3.3V. As long as all the sensors/device on
+            the i2c bus are running on 3.3V power, we’re fine. However, don’t use a
+            5.0v powered i2c device (like the DS1307) with pullups at the same time
+            as a 3.3V device like the TSL2561! If you want to use this sensor with a
+            datalogger that uses the DS1307, remove any/all of the pullup resistors
+            from the DS1307 SDA/SCL pins. The pullups built into the TSL2561 will
+            then be active and keep the voltage at 3.3V which is safe for both the
+            RTC and the sensor.</p>
+            
+            <p>You don’t need to connect the ADDR (i2c address change) or INT (interrupt
+            output) pins.</p>
+            
+            <p>The ADDR pin can be used if you have an i2c address conflict, to change
+            the address. Connect it to ground to set the address to 0x29, connect
+            it to 3.3V (vcc) to set the address to 0x49 or leave it floating
+            (unconnected) to use address 0x39.</p>
+            
+            <p>The INT pin is an ouput from the sensor used when you have the sensor
+            configured to signal when the light level has changed. We don’t have
+            that code written in this tutorial so you don’t have to use it. If you
+            do end up using it, use a 10K-100K pullup from INT to 3.3V (vcc)</p>
+            
+            <h4 id="changing-the-i2c-address-addr---default-0x29">Changing the I2C address (ADDR) - default 0x29</h4>
+            
+            <p>Every component attached to an I2C bus has a fixed address from 0 to
+            127. You can theoretically have a maximum of 128 devices on a single bus,
+            but in practice you are limited to the options available for each part.</p>
+            
+            <p>The TSL2561 supports three possible addresses: 0x29, 0x39, or
+            0x49. Practically speaking, this means you can have up to three TSL2561s
+            attached to a single I2C bus.</p>
+            
+            <p>Which address the part uses is controlled by the solder jumper labeled
+            “ADDR”. When there is no solder on this jumper, the TSL2561 will
+            used the default address of 0x39.</p>
+            
+            <p>To use one of the other addresses, add solder to bridge the center pad
+            to ONE of the two side pads. If you bridge to the “0” side, the
+            address will be 0x29. If you bridge to the “1” side, the address
+            will be 0x49. Don’t bridge both sides.</p>
+            
+            <h3 id="adafruit-ds1307-rtc-breakouthttplearnadafruitcomds1307-real-time-clock-breakout-board-kitoverview"><a href="http://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/overview">Adafruit DS1307 RTC breakout</a></h3>
+            
+            <p><img src="/assets/images/adafruit_ds1307rtc_LRG.jpg" /></p>
+            
+            <p><a href="https://github.com/adafruit/RTClib/blob/master/RTClib.cpp">RTC breakout i2c address</a></p>
+            
+            <pre><code>
+             #define DS1307_ADDRESS 0x68
+            </code></pre>
+            
+            <p>## </p>
+            
+            <h3 id="using-solderable-breadboards---off-board-connections">Using Solderable breadboards - Off-board Connections</h3>
+            
+            <p><a href="http://www.busboard.us/pdfs/BPS-AN0002-Solderable_PC_BreadBoard.pdf">BPS AN0002 Introducing Solderable PC BreadBoard</a></p>
+            
+            <p>Here are some suggestions for connecting power and other off-board signal connections to a solderable PC
+            breadboard:</p>
+            
+            <ol>
+              <li>Use stranded 22 AWG wire for wire connections running off-board to other boards or devices. Solid 22 AWG wire will crack and break after being flexed many times. Stranded wire can be flexed more times.</li>
+              <li>Use a strain relief to keep the wire from flexing at the point where it is soldered. Solder will wick up stranded wire when it is soldered, and make it stiff and susceptible to cracking. Using a strain relief causes the wire to flex away from the solder joint, where it is more flexible.</li>
+              <li>Use headers or other connectors with removable plugs for off-board</li>
+            </ol>
+            
+            <h2 id="to-5v-regulations">9/12 to 5v Regulations</h2>
+            
+            <p><a href="http://jumptuck.com/2011/11/15/voltage-regulation-friend-7805/">Jumptuck - Voltage regulation with our friend the 7805</a></p>
+            
+            <p><img src="/assets/images/lm7805_application.png" /></p>
+            
+            <p>Electrolytic smoothing caps</p>
+            
+            <ul>
+              <li>input - 0.33uF</li>
+              <li>
+                <p>output - 0.1uF</p>
+              </li>
+              <li>Digikey - 0.1uF.  Nichicon UVR1H0R1MDD CAP ALUM 0.1UF 50V 20% RADIAL</li>
+              <li>Digikey - 0.33uf.  Nichicon UVR1HR33MDD CAP ALUM 0.33UF 50V 20% RADIA</li>
+            </ul>
+            
+            <h2 id="jst-ph-connectors">JST PH connectors</h2>
+            
+            <p>Digikey - JST Sales America Inc B2B-PH-K-S(LF)(SN) CONN HEADER PH TOP 2POS 2MM</p>
             <hr>
           </div>
           <div class='small-4 large-2 columns'>
@@ -1166,40 +1636,44 @@
               <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
               <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
               <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
-              <li><a href="/blog/tags/cellphone" rel="tag">cellphone</a></li>
               <li><a href="/blog/tags/led" rel="tag">led</a></li>
-              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
-              <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
+              <li><a href="/blog/tags/cellphone" rel="tag">cellphone</a></li>
               <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
-              <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
               <li><a href="/blog/tags/am" rel="tag">am</a></li>
-              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
-              <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
-              <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
-              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
-              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
-              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
+              <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
+              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
+              <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
               <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
               <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
+              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
               <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
-              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
+              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
               <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
+              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
+              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
+              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
+              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
+              <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
+              <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
+              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
+              <li><a href="/blog/tags/windows_os" rel="tag">windows_os</a></li>
               <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
               <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
               <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
               <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
               <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
               <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
-              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
               <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
               <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
               <li><a href="/blog/tags/cd_player" rel="tag">cd_player</a></li>
               <li><a href="/blog/tags/philips_cd935" rel="tag">philips_cd935</a></li>
               <li><a href="/blog/tags/email" rel="tag">email</a></li>
+              <li><a href="/blog/tags/robotics" rel="tag">robotics</a></li>
               <li><a href="/blog/tags/lp_storage" rel="tag">lp_storage</a></li>
               <li><a href="/blog/tags/vinyl_lp" rel="tag">vinyl_lp</a></li>
               <li><a href="/blog/tags/cleaning" rel="tag">cleaning</a></li>
               <li><a href="/blog/tags/survival" rel="tag">survival</a></li>
+              <li><a href="/blog/tags/hardware" rel="tag">hardware</a></li>
               <li><a href="/blog/tags/job_hunt" rel="tag">job_hunt</a></li>
               <li><a href="/blog/tags/gammu" rel="tag">gammu</a></li>
               <li><a href="/blog/tags/rs232" rel="tag">rs232</a></li>
@@ -1213,10 +1687,14 @@
               <li><a href="/blog/tags/programming" rel="tag">programming</a></li>
               <li><a href="/blog/tags/pc_audio" rel="tag">pc_audio</a></li>
               <li><a href="/blog/tags/subwoofer" rel="tag">subwoofer</a></li>
+              <li><a href="/blog/tags/vm_host" rel="tag">vm_host</a></li>
+              <li><a href="/blog/tags/linux" rel="tag">linux</a></li>
+              <li><a href="/blog/tags/debian" rel="tag">debian</a></li>
+              <li><a href="/blog/tags/virtualbox" rel="tag">virtualbox</a></li>
               <li><a href="/blog/tags/headset" rel="tag">headset</a></li>
               <li><a href="/blog/tags/ebay" rel="tag">ebay</a></li>
               <li><a href="/blog/tags/hardware_hackers" rel="tag">hardware_hackers</a></li>
-              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
+              <li><a href="/blog/tags/pickup" rel="tag">pickup</a></li>
               <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
               <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
               <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
@@ -1239,6 +1717,8 @@
               <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
               <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
               <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
+              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
+              <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
             </ul>
           </div>
         </div>
