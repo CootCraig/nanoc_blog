@@ -101,3 +101,48 @@ $6.00
 
 ## Slotted boxes and boards that Fit
 
+### 3.3" x 2.3" Protoboard - Fits Hammond 1593L
+http://www.mcmelectronics.com/product/21-12224
+
+3.3" x 2.3" circuit board for use with Hammond 1593L project
+box. Constructed of FR-4 with one ounce copper. Holes are paired and
+.042” in diameter to accept leads from common components.
+
+$6.29
+
+
+ProtoBox Kit with Hammond 1593L Box and 3.3" x 2.3" Project Board
+http://www.mcmelectronics.com/product/21-12242
+$12.99
+
+Convenient project kit includes a Hammond 1593L project box and a circuit
+board to fit. Project box is made of ABS plastic with a recessed top
+and two removable end panels. Board is made of FR-4 with one ounce
+copper. Holes are paired and .042” in diameter to accept leads from
+common components.
+
+###
+http://www.abra-electronics.com/categories/Boards/Protoboard-with-Enclosure/
+
+###
+http://www.jameco.com/webapp/wcs/stores/servlet/Product_10001_10001_2123881_-1
+
+Features:
+Box is black ABS plastic, secured with self tapping screws (included). 2 sets of removable end panels.
+Box Size 2.6 x 2.6 x 1.1 in. (66 x 66 x 28 mm)
+Single-sided high-quality FR4 glass-epoxy circuit board, 1oz/ft² copper with an anti-tarnish coating for easy soldering. Lead free and RoHS compatible.
+0.042" holes are drilled on 0.1" (2.54mm) centers. 2 mounting holes. Screws provided.
+PCB Size 2.3 x 2.3 in (58 x 58 mm) 
+$8.95
+## LPAD Box and PCB
+
+http://www.mcmelectronics.com/product/28-977
+1-3/8 X 2 X 3-1/4 Project Box
+$2.59 
+
+http://www.mcmelectronics.com/product/21-4577
+2 X 2-3/8 Protype PCB Board
+21-4577	2" x 2⅜"
+$0.79 
+
+

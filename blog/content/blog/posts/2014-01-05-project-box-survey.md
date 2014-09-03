@@ -16,7 +16,13 @@ tags: [ 'chipamp' ]
 * [circuitspecialists 6.0" x 4.12" x 2.45" Split Body Aluminum Enclosure](http://www.circuitspecialists.com/4012h-6.html)
 * [frontpanelexpress](http://www.frontpanelexpress.com/)
 
-## Digikey online catalog
+## Hammond
 
-* [Hammond 1455 Eurocard Extruded aluminum](http://www.digikey.com/catalog/en/partgroup/1455-series/3133)
+* [1402 Series - Instrument Enclosures - 12 gauge aluminum in contempra grey](http://www.hammondmfg.com/dwg10.htm)
+* [1455 Series - Extruded Aluminum Enclosures - Metal End Panels](http://www.hammondmfg.com/1455.htm)
+* [1591 "S" Series - Multipurpose Plastic Enclosures - Economical Version](http://www.hammondmfg.com/dwg2p.htm)
+* [1591XX "S" Series - Multipurpose Plastic Enclosures - Economical Version](http://www.hammondmfg.com/dwg2XXS.htm)
+* [1444 CWW & 1434 Series - Aluminum Chassis & Bottom Plates with Walnut Side Panels](http://www.hammondmfg.com/dwg21CWW.htm)
+* [1444 & 1434 Series - Aluminum Chassis & Bottom Plates](http://www.hammondmfg.com/dwg21.htm)
+
 

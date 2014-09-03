@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>
+      Coot Craig Blog
+      Tag: cubox
+    </title>
+    <link href='/assets/app.css' rel='stylesheet'>
+    <script src='/assets/modernizr.js'></script>
+    <script src='/assets/jquery-2.0.3.min.js'></script>
+    <script src='/assets/foundation.js'></script>
+    <script src='/assets/foundation.topbar.js'></script>
+  </head>
+  <body>
+    <div class='header'>
+      <div class='contain-to-grid'>
+        <nav class='top-bar'>
+          <ul class='title-area'>
+            <li class='name'>
+              <a href='/'>Coot Craig Blog</a>
+            </li>
+            <li class='toggle-topbar menu-icon'>
+              <a href='#'>
+                <span>Menu</span>
+              </a>
+            </li>
+          </ul>
+          <section class='top-bar-section'>
+            <ul class='left'></ul>
+            <ul class='right'>
+              <li>
+                <a href='/blog/'>Blog</a>
+              </li>
+              <li>
+                <a href='#'>Contact</a>
+              </li>
+            </ul>
+          </section>
+        </nav>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='twelve columns'>
+        <h2>Tag: cubox</h2>
+        <div class='row'>
+          <div class='small-8 large-10 columns'>
+            <h3>
+              12 July 2014
+              &raquo;
+              <a href="/blog/2014/07/Arch-Linux-On-Cubox/">Arch Linux On Cubox</a>
+            </h3>
+            <h1 id="key-websites-and-forums">Key Websites and Forums</h1>
+            
+            <ul>
+              <li><a href="http://www.solid-run.com/community/">Solid Run (Cubox Mfgr) Forum</a></li>
+              <li><a href="http://www.runeaudio.com/forum/">Rune Audio Forum</a></li>
+              <li><a href="http://archlinuxarm.org/forum/">Arch Linux ARM Forum</a></li>
+              <li><a href="https://www.archlinux.org/">Arch Linux Forum</a></li>
+              <li><a href="https://planet.archlinux.org/">Planet Arch Linux</a></li>
+              <li><a href="https://bbs.archlinux.org/">Arch Linux BBS</a></li>
+            </ul>
+            
+            <h1 id="log-first-install">Log first install</h1>
+            
+            <p>First up is where to find the install and instructions.</p>
+            
+            <ul>
+              <li><a href="http://archlinuxarm.org/support/faq">Arch Linux Arm FAQ Page</a></li>
+              <li><a href="http://archlinuxarm.org/forum/">Arch Linux Arm Forum</a></li>
+            </ul>
+            
+            <p>Found the Cubox-I on this forum, ARMv7h</p>
+            
+            <h2 id="install-instructions-herehttparchlinuxarmorgplatformsarmv7freescalecubox-i"><a href="http://archlinuxarm.org/platforms/armv7/freescale/cubox-i">Install instructions here</a></h2>
+            
+            <p>See the Installation Tab</p>
+            
+            <h2 id="zero-out-the-first-few-mb-of-the-card-to-remove-any-previous-u-boot-environment">Zero out the first few MB of the card to remove any previous U-Boot environment:</h2>
+            
+            <pre><code>
+            dd if=/dev/zero of=/dev/sdc bs=1M count=4
+            </code></pre>
+            
+            <h2 id="start-fdisk-to-partition-the-sd-card">Start fdisk to partition the SD card:</h2>
+            
+            <pre><code>
+            fdisk /dev/sdc
+            </code></pre>
+            
+            <p>At the fdisk prompt, create the new partitions:</p>
+            
+            <p>Type n, then p for primary, 1 for the first partition on the drive,
+            8192 for the starting sector, and +20M for the ending sector.</p>
+            
+            <p>Type t to set the type, then c to set it to FAT.</p>
+            
+            <p>Type n, then p for primary, 2 for the second partition, 49152 for the
+            first sector, and press ENTER twice to accept default values.</p>
+            
+            <p>Exit by typing w.</p>
+            
+            <h2 id="create-and-mount-the-vfat-filesystem">Create and mount the vfat filesystem:</h2>
+            
+            <pre><code>
+            mkfs.vfat /dev/sdc1
+            mkdir /tmp/boot
+            mount /dev/sdc1 /tmp/boot
+            </code></pre>
+            
+            <h2 id="create-and-mount-the-ext4-filesystem">Create and mount the ext4 filesystem:</h2>
+            
+            <pre><code>
+            mkfs.ext4 /dev/sdc2
+            mkdir /tmp/root
+            mount /dev/sdc2 /tmp/root
+            </code></pre>
+            
+            <h2 id="download-and-extract-the-root-filesystem">Download and extract the root filesystem:</h2>
+            
+            <pre><code>
+            cd /mnt/disk2/linux_distros/
+            wget http://archlinuxarm.org/os/ArchLinuxARM-imx6-cubox-latest.tar.gz
+            tar -xf /mnt/disk2/linux_distros/ArchLinuxARM-imx6-cubox-latest.tar.gz -C /tmp/root
+            </code></pre>
+            
+            <h2 id="move-boot-files-to-the-boot-partition">Move boot files to the boot partition:</h2>
+            
+            <pre><code>
+            mv /tmp/root/boot/* /tmp/boot
+            </code></pre>
+            
+            <h2 id="install-the-u-boot-bootloader">Install the U-Boot bootloader:</h2>
+            
+            <pre><code>
+            dd if=/tmp/boot/SPL of=/dev/sdc bs=512 seek=2
+            dd if=/tmp/boot/u-boot.img of=/dev/sdc bs=1K seek=42
+            </code></pre>
+            
+            <h2 id="unmount-the-partitions">Unmount the partitions</h2>
+            
+            <pre><code>
+            sync
+            umount /tmp/boot
+            umount /tmp/root
+            </code></pre>
+            
+            <h2 id="boot-the-cubox-i">Boot the Cubox-I</h2>
+            
+            <p>Insert the SD card into the Cubox-i contacts uppermost, connect ethernet,
+            and apply 6-12V power.</p>
+            
+            <p>Use the serial console (CN6 micro USB connector) or SSH to the IP address
+            given to the board by your router. The default root password is ‘root’.</p>
+            <hr>
+          </div>
+          <div class='small-4 large-2 columns'>
+            <h5>Tags</h5>
+            <ul class='no-bullet'>
+              <li><a href="/blog/tags/arduino" rel="tag">arduino</a></li>
+              <li><a href="/blog/tags/diy" rel="tag">diy</a></li>
+              <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
+              <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
+              <li><a href="/blog/tags/cellphone" rel="tag">cellphone</a></li>
+              <li><a href="/blog/tags/led" rel="tag">led</a></li>
+              <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
+              <li><a href="/blog/tags/am" rel="tag">am</a></li>
+              <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
+              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
+              <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
+              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
+              <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
+              <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
+              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
+              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
+              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
+              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
+              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
+              <li><a href="/blog/tags/nas" rel="tag">nas</a></li>
+              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
+              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
+              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
+              <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
+              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
+              <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
+              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
+              <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
+              <li><a href="/blog/tags/linux" rel="tag">linux</a></li>
+              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
+              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
+              <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
+              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
+              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
+              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
+              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
+              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
+              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
+              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
+              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
+              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
+              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
+              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
+              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
+              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
+              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
+              <li><a href="/blog/tags/windows_os" rel="tag">windows_os</a></li>
+              <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
+              <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
+              <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
+              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
+              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
+              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
+              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
+              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
+              <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
+              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
+              <li><a href="/blog/tags/cd_player" rel="tag">cd_player</a></li>
+              <li><a href="/blog/tags/philips_cd935" rel="tag">philips_cd935</a></li>
+              <li><a href="/blog/tags/email" rel="tag">email</a></li>
+              <li><a href="/blog/tags/robotics" rel="tag">robotics</a></li>
+              <li><a href="/blog/tags/lp_storage" rel="tag">lp_storage</a></li>
+              <li><a href="/blog/tags/vinyl_lp" rel="tag">vinyl_lp</a></li>
+              <li><a href="/blog/tags/cleaning" rel="tag">cleaning</a></li>
+              <li><a href="/blog/tags/survival" rel="tag">survival</a></li>
+              <li><a href="/blog/tags/hardware" rel="tag">hardware</a></li>
+              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
+              <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
+              <li><a href="/blog/tags/job_hunt" rel="tag">job_hunt</a></li>
+              <li><a href="/blog/tags/gammu" rel="tag">gammu</a></li>
+              <li><a href="/blog/tags/rs232" rel="tag">rs232</a></li>
+              <li><a href="/blog/tags/max232" rel="tag">max232</a></li>
+              <li><a href="/blog/tags/arduino_ide" rel="tag">arduino_ide</a></li>
+              <li><a href="/blog/tags/rails" rel="tag">rails</a></li>
+              <li><a href="/blog/tags/rails-api" rel="tag">rails-api</a></li>
+              <li><a href="/blog/tags/tuned_loop" rel="tag">tuned_loop</a></li>
+              <li><a href="/blog/tags/repair" rel="tag">repair</a></li>
+              <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
+              <li><a href="/blog/tags/bluez" rel="tag">bluez</a></li>
+              <li><a href="/blog/tags/programming" rel="tag">programming</a></li>
+              <li><a href="/blog/tags/pc_audio" rel="tag">pc_audio</a></li>
+              <li><a href="/blog/tags/subwoofer" rel="tag">subwoofer</a></li>
+              <li><a href="/blog/tags/vm_host" rel="tag">vm_host</a></li>
+              <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
+              <li><a href="/blog/tags/debian" rel="tag">debian</a></li>
+              <li><a href="/blog/tags/virtualbox" rel="tag">virtualbox</a></li>
+              <li><a href="/blog/tags/headset" rel="tag">headset</a></li>
+              <li><a href="/blog/tags/ebay" rel="tag">ebay</a></li>
+              <li><a href="/blog/tags/cubox" rel="tag">cubox</a></li>
+              <li><a href="/blog/tags/hardware_hackers" rel="tag">hardware_hackers</a></li>
+              <li><a href="/blog/tags/pickup" rel="tag">pickup</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src='/assets/app.js'></script>
+  </body>
+</html>
