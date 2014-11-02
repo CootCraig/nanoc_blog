@@ -46,6 +46,269 @@
         <div class='row'>
           <div class='small-8 large-10 columns'>
             <h3>
+              03 September 2014
+              &raquo;
+              <a href="/blog/2014/09/debian-7-notes/">Using Debian 7 (Wheezy)</a>
+            </h3>
+            <h1 id="overview---switch-from-lubuntu-to-debian">Overview - Switch from Lubuntu to Debian</h1>
+            
+            <p>Disruptive motivators:</p>
+            
+            <ul>
+              <li>GCS workstations removed from server room</li>
+              <li>GCS VM host running Debian / VirtualBox available</li>
+              <li>
+                <p>HP envy LUG damaged in speed bump incident</p>
+              </li>
+              <li><a href="http://debian-handbook.info/browse/wheezy/index.html">Debian 7 Administrator’s Handbook</a></li>
+            </ul>
+            
+            <h1 id="netinstall---then-">Netinstall - then …</h1>
+            
+            <h2 id="basic-dev-tools-compilervimtmuxgit">BASIC DEV. TOOLS: COMPILER,VIM,TMUX,GIT</h2>
+            
+            <h3 id="compiler-and-build-tools">Compiler and build tools</h3>
+            
+            <pre><code>
+            sudo apt-get install build-essential checkinstall libtool automake uuid-dev
+            </code></pre>
+            
+            <h3 id="vim-or-vim-gtktmuxgit">vim (or vim-gtk),tmux,git</h3>
+            
+            <pre><code>
+            sudo apt-get install vim tmux git
+            </code></pre>
+            
+            <h3 id="personalize-git">Personalize git</h3>
+            
+            <pre><code>
+            git config --global user.name "Your Name Here"
+             # Sets the default name for git to use when you commit
+            
+            git config --global user.email "your_email@example.com"
+             # Sets the default email for git to use when you commit
+            </code></pre>
+            
+            <h3 id="install-the-rsa-public-key-on-my-github-account">Install the rsa public key on my github account</h3>
+            
+            <pre><code>
+            ssh-keygen
+            </code></pre>
+            
+            <h3 id="then-clone-the-vim-config-and-install">Then clone the vim config and install</h3>
+            
+            <pre><code>
+            cd
+            git clone git@github.com:CootCraig/dotfiles_again.git
+            cd ~/dotfiles_again/linux
+            bash install.sh
+            </code></pre>
+            
+            <p>Look at
+            /home/craig/dotfiles_again/windows/vimfiles/bundle/Readme.txt
+            for setting up the vim bundles.</p>
+            
+            <h3 id="arrange-for-mounting-windows-shares">arrange for mounting windows shares</h3>
+            
+            <pre><code>
+            apt-get install cifs-utils winbind
+            </code></pre>
+            
+            <p>Add the shares to mount.  Sample entry in /etc/fstab</p>
+            
+            <pre><code>
+            //gcs3/f$/GIT /media/gcsgit cifs rw,noauto,credentials=/home/craig/gcsww_canderson.txt,uid=craig 0 0
+            </code></pre>
+            
+            <p>Template credentials file</p>
+            
+            <pre><code>
+            username=a_user
+            password=a_password
+            domain=gcsww
+            </code></pre>
+            
+            <h2 id="java-se-8u20">Java SE 8u20</h2>
+            
+            <ul>
+              <li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java downloads</a></li>
+            </ul>
+            
+            <p>Extracted jdk tar to /opt/java. Make external link.</p>
+            
+            <pre><code>
+            /opt/java/jdk -&gt; /opt/java/jdk1.8.0_20/
+            </code></pre>
+            
+            <p>Modified /etc/profile</p>
+            
+            <pre><code>
+            if [ "`id -u`" -eq 0 ]; then
+              PATH="/opt/java/jdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+            else
+              PATH="/opt/java/jdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
+            fi
+            </code></pre>
+            
+            <h2 id="jruby">JRuby</h2>
+            
+            <ul>
+              <li><a href="http://jruby.org.s3.amazonaws.com/downloads/1.7.15/jruby-bin-1.7.15.tar.gz">Download JRuby 1.7.15</a></li>
+            </ul>
+            
+            <p>Unpacked to /opt/jruby.  Make symbolic link:</p>
+            
+            <pre><code>
+            /opt/ruby/jruby -&gt; /opt/ruby/jruby-1.7.15/
+            </code></pre>
+            
+            <p>Added /opt/ruby/jruby/bin to path in /etc/profile</p>
+            
+            <h2 id="vm-guest-use-xorg-dummy-driver">vm guest use xorg dummy driver</h2>
+            
+            <h2 id="xfce-desktop">xfce desktop</h2>
+            
+            <ul>
+              <li><a href="http://forums.debian.net/viewtopic.php?f=30&amp;t=71753#p400052">Installing xfce after netinstall</a></li>
+            </ul>
+            
+            <pre><code>
+            sudo apt-get install xorg xfce4 gdm3 xfce4-goodies
+            </code></pre>
+            
+            <p>Package: xserver-xorg-video-dummy (1:0.3.5-2 and others)
+            X.Org X server – dummy display driver
+            This package provides a ‘dummy’ display driver, which does not actually display anything.</p>
+            
+            <p>http://xpra.org/xorg.conf</p>
+            
+            <p>HOWTO: headless, custom xorg resolution/modeline with vnc access to display 0 console
+            http://ubuntuforums.org/showthread.php?t=1832456</p>
+            
+            <p>(This HOWTO will cover different aspects you might not need all of this, but if you need a) a custom resolution b) setup headless access c) access to the console (display :0)remotely part of this may be useful to you.)</p>
+            
+            <p>So this was going to be a question but it turned into a HOWTO after spending hours on this. </p>
+            
+            <p>PROBLEM #1: I needed remote access to the console (display :0) of a server from a laptop because I needed to access the audio hardware (though I’m sure there are different reasons one needs access to :0) so nx, tightvnc, xvnc were all out. 
+            PROBLEM #2: The server had no monitor attached
+            PROBLEM #3: I was connecting with a laptop that had a resolution of 1280x800 but of course windows (and other OSes) have a task bar, so the actually workable area is less than that. I needed a resolution of 1224x685 (not your typical resolution).
+            PROBLEM #4: need the vnc server to start at boot to allow login from the server (no monitor).</p>
+            
+            <p>1) Install x11vnc (this seems to be the only vnc server I found that allows console access, nomachine 4 (coming soon) and nomachine 3 have some form of ‘physical screen’ access, but I had a hard time with managing the audio hardware with that so I needed to use vnc.</p>
+            
+            <p>http://askubuntu.com/questions/390113/x11vnc-much-slower-than-xvnc-how-to-get-a-xubuntu-session-manually</p>
+            
+            <p>http://www.arachnoid.com/modelines/index.html</p>
+            
+            <p>Headless VNC-Server using xvfb
+            http://gpio.kaltpost.de/?page_id=84</p>
+            
+            <p>Xvfb on Debian 7 
+            https://github.com/tansaku/LocalSupport/wiki/Xvfb-on-Debian-7</p>
+            
+            <p>How to use RDP from Windows to connect to Debian or Ubuntu machine
+            http://blog.technotesdesk.com/how-to-use-rdp-from-windows-to-connect-to-debian-or-ubuntu-machine/</p>
+            
+            <h1 id="jruby-1">JRuby</h1>
+            
+            <h1 id="desktop-howto">Desktop howto</h1>
+            
+            <h2 id="xfce-desktop-1">XFCE desktop</h2>
+            
+            <h3 id="use-xfce-410-on-debian-7">Use xfce 4.10 on Debian 7</h3>
+            
+            <ul>
+              <li><a href="https://thestandardoutput.com/2014/02/running-xfce-4-10-on-debian-7-4/">Blog with notes for xfce from testing</a></li>
+            </ul>
+            
+            <h3 id="config-notes">Config notes</h3>
+            
+            <h2 id="multiple-monitors">multiple monitors</h2>
+            
+            <h3 id="arandr-to-generate-monitor-set-script">arandr to generate monitor set script</h3>
+            
+            <h1 id="windows-netbios-names">Windows netbios names</h1>
+            
+            <ul>
+              <li><a href="https://www.zulius.com/how-to/resolve-windows-netbios-names-from-linux/">Resolve Windows netbios names from Linux</a></li>
+            </ul>
+            
+            <h1 id="virtual-box-autostart-guest">Virtual Box autostart guest</h1>
+            
+            <ul>
+              <li><a href="http://www.vionblog.com/virtualbox-4-3-autostart-debian-wheezy/">VirtualBox 4.3 autostart on Debian wheezy</a></li>
+            </ul>
+            
+            <p>https://wiki.debian.org/VirtualBox#Kernel_driver_not_installed_.28rc.3D-1908.29</p>
+            
+            <h1 id="debian-service-management">Debian service management</h1>
+            
+            <ul>
+              <li><a href="https://wiki.debian.org/LSBInitScripts/DependencyBasedBoot">Debian LSB based service install</a></li>
+            </ul>
+            <hr>
+            <h3>
+              11 September 2014
+              &raquo;
+              <a href="/blog/2014/09/Postgresql/">PostgreSQL Notes</a>
+            </h3>
+            <ul>
+              <li><a href="https://wiki.postgresql.org/wiki/Apt">PostgreSQL packages for Debian and Ubuntu</a></li>
+              <li><a href="http://www.pontikis.net/blog/postgresql-9-debian-7-wheezy">How to Install PostgreSQL 9.3 on Debian 7 Wheezy</a></li>
+              <li><a href="http://www.postgresql.org/docs/9.3/static/index.html">PostgreSQL 9.3.5 Documentation</a></li>
+            </ul>
+            <hr>
+            <h3>
+              07 September 2014
+              &raquo;
+              <a href="/blog/2014/09/linux-tricks/">Linux Tricks</a>
+            </h3>
+            <h1 id="find-os-version">Find OS version</h1>
+            
+            <h2 id="debian">debian</h2>
+            
+            <pre><code>
+            $ lsb_release -a
+            No LSB modules are available.
+            Distributor ID:	Debian
+            Description:	Debian GNU/Linux 7.6 (wheezy)
+            Release:	7.6
+            Codename:	wheezy
+            </code></pre>
+            
+            <h1 id="scraping-web-sites">Scraping Web Sites</h1>
+            
+            <p>wget can get a local copy of a url.</p>
+            
+            <pre><code>
+            wget  --convert-links --adjust-extension --page-requisites --no-parent http://www.guitaralive.org/playlist_14_31.html
+            
+            wget  --convert-links --adjust-extension --page-requisites --no-parent http://www.cpr.org/classical/playlist
+            </code></pre>
+            
+            <p>HTML Tidy can be used as part of editing the scraped HTML</p>
+            
+            <ul>
+              <li><a href="http://infohound.net/tidy/">HTML Tidy Online</a></li>
+            </ul>
+            
+            <h1 id="archive-and-compression">Archive and Compression</h1>
+            
+            <h2 id="zip-tar-archives">7zip tar archives</h2>
+            
+            <pre><code>
+            apt-get install p7zip-full
+            7z a archive.tar.7z archive.tar
+            </code></pre>
+            <hr>
+            <h3>
+              10 September 2014
+              &raquo;
+              <a href="/blog/2014/09/debian-vm-remote-dummy-x/">Debian Remote Dummy X on Virtual Box</a>
+            </h3>
+            
+            <hr>
+            <h3>
               09 May 2014
               &raquo;
               <a href="/blog/2014/05/debian-vmhost/">Debian Virtualbox Host</a>
@@ -142,6 +405,114 @@
             <pre><code>
             code
             </code></pre>
+            <hr>
+            <h3>
+              27 July 2014
+              &raquo;
+              <a href="/blog/2014/07/trash-rolloff/">Pueblo trash roll offs</a>
+            </h3>
+            <p>==================== from yellow pages
+            C&amp;C Disposal
+            582-8940</p>
+            
+            <p>C-Spicola’s Roll-Off Service
+            546-9488</p>
+            
+            <p>A-Affordable Disposal
+            542-8757</p>
+            
+            <p>====================
+            Waste Connections of Pueblo</p>
+            
+            <p>$300.00 10 days
+            20 yards
+            7.5 x 4 x 22</p>
+            
+            <p>10 yard
+            7.5 x 3.5 x 14 
+            $300.00 10 days</p>
+            
+            <p>end gate? yes for both</p>
+            
+            <hr />
+            
+            <p>Waste Connections of Pueblo</p>
+            
+            <p>http://wcpueblo.rtrk.com/?scid=3084219&amp;kw=1933994:18209&amp;pub_cr_id=37977018385</p>
+            
+            <p>Dumpster Sizes</p>
+            
+            <p>2 yard
+            3 yard
+            4 yard
+            6 yard
+            8 yard
+            Roll-off Sizes</p>
+            
+            <p>10 Yard Size: 14’ x 8’ x 3’
+            20 Yard Size: 22’ x 8’ x 3’5”
+            30 Yard Size: 22’ x 8’ x 5’
+            40 Yard Size: 22’ x 8’ x 7’</p>
+            
+            <p>Copyright © 2014 Waste Connections of Colorado Inc.
+            28900 E Hwy 96 - Pueblo, Colorado 81001
+            Phone 719-423-6639 - Fax 719-948-3652</p>
+            
+            <p>=======================
+            http://www.ccdisposalco.com/RollOffs/tabid/1764/Default.aspx
+            C&amp;C Disposal
+            582-8940</p>
+            
+            <p>Roll-Offs</p>
+            
+            <p>Our locally owned business offers multiple dumpster sizes  for large disposal rental to meet your needs. Roll off dumpster rental sizes are measured in cubic yards. We’ve included the dumpster dimensions for each of these roll off dumpster sizes below.  If you have questions about renting or the size you might need, please call us at 719-647-9100.</p>
+            
+            <p>Roll-Off and Large Dumpster Rental Terms
+            6 Yard Dumpster</p>
+            
+            <p>A 6 yard dumpster can hold 6 cubic yards of waste. Dumpster dimensions for a 6 yard dumpster are: 6 ft. deep by 5 ft. 6 in. wide by 6ft. high. This dumpster is great for yard, garage, estate and remodel clean ups. If you have limited space for a container or a clean up that may take you several weekends this is the dumpster for you. Rental options ranging from one time pick up to monthly rental that includes a weekly pick up.</p>
+            
+            <p>month 4 pickups - 280.</p>
+            
+            <p>10 Yard Dumpster</p>
+            
+            <p>A 10 yard dumpster can hold 10 cubic yards of waste. Dumpster dimensions for the 10 yard dumpster are: 12 ft. long by 8 ft. wide by 4 ft. high. There’s no perfect way to choose dumpster sizes, but a 10 yard dumpster may be appropriate for a small basement or garage cleanout; removing a 250 sq. ft deck; removing 1500 sq. ft. of single layer roof shingles; yard debris cleanup, or a small kitchen &amp; bath remodeling job.</p>
+            
+            <p>15 day - $280</p>
+            
+            <p>20 Yard Dumpster</p>
+            
+            <p>A 20 yard dumpster holds 20 cubic yards of waste. Dumpster dimensions for a 20 yard dumpster are: 20 ft. long by 8 ft. wide by 4 ft. high. A 20 yard dumpster may be the right dumpster size for a large basement, attic, or garage cleanup; flooring and carpet removal for a large house; 300 to 400 square feet of deck removal; or 2500 to 3000 sq. ft. of single layer roof shingle removal.</p>
+            
+            <p>15 day - $300</p>
+            
+            <p>30 Yard Dumpster</p>
+            
+            <p>A 30 yard dumpster holds 30 cubic yards of waste. Dumpster dimensions for a 30 yard dumpster are: 22 ft. long by 8 ft. wide by 6 ft. high. A 30 yard dumpster may be the right dumpster size for a major home addition; construction of a new home; demolition of a garage; or entire house window or siding replacement for a small to medium size home.</p>
+            
+            <p>40 Yard Dumpster</p>
+            
+            <p>A 40 yard dumpster holds 40 cubic yards of waste. Dumpster dimensions for a 40 yard dumpster are: 22 ft. long by 8 ft. wide by 8 ft. high. A 40 yard dumpster may be appropriate for window or siding replacement for a large home; commercial roof tear off; commercial cleanout; new construction or major addition; large amount of trash, paper, or cardboard.</p>
+            
+            <p>40 Yard Compactor Receiver</p>
+            
+            <p>A 40 yard compacter receiver is ideal for businesses with an extremely high volume of waste.  This compacter receiver requires a permanent installation of a stationary compactor that packs waste into a 40 yard receiver box.</p>
+            
+            <p>===================================
+            C-Spicola’s Roll-Off Services
+            ===================================</p>
+            
+            <hr />
+            
+            <p>A-Affordable Disposal
+            542-8757</p>
+            
+            <p>15 yard
+            17 x 8 x 5
+            $285 30 days. 1 pickup.</p>
+            
+            <p>none
+            Sept. 8.</p>
             <hr>
             <h3>
               12 July 2014
@@ -255,8 +626,9 @@
           <div class='small-4 large-2 columns'>
             <h5>Tags</h5>
             <ul class='no-bullet'>
-              <li><a href="/blog/tags/arduino" rel="tag">arduino</a></li>
               <li><a href="/blog/tags/diy" rel="tag">diy</a></li>
+              <li><a href="/blog/tags/arduino" rel="tag">arduino</a></li>
+              <li><a href="/blog/tags/linux" rel="tag">linux</a></li>
               <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
               <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
               <li><a href="/blog/tags/cellphone" rel="tag">cellphone</a></li>
@@ -264,54 +636,27 @@
               <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
               <li><a href="/blog/tags/am" rel="tag">am</a></li>
               <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
-              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
+              <li><a href="/blog/tags/debian" rel="tag">debian</a></li>
               <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
-              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
-              <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
               <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
-              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
-              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
-              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
-              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
-              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
-              <li><a href="/blog/tags/nas" rel="tag">nas</a></li>
-              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
-              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
-              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
-              <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
+              <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
+              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
+              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
               <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
+              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
+              <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
               <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
-              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
+              <li><a href="/blog/tags/nas" rel="tag">nas</a></li>
+              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
+              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
+              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
+              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
               <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
-              <li><a href="/blog/tags/linux" rel="tag">linux</a></li>
-              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
-              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
-              <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
-              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
-              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
-              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
-              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
-              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
-              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
-              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
-              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
-              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
-              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
-              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
-              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
-              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
-              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
-              <li><a href="/blog/tags/windows_os" rel="tag">windows_os</a></li>
-              <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
-              <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
-              <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
-              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
-              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
-              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
-              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
-              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
+              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
+              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
+              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
+              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
               <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
-              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
               <li><a href="/blog/tags/cd_player" rel="tag">cd_player</a></li>
               <li><a href="/blog/tags/philips_cd935" rel="tag">philips_cd935</a></li>
               <li><a href="/blog/tags/email" rel="tag">email</a></li>
@@ -321,8 +666,6 @@
               <li><a href="/blog/tags/cleaning" rel="tag">cleaning</a></li>
               <li><a href="/blog/tags/survival" rel="tag">survival</a></li>
               <li><a href="/blog/tags/hardware" rel="tag">hardware</a></li>
-              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
-              <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
               <li><a href="/blog/tags/job_hunt" rel="tag">job_hunt</a></li>
               <li><a href="/blog/tags/gammu" rel="tag">gammu</a></li>
               <li><a href="/blog/tags/rs232" rel="tag">rs232</a></li>
@@ -332,20 +675,48 @@
               <li><a href="/blog/tags/rails-api" rel="tag">rails-api</a></li>
               <li><a href="/blog/tags/tuned_loop" rel="tag">tuned_loop</a></li>
               <li><a href="/blog/tags/repair" rel="tag">repair</a></li>
-              <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
               <li><a href="/blog/tags/bluez" rel="tag">bluez</a></li>
               <li><a href="/blog/tags/programming" rel="tag">programming</a></li>
               <li><a href="/blog/tags/pc_audio" rel="tag">pc_audio</a></li>
               <li><a href="/blog/tags/subwoofer" rel="tag">subwoofer</a></li>
               <li><a href="/blog/tags/vm_host" rel="tag">vm_host</a></li>
-              <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
-              <li><a href="/blog/tags/debian" rel="tag">debian</a></li>
               <li><a href="/blog/tags/virtualbox" rel="tag">virtualbox</a></li>
               <li><a href="/blog/tags/headset" rel="tag">headset</a></li>
               <li><a href="/blog/tags/ebay" rel="tag">ebay</a></li>
               <li><a href="/blog/tags/cubox" rel="tag">cubox</a></li>
               <li><a href="/blog/tags/hardware_hackers" rel="tag">hardware_hackers</a></li>
               <li><a href="/blog/tags/pickup" rel="tag">pickup</a></li>
+              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
+              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
+              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
+              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
+              <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
+              <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
+              <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
+              <li><a href="/blog/tags/windows_os" rel="tag">windows_os</a></li>
+              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
+              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
+              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
+              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
+              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
+              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
+              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
+              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
+              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
+              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
+              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
+              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
+              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
+              <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
+              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
+              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
+              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
+              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
+              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
+              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
+              <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
+              <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
+              <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
             </ul>
           </div>
         </div>

@@ -1,3 +1,9 @@
+---
+title: "Pueblo trash roll offs"
+created_at: Sun Jul  27 08:03:45 MDT 2014
+kind: article
+tags: [ 'linux', 'debian' ]
+---
 
 ==================== from yellow pages
 C&C Disposal
