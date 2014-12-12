@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>
+      Coot Craig Blog
+      Setup up work Gitlab server
+    </title>
+    <link href='/assets/app.css' rel='stylesheet'>
+    <script src='/assets/modernizr.js'></script>
+    <script src='/assets/jquery-2.0.3.min.js'></script>
+    <script src='/assets/foundation.js'></script>
+    <script src='/assets/foundation.topbar.js'></script>
+  </head>
+  <body>
+    <div class='header'>
+      <div class='contain-to-grid'>
+        <nav class='top-bar'>
+          <ul class='title-area'>
+            <li class='name'>
+              <a href='/'>Coot Craig Blog</a>
+            </li>
+            <li class='toggle-topbar menu-icon'>
+              <a href='#'>
+                <span>Menu</span>
+              </a>
+            </li>
+          </ul>
+          <section class='top-bar-section'>
+            <ul class='left'></ul>
+            <ul class='right'>
+              <li>
+                <a href='/blog/'>Blog</a>
+              </li>
+              <li>
+                <a href='#'>Contact</a>
+              </li>
+            </ul>
+          </section>
+        </nav>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='twelve columns'>
+        <div class='post'>
+          <h3>Setup up work Gitlab server</h3>
+          <aside>Posted on Tuesday, December 9 2014</aside>
+          <article>
+            
+            <p>Current ip address</p>
+            
+            <pre><code>
+            192.168.88.182
+            ssh 192.168.88.182
+            </code></pre>
+            
+            <h1 id="gitlab-server-for-work">Gitlab server for work.</h1>
+            
+            <ul>
+              <li><a href="https://bitnami.com/stack/gitlab">Bitnami Gitlab</a></li>
+              <li><a href="https://bitnami.com/stack/gitlab/virtual-machine">GitLab Virtual Machines</a></li>
+              <li><a href="https://bitnami.com/redirect/to/46875/bitnami-gitlab-7.5.3-0-ubuntu-14.04.zip">Bitnami Gitlam vm - Ubuntu 14.04 - GitLab 7.5.3-0 (64-bit)</a></li>
+              <li><a href="https://wiki.bitnami.com/Virtual_Appliances_Quick_Start_Guide#How_to_start_your_Bitnami_Virtual_Appliance.3f">Virtual Appliances Quick Start Guide</a></li>
+              <li><a href="http://www.mechonomics.com/configuring-the-bitnami-gitlab-virtual-machine/">mechonomics.com - Configuring the BitNami GitLab Virtual Machine</a></li>
+              <li><a href="http://geekwerks.ca/2014/10/05/fixing-bitnami-gitlab.html">Geekwerks - Fixing Bitnami GitLab - ssh problem</a></li>
+              <li><a href="https://soundcloud.com/radio-bitnami/bitnami-interview-gitlab">Radio Bitnami - gitlab interview</a></li>
+              <li>
+                <p><a href="http://www.whaleblubber.ca/gitlabhq-revision-control/">WhaleBlubber - Self-hosted GitLab Server for Private Revision Control</a></p>
+              </li>
+              <li><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-gitlab-as-your-very-own-private-github-clone">DigitalOcean Guide</a></li>
+              <li><a href="http://divante.co/blog/playing-git-gitlab/">Playing with Git? Use GitLab!</a></li>
+            </ul>
+            
+            <h2 id="bitnami-vm">Bitnami VM</h2>
+            
+            <h3 id="review---10182014---easy-to-install-and-configure---by-nacho-sanchez">Review - 10/18/2014 - Easy to install and configure - By Nacho Sanchez</h3>
+            
+            <p>Installation takes 5 minutes, and configuration is very easy since they
+            include links to FAQs and basic stuff you should know.</p>
+            
+            <p>Configuring the email can get tricky, so here is the basic stuff:</p>
+            
+            <ul>
+              <li><a href="http://wiki.bitnami.com/Applications/BitNami_GitLab">bitnami wiki on GitLab</a></li>
+            </ul>
+            
+            <p>Be careful with the host and port, since it sets the ones where the
+            machine installs by default, but if you then assign a static IP you must
+            change them manually.</p>
+            
+            <h2 id="use-debian-stable-wheezy">Use Debian stable wheezy</h2>
+            
+            <p><a href="http://cdimage.debian.org/debian-cd/7.7.0/amd64/iso-cd/debian-7.7.0-amd64-netinst.iso">Debian 7.7 net install iso</a></p>
+            
+            <p>The current “stable” distribution of Debian is version 7, codenamed
+            wheezy. It was initially released as version 7.0 on May 4th, 2013 and
+            its latest update, version 7.7, was released on October 18th, 2014.</p>
+            
+            <h2 id="base-install">Base install</h2>
+            
+            <p>Hostname: gitlab.gcsww.local</p>
+            
+            <pre><code>
+            Software Selection
+            ---------------------
+            remove Debian desktop environment
+            leave Print server
+            Add SSH server
+            remove laptop
+            </code></pre>
+            
+            <pre><code>
+            apt-get update
+            apt-get dist-upgrade
+            
+            apt-get install vim
+            apt-get install tmux
+            apt-get install git
+            apt-get install sudo
+            
+            adduser craig sudo
+            
+            git config --global user.name "Your Name Here"
+             Sets the default name for git to use when you commit
+            
+            git config --global user.email "your_email@example.com"
+             Sets the default email for git to use when you commit
+            </code></pre>
+            
+            <pre><code>
+            ssh-copy-id -i ~/.ssh/id_rsa.pub 192.168.88.182
+            ssh 192.168.88.182
+            </code></pre>
+            
+            <h2 id="gitlab-install--setup">Gitlab install / Setup</h2>
+            
+            <h3 id="i-want-to-install-gitlab-on-debian-7">I want to install GitLab on Debian 7</h3>
+            
+            <ul>
+              <li><a href="https://about.gitlab.com/downloads/">gitlab download page</a></li>
+            </ul>
+            
+            <h4 id="from-debian-7-selection">From Debian 7 selection</h4>
+            
+            <pre><code>
+            wget https://downloads-packages.s3.amazonaws.com/debian-7.6/gitlab_7.5.3-omnibus.5.2.1.ci-1_amd64.deb
+            sudo apt-get install openssh-server
+            sudo apt-get install postfix # Select 'Internet Site', using sendmail instead also works, exim has problems
+            
+            Suggested packages:
+              postfix-mysql postfix-pgsql postfix-ldap postfix-pcre sasl2-bin dovecot-common resolvconf postfix-cdb ufw postfix-doc
+            The following packages will be REMOVED:
+              exim4 exim4-base exim4-config exim4-daemon-light
+            The following NEW packages will be installed:
+              postfix
+            
+             Internet site:                                                                                                               
+              │   Mail is sent and received directly using SMTP. 
+            
+            System mail name:                                                                                                                                                 │     
+                │                                                                                                                                                                   │     
+                │ gitlab.gcsww.com
+            
+            sudo dpkg -i gitlab_7.5.3-omnibus.5.2.1.ci-1_amd64.deb
+            
+            Setting up gitlab (7.5.3-omnibus.5.2.1.ci-1) ...
+            Thank you for installing GitLab!
+            Configure and start GitLab by running the following command:
+            
+            sudo gitlab-ctl reconfigure
+            
+            GitLab should be reachable at gitlab.gcsww.com
+            Otherwise configure GitLab for your system by editing /etc/gitlab/gitlab.rb file
+            And running reconfigure again.
+            
+            gitlab-ctl reconfigure
+            </code></pre>
+            
+            <p>reconfigure failed the first time. Edit /etc/gitlab/gitlab.rb</p>
+            
+            <pre><code>
+            2c2
+            &lt; external_url 'gitlab.gcsww.com'
+            ---
+            &gt; external_url 'http://gitlab.gcsww.com'
+            </code></pre>
+            
+            <p>Browse to the hostname and login</p>
+            
+            <pre><code>
+            Username: root
+            Password: 5iveL!fe 
+            </code></pre>
+            
+            <p>Changed password to</p>
+            
+            <pre><code>
+            butterknife
+            </code></pre>
+            
+            <p>Need to configure postfix</p>
+            
+            <p>https://www.linode.com/docs/email/postfix/postfix-smtp-debian7</p>
+          </article>
+        </div>
+      </div>
+    </div>
+    <script src='/assets/app.js'></script>
+  </body>
+</html>
+
