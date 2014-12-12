@@ -46,6 +46,29 @@
         <div class='row'>
           <div class='small-8 large-10 columns'>
             <h3>
+              12 December 2014
+              &raquo;
+              <a href="/blog/2014/12/Secure-Debian-https-ssh/">How to secure Debian https ssh</a>
+            </h3>
+            <h2 id="goal">Goal</h2>
+            
+            <p>Reasonable security for  public Debian 7 server with:</p>
+            
+            <ul>
+              <li>https</li>
+              <li>ssh</li>
+            </ul>
+            
+            <h2 id="research">Research</h2>
+            
+            <ul>
+              <li><a href="https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html">Securing Debian Manual</a></li>
+              <li>Package: harden (0.1.38+nmu1) </li>
+              <li><a href="http://unix.stackexchange.com/questions/30838/hardening-debian">Stack Exchange - hardening-debian</a></li>
+              <li><a href="http://noobsysadmin.wordpress.com/2014/03/05/hardening-your-linux-debian-7-wheezy-part-1/">Noobsysadmin - Hardening your Linux Debian 7 Wheezy – Part 1</a></li>
+            </ul>
+            <hr>
+            <h3>
               09 December 2014
               &raquo;
               <a href="/blog/2014/12/i3wm/">Notes on i3wm</a>
@@ -66,51 +89,19 @@
             ssh 192.168.88.182
             </code></pre>
             
-            <h1 id="gitlab-server-for-work">Gitlab server for work.</h1>
+            <h2 id="gitlab-community-edition-omnibus-package-for-debian-7">GitLab Community Edition Omnibus package for Debian 7</h2>
             
             <ul>
-              <li><a href="https://bitnami.com/stack/gitlab">Bitnami Gitlab</a></li>
-              <li><a href="https://bitnami.com/stack/gitlab/virtual-machine">GitLab Virtual Machines</a></li>
-              <li><a href="https://bitnami.com/redirect/to/46875/bitnami-gitlab-7.5.3-0-ubuntu-14.04.zip">Bitnami Gitlam vm - Ubuntu 14.04 - GitLab 7.5.3-0 (64-bit)</a></li>
-              <li><a href="https://wiki.bitnami.com/Virtual_Appliances_Quick_Start_Guide#How_to_start_your_Bitnami_Virtual_Appliance.3f">Virtual Appliances Quick Start Guide</a></li>
-              <li><a href="http://www.mechonomics.com/configuring-the-bitnami-gitlab-virtual-machine/">mechonomics.com - Configuring the BitNami GitLab Virtual Machine</a></li>
-              <li><a href="http://geekwerks.ca/2014/10/05/fixing-bitnami-gitlab.html">Geekwerks - Fixing Bitnami GitLab - ssh problem</a></li>
-              <li><a href="https://soundcloud.com/radio-bitnami/bitnami-interview-gitlab">Radio Bitnami - gitlab interview</a></li>
-              <li>
-                <p><a href="http://www.whaleblubber.ca/gitlabhq-revision-control/">WhaleBlubber - Self-hosted GitLab Server for Private Revision Control</a></p>
-              </li>
-              <li><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-gitlab-as-your-very-own-private-github-clone">DigitalOcean Guide</a></li>
-              <li><a href="http://divante.co/blog/playing-git-gitlab/">Playing with Git? Use GitLab!</a></li>
+              <li><a href="http://cdimage.debian.org/debian-cd/7.7.0/amd64/iso-cd/debian-7.7.0-amd64-netinst.iso">Debian 7.7 net install iso</a></li>
             </ul>
-            
-            <h2 id="bitnami-vm">Bitnami VM</h2>
-            
-            <h3 id="review---10182014---easy-to-install-and-configure---by-nacho-sanchez">Review - 10/18/2014 - Easy to install and configure - By Nacho Sanchez</h3>
-            
-            <p>Installation takes 5 minutes, and configuration is very easy since they
-            include links to FAQs and basic stuff you should know.</p>
-            
-            <p>Configuring the email can get tricky, so here is the basic stuff:</p>
-            
-            <ul>
-              <li><a href="http://wiki.bitnami.com/Applications/BitNami_GitLab">bitnami wiki on GitLab</a></li>
-            </ul>
-            
-            <p>Be careful with the host and port, since it sets the ones where the
-            machine installs by default, but if you then assign a static IP you must
-            change them manually.</p>
-            
-            <h2 id="use-debian-stable-wheezy">Use Debian stable wheezy</h2>
-            
-            <p><a href="http://cdimage.debian.org/debian-cd/7.7.0/amd64/iso-cd/debian-7.7.0-amd64-netinst.iso">Debian 7.7 net install iso</a></p>
             
             <p>The current “stable” distribution of Debian is version 7, codenamed
             wheezy. It was initially released as version 7.0 on May 4th, 2013 and
             its latest update, version 7.7, was released on October 18th, 2014.</p>
             
-            <h2 id="base-install">Base install</h2>
+            <h3 id="base-install">Base install</h3>
             
-            <p>Hostname: gitlab.gcsww.local</p>
+            <p>Hostname: gitlab.gcsww.com</p>
             
             <pre><code>
             Software Selection
@@ -140,13 +131,10 @@
             </code></pre>
             
             <pre><code>
-            ssh-copy-id -i ~/.ssh/id_rsa.pub 192.168.88.182
-            ssh 192.168.88.182
+            ssh-copy-id -i ~/.ssh/id_rsa.pub $host
             </code></pre>
             
-            <h2 id="gitlab-install--setup">Gitlab install / Setup</h2>
-            
-            <h3 id="i-want-to-install-gitlab-on-debian-7">I want to install GitLab on Debian 7</h3>
+            <h3 id="gitlab-install--setup">Gitlab install / Setup</h3>
             
             <ul>
               <li><a href="https://about.gitlab.com/downloads/">gitlab download page</a></li>
@@ -204,15 +192,188 @@
             Password: 5iveL!fe 
             </code></pre>
             
-            <p>Changed password to</p>
-            
-            <pre><code>
+            <p>Change password.
+            <!-- 
             butterknife
-            </code></pre>
+             --> </p>
+            
+            <h3 id="smtp-access-to-mailcootnet">smtp access to mail.coot.net</h3>
+            
+            <ul>
+              <li>server name: mail.coot.net</li>
+              <li>port: 26</li>
+              <li>user name: craig@coot.net</li>
+              <li>Authentication method: Normal password</li>
+              <li>Connection Security: STARTTLS</li>
+            </ul>
+            
+            <!-- grand.blue.piano.1952 -->
+            
+            <h3 id="postfix-configuration">postfix configuration</h3>
             
             <p>Need to configure postfix</p>
             
-            <p>https://www.linode.com/docs/email/postfix/postfix-smtp-debian7</p>
+            <pre><code>$ hostname --fqdn
+            gitlab.gcsww.com
+            </code></pre>
+            
+            <pre><code>$ postconf -n
+            alias_database = hash:/etc/aliases
+            alias_maps = hash:/etc/aliases
+            append_dot_mydomain = no
+            biff = no
+            config_directory = /etc/postfix
+            inet_interfaces = all
+            mailbox_command = procmail -a "$EXTENSION"
+            mailbox_size_limit = 0
+            mydestination = gitlab.gcsww.com, localhost.gcsww.com, , localhost
+            myhostname = gitlab.gcsww.com
+            mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128
+            myorigin = /etc/mailname
+            readme_directory = no
+            recipient_delimiter = +
+            relayhost =
+            smtp_tls_session_cache_database = btree:${data_directory}/smtp_scache
+            smtpd_banner = $myhostname ESMTP $mail_name (Debian/GNU)
+            smtpd_tls_cert_file = /etc/ssl/certs/ssl-cert-snakeoil.pem
+            smtpd_tls_key_file = /etc/ssl/private/ssl-cert-snakeoil.key
+            smtpd_tls_session_cache_database = btree:${data_directory}/smtpd_scache
+            smtpd_use_tls = yes
+            </code></pre>
+            
+            <h4 id="postfix-on-a-null-client">Postfix on a null client</h4>
+            
+            <p>A null client is a machine that can only send mail. It receives no mail
+            from the network, and it does not deliver any mail locally. A null client
+            typically uses POP, IMAP or NFS for mailbox access.</p>
+            
+            <ol>
+              <li>/etc/postfix/main.cf:</li>
+              <li>myhostname = hostname.example.com</li>
+              <li>myorigin = $mydomain</li>
+              <li>relayhost = $mydomain</li>
+              <li>inet_interfaces = loopback-only</li>
+              <li>mydestination =</li>
+            </ol>
+            
+            <p>Translation:</p>
+            
+            <ul>
+              <li>Line 2: Set myhostname to hostname.example.com, in case the machine name isn’t set to a fully-qualified domain name (use the command “postconf -d myhostname” to find out what the machine name is).</li>
+              <li>Line 2: The myhostname value also provides the default value for the mydomain parameter (here, “mydomain = example.com”).</li>
+              <li>Line 3: Send mail as “user@example.com” (instead of “user@hostname.example.com”), so that nothing ever has a reason to send mail to “user@hostname.example.com”.</li>
+              <li>Line 4: Forward all mail to the mail server that is responsible for the “example.com” domain. This prevents mail from getting stuck on the null client if it is turned off while some remote destination is unreachable. Specify a real hostname here if your “example.com” domain has no MX record.</li>
+              <li>Line 5: Do not accept mail from the network.</li>
+              <li>
+                <p>Line 6: Disable local mail delivery. All mail goes to the mail server as specified in line 4.</p>
+              </li>
+              <li><a href="https://www.linode.com/docs/email/postfix/postfix-smtp-debian7">Linode - Configure Postfix to Send Mail Using an External SMTP Server</a></li>
+            </ul>
+            
+            <pre><code>Edit /etc/postfix/main.cf
+            /etc/postfix# diff main.cf.1 main.cf
+            33,35c33,35
+            &lt; myorigin = /etc/mailname
+            &lt; mydestination = gitlab.gcsww.com, localhost.gcsww.com, , localhost
+            &lt; relayhost = 
+            ---
+            &gt; myorigin = $mydomain
+            &gt; mydestination =
+            &gt; relayhost = [mail.coot.net]:26
+            40c40,54
+            &lt; inet_interfaces = all
+            ---
+            &gt; inet_interfaces = loopback-only
+            &gt; 
+            &gt; # see - https://www.linode.com/docs/email/postfix/postfix-smtp-debian7
+            &gt; # enable SASL authentication 
+            &gt; smtp_sasl_auth_enable = yes
+            &gt; # disallow methods that allow anonymous authentication. 
+            &gt; smtp_sasl_security_options = noanonymous
+            &gt; # where to find sasl_passwd
+            &gt; smtp_sasl_password_maps = hash:/etc/postfix/sasl_passwd
+            &gt; 
+            &gt; # Enable STARTTLS encryption 
+            &gt; smtp_use_tls = yes
+            &gt; # where to find CA certificates
+            &gt; smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
+            &gt; 
+            </code></pre>
+            
+            <h5 id="configuring-smtp-usernames-and-passwords">Configuring SMTP Usernames and Passwords</h5>
+            
+            <pre><code>/etc/postfix/sasl_passwd
+            [mail.coot.net]:26 craig@coot.net:mypassword
+            </code></pre>
+            
+            <h5 id="create-the-hash-db-file-for-postfix-by-running-the-postmap-command">Create the hash db file for Postfix by running the postmap command:</h5>
+            
+            <pre><code>postmap /etc/postfix/sasl_passwd
+            </code></pre>
+            
+            <p>If all went well, you should have a new file named sasl_passwd.db in the /etc/postfix/ directory.</p>
+            
+            <h5 id="securing-your-password-and-hash-database-files">Securing Your Password and Hash Database Files</h5>
+            
+            <p>The /etc/postfix/sasl_passwd and the /etc/postfix/sasl_passwd.db files
+            created in the previous steps contain your SMTP credentials in plain text.</p>
+            
+            <p>For security reasons, you should change their permissions so that only
+            the root user can read or write to the file. Run the following commands to
+            change the ownership to root and update the permissions for the two files:</p>
+            
+            <pre><code>Change permissions of sasl_passwd and sasl_passwd.db
+            chown root:root /etc/postfix/sasl_passwd /etc/postfix/sasl_passwd.db
+            chmod 0600 /etc/postfix/sasl_passwd /etc/postfix/sasl_passwd.db
+            </code></pre>
+            
+            <h5 id="test">Test</h5>
+            
+            <pre><code>echo "body of your email" | mail -s "This is a Subject" -a "From: you@example.com" recipient@elsewhere.com
+            </code></pre>
+            
+            <h4 id="postfix-research">postfix research</h4>
+            
+            <ul>
+              <li><a href="http://www.postfix.org/STANDARD_CONFIGURATION_README.html">Postfix Standard Configuration Examples</a></li>
+              <li><a href="http://www.postfix.org/STANDARD_CONFIGURATION_README.html#null_client">Postfix on a null client</a></li>
+              <li><a href="http://www.postfix.org/STANDARD_CONFIGURATION_README.html#local_network">Postfix on a local network</a></li>
+              <li><a href="http://www.postfix.org/STANDARD_CONFIGURATION_README.html#fantasy">Postfix on hosts without a real Internet hostname</a> </li>
+              <li><a href="http://vimeo.com/27117067">full-on First Linux: Postfix 5: Postfix Null Client</a></li>
+              <li><a href="http://fatmin.com/2012/07/17/rhel6-simple-postfix-configuration/">fatmin - Configure a Null Email Client</a></li>
+            </ul>
+            
+            <h2 id="research">research</h2>
+            
+            <ul>
+              <li><a href="https://bitnami.com/stack/gitlab">Bitnami Gitlab</a></li>
+              <li><a href="https://bitnami.com/stack/gitlab/virtual-machine">GitLab Virtual Machines</a></li>
+              <li><a href="https://bitnami.com/redirect/to/46875/bitnami-gitlab-7.5.3-0-ubuntu-14.04.zip">Bitnami Gitlam vm - Ubuntu 14.04 - GitLab 7.5.3-0 (64-bit)</a></li>
+              <li><a href="https://wiki.bitnami.com/Virtual_Appliances_Quick_Start_Guide#How_to_start_your_Bitnami_Virtual_Appliance.3f">Virtual Appliances Quick Start Guide</a></li>
+              <li><a href="http://www.mechonomics.com/configuring-the-bitnami-gitlab-virtual-machine/">mechonomics.com - Configuring the BitNami GitLab Virtual Machine</a></li>
+              <li><a href="http://geekwerks.ca/2014/10/05/fixing-bitnami-gitlab.html">Geekwerks - Fixing Bitnami GitLab - ssh problem</a></li>
+              <li><a href="https://soundcloud.com/radio-bitnami/bitnami-interview-gitlab">Radio Bitnami - gitlab interview</a></li>
+              <li>
+                <p><a href="http://www.whaleblubber.ca/gitlabhq-revision-control/">WhaleBlubber - Self-hosted GitLab Server for Private Revision Control</a></p>
+              </li>
+              <li><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-gitlab-as-your-very-own-private-github-clone">DigitalOcean Guide</a></li>
+              <li><a href="http://divante.co/blog/playing-git-gitlab/">Playing with Git? Use GitLab!</a></li>
+            </ul>
+            
+            <h3 id="bitnami-review---10182014---easy-to-install-and-configure---by-nacho-sanchez">bitnami Review - 10/18/2014 - Easy to install and configure - By Nacho Sanchez</h3>
+            
+            <p>Installation takes 5 minutes, and configuration is very easy since they
+            include links to FAQs and basic stuff you should know.</p>
+            
+            <p>Configuring the email can get tricky, so here is the basic stuff:</p>
+            
+            <ul>
+              <li><a href="http://wiki.bitnami.com/Applications/BitNami_GitLab">bitnami wiki on GitLab</a></li>
+            </ul>
+            
+            <p>Be careful with the host and port, since it sets the ones where the
+            machine installs by default, but if you then assign a static IP you must
+            change them manually.</p>
             <hr>
             <h3>
               09 December 2014
@@ -9355,67 +9516,39 @@
           <div class='small-4 large-2 columns'>
             <h5>Tags</h5>
             <ul class='no-bullet'>
-              <li><a href="/blog/tags/diy" rel="tag">diy</a></li>
               <li><a href="/blog/tags/linux" rel="tag">linux</a></li>
+              <li><a href="/blog/tags/diy" rel="tag">diy</a></li>
               <li><a href="/blog/tags/arduino" rel="tag">arduino</a></li>
               <li><a href="/blog/tags/debian" rel="tag">debian</a></li>
+              <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
               <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
               <li><a href="/blog/tags/cellphone" rel="tag">cellphone</a></li>
-              <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
-              <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
               <li><a href="/blog/tags/led" rel="tag">led</a></li>
-              <li><a href="/blog/tags/am" rel="tag">am</a></li>
+              <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
               <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
-              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
-              <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
               <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
+              <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
               <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
+              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
+              <li><a href="/blog/tags/am" rel="tag">am</a></li>
               <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
-              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
-              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
-              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
-              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
-              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
-              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
-              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
               <li><a href="/blog/tags/nas" rel="tag">nas</a></li>
+              <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
+              <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
+              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
+              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
+              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
+              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
+              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
+              <li><a href="/blog/tags/i3wm" rel="tag">i3wm</a></li>
+              <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
+              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
+              <li><a href="/blog/tags/git" rel="tag">git</a></li>
+              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
+              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
+              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
               <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
               <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
-              <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
-              <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
-              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
-              <li><a href="/blog/tags/i3wm" rel="tag">i3wm</a></li>
-              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
-              <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
-              <li><a href="/blog/tags/git" rel="tag">git</a></li>
-              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
-              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
-              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
-              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
-              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
-              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
-              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
-              <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
-              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
-              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
-              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
-              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
-              <li><a href="/blog/tags/firefox_os" rel="tag">firefox_os</a></li>
-              <li><a href="/blog/tags/firefox_phone" rel="tag">firefox_phone</a></li>
-              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
-              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
-              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
-              <li><a href="/blog/tags/windows_os" rel="tag">windows_os</a></li>
-              <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
-              <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
-              <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
-              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
-              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
-              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
-              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
-              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
-              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
-              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
               <li><a href="/blog/tags/cd_player" rel="tag">cd_player</a></li>
               <li><a href="/blog/tags/philips_cd935" rel="tag">philips_cd935</a></li>
               <li><a href="/blog/tags/email" rel="tag">email</a></li>
@@ -9425,8 +9558,6 @@
               <li><a href="/blog/tags/cleaning" rel="tag">cleaning</a></li>
               <li><a href="/blog/tags/survival" rel="tag">survival</a></li>
               <li><a href="/blog/tags/hardware" rel="tag">hardware</a></li>
-              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
-              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
               <li><a href="/blog/tags/job_hunt" rel="tag">job_hunt</a></li>
               <li><a href="/blog/tags/gammu" rel="tag">gammu</a></li>
               <li><a href="/blog/tags/rs232" rel="tag">rs232</a></li>
@@ -9436,14 +9567,12 @@
               <li><a href="/blog/tags/rails-api" rel="tag">rails-api</a></li>
               <li><a href="/blog/tags/tuned_loop" rel="tag">tuned_loop</a></li>
               <li><a href="/blog/tags/repair" rel="tag">repair</a></li>
-              <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
-              <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
               <li><a href="/blog/tags/bluez" rel="tag">bluez</a></li>
               <li><a href="/blog/tags/programming" rel="tag">programming</a></li>
-              <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
               <li><a href="/blog/tags/gogs" rel="tag">gogs</a></li>
               <li><a href="/blog/tags/pc_audio" rel="tag">pc_audio</a></li>
               <li><a href="/blog/tags/subwoofer" rel="tag">subwoofer</a></li>
+              <li><a href="/blog/tags/security" rel="tag">security</a></li>
               <li><a href="/blog/tags/vm_host" rel="tag">vm_host</a></li>
               <li><a href="/blog/tags/virtualbox" rel="tag">virtualbox</a></li>
               <li><a href="/blog/tags/headset" rel="tag">headset</a></li>
@@ -9452,6 +9581,39 @@
               <li><a href="/blog/tags/cubox" rel="tag">cubox</a></li>
               <li><a href="/blog/tags/hardware_hackers" rel="tag">hardware_hackers</a></li>
               <li><a href="/blog/tags/pickup" rel="tag">pickup</a></li>
+              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
+              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
+              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
+              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
+              <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
+              <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
+              <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
+              <li><a href="/blog/tags/windows_os" rel="tag">windows_os</a></li>
+              <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
+              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
+              <li><a href="/blog/tags/firefox_phone" rel="tag">firefox_phone</a></li>
+              <li><a href="/blog/tags/firefox_os" rel="tag">firefox_os</a></li>
+              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
+              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
+              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
+              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
+              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
+              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
+              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
+              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
+              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
+              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
+              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
+              <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
+              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
+              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
+              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
+              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
+              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
+              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
+              <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
+              <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
+              <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
             </ul>
           </div>
         </div>
