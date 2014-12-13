@@ -254,6 +254,14 @@ chmod 0600 /etc/postfix/sasl_passwd /etc/postfix/sasl_passwd.db
 echo "body of your email" | mail -s "This is a Subject" -a "From: you@example.com" recipient@elsewhere.com
 ~~~~~~~~~
 
+~~~~~~~~~
+10.10.9.175
+http://gitlab.gcsww.com/cootcraig/game_justin_craig_20141209.git
+http://10.10.9.175/cootcraig/game_justin_craig_20141209.git
+
+git remote set-url origin http://10.10.9.175/cootcraig/game_justin_craig_20141209.git
+~~~~~~~~~
+
 #### postfix research
 
 * [Postfix Standard Configuration Examples](http://www.postfix.org/STANDARD_CONFIGURATION_README.html)
