@@ -10,6 +10,7 @@ Current ip address
 <pre><code>
 192.168.88.182
 ssh 192.168.88.182
+on lug HP Envy
 </code></pre>
 
 ## GitLab Community Edition Omnibus package for Debian 7
@@ -96,6 +97,17 @@ gitlab-ctl reconfigure
 </code></pre>
 
 reconfigure failed the first time. Edit /etc/gitlab/gitlab.rb
+Also, set the email from.
+
+~~~~~~~~~~~~~~~~
+diff /etc/gitlab/gitlab.rb.1 /etc/gitlab/gitlab.rb
+2c2,4
+< external_url 'gitlab.gcsww.com'
+ ---
+> external_url 'http://gitlab.gcsww.com'
+> gitlab_rails['gitlab_email_from'] = 'gitlab@gcsww.com'
+~~~~~~~~~~~~~~~~
+
 
 <pre><code>
 2c2

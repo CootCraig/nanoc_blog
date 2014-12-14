@@ -608,6 +608,12 @@
               <li>Package: harden (0.1.38+nmu1) </li>
               <li><a href="http://unix.stackexchange.com/questions/30838/hardening-debian">Stack Exchange - hardening-debian</a></li>
               <li><a href="http://noobsysadmin.wordpress.com/2014/03/05/hardening-your-linux-debian-7-wheezy-part-1/">Noobsysadmin - Hardening your Linux Debian 7 Wheezy – Part 1</a></li>
+              <li><a href="http://howto.biapy.com/en/debian-gnu-linux/system/security/harden-the-ssh-access-security-on-debian">biapy - harden ssh on Debian</a></li>
+              <li><a href="http://linoxide.com/how-tos/lynis-security-tool-audit-hardening-linux/">linoxide - Lynis - Security Tool for Audit and Hardening Linux / Unix Systems</a></li>
+              <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-bastille-to-harden-an-ubuntu-12-04">digitalocean - How To Install and Use Bastille To Harden an Ubuntu 12.04</a></li>
+              <li><a href="http://www.unixmen.com/how-to-harden-your-linux-servers-security-with-bastille/">unixmen - How to Harden Your Linux Servers Security with Bastille</a></li>
+              <li><a href="https://www.linode.com/docs/security/securing-your-server">linode - Securing Your Server</a></li>
+              <li><a href="http://feeding.cloud.geek.nz/posts/hardening-ssh-servers/">Hardening ssh Servers</a></li>
             </ul>
             <hr>
             <h3>
@@ -829,6 +835,7 @@
             <pre><code>
             192.168.88.182
             ssh 192.168.88.182
+            on lug HP Envy
             </code></pre>
             
             <h2 id="gitlab-community-edition-omnibus-package-for-debian-7">GitLab Community Edition Omnibus package for Debian 7</h2>
@@ -918,7 +925,16 @@
             gitlab-ctl reconfigure
             </code></pre>
             
-            <p>reconfigure failed the first time. Edit /etc/gitlab/gitlab.rb</p>
+            <p>reconfigure failed the first time. Edit /etc/gitlab/gitlab.rb
+            Also, set the email from.</p>
+            
+            <pre><code>diff /etc/gitlab/gitlab.rb.1 /etc/gitlab/gitlab.rb
+            2c2,4
+            &lt; external_url 'gitlab.gcsww.com'
+             ---
+            &gt; external_url 'http://gitlab.gcsww.com'
+            &gt; gitlab_rails['gitlab_email_from'] = 'gitlab@gcsww.com'
+            </code></pre>
             
             <pre><code>
             2c2
@@ -1072,6 +1088,13 @@
             <h5 id="test">Test</h5>
             
             <pre><code>echo "body of your email" | mail -s "This is a Subject" -a "From: you@example.com" recipient@elsewhere.com
+            </code></pre>
+            
+            <pre><code>10.10.9.175
+            http://gitlab.gcsww.com/cootcraig/game_justin_craig_20141209.git
+            http://10.10.9.175/cootcraig/game_justin_craig_20141209.git
+            
+            git remote set-url origin http://10.10.9.175/cootcraig/game_justin_craig_20141209.git
             </code></pre>
             
             <h4 id="postfix-research">postfix research</h4>

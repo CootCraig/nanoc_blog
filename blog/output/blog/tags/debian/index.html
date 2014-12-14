@@ -545,6 +545,12 @@
               <li>Package: harden (0.1.38+nmu1) </li>
               <li><a href="http://unix.stackexchange.com/questions/30838/hardening-debian">Stack Exchange - hardening-debian</a></li>
               <li><a href="http://noobsysadmin.wordpress.com/2014/03/05/hardening-your-linux-debian-7-wheezy-part-1/">Noobsysadmin - Hardening your Linux Debian 7 Wheezy – Part 1</a></li>
+              <li><a href="http://howto.biapy.com/en/debian-gnu-linux/system/security/harden-the-ssh-access-security-on-debian">biapy - harden ssh on Debian</a></li>
+              <li><a href="http://linoxide.com/how-tos/lynis-security-tool-audit-hardening-linux/">linoxide - Lynis - Security Tool for Audit and Hardening Linux / Unix Systems</a></li>
+              <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-bastille-to-harden-an-ubuntu-12-04">digitalocean - How To Install and Use Bastille To Harden an Ubuntu 12.04</a></li>
+              <li><a href="http://www.unixmen.com/how-to-harden-your-linux-servers-security-with-bastille/">unixmen - How to Harden Your Linux Servers Security with Bastille</a></li>
+              <li><a href="https://www.linode.com/docs/security/securing-your-server">linode - Securing Your Server</a></li>
+              <li><a href="http://feeding.cloud.geek.nz/posts/hardening-ssh-servers/">Hardening ssh Servers</a></li>
             </ul>
             <hr>
             <h3>
@@ -766,6 +772,7 @@
             <pre><code>
             192.168.88.182
             ssh 192.168.88.182
+            on lug HP Envy
             </code></pre>
             
             <h2 id="gitlab-community-edition-omnibus-package-for-debian-7">GitLab Community Edition Omnibus package for Debian 7</h2>
@@ -855,7 +862,16 @@
             gitlab-ctl reconfigure
             </code></pre>
             
-            <p>reconfigure failed the first time. Edit /etc/gitlab/gitlab.rb</p>
+            <p>reconfigure failed the first time. Edit /etc/gitlab/gitlab.rb
+            Also, set the email from.</p>
+            
+            <pre><code>diff /etc/gitlab/gitlab.rb.1 /etc/gitlab/gitlab.rb
+            2c2,4
+            &lt; external_url 'gitlab.gcsww.com'
+             ---
+            &gt; external_url 'http://gitlab.gcsww.com'
+            &gt; gitlab_rails['gitlab_email_from'] = 'gitlab@gcsww.com'
+            </code></pre>
             
             <pre><code>
             2c2
@@ -1011,6 +1027,13 @@
             <pre><code>echo "body of your email" | mail -s "This is a Subject" -a "From: you@example.com" recipient@elsewhere.com
             </code></pre>
             
+            <pre><code>10.10.9.175
+            http://gitlab.gcsww.com/cootcraig/game_justin_craig_20141209.git
+            http://10.10.9.175/cootcraig/game_justin_craig_20141209.git
+            
+            git remote set-url origin http://10.10.9.175/cootcraig/game_justin_craig_20141209.git
+            </code></pre>
+            
             <h4 id="postfix-research">postfix research</h4>
             
             <ul>
@@ -1053,6 +1076,71 @@
             <p>Be careful with the host and port, since it sets the ones where the
             machine installs by default, but if you then assign a static IP you must
             change them manually.</p>
+            <hr>
+            <h3>
+              13 December 2014
+              &raquo;
+              <a href="/blog/2014/12/mitx-debian/">Log set up Debian on i3 Mini-ITX</a>
+            </h3>
+            
+            <p>Hostname: ivie.coot.local</p>
+            
+            <pre><code>Software Selection
+            ---------------------
+            remove Debian desktop environment
+            leave Print server
+            Add SSH server
+            remove laptop
+            </code></pre>
+            
+            <pre><code>apt-get update
+            apt-get dist-upgrade
+            
+            apt-get install vim tmux git sudo
+            
+            adduser craig sudo
+            </code></pre>
+            
+            <pre><code>apt-git install lightdm i3 thunar iceweasel icedove
+            apt-get install gparted gedit rxvt terminator
+            apt-get install gnome-disk-utility
+            </code></pre>
+            
+            <pre><code>apt-get install audacity pulseaudio
+            </code></pre>
+            
+            <ul>
+              <li><a href="https://wiki.ubuntu.com/MountWindowsSharesPermanently">MountWindowsSharesPermanently</a></li>
+            </ul>
+            
+            <pre><code>apt-get install cifs-utils
+            apt-get install dkms
+            </code></pre>
+            
+            <h3 id="etcfstab-from-lug">/etc/fstab from lug</h3>
+            
+            <pre><code>UUID=59230da6-d4e1-4e4f-95bb-4914b473b3fe /               ext4    errors=remount-ro 0       1
+            /dev/sdb1 /mnt/disk2 ext4 auto 0 1
+            # swap was on /dev/sda5 during installation
+            UUID=fbfdf184-9b7a-41b2-97da-24a7fe0f2edd none            swap    sw              0       0
+            //10.10.10.111/c$ /media/gcs1c cifs rw,noauto,credentials=/home/craig/gcsww_canderson.txt,uid=craig 0 0
+            //10.10.10.111/d$ /media/gcs1d cifs rw,noauto,credentials=/home/craig/gcsww_canderson.txt,uid=craig 0 0
+            //10.10.10.117/f$ /media/gcs3f cifs rw,noauto,credentials=/home/craig/gcsww_canderson.txt,uid=craig 0 0
+            //10.10.10.117/e$ /media/gcs3e cifs rw,noauto,credentials=/home/craig/gcsww_canderson.txt,uid=craig 0 0
+            //192.168.88.209/media /media/nas1 cifs rw,noperm,noauto,credentials=/home/craig/nas1_credentials.txt,uid=craig,sec=ntlmv2 0 0
+            UUID=030f7503-7498-44a0-94c6-9b88f0a985fc /media/gcsvm ext4 noauto 0 0
+            </code></pre>
+            
+            <p>Added</p>
+            
+            <pre><code>UUID=030f7503-7498-44a0-94c6-9b88f0a985fc /media/gcsvm ext4 noauto 0 0
+            </code></pre>
+            
+            <ul>
+              <li><a href="https://www.virtualbox.org/wiki/Linux_Downloads">Download VirtualBox for Linux Hosts</a></li>
+            </ul>
+            
+            <p>deadbeef</p>
             <hr>
           </div>
           <div class='small-4 large-2 columns'>

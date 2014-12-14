@@ -52,6 +52,7 @@
             <pre><code>
             192.168.88.182
             ssh 192.168.88.182
+            on lug HP Envy
             </code></pre>
             
             <h2 id="gitlab-community-edition-omnibus-package-for-debian-7">GitLab Community Edition Omnibus package for Debian 7</h2>
@@ -141,7 +142,16 @@
             gitlab-ctl reconfigure
             </code></pre>
             
-            <p>reconfigure failed the first time. Edit /etc/gitlab/gitlab.rb</p>
+            <p>reconfigure failed the first time. Edit /etc/gitlab/gitlab.rb
+            Also, set the email from.</p>
+            
+            <pre><code>diff /etc/gitlab/gitlab.rb.1 /etc/gitlab/gitlab.rb
+            2c2,4
+            &lt; external_url 'gitlab.gcsww.com'
+             ---
+            &gt; external_url 'http://gitlab.gcsww.com'
+            &gt; gitlab_rails['gitlab_email_from'] = 'gitlab@gcsww.com'
+            </code></pre>
             
             <pre><code>
             2c2
@@ -295,6 +305,13 @@
             <h5 id="test">Test</h5>
             
             <pre><code>echo "body of your email" | mail -s "This is a Subject" -a "From: you@example.com" recipient@elsewhere.com
+            </code></pre>
+            
+            <pre><code>10.10.9.175
+            http://gitlab.gcsww.com/cootcraig/game_justin_craig_20141209.git
+            http://10.10.9.175/cootcraig/game_justin_craig_20141209.git
+            
+            git remote set-url origin http://10.10.9.175/cootcraig/game_justin_craig_20141209.git
             </code></pre>
             
             <h4 id="postfix-research">postfix research</h4>
