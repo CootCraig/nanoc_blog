@@ -5,13 +5,60 @@ kind: article
 tags: [ 'linux', 'debian', 'git', 'gitlab' ]
 ---
 
-Current ip address
+## [Gitlab Omnibus Readme](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master)
 
-<pre><code>
-192.168.88.182
-ssh 192.168.88.182
-on lug HP Envy
-</code></pre>
+### Configuration options
+
+Configuration done in file:
+
+* /etc/gitlab/gitlab.rb
+
+~~~~~~~~~~~
+sudo gitlab-ctl reconfigure
+~~~~~~~~~~~
+
+GitLab and GitLab CI are configured by setting their relevant options
+in /etc/gitlab/gitlab.rb. For a complete list of available options,
+visit the gitlab.rb.template. New installations starting from GitLab 7.6,
+will have all the options of the template listed in /etc/gitlab/gitlab.rb
+by default.
+
+#### [SMTP settings](https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/settings/smtp.md)
+
+If you would rather send application email via an SMTP server instead
+of via Sendmail, add the following configuration information to
+/etc/gitlab/gitlab.rb and run gitlab-ctl reconfigure.
+
+~~~~~~~~~~~
+in /etc/gitlab/gitlab.rb
+gitlab_rails['smtp_enable'] = true
+gitlab_rails['smtp_address'] = "smtp.server"
+gitlab_rails['smtp_port'] = 456
+gitlab_rails['smtp_user_name'] = "smtp user"
+gitlab_rails['smtp_password'] = "smtp password"
+gitlab_rails['smtp_domain'] = "example.com"
+gitlab_rails['smtp_authentication'] = "login"
+gitlab_rails['smtp_enable_starttls_auto'] = true
+~~~~~~~~~~~
+
+If your SMTP server does not like the default 'From: gitlab@localhost' you
+can change the 'From' with this setting.
+
+~~~~~~~~~~~
+in /etc/gitlab/gitlab.rb
+gitlab_rails['gitlab_email_from'] = 'gitlab@example.com'
+~~~~~~~~~~~
+
+To change GitLab CI email configuration (e.g. use SMTP), use gitlab_ci
+instead of gitlab_rails.
+
+~~~~~~~~~~~
+in /etc/gitlab/gitlab.rb
+gitlab_ci['gitlab_ci_email_from'] = 'gitlab-ci@example.com'
+gitlab_ci['smtp_enable'] = true
+gitlab_ci['smtp_address'] = "smtp.server"
+~~~~~~~~~~~
+
 
 ## GitLab Community Edition Omnibus package for Debian 7
 
@@ -124,8 +171,13 @@ Password: 5iveL!fe
 </code></pre>
 
 Change password.
+
 {::comment}
-butterknife
+username: root
+password: butterknife
+
+username: craig
+password: finitelifespan
 {:/comment} 
 
 ### smtp access to mail.coot.net
@@ -282,6 +334,19 @@ git remote set-url origin http://10.10.9.175/cootcraig/game_justin_craig_2014120
 * [Postfix on hosts without a real Internet hostname](http://www.postfix.org/STANDARD_CONFIGURATION_README.html#fantasy) 
 * [full-on First Linux: Postfix 5: Postfix Null Client](http://vimeo.com/27117067)
 * [fatmin - Configure a Null Email Client](http://fatmin.com/2012/07/17/rhel6-simple-postfix-configuration/)
+
+## Install Gitlab virtualbox guest on vmhost
+
+### Unpack and initial setup
+
+dhcp ip: 10.10.9.162
+
+### Pick a static IP
+
+### DNS for Gitlab
+
+gitlab.gcsww.local
+10.10.22.6
 
 ## research
 

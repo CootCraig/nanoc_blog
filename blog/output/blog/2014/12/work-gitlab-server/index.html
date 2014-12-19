@@ -47,12 +47,56 @@
           <aside>Posted on Tuesday, December 9 2014</aside>
           <article>
             
-            <p>Current ip address</p>
+            <h2 id="gitlab-omnibus-readmehttpsgitlabcomgitlab-orgomnibus-gitlabtreemaster"><a href="https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master">Gitlab Omnibus Readme</a></h2>
             
-            <pre><code>
-            192.168.88.182
-            ssh 192.168.88.182
-            on lug HP Envy
+            <h3 id="configuration-options">Configuration options</h3>
+            
+            <p>Configuration done in file:</p>
+            
+            <ul>
+              <li>/etc/gitlab/gitlab.rb</li>
+            </ul>
+            
+            <pre><code>sudo gitlab-ctl reconfigure
+            </code></pre>
+            
+            <p>GitLab and GitLab CI are configured by setting their relevant options
+            in /etc/gitlab/gitlab.rb. For a complete list of available options,
+            visit the gitlab.rb.template. New installations starting from GitLab 7.6,
+            will have all the options of the template listed in /etc/gitlab/gitlab.rb
+            by default.</p>
+            
+            <h4 id="smtp-settingshttpsgitlabcomgitlab-orgomnibus-gitlabblobmasterdocsettingssmtpmd"><a href="https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/settings/smtp.md">SMTP settings</a></h4>
+            
+            <p>If you would rather send application email via an SMTP server instead
+            of via Sendmail, add the following configuration information to
+            /etc/gitlab/gitlab.rb and run gitlab-ctl reconfigure.</p>
+            
+            <pre><code>in /etc/gitlab/gitlab.rb
+            gitlab_rails['smtp_enable'] = true
+            gitlab_rails['smtp_address'] = "smtp.server"
+            gitlab_rails['smtp_port'] = 456
+            gitlab_rails['smtp_user_name'] = "smtp user"
+            gitlab_rails['smtp_password'] = "smtp password"
+            gitlab_rails['smtp_domain'] = "example.com"
+            gitlab_rails['smtp_authentication'] = "login"
+            gitlab_rails['smtp_enable_starttls_auto'] = true
+            </code></pre>
+            
+            <p>If your SMTP server does not like the default ‘From: gitlab@localhost’ you
+            can change the ‘From’ with this setting.</p>
+            
+            <pre><code>in /etc/gitlab/gitlab.rb
+            gitlab_rails['gitlab_email_from'] = 'gitlab@example.com'
+            </code></pre>
+            
+            <p>To change GitLab CI email configuration (e.g. use SMTP), use gitlab_ci
+            instead of gitlab_rails.</p>
+            
+            <pre><code>in /etc/gitlab/gitlab.rb
+            gitlab_ci['gitlab_ci_email_from'] = 'gitlab-ci@example.com'
+            gitlab_ci['smtp_enable'] = true
+            gitlab_ci['smtp_address'] = "smtp.server"
             </code></pre>
             
             <h2 id="gitlab-community-edition-omnibus-package-for-debian-7">GitLab Community Edition Omnibus package for Debian 7</h2>
@@ -167,10 +211,13 @@
             Password: 5iveL!fe 
             </code></pre>
             
-            <p>Change password.
-            <!-- 
-            butterknife
-             --> </p>
+            <p>Change password.</p>
+            
+            <!-- username: root
+            password: butterknife
+            
+            username: craig
+            password: finitelifespan -->
             
             <h3 id="smtp-access-to-mailcootnet">smtp access to mail.coot.net</h3>
             
@@ -324,6 +371,19 @@
               <li><a href="http://vimeo.com/27117067">full-on First Linux: Postfix 5: Postfix Null Client</a></li>
               <li><a href="http://fatmin.com/2012/07/17/rhel6-simple-postfix-configuration/">fatmin - Configure a Null Email Client</a></li>
             </ul>
+            
+            <h2 id="install-gitlab-virtualbox-guest-on-vmhost">Install Gitlab virtualbox guest on vmhost</h2>
+            
+            <h3 id="unpack-and-initial-setup">Unpack and initial setup</h3>
+            
+            <p>dhcp ip: 10.10.9.162</p>
+            
+            <h3 id="pick-a-static-ip">Pick a static IP</h3>
+            
+            <h3 id="dns-for-gitlab">DNS for Gitlab</h3>
+            
+            <p>gitlab.gcsww.local
+            10.10.22.6</p>
             
             <h2 id="research">research</h2>
             

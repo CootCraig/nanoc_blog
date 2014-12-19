@@ -46,11 +46,842 @@
         <div class='row'>
           <div class='small-8 large-10 columns'>
             <h3>
+              17 December 2014
+              &raquo;
+              <a href="/blog/2014/12/mydeb-personal-vm/">Personal vm guest - mydeb</a>
+            </h3>
+            
+            <pre><code>current IP
+            192.168.88.180 mydeb.coot.local mydeb
+            </code></pre>
+            
+            <h2 id="debian-77-netinstall">Debian 7.7 netinstall</h2>
+            
+            <h3 id="install-selections">Install selections</h3>
+            
+            <ul>
+              <li>Print Server</li>
+              <li>SSH Server</li>
+            </ul>
+            
+            <p>Saved as 
+            /data/vm_backups/mydeb/mydeb_20141217_2211/mydeb_20141217_2211</p>
+            
+            <h3 id="my-base-installs">My Base installs</h3>
+            
+            <pre><code>apt-get update
+            apt-get dist-upgrade
+            
+            apt-get install sudo
+            adduser craig sudo
+            </code></pre>
+            
+            <pre><code>apt-get install vim
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              vim-runtime
+            Suggested packages:
+              ctags vim-doc vim-scripts
+            The following NEW packages will be installed:
+              vim vim-runtime
+            0 upgraded, 2 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 5,448 kB of archives.
+            After this operation, 24.8 MB of additional disk space will be used.
+            </code></pre>
+            
+            <p>Add contrib and non-free to sources.list</p>
+            
+            <pre><code>diff sources.list.1 sources.list
+            
+            7,8c7,8
+            &lt; deb http://ftp.us.debian.org/debian/ wheezy main
+            &lt; deb-src http://ftp.us.debian.org/debian/ wheezy main
+            ---
+            &gt; deb http://ftp.us.debian.org/debian/ wheezy main contrib non-free
+            &gt; deb-src http://ftp.us.debian.org/debian/ wheezy main contrib non-free
+            10,11c10,11
+            &lt; deb http://security.debian.org/ wheezy/updates main
+            &lt; deb-src http://security.debian.org/ wheezy/updates main
+            ---
+            &gt; deb http://security.debian.org/ wheezy/updates main contrib non-free
+            &gt; deb-src http://security.debian.org/ wheezy/updates main contrib non-free
+            14,15c14,15
+            &lt; deb http://ftp.us.debian.org/debian/ wheezy-updates main
+            &lt; deb-src http://ftp.us.debian.org/debian/ wheezy-updates main
+            ---
+            &gt; deb http://ftp.us.debian.org/debian/ wheezy-updates main contrib non-free
+            &gt; deb-src http://ftp.us.debian.org/debian/ wheezy-updates main contrib non-free
+            </code></pre>
+            
+            <pre><code>apt-get update
+            </code></pre>
+            
+            <ul>
+              <li>Package: lightdm (1.10.3-3) </li>
+              <li>Package: accountsservice (0.6.37-3 and others)</li>
+              <li>Package: xfonts-base (1:1.0.3)</li>
+              <li>Package: rxvt-unicode-256color (9.20-1 and others)</li>
+            </ul>
+            
+            <pre><code>apt-get install lightdm accountsservice xfonts-base rxvt-unicode-256color
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            xfonts-base is already the newest version.
+            xfonts-base set to manually installed.
+            The following extra packages will be installed:
+              dbus-x11 dconf-gsettings-backend dconf-service desktop-base fontconfig fonts-vlgothic gconf-service gconf2 gconf2-common gnome-accessibility-themes
+              gnome-icon-theme gnome-themes-standard gnome-themes-standard-data gtk2-engines hicolor-icon-theme libaccountsservice0 libatk1.0-0 libatk1.0-data
+              libcairo-gobject2 libcroco3 libdatrie1 libdconf0 libgconf-2-4 libgdk-pixbuf2.0-0 libgdk-pixbuf2.0-common libgtk-3-0 libgtk-3-bin libgtk-3-common
+              libgtk2.0-0 libgtk2.0-bin libgtk2.0-common liblightdm-gobject-1-0 libmtdev1 libpango1.0-0 librsvg2-2 librsvg2-common libstartup-notification0
+              libthai-data libthai0 libx11-xcb1 libxcb-util0 libxcursor1 libxft2 libxi6 libxinerama1 libxklavier16 libxtst6 lightdm-gtk-greeter ttf-dejavu
+              ttf-dejavu-extra xserver-xorg xserver-xorg-input-all xserver-xorg-input-evdev xserver-xorg-input-mouse xserver-xorg-input-synaptics
+              xserver-xorg-input-vmmouse xserver-xorg-input-wacom
+            Suggested packages:
+              gnome-control-center gnome kde-standard xfce4 wmaker gconf-defaults-service gvfs ttf-baekmuk ttf-arphic-gbsn00lp ttf-arphic-bsmi00lp ttf-arphic-gkai00mp
+              ttf-arphic-bkai00mp librsvg2-bin upower gpointing-device-settings touchfreeze xinput
+            The following NEW packages will be installed:
+              accountsservice dbus-x11 dconf-gsettings-backend dconf-service desktop-base fontconfig fonts-vlgothic gconf-service gconf2 gconf2-common
+              gnome-accessibility-themes gnome-icon-theme gnome-themes-standard gnome-themes-standard-data gtk2-engines hicolor-icon-theme libaccountsservice0
+              libatk1.0-0 libatk1.0-data libcairo-gobject2 libcroco3 libdatrie1 libdconf0 libgconf-2-4 libgdk-pixbuf2.0-0 libgdk-pixbuf2.0-common libgtk-3-0
+              libgtk-3-bin libgtk-3-common libgtk2.0-0 libgtk2.0-bin libgtk2.0-common liblightdm-gobject-1-0 libmtdev1 libpango1.0-0 librsvg2-2 librsvg2-common
+              libstartup-notification0 libthai-data libthai0 libx11-xcb1 libxcb-util0 libxcursor1 libxft2 libxi6 libxinerama1 libxklavier16 libxtst6 lightdm
+              lightdm-gtk-greeter rxvt-unicode-256color ttf-dejavu ttf-dejavu-extra xserver-xorg xserver-xorg-input-all xserver-xorg-input-evdev
+              xserver-xorg-input-mouse xserver-xorg-input-synaptics xserver-xorg-input-vmmouse xserver-xorg-input-wacom
+            0 upgraded, 60 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 43.8 MB of archives.
+            After this operation, 128 MB of additional disk space will be used.
+            </code></pre>
+            
+            <pre><code>apt-get install gnome-disk-utility
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              cryptsetup-bin dosfstools fuse hdparm libasound2 libatasmart4 libavahi-glib1 libavahi-ui-gtk3-0 libcanberra-gtk3-0 libcanberra-gtk3-module libcanberra0
+              libcryptsetup4 libdevmapper-event1.02.1 libgdu-gtk0 libgdu0 libgnome-keyring-common libgnome-keyring0 liblvm2app2.2 libnautilus-extension1a libnotify4
+              libogg0 libparted0debian1 libsgutils2-2 libunique-3.0-0 libvorbis0a libvorbisfile3 notification-daemon ntfs-3g powermgmt-base udisks
+            Suggested packages:
+              apmd libasound2-plugins libcanberra-gtk0 libcanberra-pulse gnome-keyring parted nparted libparted0-dev libparted0-i18n sg3-utils xfsprogs reiserfsprogs
+              mdadm
+            The following NEW packages will be installed:
+              cryptsetup-bin dosfstools fuse gnome-disk-utility hdparm libasound2 libatasmart4 libavahi-glib1 libavahi-ui-gtk3-0 libcanberra-gtk3-0
+              libcanberra-gtk3-module libcanberra0 libcryptsetup4 libdevmapper-event1.02.1 libgdu-gtk0 libgdu0 libgnome-keyring-common libgnome-keyring0 liblvm2app2.2
+              libnautilus-extension1a libnotify4 libogg0 libparted0debian1 libsgutils2-2 libunique-3.0-0 libvorbis0a libvorbisfile3 notification-daemon ntfs-3g
+              powermgmt-base udisks
+            0 upgraded, 31 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 5,184 kB of archives.
+            After this operation, 18.8 MB of additional disk space will be used.
+            </code></pre>
+            
+            <pre><code>apt-get install dkms
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            dkms is already the newest version.
+            dkms set to manually installed.
+            0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+            </code></pre>
+            
+            <pre><code>apt-get install cifs-utils
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              keyutils libnss-winbind libpam-winbind winbind
+            The following NEW packages will be installed:
+              cifs-utils keyutils libnss-winbind libpam-winbind winbind
+            0 upgraded, 5 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 3,389 kB of archives.
+            After this operation, 15.5 MB of additional disk space will be used.
+            </code></pre>
+            
+            <pre><code>apt-get install pulseaudio
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              gstreamer0.10-pulseaudio libasound2-plugins libasyncns0 libavcodec53 libavutil51 libdirac-encoder0 libfftw3-3 libflac8 libgsm1
+              libgstreamer-plugins-base0.10-0 libgstreamer0.10-0 libjack-jackd2-0 libjson0 libmp3lame0 liborc-0.4-0 libpulse0 libsamplerate0 libschroedinger-1.0-0
+              libsndfile1 libspeex1 libspeexdsp1 libsystemd-daemon0 libtheora0 libva1 libvorbisenc2 libvpx1 libwebrtc-audio-processing-0 libx264-123 libxvidcore4
+              pulseaudio-module-x11 pulseaudio-utils rtkit
+            Suggested packages:
+              libfftw3-bin libfftw3-dev libvisual-0.4-plugins gstreamer-codec-install gnome-codec-install gstreamer0.10-tools gstreamer0.10-plugins-base jackd2 speex
+              pavumeter pavucontrol paman paprefs
+            The following NEW packages will be installed:
+              gstreamer0.10-pulseaudio libasound2-plugins libasyncns0 libavcodec53 libavutil51 libdirac-encoder0 libfftw3-3 libflac8 libgsm1
+              libgstreamer-plugins-base0.10-0 libgstreamer0.10-0 libjack-jackd2-0 libjson0 libmp3lame0 liborc-0.4-0 libpulse0 libsamplerate0 libschroedinger-1.0-0
+              libsndfile1 libspeex1 libspeexdsp1 libsystemd-daemon0 libtheora0 libva1 libvorbisenc2 libvpx1 libwebrtc-audio-processing-0 libx264-123 libxvidcore4
+              pulseaudio pulseaudio-module-x11 pulseaudio-utils rtkit
+            0 upgraded, 33 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 14.3 MB of archives.
+            After this operation, 40.2 MB of additional disk space will be used.
+            </code></pre>
+            
+            <pre><code>apt-get install tmux git terminator
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              desktop-file-utils git-man gnome-mime-data gvfs gvfs-common gvfs-daemons gvfs-libs libaacs0 libblas3 libbluray1 libbonobo2-0 libbonobo2-common
+              libbonoboui2-0 libbonoboui2-common libcurl3-gnutls libencode-locale-perl liberror-perl libfam0 libfile-basedir-perl libfile-desktopentry-perl
+              libfile-listing-perl libfile-mimeinfo-perl libfont-afm-perl libgail18 libgconf2-4 libgfortran3 libgl1-mesa-glx libglade2-0 libglapi-mesa libgnome2-0
+              libgnome2-common libgnomecanvas2-0 libgnomecanvas2-common libgnomeui-0 libgnomeui-common libgnomevfs2-0 libgnomevfs2-common libgnomevfs2-extra
+              libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl
+              libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl libidl0 libio-socket-ip-perl libio-socket-ssl-perl libkeybinder0 liblapack3
+              liblwp-mediatypes-perl liblwp-protocol-https-perl libmailtools-perl libnet-dbus-perl libnet-http-perl libnet-ssleay-perl liborbit2 librtmp0 libsmbclient
+              libsocket-perl libssh2-1 libtie-ixhash-perl libtimedate-perl liburi-perl libvte-common libvte9 libwww-perl libwww-robotrules-perl libx11-protocol-perl
+              libxcb-glx0 libxcb-shape0 libxml-parser-perl libxml-twig-perl libxml-xpathengine-perl libxv1 libxxf86dga1 libxxf86vm1 policykit-1-gnome python-cairo
+              python-gconf python-gnome2 python-gobject python-gtk2 python-keybinder python-numpy python-pyorbit python-vte rsync x11-utils x11-xserver-utils xdg-utils
+            Suggested packages:
+              git-daemon-run git-daemon-sysvinit git-doc git-el git-arch git-cvs git-svn git-email git-gui gitk gitweb gvfs-backends libbluray-bdj libbonobo2-bin fam
+              libgnomevfs2-bin libdata-dump-perl libcrypt-ssleay-perl libauthen-ntlm-perl libunicode-map8-perl libunicode-string-perl xml-twig-tools python-gnome2-doc
+              python-gtk2-doc python-numpy-doc python-numpy-dbg python-nose python-dev gfortran mesa-utils nickle cairo-5c xorg-docs-core gvfs-bin
+            The following NEW packages will be installed:
+              desktop-file-utils git git-man gnome-mime-data gvfs gvfs-common gvfs-daemons gvfs-libs libaacs0 libblas3 libbluray1 libbonobo2-0 libbonobo2-common
+              libbonoboui2-0 libbonoboui2-common libcurl3-gnutls libencode-locale-perl liberror-perl libfam0 libfile-basedir-perl libfile-desktopentry-perl
+              libfile-listing-perl libfile-mimeinfo-perl libfont-afm-perl libgail18 libgconf2-4 libgfortran3 libgl1-mesa-glx libglade2-0 libglapi-mesa libgnome2-0
+              libgnome2-common libgnomecanvas2-0 libgnomecanvas2-common libgnomeui-0 libgnomeui-common libgnomevfs2-0 libgnomevfs2-common libgnomevfs2-extra
+              libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl
+              libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl libidl0 libio-socket-ip-perl libio-socket-ssl-perl libkeybinder0 liblapack3
+              liblwp-mediatypes-perl liblwp-protocol-https-perl libmailtools-perl libnet-dbus-perl libnet-http-perl libnet-ssleay-perl liborbit2 librtmp0 libsmbclient
+              libsocket-perl libssh2-1 libtie-ixhash-perl libtimedate-perl liburi-perl libvte-common libvte9 libwww-perl libwww-robotrules-perl libx11-protocol-perl
+              libxcb-glx0 libxcb-shape0 libxml-parser-perl libxml-twig-perl libxml-xpathengine-perl libxv1 libxxf86dga1 libxxf86vm1 policykit-1-gnome python-cairo
+              python-gconf python-gnome2 python-gobject python-gtk2 python-keybinder python-numpy python-pyorbit python-vte rsync terminator tmux x11-utils
+              x11-xserver-utils xdg-utils
+            0 upgraded, 97 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 36.0 MB of archives.
+            After this operation, 110 MB of additional disk space will be used.
+            </code></pre>
+            
+            <pre><code>apt-get install vim-gtk gnome-icon-theme
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            gnome-icon-theme is already the newest version.
+            gnome-icon-theme set to manually installed.
+            The following extra packages will be installed:
+              liblua5.1-0 libpython2.7 libruby1.9.1 libyaml-0-2 tcl8.5 vim-gui-common
+            Suggested packages:
+              tcl-tclreadline cscope vim-doc
+            The following NEW packages will be installed:
+              liblua5.1-0 libpython2.7 libruby1.9.1 libyaml-0-2 tcl8.5 vim-gtk vim-gui-common
+            0 upgraded, 7 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 8,666 kB of archives.
+            After this operation, 22.9 MB of additional disk space will be used.
+            </code></pre>
+            
+            <pre><code>apt-get install thunar iceweasel icedove gedit
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              aspell aspell-en enchant exo-utils freepats gedit-common gir1.2-atk-1.0 gir1.2-clutter-1.0 gir1.2-cogl-1.0 gir1.2-coglpango-1.0 gir1.2-freedesktop
+              gir1.2-gdkpixbuf-2.0 gir1.2-gstreamer-0.10 gir1.2-gtk-3.0 gir1.2-gtksource-3.0 gir1.2-json-1.0 gir1.2-pango-1.0 gir1.2-peas-1.0 glib-networking
+              glib-networking-common glib-networking-services gnome-js-common gnome-user-guide gsettings-desktop-schemas gstreamer0.10-ffmpeg gstreamer0.10-gconf
+              gstreamer0.10-plugins-bad gstreamer0.10-plugins-base gstreamer0.10-plugins-good gstreamer0.10-x hunspell-en-us libaa1 libaspell15 libass4 libavc1394-0
+              libavformat53 libcaca0 libcdaudio1 libcdparanoia0 libclutter-1.0-0 libclutter-1.0-common libcogl-common libcogl-pango0 libcogl9 libdc1394-22 libdca0
+              libdirectfb-1.2-9 libdv4 libdvdnav4 libdvdread4 libenca0 libenchant1c2a libexo-1-0 libexo-common libexo-helpers libfaad2 libflite1 libfribidi0
+              libgail-3-0 libgarcon-1-0 libgarcon-common libgeoclue0 libglu1-mesa libgme0 libgstreamer-plugins-bad0.10-0 libgtksourceview-3.0-0
+              libgtksourceview-3.0-common libhunspell-1.3-0 libicu48 libiec61883-0 libjavascriptcoregtk-1.0-0 libjavascriptcoregtk-3.0-0 libjson-glib-1.0-0 libkate1
+              libmhash2 libmimic0 libmms0 libmodplug1 libmpcdec6 libofa0 libopenal-data libopenal1 libopus0 libpeas-1.0-0 libpeas-common libpoppler-glib8 libpostproc52
+              libproxy0 libraptor2-0 librasqal3 libraw1394-11 librdf0 libseed-gtk3-0 libshout3 libslv2-9 libsoundtouch0 libsoup-gnome2.4-1 libsoup2.4-1 libspandsp2
+              libswscale2 libtag1-vanilla libtag1c2a libthunarx-2-0 libts-0.0-0 libtumbler-1-0 libvisual-0.4-0 libvisual-0.4-plugins libvo-aacenc0 libvo-amrwbenc0
+              libwavpack1 libwebkitgtk-1.0-0 libwebkitgtk-1.0-common libwebkitgtk-3.0-0 libwebkitgtk-3.0-common libwildmidi-config libwildmidi1 libwnck-common
+              libwnck22 libxfce4ui-1-0 libxfce4util-bin libxfce4util-common libxfce4util4 libxfconf-0-2 libxres1 libxslt1.1 libyajl2 libyelp0 libzbar0 libzvbi-common
+              libzvbi0 python-gi-cairo thunar-data thunar-volman tsconf tumbler tumbler-common xdg-user-dirs xfce-keyboard-shortcuts xfce4-panel xfconf yelp yelp-xsl
+              zenity zenity-common
+            Suggested packages:
+              aspell-doc spellutils gedit-plugins frei0r-plugins hunspell openoffice.org-hunspell openoffice.org-core fonts-lyx fonts-stix otf-stix
+              fonts-oflb-asana-math fonts-mathjax mozplugger libdv-bin oss-compat libdvdcss2 libenchant-voikko alsa-base geoclue libportaudio2 libroar-compat2
+              opus-tools raptor2-utils rasqal-utils libraw1394-doc librdf-storage-postgresql librdf-storage-mysql librdf-storage-sqlite redland-utils slv2-jack
+              thunar-archive-plugin thunar-media-tags-plugin tumbler-plugins-extra
+            Recommended packages:
+              myspell-en-us hunspell-dictionary myspell-dictionary
+            The following NEW packages will be installed:
+              aspell aspell-en enchant exo-utils freepats gedit gedit-common gir1.2-atk-1.0 gir1.2-clutter-1.0 gir1.2-cogl-1.0 gir1.2-coglpango-1.0 gir1.2-freedesktop
+              gir1.2-gdkpixbuf-2.0 gir1.2-gstreamer-0.10 gir1.2-gtk-3.0 gir1.2-gtksource-3.0 gir1.2-json-1.0 gir1.2-pango-1.0 gir1.2-peas-1.0 glib-networking
+              glib-networking-common glib-networking-services gnome-js-common gnome-user-guide gsettings-desktop-schemas gstreamer0.10-ffmpeg gstreamer0.10-gconf
+              gstreamer0.10-plugins-bad gstreamer0.10-plugins-base gstreamer0.10-plugins-good gstreamer0.10-x hunspell-en-us icedove iceweasel libaa1 libaspell15
+              libass4 libavc1394-0 libavformat53 libcaca0 libcdaudio1 libcdparanoia0 libclutter-1.0-0 libclutter-1.0-common libcogl-common libcogl-pango0 libcogl9
+              libdc1394-22 libdca0 libdirectfb-1.2-9 libdv4 libdvdnav4 libdvdread4 libenca0 libenchant1c2a libexo-1-0 libexo-common libexo-helpers libfaad2 libflite1
+              libfribidi0 libgail-3-0 libgarcon-1-0 libgarcon-common libgeoclue0 libglu1-mesa libgme0 libgstreamer-plugins-bad0.10-0 libgtksourceview-3.0-0
+              libgtksourceview-3.0-common libhunspell-1.3-0 libicu48 libiec61883-0 libjavascriptcoregtk-1.0-0 libjavascriptcoregtk-3.0-0 libjson-glib-1.0-0 libkate1
+              libmhash2 libmimic0 libmms0 libmodplug1 libmpcdec6 libofa0 libopenal-data libopenal1 libopus0 libpeas-1.0-0 libpeas-common libpoppler-glib8 libpostproc52
+              libproxy0 libraptor2-0 librasqal3 libraw1394-11 librdf0 libseed-gtk3-0 libshout3 libslv2-9 libsoundtouch0 libsoup-gnome2.4-1 libsoup2.4-1 libspandsp2
+              libswscale2 libtag1-vanilla libtag1c2a libthunarx-2-0 libts-0.0-0 libtumbler-1-0 libvisual-0.4-0 libvisual-0.4-plugins libvo-aacenc0 libvo-amrwbenc0
+              libwavpack1 libwebkitgtk-1.0-0 libwebkitgtk-1.0-common libwebkitgtk-3.0-0 libwebkitgtk-3.0-common libwildmidi-config libwildmidi1 libwnck-common
+              libwnck22 libxfce4ui-1-0 libxfce4util-bin libxfce4util-common libxfce4util4 libxfconf-0-2 libxres1 libxslt1.1 libyajl2 libyelp0 libzbar0 libzvbi-common
+              libzvbi0 python-gi-cairo thunar thunar-data thunar-volman tsconf tumbler tumbler-common xdg-user-dirs xfce-keyboard-shortcuts xfce4-panel xfconf yelp
+              yelp-xsl zenity zenity-common
+            0 upgraded, 148 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 168 MB of archives.
+            After this operation, 439 MB of additional disk space will be used.
+            </code></pre>
+            
+            <ul>
+              <li>Package: i3-wm (4.8-1) </li>
+              <li>Package: libanyevent-i3-perl (0.16-1)</li>
+              <li>Package: libjson-xs-perl (2.340-1 and others)</li>
+            </ul>
+            
+            <pre><code>apt-get install i3-wm libanyevent-i3-perl libjson-xs-perl
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              libanyevent-perl libcommon-sense-perl libev4 libxcb-icccm4 libxcb-keysyms1 libxcb-randr0 libxcb-xinerama0
+            Suggested packages:
+              libasync-interrupt-perl libev-perl libevent-perl libglib-perl libguard-perl libio-async-perl libpoe-perl libtask-weaken-perl perl-tk
+            The following NEW packages will be installed:
+              i3-wm libanyevent-i3-perl libanyevent-perl libcommon-sense-perl libev4 libjson-xs-perl libxcb-icccm4 libxcb-keysyms1 libxcb-randr0 libxcb-xinerama0
+            0 upgraded, 10 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 1,476 kB of archives.
+            After this operation, 3,168 kB of additional disk space will be used.
+            </code></pre>
+            
+            <pre><code>apt-get install dunst i3lock i3status suckless-tools
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              libcap2-bin libconfuse-common libconfuse0 libiw30 libpam-cap libxcb-dpms0 libxcb-image0 libxdg-basedir1 libxss1
+            Suggested packages:
+              libcap-dev dwm
+            The following NEW packages will be installed:
+              dunst i3lock i3status libcap2-bin libconfuse-common libconfuse0 libiw30 libpam-cap libxcb-dpms0 libxcb-image0 libxdg-basedir1 libxss1 suckless-tools
+            0 upgraded, 13 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 296 kB of archives.
+            After this operation, 1,065 kB of additional disk space will be used.
+            </code></pre>
+            
+            <pre><code>apt-get install python-pip debian-keyring g++-multilib g++-4.7-multilib gcc-4.7-doc libstdc++6-4.7-dbg libstdc++6-4.7-doc python-distribute python-distribute-doc python-dev
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            Note, selecting 'python-setuptools' instead of 'python-distribute'
+            The following extra packages will be installed:
+              build-essential dpkg-dev g++ g++-4.7 gcc-4.7-multilib gcc-doc-base gcc-multilib javascript-common lib32gcc1 lib32gomp1 lib32itm1 lib32quadmath0
+              lib32stdc++6 libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl libc6-dev-i386 libc6-i386 libdpkg-perl libexpat1-dev
+              libfile-fcntllock-perl libgcc1-dbg libjs-jquery libssl-dev libssl-doc libstdc++6-4.7-dev python-pkg-resources python2.7-dev wwwconfig-common zlib1g-dev
+            Suggested packages:
+              lib32stdc++6-4.7-dbg doc-base lib32mudflap0 apache2 httpd python-distribute mysql-client postgresql-client
+            Recommended packages:
+              python-dev-all
+            The following NEW packages will be installed:
+              build-essential debian-keyring dpkg-dev g++ g++-4.7 g++-4.7-multilib g++-multilib gcc-4.7-doc gcc-4.7-multilib gcc-doc-base gcc-multilib
+              javascript-common lib32gcc1 lib32gomp1 lib32itm1 lib32quadmath0 lib32stdc++6 libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl
+              libc6-dev-i386 libc6-i386 libdpkg-perl libexpat1-dev libfile-fcntllock-perl libgcc1-dbg libjs-jquery libssl-dev libssl-doc libstdc++6-4.7-dbg
+              libstdc++6-4.7-dev libstdc++6-4.7-doc python-dev python-distribute-doc python-pip python-pkg-resources python-setuptools python2.7-dev wwwconfig-common
+              zlib1g-dev
+            0 upgraded, 40 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 132 MB of archives.
+            After this operation, 290 MB of additional disk space will be used.
+            </code></pre>
+            
+            <ul>
+              <li><a href="https://github.com/ultrabug/py3status/wiki">py3status</a></li>
+            </ul>
+            
+            <pre><code>pip install py3status
+            
+            Downloading/unpacking py3status
+              Downloading py3status-1.6.tar.gz
+              Running setup.py egg_info for package py3status
+                
+            Installing collected packages: py3status
+              Running setup.py install for py3status
+                
+                Installing py3status script to /usr/local/bin
+            Successfully installed py3status
+            Cleaning up...
+            </code></pre>
+            
+            <pre><code>apt-get install weechat
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              guile-1.8-libs weechat-core weechat-curses weechat-plugins
+            Suggested packages:
+              weechat-doc weechat-scripts
+            The following NEW packages will be installed:
+              guile-1.8-libs weechat weechat-core weechat-curses weechat-plugins
+            0 upgraded, 5 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 2,562 kB of archives.
+            After this operation, 7,842 kB of additional disk space will be used.
+            </code></pre>
+            
+            <p>~~~~~~~~~~~~</p>
+            
+            <p>echo “hello”</p>
+            
+            <p>~~~~~~~~~~~</p>
+            <hr>
+            <h3>
+              17 December 2014
+              &raquo;
+              <a href="/blog/2014/12/minimal-music-player/">Minimal Music Player</a>
+            </h3>
+            
+            <h2 id="research">Research</h2>
+            
+            <h3 id="links">links</h3>
+            
+            <ul>
+              <li>[OmgUbuntu – Five lightweight music players]((http://www.omgubuntu.co.uk/2010/12/omg-5-five-lightweight-music-players)</li>
+              <li><a href="http://mylinuxbook.com/3-popular-command-line-music-players-for-linux/">MyLinuxBook - 3 Popular Command Line Music Players for Linux</a></li>
+              <li><a href="http://lxer.com/module/forums/t/35603/">lxer - penguinist - mplayer command line</a></li>
+            </ul>
+            
+            <h3 id="music-on-console">music on console</h3>
+            
+            <ul>
+              <li><a href="http://moc.daper.net/about">music on console</a></li>
+            </ul>
+            
+            <p>What is MOC?</p>
+            
+            <p>MOC (music on console) is a console audio player for LINUX/UNIX designed
+            to be powerful and easy to use.</p>
+            
+            <p>You just need to select a file from some directory using the menu
+            similar to Midnight Commander, and MOC will start playing all files
+            in this directory beginning from the chosen file. There is no need to
+            create playlists as in other players.</p>
+            
+            <p>However if you want to combine some files from one or more directories on
+            one playlist, you can still do it. The playlist will be remembered between
+            runs or you can save it as an m3u file and load it whenever you want.</p>
+            
+            <h3 id="using-deadbeef-now">Using DeadBeef now</h3>
+            <hr>
+            <h3>
+              16 December 2014
+              &raquo;
+              <a href="/blog/2014/12/pptp-vpn-client/">PPTP VPN Client on Debian</a>
+            </h3>
+            
+            <ul>
+              <li><a href="http://pptpclient.sourceforge.net/howto-debian.phtml#install">pptpclient.sourceforge.net - Debian Howto</a></li>
+              <li><a href="http://www.howtogeek.com/51237/setting-up-a-vpn-pptp-server-on-debian/">HowToGeek - How to Setup a VPN (PPTP) Server on Debian Linux</a></li>
+            </ul>
+            
+            <pre><code>apt-get install pptp-linux 
+            
+            The following NEW packages will be installed:
+              libpcap0.8 ppp pptp-linux
+            0 upgraded, 3 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 520 kB of archives.
+            After this operation, 1,368 kB of additional disk space will be used.
+            </code></pre>
+            
+            <p>create or edit the /etc/ppp/options.pptp</p>
+            
+            <pre><code>diff options.pptp.1 options.pptp
+            
+            26,27c26,35
+            &lt; refuse-chap
+            &lt; refuse-mschap
+            ---
+            &gt; #refuse-chap
+            &gt; #refuse-mschap
+            &gt; 
+            &gt; usepeerdns
+            &gt; require-mppe
+            &gt; #require-mppe-128
+            &gt; nomppe-stateful
+            &gt; #require-mschap-v2
+            &gt; bsdcomp 15
+            &gt; deflate 15
+            </code></pre>
+            
+            <p>create or add lines to the /etc/ppp/chap-secrets file, which holds usernames and passwords:</p>
+            
+            <p>create a /etc/ppp/peers/$TUNNEL file:</p>
+            
+            <pre><code>find /etc/ppp -name '*gcs*'
+            
+            /etc/ppp/peers/gcsww
+            /etc/ppp/ip-up.d/100gcsww
+            </code></pre>
+            
+            <ul>
+              <li>10.10.10.111</li>
+              <li>10.10.10.116</li>
+            </ul>
+            <hr>
+            <h3>
+              15 December 2014
+              &raquo;
+              <a href="/blog/2014/12/firefox-browser/">Firefox Browswer Howtos</a>
+            </h3>
+            
+            <h2 id="research">Research</h2>
+            <hr>
+            <h3>
+              15 December 2014
+              &raquo;
+              <a href="/blog/2014/12/external-usb-sd-reader/">External USB SD Reader</a>
+            </h3>
+            
+            <h2 id="research">Research</h2>
+            <hr>
+            <h3>
+              14 December 2014
+              &raquo;
+              <a href="/blog/2014/12/xmonad-tiling-window-manager/">Xmonad Tiling Window Manager</a>
+            </h3>
+            
+            <h2 id="research">research</h2>
+            
+            <ul>
+              <li><a href="http://xmonad.org/">xmonad home page</a></li>
+            </ul>
+            <hr>
+            <h3>
+              14 December 2014
+              &raquo;
+              <a href="/blog/2014/12/low-price-laptop/">Low Price Laptop</a>
+            </h3>
+            
+            <h2 id="purchased-thinkpad-t500">Purchased Thinkpad T500</h2>
+            
+            <p>Lenovo ThinkPad T500, 2.4GHz Core 2 Duo 2GB / 160GB / WiFi / LINUX MINT 17.1</p>
+            
+            <p>$115</p>
+            
+            <p>Use 2x4Gb memory from HP Envy</p>
+            
+            <h3 id="research-linux-on-t500">Research Linux on T500</h3>
+            
+            <ul>
+              <li><a href="http://www.linlap.com/lenovo_thinkpad_t500">linlap notes on T500</a></li>
+            </ul>
+            
+            <h3 id="research-docking-stations">Research docking stations</h3>
+            
+            <p>LENOVO IBM 2504 - $19 + $15 on ebay</p>
+            
+            <p>Lenovo ThinkPad Advanced Mini-Dock Port Replicator (250410U)</p>
+            
+            <h2 id="models">models</h2>
+            
+            <ul>
+              <li>Thinkpad T400 - Jul. 2008</li>
+              <li>Thinkpad T500 - Jul. 2008</li>
+              <li>Thinkpad T400s - Jun. 2009</li>
+              <li>Thinkpad T410 - Jan. 2010</li>
+              <li>Thinkpad T510 - Jan. 2010</li>
+              <li>Thinkpad T420 - Mar. 2011</li>
+            </ul>
+            
+            <h3 id="thinkpad-t500---jul-2008">Thinkpad T500 - Jul. 2008</h3>
+            
+            <ul>
+              <li>Lenovo ThinkPad T500, 2.4GHz Core 2 Duo 2GB / 160GB / WiFi / LINUX MINT 17.1
+            ebay $115</li>
+              <li><a href="http://www.battdepot.com/us/opn/notebook+battery/ibm/40Y6797/LIB200.aspx">Battdepot.com - T500 battery $25</a></li>
+              <li><a href="https://wiki.debian.org/InstallingDebianOn/Thinkpad/T500">Debian on Thinkpad T500</a></li>
+            </ul>
+            
+            <h3 id="thinkpad-t420---mar-2011">Thinkpad T420 - Mar. 2011</h3>
+            
+            <ul>
+              <li>Lenovo ThinkPad T420 [4180-WND] 14” [WXGA] 2.50GHz CORE i5 [2520M] 4GB 320GB</li>
+              <li>ebay $259 + 16 shipping</li>
+            </ul>
+            
+            <h2 id="research-links">research links</h2>
+            
+            <ul>
+              <li><a href="http://www.thinkwiki.org/wiki/ThinkPad_History">thinkwiki - ThinkPad History</a></li>
+            </ul>
+            <hr>
+            <h3>
+              14 December 2014
+              &raquo;
+              <a href="/blog/2014/12/irc/">IRC</a>
+            </h3>
+            <h2 id="irc-information">IRC Information</h2>
+            
+            <h3 id="freenod-faqhttpsfreenodenetfaqshtmlnicksetup"><a href="https://freenode.net/faq.shtml#nicksetup">freenod faq</a></h3>
+            
+            <h4 id="what-is-the-recommended-way-to-set-up-my-irc-nickname">What is the recommended way to set up my IRC nickname?</h4>
+            
+            <p>Please follow these steps to set up your nick and configure your
+            client. Check off each step to make sure it’s been done:</p>
+            
+            <h5 id="select-a-permanent-master-nickname-if-the-nickname-you-want-is-registered-but-has-expired-just-ask-a-staffer-and-in-most-cases-we-will-be-happy-to-drop-it-for-you">Select a permanent, master nickname. If the nickname you want is registered but has expired, just ask a staffer and in most cases, we will be happy to drop it for you.</h5>
+            
+            <p>Please avoid using the name of a community project or trademarked entity,
+            to avoid conflicts. Write down your password and be sure to keep the
+            sheet of paper in a safe place.</p>
+            
+            <p>Register your IRC nick:</p>
+            
+            <pre><code>/msg NickServ REGISTER password youremail@example.com
+            </code></pre>
+            
+            <p>Replace password with a secure, unguessable password that you keep secret.</p>
+            
+            <h5 id="the-email-address-that-you-select-will-not-be-given-out-by-staff-and-is-mainly-used-to-allow-us-to-help-you-recover-the-account-in-the-event-that-you-forget-your-password-for-this-reason-you-are-required-to-use-a-real-non-disposable-email-address-upon-registering-you-will-receive-an-email-with-a-verification-command-that-you-will-need-to-run-to-complete-the-registration-process-failure-to-verify-the-account-will-cause-it-to-be-automatically-dropped-after-about-24-hours">The email address that you select will not be given out by staff, and is mainly used to allow us to help you recover the account in the event that you forget your password. For this reason, you are required to use a real, non-disposable, email address. Upon registering, you will receive an email with a verification command that you will need to run to complete the registration process. Failure to verify the account will cause it to be automatically dropped after about 24 hours.</h5>
+            
+            <h5 id="to-keep-your-email-address-private-rather-than-displaying-it-publicly-mark-it-as-hidden-which-is-done-by-default-for-new-accounts">To keep your email address private, rather than displaying it publicly, mark it as hidden (which is done by default for new accounts):</h5>
+            
+            <pre><code>/msg NickServ SET HIDEMAIL ON
+            </code></pre>
+            
+            <h5 id="its-useful-but-not-required-to-have-an-alternate-nick-grouped-to-your-account-for-example-if-your-primary-nick-is-foo">It’s useful, but not required, to have an alternate nick grouped to your account. For example, if your primary nick is foo:</h5>
+            
+            <pre><code>/nick foo_
+            </code></pre>
+            
+            <p>then identify to your primary account:</p>
+            
+            <pre><code>/msg NickServ IDENTIFY foo password
+            </code></pre>
+            
+            <p>and finally, group the new nick to your account</p>
+            
+            <pre><code>/msg NickServ GROUP
+            </code></pre>
+            
+            <h4 id="we-prefer-you-to-use-just-one-account-and-group-nicks-to-it-as-described-above-rather-than-registering-for-multiple-accounts-grouping-nicks-in-this-way-gives-you-the-benefit-of-having-all-your-nicks-covered-by-the-same-cloak-should-you-choose-to-wear-a-cloak">We prefer you to use just one account, and group nicks to it as described above, rather than registering for multiple accounts. Grouping nicks in this way gives you the benefit of having all your nicks covered by the same cloak, should you choose to wear a cloak.</h4>
+            
+            <p>The exception to this is where you might want to run a bot. You should
+            register a separate account for your bot.</p>
+            
+            <h4 id="configure-your-client-to-identify-itself-to-nickserv-automatically-whenever-it-connects-to-freenode-so-that-its-less-likely-youll-connect-to-the-network-without-being-identified-to-nickserv-the-easiest-approach-is-to-specify-your-nickserv-password-as-a-server-password">Configure your client to identify itself to NickServ automatically whenever it connects to freenode so that it’s less likely you’ll connect to the network without being identified to NickServ. The easiest approach is to specify your NickServ password as a server password.</h4>
+            
+            <p>If your client supports server password, please set this up as
+            accountname:password. Make sure to include the colon. This will allow
+            you to identify to your services account on connect, regardless of the
+            nickname you are using when you connect. For example:</p>
+            
+            <pre><code>/connect chat.freenode.net 6667 mquin:uwhY8wgzWw22-zXs.M39p
+            </code></pre>
+            
+            <h3 id="whats-the-easiest-way-to-identify-to-nickserv-when-i-connect-to-freenode">What’s the easiest way to identify to NickServ when I connect to freenode?</h3>
+            
+            <p>If your client supports SASL, that is best. Otherwise, just plug your
+            NickServ password into your client as a server password. To make this work
+            when connecting from a different nick than the one you’ve got registered,
+            use nick:password. You’ll be identified to NickServ automatically when
+            you connect.</p>
+            
+            <p>In some cases, it’s more convenient to configure your client to send this command to achieve the same effect:</p>
+            
+            <pre><code>/msg NickServ IDENTIFY account password
+            </code></pre>
+            
+            <h3 id="mibbit---create-your-own-nicknamehttpwikimibbitcomindexphpcreateyourownnickname"><a href="http://wiki.mibbit.com/index.php/Create_your_own_nickname">mibbit - Create your own nickname</a></h3>
+            
+            <h4 id="registering-your-nickname">Registering your Nickname</h4>
+            
+            <h5 id="choose-a-user-name-or-nick">Choose a user name or nick.</h5>
+            
+            <p>This user name should consist only of the letters from A-Z, the ciphers
+            from 0-9 (but not as first character) and certain symbols such as
+            “_” and “-“ (“" breakes some mails). It may have a maximum of 16
+            characters. Please note that some nicknames are used internally and
+            cannot be used. Also, please stay family friendly with your nicknames</p>
+            
+            <h5 id="change-your-user-name-to-the-user-name-you-have-chosen-suppose-you-chose-the-nick-stupidname-for-example-type-the-following-in-the-input-line">Change your user name to the user name you have chosen. Suppose you chose the nick “StupidName” for example. Type the following in the input line:</h5>
+            
+            <pre><code>/nick StupidName
+            </code></pre>
+            
+            <h5 id="register-your-nick-or-user-name-type-the-following-command-and-replace-yourpassword-with-a-password-that-will-be-easy-to-remember-and-use-a-working-email-address">Register your nick or user name. Type the following command and replace yourPassword with a password that will be easy to remember and use a working email address.</h5>
+            
+            <pre><code>irc command
+            /ns register yourPassword yourEmailAccountName@yourMailProvider
+            
+            (no nick here, otherwise you'll get "use a more obscure password" or similar) 
+            </code></pre>
+            
+            <h5 id="get-the-confirmation-code-from-your-email-inbox-type-the-following-command-and-replace-confirmationcode-with-the-code-sent-to-you-in-the-email-never-replace-the-word-nickserv-in-msg-nickserv--with-your-nick-it-has-the-template-shown-below">Get the confirmation code from your email inbox. Type the following command and replace confirmationCode with the code sent to you in the email (NEVER replace the word “nickserv” in /msg nickserv … with your nick). It has the template shown below</h5>
+            
+            <pre><code>irc command
+            /ns confirm confirmationCode 
+            
+            If you want your email address to remain private, use the following command:
+            
+            /ns set hide email on
+            </code></pre>
+            
+            <h5 id="register-an-alternate-nickname-using-the-same-password-if-you-would-like-to-register-an-alternate-nickname-repeat-the-same-procedure-using-steps-2-to-4-alternatively-type-ns-group-mainnick-mainpass-see-ns-help-group">Register an alternate nickname using the same password. If you would like to register an alternate nickname, repeat the same procedure, using steps 2 to 4. Alternatively type /ns GROUP mainNick mainPass (see /ns help group)</h5>
+            
+            <h5 id="identify-with-nickserv-each-time-you-connect-you-should-sign-in-or-identify-yourself-using-the-following-command">Identify with NickServ. Each time you connect, you should sign in, or “identify” yourself, using the following command:</h5>
+            
+            <pre><code>/ns identify your_password
+            </code></pre>
+            
+            <h5 id="auto-connect-with-mibbit-for-your-convience-if-you-are-using-the-fully-featured-httpchatmibbitcom-main-client-and-created-a-mibbit-account-and-are-logged-in-you-can-add-that-nick-and-password-to-the-my-account-list-to-be-auto-identified-see-autoidentify-most-clients-have-their-own-way-of-setting-up-an-auto-connect-also">Auto connect with mibbit: For your convience, if you are using the fully featured http://chat.mibbit.com (main client) and created a Mibbit account and are logged in, you can add that nick and password to the “My Account” list to be auto-identified, see Autoidentify. Most clients have their own way of setting up an auto-connect also.</h5>
+            
+            <h2 id="package-weechat-101-1">Package: weechat (1.0.1-1)</h2>
+            
+            <h3 id="weechat-links">Weechat links</h3>
+            
+            <ul>
+              <li><a href="http://kmacphail.blogspot.com/2011/09/using-weechat-with-freenode-basics.html">Best starter - kmacphail.blogspot</a></li>
+              <li><a href="http://weechat.org/">WeeChat is a fast, light and extensible chat client</a></li>
+              <li><a href="http://thepracticalsysadmin.com/introduction-to-weechat/">The Practical Sysadmin - Introduction to Weechat</a></li>
+            </ul>
+            
+            <h3 id="weechat-install">Weechat Install</h3>
+            
+            <pre><code>apt-get install weechat
+            
+            apt-get install weechat
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              liblua5.1-0 libtcl8.5 weechat-core weechat-curses weechat-plugins
+            Suggested packages:
+              tcl8.5 weechat-doc weechat-scripts
+            The following NEW packages will be installed:
+              liblua5.1-0 libtcl8.5 weechat weechat-core weechat-curses weechat-plugins
+            0 upgraded, 6 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 2,297 kB of archives.
+            After this operation, 9,975 kB of additional disk space will be used.
+            </code></pre>
+            
+            <h3 id="configure-weechat">configure weechat</h3>
+            
+            <pre><code>/server add twice-irc.de irc.twice-irc.de
+            
+            </code></pre>
+            
+            <h3 id="using-weechat-tips">Using weechat tips</h3>
+            
+            <h2 id="stuff">stuff</h2>
+            
+            <pre><code>/set irc.server.freenode.nicks "cootcraig"
+            /set irc.server.freenode.username "cootcraig"
+            /set irc.server.freenode.realname "Craig Anderson"
+            /set irc.server.freenode.command "/msg nickserv identify cootcraig **********"
+            
+            /connect freenode
+            /join #cobug
+            
+            /server add twice-irc irc.twice-irc.de
+            /connect twice-irc
+            /join #i3
+            </code></pre>
+            
+            <p>Register nick cootcraig at twice-irc</p>
+            
+            <pre><code>irc commands
+            
+            /msg nickserv help register 
+            
+            /msg nickserv register ********** craig@coot.net
+            
+            A password has been sent to craig@coot.net , please type / msg NickServ
+            confirm &lt; passcode &gt; to | complete the registration process .
+            </code></pre>
+            
+            <pre><code>irc commands
+            /msg NickServ confirm x2WB6Tmuc
+            
+            The nickname craig has been successfully registered .
+            Your password is ********** - keep it for later use.
+            
+            /msg nickserv identify craig **********
+            
+            You are already registered.
+            
+            /nick cootcraig
+            
+            /msg nickserv identify craig **********
+            
+            /msg nickserv group craig **********
+            
+            You are now represented by craig in the group.
+            
+            /join #i3
+            
+            craig (~craig@twice-F85F5742.hsd1.co.comcast.net) has joined #i3
+            </code></pre>
+            
+            <p>connect to:               irc.twice-irc.de</p>
+            
+            <pre><code>/set irc.server.twice-irc.nicks "craig cootcraig"
+            /set irc.server.twice-irc.username "craig@coot.net"
+            /set irc.server.twice-irc.realname "Craig Anderson"
+            /set irc.server.twice-irc.command "/msg nickserv identify **********; /nick cootcraig"
+            </code></pre>
+            
+            <pre><code>[23:08] [1] [core] 1:weechat
+            </code></pre>
+            
+            <h2 id="using-webchat">Using Webchat</h2>
+            
+            <ul>
+              <li><a href="http://webchat.freenode.net/">Freenode webchat</a></li>
+            </ul>
+            
+            <p>qwebirc</p>
+            
+            <h2 id="research-links">research links</h2>
+            
+            <p>irssi or WeeChat</p>
+            
+            <ul>
+              <li><a href="http://wiki.doubleunion.org/index.php?title=IRC_Tutorial">Double Union IRC Tutorial</a></li>
+              <li><a href="https://webchat.freenode.net/">Webchat at freenode</a></li>
+              <li>ChatZilla extension</li>
+              <li><a href="http://www.irchelp.org/irchelp/irctutorial.html">irchelp.org - An IRC Tutorial</a></li>
+              <li><a href="https://freenode.net/faq.shtml">freenode - Frequently-Asked Questions</a></li>
+              <li><a href="http://robots.thoughtbot.com/weechat-for-slacks-irc-gateway">thoughtbot - WeeChat for Slack’s IRC Gateway</a></li>
+            </ul>
+            <hr>
+            <h3>
+              14 December 2014
+              &raquo;
+              <a href="/blog/2014/12/seamonkey/">Seamonkey</a>
+            </h3>
+            
+            <h2 id="research-links">research links</h2>
+            
+            <ul>
+              <li><a href="http://www.seamonkey-project.org/">SeaMonkey Home</a></li>
+              <li><a href="http://www.seamonkey-project.org/releases/#official">SeaMonkey Official build downloads</a></li>
+              <li><a href="http://thelinuxrain.com/articles/seamonkey-more-than-a-web-browser">SeaMonkey - More than a Web Browser - Andrew Powell</a></li>
+            </ul>
+            <hr>
+            <h3>
+              14 December 2014
+              &raquo;
+              <a href="/blog/2014/12/thunderbird-email/">Thunderbird for Email</a>
+            </h3>
+            
+            <h2 id="research-links">research links</h2>
+            <hr>
+            <h3>
               13 December 2014
               &raquo;
               <a href="/blog/2014/12/mitx-debian/">Log set up Debian on i3 Mini-ITX</a>
             </h3>
             
+            <h2 id="first-round-of-install">First round of install</h2>
             <p>Hostname: ivie.coot.local</p>
             
             <pre><code>Software Selection
@@ -108,7 +939,361 @@
               <li><a href="https://www.virtualbox.org/wiki/Linux_Downloads">Download VirtualBox for Linux Hosts</a></li>
             </ul>
             
-            <p>deadbeef</p>
+            <h2 id="xorg-video-driver">X.org video driver</h2>
+            
+            <ul>
+              <li><a href="https://lists.debian.org/debian-user/2013/06/msg01429.html">Re: Haswell Core i5 4670 &amp; Asus H87-PRO</a></li>
+            </ul>
+            
+            <pre><code>Probably not, you will likely need a newer X.org driver
+            (xserver-xorg-video-intel) and Mesa (libgl1-mesa-dri), and possibly a
+            newer libdrm.  Unfortunately, the xserver-xorg-video-intel package is
+            way behind upstream even in experimental, and libgl1-mesa-dri in
+            unstable requires a newer libc6 than is available in Wheezy.
+            </code></pre>
+            
+            <ul>
+              <li>Package: xserver-xorg-video-intel (2:2.21.15-2 and others) </li>
+              <li>Package: libgl1-mesa-dri (10.3.2-1) </li>
+            </ul>
+            
+            <pre><code>apt-get install xserver-xorg-video-intel
+            
+            already the latest version
+            </code></pre>
+            
+            <h2 id="set-up-the-other-3-hd">Set up the other 3 HD</h2>
+            
+            <p>/dev/sdb
+            mount as /data</p>
+            
+            <p>/dev/sdc - /dev/sdd - </p>
+            
+            <pre><code>root@ivie:~# blkid
+            /dev/sda1: UUID="fd5a5c3d-45d1-489b-9cd5-6de24d8cfd66" TYPE="ext4" PARTUUID="56e4161b-01"
+            /dev/sda5: UUID="0b90163a-b607-47ad-9f4d-d731dbb884f7" TYPE="swap" PARTUUID="56e4161b-05"
+            /dev/sdb1: LABEL="sata02" UUID="964ae5ac-42a4-44f7-8a99-57ecd3397563" TYPE="ext4" PARTUUID="5ac5be25-01"
+            /dev/sdc1: LABEL="mixing" UUID="234aaeda-a40a-4ba3-8b48-19a5209d45a9" TYPE="ext4" PARTUUID="5237fb2c-01"
+            /dev/sdd1: LABEL="sata01" UUID="8105507a-f283-40f0-8051-3649d89229d5" TYPE="ext4" PARTUUID="aab12b11-01"
+            /dev/sde1: LABEL="gcsvm" UUID="030f7503-7498-44a0-94c6-9b88f0a985fc" TYPE="ext4" PARTUUID="fc7fb9bb-01"
+            </code></pre>
+            
+            <h3 id="label-sata02-devsdb1-298gb-ext4">Label sata02 /dev/sdb1 298Gb ext4</h3>
+            
+            <pre><code>/dev/sdb1: LABEL="sata02" UUID="964ae5ac-42a4-44f7-8a99-57ecd3397563" TYPE="ext4" PARTUUID="5ac5be25-01"
+            </code></pre>
+            
+            <pre><code>UUID=fd5a5c3d-45d1-489b-9cd5-6de24d8cfd66 /               ext4    errors=remount-ro 0       1
+            
+            UUID=964ae5ac-42a4-44f7-8a99-57ecd3397563 /data               ext4    errors=remount-ro 0       2
+            </code></pre>
+            
+            <h3 id="raid-1-46576-gb---devsdc1-labelmixing---devsdd1-labelsata01">raid 1 465.76 Gb - /dev/sdc1: LABEL=”mixing” - /dev/sdd1: LABEL=”sata01”</h3>
+            
+            <pre><code>/dev/sdc1: LABEL="mixing" UUID="234aaeda-a40a-4ba3-8b48-19a5209d45a9" TYPE="ext4" PARTUUID="5237fb2c-01"
+            /dev/sdd1: LABEL="sata01" UUID="8105507a-f283-40f0-8051-3649d89229d5" TYPE="ext4" PARTUUID="aab12b11-01"
+            </code></pre>
+            
+            <p>An exact copy (or mirror) of a set of data on two disks. This is useful
+            when read performance or reliability is more important than data storage
+            capacity. Such an array can only be as big as the smallest member disk. A
+            classic RAID 1 mirrored pair contains two disks.</p>
+            
+            <ul>
+              <li><a href="https://wiki.debian.org/SoftwareRAID">Debian SoftwareRAID</a></li>
+              <li>Package: mdadm (3.3.2-2)  (jessie)</li>
+            </ul>
+            
+            <h4 id="using-this-article">using this article</h4>
+            
+            <ul>
+              <li><a href="http://xmodulo.com/create-software-raid1-array-mdadm-linux.html">xmodulo - How to create a software RAID-1 array with mdadm on Linux</a></li>
+            </ul>
+            
+            <pre><code>apt-get install mdadm
+            fdisk and create partitions type 0xfd
+            mdadm -Cv /dev/md0 -l1 -n2 /dev/sdc1 /dev/sdd1
+            </code></pre>
+            
+            <p>Watch the progress of building the mdm array</p>
+            
+            <pre><code>cat /proc/mdstat
+            
+            Personalities : [raid1] 
+            md0 : active raid1 sdd1[1] sdc1[0]
+                  488254464 blocks super 1.2 [2/2] [UU]
+                  [==&gt;..................]  resync = 10.2% (50215168/488254464) finish=92.0min speed=79290K/sec
+                  bitmap: 4/4 pages [16KB], 65536KB chunk
+            </code></pre>
+            
+            <p>Format raid1 md0</p>
+            
+            <pre><code>mkfs.ext4 /dev/md0 
+            
+            mke2fs 1.42.12 (29-Aug-2014)
+            Creating filesystem with 122063616 4k blocks and 30523392 inodes
+            Filesystem UUID: 6d6c9846-6c60-40cf-b8f0-24fd5eeafdfa
+            Superblock backups stored on blocks: 
+            	32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208, 
+            	4096000, 7962624, 11239424, 20480000, 23887872, 71663616, 78675968, 
+            	102400000
+            
+            Allocating group tables: done                            
+            Writing inode tables: done                            
+            Creating journal (32768 blocks): done
+            Writing superblocks and filesystem accounting information: done    
+            </code></pre>
+            
+            <h2 id="local-printer-setup">local printer setup</h2>
+            
+            <p><a href="http://localhost:631">CUPS web admin</a></p>
+            
+            <h2 id="some-office-programs">Some office programs</h2>
+            
+            <h3 id="abiword">abiword</h3>
+            
+            <pre><code>apt-get install abiword
+            
+            The following NEW packages will be installed:
+              abiword abiword-common abiword-plugin-grammar abiword-plugin-mathview evolution-data-server-common fonts-liberation fonts-lyx libabiword-3.0
+              libboost-date-time1.55.0 libboost-system1.55.0 libboost-thread1.55.0 libcamel-1.2-49 libchamplain-0.12-0 libchamplain-gtk-0.12-0 libclutter-1.0-0
+              libclutter-1.0-common libclutter-gtk-1.0-0 libcogl-common libcogl-pango20 libcogl-path20 libcogl20 libebackend-1.2-7 libebook-1.2-14
+              libebook-contacts-1.2-0 libecal-1.2-16 libedata-book-1.2-20 libedataserver-1.2-18 libfribidi0 libgck-1-0 libgcr-3-common libgcr-base-3-1 libgdome2-0
+              libgdome2-cpp-smart0c2a libgoffice-0.10-10 libgoffice-0.10-10-common libgsf-1-114 libgsf-1-common libgtkmathview0c2a libical1 libinput5 liblink-grammar4
+              libloudmouth1-0 libmhash2 libots0 libphonenumber6 libprotobuf9 libraptor2-0 librasqal3 librdf0 librevenge-0.0-0 libtelepathy-glib0 libtidy-0.99-0
+              libwmf0.2-7 libwpd-0.10-10 libwpg-0.3-3 libwps-0.3-3 libwv-1.2-4 link-grammar-dictionaries-en
+            0 upgraded, 58 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 20.2 MB of archives.
+            After this operation, 92.4 MB of additional disk space will be used.
+            </code></pre>
+            
+            <h3 id="package-libreoffice-1433-2">Package: libreoffice (1:4.3.3-2)</h3>
+            
+            <p>This metapackage installs all components of libreoffice:</p>
+            
+            <ul>
+              <li>libreoffice-writer: Word processor</li>
+              <li>libreoffice-calc: Spreadsheet</li>
+              <li>libreoffice-impress: Presentation</li>
+              <li>libreoffice-draw: Drawing</li>
+              <li>libreoffice-base: Database</li>
+              <li>libreoffice-math: Equation editor</li>
+            </ul>
+            
+            <pre><code>apt-get install libreoffice
+            
+            The following NEW packages will be installed:
+              coinor-libcbc3 coinor-libcgl1 coinor-libclp1 coinor-libcoinmp1 coinor-libcoinutils3 coinor-libosi1 firebird2.5-common firebird2.5-common-doc
+              firebird2.5-server-common fonts-opensymbol fonts-sil-gentium fonts-sil-gentium-basic libabw-0.1-1 libcdr-0.1-1 libclucene-contribs1 libclucene-core1
+              libcmis-0.4-4 libcolamd2.8.0 libe-book-0.1-1 libeot0 libetonyek-0.1-1 libexttextcat-2.0-0 libexttextcat-data libfbclient2 libfbembed2.5 libfreehand-0.1-1
+              libglew1.10 libgltf-0.0-0 libhsqldb1.8.0-java libhyphen0 liblangtag-common liblangtag1 libmspub-0.1-1 libmwaw-0.3-3 libmythes-1.2-0 libneon27-gnutls
+              libodfgen-0.1-1 liborcus-0.8-0 libreoffice libreoffice-avmedia-backend-gstreamer libreoffice-base libreoffice-base-core libreoffice-base-drivers
+              libreoffice-calc libreoffice-common libreoffice-core libreoffice-draw libreoffice-impress libreoffice-java-common libreoffice-math
+              libreoffice-report-builder-bin libreoffice-sdbc-firebird libreoffice-sdbc-hsqldb libreoffice-style-galaxy libreoffice-writer libservlet2.5-java
+              libvisio-0.1-1 lp-solve python3-uno uno-libs3 ure
+            0 upgraded, 61 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 94.0 MB of archives.
+            After this operation, 355 MB of additional disk space will be used.
+            
+            </code></pre>
+            
+            <h3 id="package-gv-1374-1">Package: gv (1:3.7.4-1)</h3>
+            
+            <pre><code>apt-get install gv
+            
+            The following NEW packages will be installed:
+              ghostscript-x gv xaw3dg
+            0 upgraded, 3 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 459 kB of archives.
+            After this operation, 1,225 kB of additional disk space will be used.
+            </code></pre>
+            
+            <h3 id="package-hdparm-943-11">Package: hdparm (9.43-1.1)</h3>
+            
+            <pre><code>apt-get install hdparm
+            
+            The following NEW packages will be installed:
+              hdparm powermgmt-base
+            0 upgraded, 2 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 114 kB of archives.
+            After this operation, 244 kB of additional disk space will be used.
+            </code></pre>
+            
+            <h3 id="package-flashplugin-nonfree-136">Package: flashplugin-nonfree (1:3.6)</h3>
+            
+            <pre><code>apt-get install flashplugin-nonfree
+            </code></pre>
+            
+            <h3 id="how-to-control-audio-mixer">How to control audio mixer?</h3>
+            
+            <h4 id="package-paman-094-1-and-others">Package: paman (0.9.4-1 and others)</h4>
+            
+            <h4 id="package-pasystray-040-1">Package: pasystray (0.4.0-1)</h4>
+            
+            <p>Pasystray enables control of various PulseAudio server settings from the X11 system tray. It can:</p>
+            
+            <ul>
+              <li>adjust the volume of streams and sinks/sources</li>
+              <li>transfer streams between sinks/sources</li>
+              <li>switch the default sink/source</li>
+              <li>set the default server (PULSE_SERVER)</li>
+              <li>detect network PulseAudio services</li>
+              <li>
+                <p>rename devices</p>
+              </li>
+              <li>sug: paman - PulseAudio Manager </li>
+              <li>sug: paprefs - PulseAudio Preferences </li>
+              <li>sug: pavumeter - PulseAudio Volume Meter </li>
+              <li>sug: pulseaudio-module-zeroconf - Zeroconf module for PulseAudio sound server </li>
+            </ul>
+            
+            <h4 id="try-install">Try install</h4>
+            
+            <pre><code>apt-get install paman pasystray
+            
+            The following NEW packages will be installed:
+              libglademm-2.4-1c2a paman pasystray pavumeter
+            0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 193 kB of archives.
+            After this operation, 949 kB of additional disk space will be used.
+            </code></pre>
+            
+            <h3 id="package-inkscape-0485-3">Package: inkscape (0.48.5-3)</h3>
+            
+            <pre><code>
+            </code></pre>
+            
+            <h3 id="package-dia-0973-1">Package: dia (0.97.3-1)</h3>
+            
+            <pre><code>
+            </code></pre>
+            
+            <h3 id="package-mupdf-15-1-and-others">Package: mupdf (1.5-1 and others)</h3>
+            
+            <h2 id="unable-to-read-hp-envy-sata-drives">Unable to read HP Envy SATA drives</h2>
+            
+            <pre><code>hdparm -N /dev/sdf
+            
+            /dev/sdf:
+             max sectors   = 0/268435455, HPA is enabled
+            </code></pre>
+            
+            <pre><code>hdparm --verbose /dev/sdf
+            
+            geometry      = 91201/255/63, sectors = 1465149168, start = 0
+            
+            1465149168
+            268435455
+            </code></pre>
+            
+            <h3 id="research-on-hpa-on-sata">Research on HPA on SATA</h3>
+            
+            <p>http://superuser.com/questions/642637/harddrive-wipe-out-hidden-areas-like-hpa-and-dco-also-after-malware-infectio</p>
+            
+            <p>To use HDPARM to clear the HPA</p>
+            
+            <p>For x = device you’re targeting, use the following HDPARM command to
+            show if you have an HPA enabled.</p>
+            
+            <pre><code>hdparm -N /dev/sdx
+            </code></pre>
+            
+            <p>It will spit back something like the following if you have an HPA defined:</p>
+            
+            <pre><code>/dev/sdx:
+            max sectors   = 78125000/78165360, HPA is enabled
+            </code></pre>
+            
+            <p>To remove the HPA and expand the visible area out to the full size of the
+            drive use the denominator in the above report (visible area/max sectors):</p>
+            
+            <pre><code>hdparm -N p78165360 /dev/sdx
+            </code></pre>
+            
+            <p>It will spit back a report that the visible area is equal to the max
+            sectors and that the HPA is disabled.</p>
+            
+            <pre><code>/dev/sdx:
+            setting max visible sectors to 78165360 (permanent)
+            max sectors   = 78165360/78165360, HPA is disabled
+            </code></pre>
+            
+            <h2 id="rdp-remmina">RDP remmina</h2>
+            
+            <ul>
+              <li>Package: remmina (1.1.1-2) </li>
+              <li>Package: remmina-plugin-rdp (1.1.1-2)</li>
+              <li>Package: remmina-plugin-vnc (1.1.1-2) </li>
+            </ul>
+            
+            <pre><code>apt-get install remmina remmina-plugin-rdp remmina-plugin-vnc
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              libavahi-ui-gtk3-0 libfreerdp-cache1.1 libfreerdp-client1.1 libfreerdp-codec1.1 libfreerdp-common1.1.0 libfreerdp-core1.1 libfreerdp-crypto1.1
+              libfreerdp-gdi1.1 libfreerdp-locale1.1 libfreerdp-plugins-standard libfreerdp-primitives1.1 libfreerdp-utils1.1 libgstreamer-plugins-base0.10-0
+              libgstreamer0.10-0 libssh-4 libvncclient0 libvte-2.90-9 libvte-2.90-common libwinpr-crt0.1 libwinpr-crypto0.1 libwinpr-dsparse0.1 libwinpr-environment0.1
+              libwinpr-file0.1 libwinpr-handle0.1 libwinpr-heap0.1 libwinpr-input0.1 libwinpr-interlocked0.1 libwinpr-library0.1 libwinpr-path0.1 libwinpr-pool0.1
+              libwinpr-registry0.1 libwinpr-rpc0.1 libwinpr-sspi0.1 libwinpr-synch0.1 libwinpr-sysinfo0.1 libwinpr-thread0.1 libwinpr-utils0.1 remmina-common
+            Suggested packages:
+              freerdp-x11 gstreamer-codec-install gnome-codec-install gstreamer0.10-tools gstreamer0.10-plugins-base
+            The following NEW packages will be installed:
+              libavahi-ui-gtk3-0 libfreerdp-cache1.1 libfreerdp-client1.1 libfreerdp-codec1.1 libfreerdp-common1.1.0 libfreerdp-core1.1 libfreerdp-crypto1.1
+              libfreerdp-gdi1.1 libfreerdp-locale1.1 libfreerdp-plugins-standard libfreerdp-primitives1.1 libfreerdp-utils1.1 libgstreamer-plugins-base0.10-0
+              libgstreamer0.10-0 libssh-4 libvncclient0 libvte-2.90-9 libvte-2.90-common libwinpr-crt0.1 libwinpr-crypto0.1 libwinpr-dsparse0.1 libwinpr-environment0.1
+              libwinpr-file0.1 libwinpr-handle0.1 libwinpr-heap0.1 libwinpr-input0.1 libwinpr-interlocked0.1 libwinpr-library0.1 libwinpr-path0.1 libwinpr-pool0.1
+              libwinpr-registry0.1 libwinpr-rpc0.1 libwinpr-sspi0.1 libwinpr-synch0.1 libwinpr-sysinfo0.1 libwinpr-thread0.1 libwinpr-utils0.1 remmina remmina-common
+              remmina-plugin-rdp remmina-plugin-vnc
+            0 upgraded, 41 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 9,511 kB of archives.
+            After this operation, 20.6 MB of additional disk space will be used.
+            </code></pre>
+            
+            <h2 id="irc-client">IRC client</h2>
+            
+            <p>irssi - irc client
+            ChatZilla extension for Firefox.</p>
+            
+            <h3 id="package-irssi-0817-1">Package: irssi (0.8.17-1)</h3>
+            
+            <h4 id="install">install</h4>
+            
+            <pre><code>apt-get install irssi irssi-scripts libdbi-perl libclone-perl libmldbm-perl libnet-daemon-perl libsql-statement-perl
+            
+            Reading package lists... Done
+            Building dependency tree       
+            Reading state information... Done
+            The following extra packages will be installed:
+              libfreezethaw-perl libparams-util-perl libtext-soundex-perl libval14
+            The following NEW packages will be installed:
+              irssi irssi-scripts libclone-perl libdbi-perl libfreezethaw-perl libmldbm-perl libnet-daemon-perl libparams-util-perl libsql-statement-perl
+              libtext-soundex-perl libval14
+            0 upgraded, 11 newly installed, 0 to remove and 0 not upgraded.
+            Need to get 2,878 kB of archives.
+            After this operation, 8,864 kB of additional disk space will be used.
+            </code></pre>
+            
+            <h4 id="research">research</h4>
+            
+            <ul>
+              <li><a href="http://linuxreviews.org/software/irc/irssi/">LinuxReviews - Irssi quickstart guide</a></li>
+              <li><a href="https://wiki.archlinux.org/index.php/irssi">ArchLinux on irssi</a></li>
+              <li><a href="https://wiki.archlinux.org/index.php/irssi#irssi_with_nicklist_in_tmux">ArchLinux - irssi with nicklist in tmux</a></li>
+              <li><a href="https://www.linode.com/docs/applications/messaging/using-irssi-for-internet-relay-chat">Linode howto on Irssi</a></li>
+              <li><a href="http://quadpoint.org/articles/irssi/">A Guide to Efficiently Using Irssi and Screen</a></li>
+              <li><a href="http://irssi.org/documentation/startup">irssi.org - Startup HOWTO</a></li>
+              <li><a href="https://pthree.org/2010/02/02/irssis-channel-network-server-and-connect-what-it-means/">Aaron Toponce - Irssi’s /channel, /network, /server and /connect - What It Means</a></li>
+              <li><a href="http://www.bitlbee.org/main.php/news.r.html">BitlBee brings IM (instant messaging) to IRC clients.</a></li>
+              <li><a href="http://www.antonfagerberg.com/texts/my-perfect-irssi-setup/">Anton Fagerberg - My perfect Irssi setup</a></li>
+              <li><a href="http://uvesway.wordpress.com/2012/03/24/irssi-and-tmux-or-screen/">Uves Way - Irssi and tmux (or screen)</a></li>
+              <li><a href="http://www.linux.org/threads/irssi-for-beginners.4181/">steelmanronald06 - irssi For Beginners</a></li>
+            </ul>
+            
+            <h2 id="next">next</h2>
+            
+            <p>deadbeef - unpacked to /opt</p>
             <hr>
             <h3>
               12 December 2014
@@ -145,7 +1330,46 @@
               <a href="/blog/2014/12/i3wm/">Notes on i3wm</a>
             </h3>
             
-            <h1 id="i3wm">i3wm</h1>
+            <h2 id="notes">Notes</h2>
+            
+            <h3 id="named-workspaces">Named Workspaces</h3>
+            
+            <h4 id="renaming-workspaces">6.5.2. Renaming workspaces</h4>
+            
+            <p>You can rename workspaces. This might be useful to start with the default
+            numbered workspaces, do your work, and rename the workspaces afterwards
+            to reflect what’s actually on them. You can also omit the old name
+            to rename the currently focused workspace. This is handy if you want to
+            use the rename command with i3-input.</p>
+            
+            <pre><code>i3-msg 'rename workspace to "2: irc"'
+            
+            bindsym $mod+n exec i3-input -F 'rename workspace to "%s"' -P 'New name: '
+            </code></pre>
+            
+            <h2 id="irc">IRC</h2>
+            
+            <ul>
+              <li>
+                <h1 id="i3-on-irctwice-ircde">i3 on irc.twice-irc.de</h1>
+              </li>
+              <li><a href="http://i3wm.org/contact/">i3wm Contact page</a></li>
+              <li><a href="http://webchat.freenode.net/">Freenode webchat</a></li>
+            </ul>
+            
+            <p>Channel #i3</p>
+            
+            <h3 id="asked-on-i3---tue-dec-16-090350-mst-2014">Asked on #i3 - Tue Dec 16 09:03:50 MST 2014</h3>
+            
+            <p>Reading 6.5.1. Named workspaces in the User’s Guide.  I don’t understand
+            how to do a rename command.</p>
+            
+            <h2 id="research-links">research links</h2>
+            
+            <ul>
+              <li><a href="http://i3wm.org/">i3wm Home Page</a></li>
+              <li><a href="http://i3wm.org/contact/">i3wm Contact page</a></li>
+            </ul>
             <hr>
             <h3>
               09 December 2014
@@ -153,12 +1377,56 @@
               <a href="/blog/2014/12/work-gitlab-server/">Setup up work Gitlab server</a>
             </h3>
             
-            <p>Current ip address</p>
+            <h2 id="gitlab-omnibus-readmehttpsgitlabcomgitlab-orgomnibus-gitlabtreemaster"><a href="https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master">Gitlab Omnibus Readme</a></h2>
             
-            <pre><code>
-            192.168.88.182
-            ssh 192.168.88.182
-            on lug HP Envy
+            <h3 id="configuration-options">Configuration options</h3>
+            
+            <p>Configuration done in file:</p>
+            
+            <ul>
+              <li>/etc/gitlab/gitlab.rb</li>
+            </ul>
+            
+            <pre><code>sudo gitlab-ctl reconfigure
+            </code></pre>
+            
+            <p>GitLab and GitLab CI are configured by setting their relevant options
+            in /etc/gitlab/gitlab.rb. For a complete list of available options,
+            visit the gitlab.rb.template. New installations starting from GitLab 7.6,
+            will have all the options of the template listed in /etc/gitlab/gitlab.rb
+            by default.</p>
+            
+            <h4 id="smtp-settingshttpsgitlabcomgitlab-orgomnibus-gitlabblobmasterdocsettingssmtpmd"><a href="https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/settings/smtp.md">SMTP settings</a></h4>
+            
+            <p>If you would rather send application email via an SMTP server instead
+            of via Sendmail, add the following configuration information to
+            /etc/gitlab/gitlab.rb and run gitlab-ctl reconfigure.</p>
+            
+            <pre><code>in /etc/gitlab/gitlab.rb
+            gitlab_rails['smtp_enable'] = true
+            gitlab_rails['smtp_address'] = "smtp.server"
+            gitlab_rails['smtp_port'] = 456
+            gitlab_rails['smtp_user_name'] = "smtp user"
+            gitlab_rails['smtp_password'] = "smtp password"
+            gitlab_rails['smtp_domain'] = "example.com"
+            gitlab_rails['smtp_authentication'] = "login"
+            gitlab_rails['smtp_enable_starttls_auto'] = true
+            </code></pre>
+            
+            <p>If your SMTP server does not like the default ‘From: gitlab@localhost’ you
+            can change the ‘From’ with this setting.</p>
+            
+            <pre><code>in /etc/gitlab/gitlab.rb
+            gitlab_rails['gitlab_email_from'] = 'gitlab@example.com'
+            </code></pre>
+            
+            <p>To change GitLab CI email configuration (e.g. use SMTP), use gitlab_ci
+            instead of gitlab_rails.</p>
+            
+            <pre><code>in /etc/gitlab/gitlab.rb
+            gitlab_ci['gitlab_ci_email_from'] = 'gitlab-ci@example.com'
+            gitlab_ci['smtp_enable'] = true
+            gitlab_ci['smtp_address'] = "smtp.server"
             </code></pre>
             
             <h2 id="gitlab-community-edition-omnibus-package-for-debian-7">GitLab Community Edition Omnibus package for Debian 7</h2>
@@ -273,10 +1541,13 @@
             Password: 5iveL!fe 
             </code></pre>
             
-            <p>Change password.
-            <!-- 
-            butterknife
-             --> </p>
+            <p>Change password.</p>
+            
+            <!-- username: root
+            password: butterknife
+            
+            username: craig
+            password: finitelifespan -->
             
             <h3 id="smtp-access-to-mailcootnet">smtp access to mail.coot.net</h3>
             
@@ -430,6 +1701,19 @@
               <li><a href="http://vimeo.com/27117067">full-on First Linux: Postfix 5: Postfix Null Client</a></li>
               <li><a href="http://fatmin.com/2012/07/17/rhel6-simple-postfix-configuration/">fatmin - Configure a Null Email Client</a></li>
             </ul>
+            
+            <h2 id="install-gitlab-virtualbox-guest-on-vmhost">Install Gitlab virtualbox guest on vmhost</h2>
+            
+            <h3 id="unpack-and-initial-setup">Unpack and initial setup</h3>
+            
+            <p>dhcp ip: 10.10.9.162</p>
+            
+            <h3 id="pick-a-static-ip">Pick a static IP</h3>
+            
+            <h3 id="dns-for-gitlab">DNS for Gitlab</h3>
+            
+            <p>gitlab.gcsww.local
+            10.10.22.6</p>
             
             <h2 id="research">research</h2>
             
@@ -9605,47 +10889,55 @@
             <h5>Tags</h5>
             <ul class='no-bullet'>
               <li><a href="/blog/tags/linux" rel="tag">linux</a></li>
+              <li><a href="/blog/tags/debian" rel="tag">debian</a></li>
               <li><a href="/blog/tags/diy" rel="tag">diy</a></li>
               <li><a href="/blog/tags/arduino" rel="tag">arduino</a></li>
-              <li><a href="/blog/tags/debian" rel="tag">debian</a></li>
-              <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
-              <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
               <li><a href="/blog/tags/cellphone" rel="tag">cellphone</a></li>
-              <li><a href="/blog/tags/led" rel="tag">led</a></li>
+              <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
+              <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
               <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
-              <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
+              <li><a href="/blog/tags/led" rel="tag">led</a></li>
               <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
-              <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
-              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
-              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
               <li><a href="/blog/tags/am" rel="tag">am</a></li>
+              <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
+              <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
+              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
+              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
               <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
-              <li><a href="/blog/tags/nas" rel="tag">nas</a></li>
+              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
+              <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
+              <li><a href="/blog/tags/i3wm" rel="tag">i3wm</a></li>
+              <li><a href="/blog/tags/git" rel="tag">git</a></li>
+              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
+              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
+              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
+              <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
+              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
+              <li><a href="/blog/tags/email" rel="tag">email</a></li>
+              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
+              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
+              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
               <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
               <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
               <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
-              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
-              <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
-              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
-              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
-              <li><a href="/blog/tags/i3wm" rel="tag">i3wm</a></li>
-              <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
+              <li><a href="/blog/tags/nas" rel="tag">nas</a></li>
               <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
-              <li><a href="/blog/tags/git" rel="tag">git</a></li>
-              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
-              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
-              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
-              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
-              <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
+              <li><a href="/blog/tags/irc" rel="tag">irc</a></li>
+              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
+              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
+              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
+              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
               <li><a href="/blog/tags/cd_player" rel="tag">cd_player</a></li>
               <li><a href="/blog/tags/philips_cd935" rel="tag">philips_cd935</a></li>
-              <li><a href="/blog/tags/email" rel="tag">email</a></li>
+              <li><a href="/blog/tags/laptop" rel="tag">laptop</a></li>
               <li><a href="/blog/tags/robotics" rel="tag">robotics</a></li>
               <li><a href="/blog/tags/lp_storage" rel="tag">lp_storage</a></li>
               <li><a href="/blog/tags/vinyl_lp" rel="tag">vinyl_lp</a></li>
               <li><a href="/blog/tags/cleaning" rel="tag">cleaning</a></li>
+              <li><a href="/blog/tags/thunderbird" rel="tag">thunderbird</a></li>
               <li><a href="/blog/tags/survival" rel="tag">survival</a></li>
               <li><a href="/blog/tags/hardware" rel="tag">hardware</a></li>
+              <li><a href="/blog/tags/xmonad" rel="tag">xmonad</a></li>
               <li><a href="/blog/tags/job_hunt" rel="tag">job_hunt</a></li>
               <li><a href="/blog/tags/gammu" rel="tag">gammu</a></li>
               <li><a href="/blog/tags/rs232" rel="tag">rs232</a></li>
@@ -9663,16 +10955,14 @@
               <li><a href="/blog/tags/security" rel="tag">security</a></li>
               <li><a href="/blog/tags/vm_host" rel="tag">vm_host</a></li>
               <li><a href="/blog/tags/virtualbox" rel="tag">virtualbox</a></li>
+              <li><a href="/blog/tags/firefox" rel="tag">firefox</a></li>
+              <li><a href="/blog/tags/icemonkey" rel="tag">icemonkey</a></li>
               <li><a href="/blog/tags/headset" rel="tag">headset</a></li>
               <li><a href="/blog/tags/ebay" rel="tag">ebay</a></li>
               <li><a href="/blog/tags/gitlab" rel="tag">gitlab</a></li>
               <li><a href="/blog/tags/cubox" rel="tag">cubox</a></li>
               <li><a href="/blog/tags/hardware_hackers" rel="tag">hardware_hackers</a></li>
               <li><a href="/blog/tags/pickup" rel="tag">pickup</a></li>
-              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
-              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
-              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
-              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
               <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
               <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
               <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
@@ -9681,6 +10971,7 @@
               <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
               <li><a href="/blog/tags/firefox_phone" rel="tag">firefox_phone</a></li>
               <li><a href="/blog/tags/firefox_os" rel="tag">firefox_os</a></li>
+              <li><a href="/blog/tags/music_playr" rel="tag">music_playr</a></li>
               <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
               <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
               <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
@@ -9695,12 +10986,16 @@
               <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
               <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
               <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
+              <li><a href="/blog/tags/pptp" rel="tag">pptp</a></li>
+              <li><a href="/blog/tags/vpn" rel="tag">vpn</a></li>
+              <li><a href="/blog/tags/Debian" rel="tag">Debian</a></li>
               <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
               <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
               <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
               <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
               <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
               <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
+              <li><a href="/blog/tags/seamonkey" rel="tag">seamonkey</a></li>
               <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
             </ul>
           </div>
