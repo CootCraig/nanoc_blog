@@ -260,13 +260,68 @@
             <pre><code>[23:08] [1] [core] 1:weechat
             </code></pre>
             
-            <h2 id="using-webchat">Using Webchat</h2>
+            <h2 id="using-weechat">Using Weechat</h2>
             
-            <ul>
-              <li><a href="http://webchat.freenode.net/">Freenode webchat</a></li>
-            </ul>
+            <h3 id="my-notes">My Notes</h3>
             
-            <p>qwebirc</p>
+            <pre><code>useful commands
+            /buffer 1 - goto buffer 1, the core weechat buffer
+            /buffer weechat - goto buffer 1, the core weechat buffer
+            /buffer list - list the buffers
+            /buffer #cobug - goto buffer with channel #cobug
+            /buffer 3 - goto buffer 3
+            </code></pre>
+            
+            <h3 id="screen-layouthttpsweechatorgfilesdocdevelweechatuserenhtmlscreenlayout"><a href="https://weechat.org/files/doc/devel/weechat_user.en.html#screen_layout">3.2. Screen layout</a></h3>
+            
+            <h3 id="weechat-commandshttpsweechatorgfilesdocdevelweechatuserenhtmlweechatcommands"><a href="https://weechat.org/files/doc/devel/weechat_user.en.html#weechat_commands">3.12.3. WeeChat commands</a></h3>
+            
+            <h4 id="away-set-or-remove-away-status">away set or remove away status</h4>
+            
+            <pre><code>/away  [-all] [&lt;message&gt;]
+            
+               -all: set or remove away status on all connected servers
+            message: message for away (if no message is given, away status is removed)
+            </code></pre>
+            
+            <h4 id="bar-manage-bars">bar manage bars</h4>
+            
+            <h4 id="buffer-manage-buffers">buffer manage buffers</h4>
+            
+            <pre><code>/buffer  list
+            clear [&lt;number&gt;|&lt;name&gt;|-merged|-all [&lt;number&gt;|&lt;name&gt;...]]
+            move &lt;number&gt;|-|+
+            swap &lt;number1&gt;|&lt;name1&gt; [&lt;number2&gt;|&lt;name2&gt;]
+            merge &lt;number&gt;
+            unmerge [&lt;number&gt;|-all]
+            hide [&lt;number&gt;|&lt;name&gt;|-all [&lt;number&gt;|&lt;name&gt;...]]
+            unhide [&lt;number&gt;|&lt;name&gt;|-all [&lt;number&gt;|&lt;name&gt;...]]
+            renumber [&lt;number1&gt; [&lt;number2&gt; [&lt;start&gt;]]]
+            close [&lt;n1&gt;[-&lt;n2&gt;]|&lt;name&gt;]
+            notify &lt;level&gt;
+            localvar
+            set &lt;property&gt; &lt;value&gt;
+            get &lt;property&gt;
+            </code></pre>
+            
+            <h4 id="window-manage-windows">window manage windows</h4>
+            
+            <pre><code>/window  list
+            -1|+1|b#|up|down|left|right [-window &lt;number&gt;]
+            &lt;number&gt;
+            splith|splitv [-window &lt;number&gt;] [&lt;pct&gt;]
+            resize [-window &lt;number&gt;] [+/-]&lt;pct&gt;
+            balance
+            merge [-window &lt;number&gt;] [all]
+            page_up|page_down [-window &lt;number&gt;]
+            refresh
+            scroll [-window &lt;number&gt;] [+/-]&lt;value&gt;[s|m|h|d|M|y]
+            scroll_horiz [-window &lt;number&gt;] [+/-]&lt;value&gt;[%]
+            scroll_up|scroll_down|scroll_top|scroll_bottom|scroll_beyond_end|scroll_previous_highlight|scroll_next_highlight|scroll_unread [-window &lt;number&gt;]
+            swap [-window &lt;number&gt;] [up|down|left|right]
+            zoom[-window &lt;number&gt;]
+            bare [&lt;delay&gt;]
+            </code></pre>
             
             <h2 id="research-links">research links</h2>
             
