@@ -77,6 +77,36 @@
             one playlist, you can still do it. The playlist will be remembered between
             runs or you can save it as an m3u file and load it whenever you want.</p>
             
+            <pre><code>========================= Installation results ===========================
+            Making install in themes
+            make[1]: Entering directory '/opt/moc/moc-2.5.0/themes'
+            make[2]: Entering directory '/opt/moc/moc-2.5.0/themes'
+            make[2]: Nothing to be done for 'install-exec-am'.
+            test -z "/usr/local/share/moc/themes" || /bin/mkdir -p "/usr/local/share/moc/themes"
+            /bin/mkdir: cannot create directory ‘/usr/local/share/moc’: No such file or directory
+            Makefile:335: recipe for target 'install-themesDATA' failed
+            make[2]: *** [install-themesDATA] Error 1
+            make[2]: Leaving directory '/opt/moc/moc-2.5.0/themes'
+            Makefile:404: recipe for target 'install-am' failed
+            make[1]: *** [install-am] Error 2
+            make[1]: Leaving directory '/opt/moc/moc-2.5.0/themes'
+            Makefile:717: recipe for target 'install-recursive' failed
+            make: *** [install-recursive] Error 1
+            
+            ****  Installation failed. Aborting package creation.
+            </code></pre>
+            
+            <pre><code>/bin/mkdir -p "/usr/local/share/moc/themes"
+            </code></pre>
+            
+            <pre><code>libtool: install: /usr/bin/install -c mocp /usr/local/bin/mocp
+            test -z "/usr/local/share/doc/moc" || /bin/mkdir -p "/usr/local/share/doc/moc"
+            /bin/mkdir: cannot create directory ‘/usr/local/share/doc’: No such file or directory
+            </code></pre>
+            
+            <pre><code>/bin/mkdir -p "/usr/local/share/doc/moc"
+            </code></pre>
+            
             <h3 id="using-deadbeef-now">Using DeadBeef now</h3>
           </article>
         </div>

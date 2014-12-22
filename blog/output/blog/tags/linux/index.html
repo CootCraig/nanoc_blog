@@ -46,209 +46,6 @@
         <div class='row'>
           <div class='small-8 large-10 columns'>
             <h3>
-              03 September 2014
-              &raquo;
-              <a href="/blog/2014/09/debian-7-notes/">Using Debian 7 (Wheezy)</a>
-            </h3>
-            
-            <h1 id="overview---switch-from-lubuntu-to-debian">Overview - Switch from Lubuntu to Debian</h1>
-            
-            <p>Disruptive motivators:</p>
-            
-            <ul>
-              <li>GCS workstations removed from server room</li>
-              <li>GCS VM host running Debian / VirtualBox available</li>
-              <li>
-                <p>HP envy LUG damaged in speed bump incident</p>
-              </li>
-              <li><a href="http://debian-handbook.info/browse/wheezy/index.html">Debian 7 Administrator’s Handbook</a></li>
-            </ul>
-            
-            <h1 id="netinstall---then-">Netinstall - then …</h1>
-            
-            <h2 id="basic-dev-tools-compilervimtmuxgit">BASIC DEV. TOOLS: COMPILER,VIM,TMUX,GIT</h2>
-            
-            <h3 id="compiler-and-build-tools">Compiler and build tools</h3>
-            
-            <pre><code>
-            sudo apt-get install build-essential checkinstall libtool automake uuid-dev
-            </code></pre>
-            
-            <h3 id="vim-or-vim-gtktmuxgit">vim (or vim-gtk),tmux,git</h3>
-            
-            <pre><code>
-            sudo apt-get install vim tmux git
-            </code></pre>
-            
-            <h3 id="personalize-git">Personalize git</h3>
-            
-            <pre><code>
-            git config --global user.name "Your Name Here"
-             # Sets the default name for git to use when you commit
-            
-            git config --global user.email "your_email@example.com"
-             # Sets the default email for git to use when you commit
-            </code></pre>
-            
-            <h3 id="install-the-rsa-public-key-on-my-github-account">Install the rsa public key on my github account</h3>
-            
-            <pre><code>
-            ssh-keygen
-            </code></pre>
-            
-            <h3 id="then-clone-the-vim-config-and-install">Then clone the vim config and install</h3>
-            
-            <pre><code>
-            cd
-            git clone git@github.com:CootCraig/dotfiles_again.git
-            cd ~/dotfiles_again/linux
-            bash install.sh
-            </code></pre>
-            
-            <p>Look at
-            /home/craig/dotfiles_again/windows/vimfiles/bundle/Readme.txt
-            for setting up the vim bundles.</p>
-            
-            <h3 id="arrange-for-mounting-windows-shares">arrange for mounting windows shares</h3>
-            
-            <pre><code>
-            apt-get install cifs-utils winbind
-            </code></pre>
-            
-            <p>Add the shares to mount.  Sample entry in /etc/fstab</p>
-            
-            <pre><code>
-            //gcs3/f$/GIT /media/gcsgit cifs rw,noauto,credentials=/home/craig/gcsww_canderson.txt,uid=craig 0 0
-            </code></pre>
-            
-            <p>Template credentials file</p>
-            
-            <pre><code>
-            username=a_user
-            password=a_password
-            domain=gcsww
-            </code></pre>
-            
-            <h2 id="java-se-8u20">Java SE 8u20</h2>
-            
-            <ul>
-              <li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java downloads</a></li>
-            </ul>
-            
-            <p>Extracted jdk tar to /opt/java. Make external link.</p>
-            
-            <pre><code>
-            /opt/java/jdk -&gt; /opt/java/jdk1.8.0_20/
-            </code></pre>
-            
-            <p>Modified /etc/profile</p>
-            
-            <pre><code>
-            if [ "`id -u`" -eq 0 ]; then
-              PATH="/opt/java/jdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
-            else
-              PATH="/opt/java/jdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
-            fi
-            </code></pre>
-            
-            <h2 id="jruby">JRuby</h2>
-            
-            <ul>
-              <li><a href="http://jruby.org.s3.amazonaws.com/downloads/1.7.15/jruby-bin-1.7.15.tar.gz">Download JRuby 1.7.15</a></li>
-            </ul>
-            
-            <p>Unpacked to /opt/jruby.  Make symbolic link:</p>
-            
-            <pre><code>
-            /opt/ruby/jruby -&gt; /opt/ruby/jruby-1.7.15/
-            </code></pre>
-            
-            <p>Added /opt/ruby/jruby/bin to path in /etc/profile</p>
-            
-            <h2 id="vm-guest-use-xorg-dummy-driver">vm guest use xorg dummy driver</h2>
-            
-            <h2 id="xfce-desktop">xfce desktop</h2>
-            
-            <ul>
-              <li><a href="http://forums.debian.net/viewtopic.php?f=30&amp;t=71753#p400052">Installing xfce after netinstall</a></li>
-            </ul>
-            
-            <pre><code>
-            sudo apt-get install xorg xfce4 gdm3 xfce4-goodies
-            </code></pre>
-            
-            <p>Package: xserver-xorg-video-dummy (1:0.3.5-2 and others)
-            X.Org X server – dummy display driver
-            This package provides a ‘dummy’ display driver, which does not actually display anything.</p>
-            
-            <p>http://xpra.org/xorg.conf</p>
-            
-            <p>HOWTO: headless, custom xorg resolution/modeline with vnc access to display 0 console
-            http://ubuntuforums.org/showthread.php?t=1832456</p>
-            
-            <p>(This HOWTO will cover different aspects you might not need all of this, but if you need a) a custom resolution b) setup headless access c) access to the console (display :0)remotely part of this may be useful to you.)</p>
-            
-            <p>So this was going to be a question but it turned into a HOWTO after spending hours on this. </p>
-            
-            <p>PROBLEM #1: I needed remote access to the console (display :0) of a server from a laptop because I needed to access the audio hardware (though I’m sure there are different reasons one needs access to :0) so nx, tightvnc, xvnc were all out. 
-            PROBLEM #2: The server had no monitor attached
-            PROBLEM #3: I was connecting with a laptop that had a resolution of 1280x800 but of course windows (and other OSes) have a task bar, so the actually workable area is less than that. I needed a resolution of 1224x685 (not your typical resolution).
-            PROBLEM #4: need the vnc server to start at boot to allow login from the server (no monitor).</p>
-            
-            <p>1) Install x11vnc (this seems to be the only vnc server I found that allows console access, nomachine 4 (coming soon) and nomachine 3 have some form of ‘physical screen’ access, but I had a hard time with managing the audio hardware with that so I needed to use vnc.</p>
-            
-            <p>http://askubuntu.com/questions/390113/x11vnc-much-slower-than-xvnc-how-to-get-a-xubuntu-session-manually</p>
-            
-            <p>http://www.arachnoid.com/modelines/index.html</p>
-            
-            <p>Headless VNC-Server using xvfb
-            http://gpio.kaltpost.de/?page_id=84</p>
-            
-            <p>Xvfb on Debian 7 
-            https://github.com/tansaku/LocalSupport/wiki/Xvfb-on-Debian-7</p>
-            
-            <p>How to use RDP from Windows to connect to Debian or Ubuntu machine
-            http://blog.technotesdesk.com/how-to-use-rdp-from-windows-to-connect-to-debian-or-ubuntu-machine/</p>
-            
-            <h1 id="jruby-1">JRuby</h1>
-            
-            <h1 id="desktop-howto">Desktop howto</h1>
-            
-            <h2 id="xfce-desktop-1">XFCE desktop</h2>
-            
-            <h3 id="use-xfce-410-on-debian-7">Use xfce 4.10 on Debian 7</h3>
-            
-            <ul>
-              <li><a href="https://thestandardoutput.com/2014/02/running-xfce-4-10-on-debian-7-4/">Blog with notes for xfce from testing</a></li>
-            </ul>
-            
-            <h3 id="config-notes">Config notes</h3>
-            
-            <h2 id="multiple-monitors">multiple monitors</h2>
-            
-            <h3 id="arandr-to-generate-monitor-set-script">arandr to generate monitor set script</h3>
-            
-            <h1 id="windows-netbios-names">Windows netbios names</h1>
-            
-            <ul>
-              <li><a href="https://www.zulius.com/how-to/resolve-windows-netbios-names-from-linux/">Resolve Windows netbios names from Linux</a></li>
-            </ul>
-            
-            <h1 id="virtual-box-autostart-guest">Virtual Box autostart guest</h1>
-            
-            <ul>
-              <li><a href="http://www.vionblog.com/virtualbox-4-3-autostart-debian-wheezy/">VirtualBox 4.3 autostart on Debian wheezy</a></li>
-            </ul>
-            
-            <p>https://wiki.debian.org/VirtualBox#Kernel_driver_not_installed_.28rc.3D-1908.29</p>
-            
-            <h1 id="debian-service-management">Debian service management</h1>
-            
-            <ul>
-              <li><a href="https://wiki.debian.org/LSBInitScripts/DependencyBasedBoot">Debian LSB based service install</a></li>
-            </ul>
-            <hr>
-            <h3>
               11 September 2014
               &raquo;
               <a href="/blog/2014/09/Postgresql/">PostgreSQL Notes</a>
@@ -259,6 +56,115 @@
               <li><a href="http://www.pontikis.net/blog/postgresql-9-debian-7-wheezy">How to Install PostgreSQL 9.3 on Debian 7 Wheezy</a></li>
               <li><a href="http://www.postgresql.org/docs/9.3/static/index.html">PostgreSQL 9.3.5 Documentation</a></li>
             </ul>
+            <hr>
+            <h3>
+              12 July 2014
+              &raquo;
+              <a href="/blog/2014/07/Arch-Linux-On-Cubox/">Arch Linux On Cubox</a>
+            </h3>
+            
+            <h1 id="key-websites-and-forums">Key Websites and Forums</h1>
+            
+            <ul>
+              <li><a href="http://www.solid-run.com/community/">Solid Run (Cubox Mfgr) Forum</a></li>
+              <li><a href="http://www.runeaudio.com/forum/">Rune Audio Forum</a></li>
+              <li><a href="http://archlinuxarm.org/forum/">Arch Linux ARM Forum</a></li>
+              <li><a href="https://www.archlinux.org/">Arch Linux Forum</a></li>
+              <li><a href="https://planet.archlinux.org/">Planet Arch Linux</a></li>
+              <li><a href="https://bbs.archlinux.org/">Arch Linux BBS</a></li>
+            </ul>
+            
+            <h1 id="log-first-install">Log first install</h1>
+            
+            <p>First up is where to find the install and instructions.</p>
+            
+            <ul>
+              <li><a href="http://archlinuxarm.org/support/faq">Arch Linux Arm FAQ Page</a></li>
+              <li><a href="http://archlinuxarm.org/forum/">Arch Linux Arm Forum</a></li>
+            </ul>
+            
+            <p>Found the Cubox-I on this forum, ARMv7h</p>
+            
+            <h2 id="install-instructions-herehttparchlinuxarmorgplatformsarmv7freescalecubox-i"><a href="http://archlinuxarm.org/platforms/armv7/freescale/cubox-i">Install instructions here</a></h2>
+            
+            <p>See the Installation Tab</p>
+            
+            <h2 id="zero-out-the-first-few-mb-of-the-card-to-remove-any-previous-u-boot-environment">Zero out the first few MB of the card to remove any previous U-Boot environment:</h2>
+            
+            <pre><code>
+            dd if=/dev/zero of=/dev/sdc bs=1M count=4
+            </code></pre>
+            
+            <h2 id="start-fdisk-to-partition-the-sd-card">Start fdisk to partition the SD card:</h2>
+            
+            <pre><code>
+            fdisk /dev/sdc
+            </code></pre>
+            
+            <p>At the fdisk prompt, create the new partitions:</p>
+            
+            <p>Type n, then p for primary, 1 for the first partition on the drive,
+            8192 for the starting sector, and +20M for the ending sector.</p>
+            
+            <p>Type t to set the type, then c to set it to FAT.</p>
+            
+            <p>Type n, then p for primary, 2 for the second partition, 49152 for the
+            first sector, and press ENTER twice to accept default values.</p>
+            
+            <p>Exit by typing w.</p>
+            
+            <h2 id="create-and-mount-the-vfat-filesystem">Create and mount the vfat filesystem:</h2>
+            
+            <pre><code>
+            mkfs.vfat /dev/sdc1
+            mkdir /tmp/boot
+            mount /dev/sdc1 /tmp/boot
+            </code></pre>
+            
+            <h2 id="create-and-mount-the-ext4-filesystem">Create and mount the ext4 filesystem:</h2>
+            
+            <pre><code>
+            mkfs.ext4 /dev/sdc2
+            mkdir /tmp/root
+            mount /dev/sdc2 /tmp/root
+            </code></pre>
+            
+            <h2 id="download-and-extract-the-root-filesystem">Download and extract the root filesystem:</h2>
+            
+            <pre><code>
+            cd /mnt/disk2/linux_distros/
+            wget http://archlinuxarm.org/os/ArchLinuxARM-imx6-cubox-latest.tar.gz
+            tar -xf /mnt/disk2/linux_distros/ArchLinuxARM-imx6-cubox-latest.tar.gz -C /tmp/root
+            </code></pre>
+            
+            <h2 id="move-boot-files-to-the-boot-partition">Move boot files to the boot partition:</h2>
+            
+            <pre><code>
+            mv /tmp/root/boot/* /tmp/boot
+            </code></pre>
+            
+            <h2 id="install-the-u-boot-bootloader">Install the U-Boot bootloader:</h2>
+            
+            <pre><code>
+            dd if=/tmp/boot/SPL of=/dev/sdc bs=512 seek=2
+            dd if=/tmp/boot/u-boot.img of=/dev/sdc bs=1K seek=42
+            </code></pre>
+            
+            <h2 id="unmount-the-partitions">Unmount the partitions</h2>
+            
+            <pre><code>
+            sync
+            umount /tmp/boot
+            umount /tmp/root
+            </code></pre>
+            
+            <h2 id="boot-the-cubox-i">Boot the Cubox-I</h2>
+            
+            <p>Insert the SD card into the Cubox-i contacts uppermost, connect ethernet,
+            and apply 6-12V power.</p>
+            
+            <p>Use the serial console (CN6 micro USB connector) or SSH to the IP address
+            given to the board by your router. The default root password is ‘root’.</p>
             <hr>
             <h3>
               07 September 2014
@@ -303,526 +209,6 @@
             apt-get install p7zip-full
             7z a archive.tar.7z archive.tar
             </code></pre>
-            <hr>
-            <h3>
-              10 September 2014
-              &raquo;
-              <a href="/blog/2014/09/debian-vm-remote-dummy-x/">Debian Remote Dummy X on Virtual Box</a>
-            </h3>
-            
-            <hr>
-            <h3>
-              09 December 2014
-              &raquo;
-              <a href="/blog/2014/12/Work-Gogs-Git-Server/">Setup up work Git server with Gogs</a>
-            </h3>
-            
-            <h1 id="setup-up-work-git-server-with-gogs">Setup up work Git server with Gogs</h1>
-            
-            <p>Install a Debian 7 virtualbox guest
-            to host the company GIT repositories.</p>
-            
-            <h2 id="use-debian-stable-wheezy">Use Debian stable wheezy</h2>
-            
-            <p><a href="http://cdimage.debian.org/debian-cd/7.7.0/amd64/iso-cd/debian-7.7.0-amd64-netinst.iso">Debian 7.7 net install iso</a></p>
-            
-            <p>The current “stable” distribution of Debian is version 7, codenamed
-            wheezy. It was initially released as version 7.0 on May 4th, 2013 and
-            its latest update, version 7.7, was released on October 18th, 2014.</p>
-            
-            <h2 id="base-install">Base install</h2>
-            
-            <p>Hostname: gogs.gcsww.local</p>
-            
-            <pre><code>
-            Software Selection
-            ---------------------
-            remove Debian desktop environment
-            leave Print server
-            Add SSH server
-            remove laptop
-            </code></pre>
-            
-            <pre><code>
-            apt-get update
-            apt-get dist-upgrade
-            
-            apt-get install vim
-            apt-get install tmux
-            apt-get install git
-            apt-get install sudo
-            
-            adduser craig sudo
-            </code></pre>
-            
-            <h2 id="put-local-ssh-public-key-on-gogs-server">Put local ssh public key on gogs server</h2>
-            
-            <ul>
-              <li><a href="http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/">ssh-copy-id instructions</a></li>
-            </ul>
-            
-            <p>Step 2: Copy the public key to remote-host using ssh-copy-id</p>
-            
-            <pre><code>
-            jsmith@local-host$ ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host
-            jsmith@remote-host's password:
-            Now try logging into the machine, with "ssh 'remote-host'", and check in:
-            
-            .ssh/authorized_keys
-            
-            to make sure we haven't added extra keys that you weren't expecting.
-            
-            ssh-copy-id -i ~/.ssh/id_rsa.pub 192.168.88.183
-            ssh 192.168.88.183
-            </code></pre>
-            
-            <p>Note: ssh-copy-id appends the keys to the remote-host’s .ssh/authorized_key.</p>
-            
-            <h2 id="gogs-install-howto-for-debian-7-wheezyhttpspackagerioghpkgrgogsinstallbid131debian-7-gogs"><a href="https://packager.io/gh/pkgr/gogs/install?bid=131#debian-7-gogs">gogs Install Howto for Debian 7 Wheezy</a></h2>
-            
-            <h3 id="here-is-how-to-install-the-package-on-a-debian-7-wheezy-64bits-server">Here is how to install the package on a Debian 7 Wheezy 64bits server:</h3>
-            <pre><code>
-            ssh 192.168.88.183
-            </code></pre>
-            
-            <p>https support was missing from apt-get after install</p>
-            
-            <pre><code>
-            apt-get install apt-transport-https
-            </code></pre>
-            
-            <p>Here is how to install the package on a Debian 7 Wheezy 64bits server:</p>
-            
-            <pre><code>
-            wget -qO - https://deb.packager.io/key | sudo apt-key add -
-            echo "deb https://deb.packager.io/gh/pkgr/gogs wheezy pkgr" | sudo tee /etc/apt/sources.list.d/gogs.list
-            sudo apt-get update
-            sudo apt-get install gogs
-            
-            The following NEW packages will be installed:
-              gogs libevent-core-2.0-5 libevent-extra-2.0-5 libmysqlclient18 libpq5 libreadline5 libxslt1.1 mysql-common
-            
-            Setting up gogs (0.5.8-1418206274.9ee80e3.wheezy) ...
-            Scaling up...
-            update-rc.d: using dependency based boot sequencing
-            update-rc.d: using dependency based boot sequencing
-            update-rc.d: using dependency based boot sequencing
-            gogs-web-1 started.
-            --&gt; done.
-            </code></pre>
-            
-            <pre><code>
-            APP_NAME="gogs"
-            MYSQL_PASSWORD="change_me"
-            HOSTNAME="example.com"
-            
-            debconf-set-selections &lt;&lt;CONFIG
-            mysql-server-5.5 mysql-server/root_password password ${MYSQL_PASSWORD}
-            mysql-server-5.5 mysql-server/root_password_again password ${MYSQL_PASSWORD}
-            CONFIG
-            </code></pre>
-            
-            <pre><code>
-            APP_NAME="gogs"
-            MYSQL_PASSWORD="change_me"
-            HOSTNAME="example.com"
-            
-            apt-get install -y --force-yes mysql-server
-            
-            The following NEW packages will be installed:
-              libaio1 libdbd-mysql-perl libdbi-perl libhtml-template-perl mysql-client-5.5 mysql-server mysql-server-5.5 mysql-server-core-5.5
-            </code></pre>
-            
-            <pre><code>
-            APP_NAME="gogs"
-            MYSQL_PASSWORD="change_me"
-            HOSTNAME="example.com"
-            
-            mysql -uroot -p${MYSQL_PASSWORD} -e "create database if not exists ${APP_NAME};"
-            </code></pre>
-            
-            <pre><code>
-            apt-get install -y nginx
-            
-            The following NEW packages will be installed:
-              nginx nginx-common nginx-full
-            </code></pre>
-            
-            <pre><code>
-            APP_NAME="gogs"
-            MYSQL_PASSWORD="change_me"
-            HOSTNAME="example.com"
-            
-            cat &gt; /etc/nginx/sites-available/default &lt;&lt;EOF
-            server {
-              listen          80;
-              server_name     ${HOSTNAME} "";
-              location / {
-                proxy_pass      http://localhost:6000;
-              }
-            }
-            EOF
-            </code></pre>
-            
-            <pre><code>
-            sudo service nginx restart
-            </code></pre>
-            
-            <p>Now, access http://${HOSTNAME} and finish the installation process. Easy!</p>
-            <pre><code>
-            http://10.10.9.186/craig/game_justin_craig_20141209
-            
-            git remote add origin http://localhost:6000/craig/game_justin_craig_20141209.git
-            git push -u origin master
-            </code></pre>
-            
-            <ul>
-              <li><a href="https://www.kernel.org/pub/software/scm/git/docs/git-push.html#URLS">Git URLs</a></li>
-            </ul>
-            
-            <pre><code>
-            was
-            origin	/media/gcs3f/GIT/game_justin_craig_20141209.git 
-            
-            git remote set-url origin http://10.10.9.186/craig/game_justin_craig_20141209
-            
-            
-            ssh://[user@]host.xz[:port]/path/to/repo.git/ 
-            gogs@localhost:craig/game_justin_craig_20141209.git
-            
-            git remote set-url origin craig@10.10.9.186:craig/game_justin_craig_20141209.git
-            
-            </code></pre>
-            
-            <h3 id="on-reboot-gogs-service-not-running">On reboot gogs service not running</h3>
-            
-            <h4 id="some-background-on-debian-boot-up-services">Some background on Debian boot up services</h4>
-            
-            <p><a href="http://www.jamescoyle.net/cheat-sheets/791-update-rc-d-cheat-sheet">update-rc.d Cheat Sheet - James Coyle</a></p>
-            
-            <pre><code>
-            service --status-all
-             ...
-             [ ? ]  gogs
-             [ ? ]  gogs-web
-             [ - ]  gogs-web-1
-             ...
-            </code></pre>
-            
-            <ul>
-              <li><a href="https://wiki.debian.org/LSBInitScripts/DependencyBasedBoot">LSBInitScripts DependencyBasedBoot</a></li>
-              <li><a href="https://www.debian.org/doc/manuals/debian-reference/ch03.en.html">Chapter 3. The system initialization</a></li>
-              <li><a href="https://wiki.debian.org/LSBInitScripts">How to LSBize an Init Script</a></li>
-              <li><a href="https://wiki.debian.org/Daemon">Daemons in Debian</a></li>
-              <li>
-                <p><a href="https://packages.debian.org/wheezy/bootchart2">boot process performance analyser</a></p>
-              </li>
-              <li><a href="https://www.debian.org/releases/stable/i386/release-notes/ch-whats-new.en.html#dependency-boot">2.2.3. Dependency booting</a></li>
-            </ul>
-            
-            <p>insserv is a low level tool used by update-rc.d which enables an installed
-            system init script (boot script) by reading the comment header of the
-            script, e.g.:</p>
-            
-            <p>The dependency-based boot sequencing introduced with Debian 6.0 is now
-            always enabled, including for users of file-rc.</p>
-            
-            <p>For optimal sequencing, all init.d scripts should declare their
-            dependencies in an LSB header. This is already the case for scripts
-            shipped in Debian, but users should check their local scripts and consider
-            adding that information.</p>
-            
-            <p>For more information on this feature refer to the information available
-            in /usr/share/doc/insserv/README.Debian.</p>
-            
-            <p>Starting with Debian 6.0, the insserv command is used instead, if
-            dependency-based booting is enabled:</p>
-            
-            <pre><code>
-            insserv mydaemon
-            </code></pre>
-            
-            <p>Where mydaemon is an executable init script placed in /etc/init.d. insserv
-            will produce no output if everything went OK. Examine the error code in
-             $? if you want to be sure.</p>
-            
-            <p>Both the old and the new way requires an init script to be present in
-            /etc/init.d. For dependency-based booting, the script needs to be an
-            LSB init script.</p>
-            
-            <h4 id="lets-fix-it">Let’s fix it</h4>
-            
-            <pre><code>
-            /etc/init.d/gogs
-            /etc/init.d/gogs-web
-            /etc/init.d/gogs-web-1
-            </code></pre>
-            
-            <p>To see all the files the package installed onto your system, do this:</p>
-            
-            <pre><code>
-            dpkg-query -L <package_name>
-            
-            
-            <pre><code>
-            /opt/gogs/conf/app.ini
-            </code></pre>
-            
-            ## migrate existing
-            
-            * [Moving A Git Repository To A New Server - Nik Sumeiko](http://www.smashingmagazine.com/2014/05/19/moving-git-repository-new-server/)
-            
-            
-            </package_name></code></pre>
-            <hr>
-            <h3>
-              09 December 2014
-              &raquo;
-              <a href="/blog/2014/12/Debian-i3wm-minimal/">Minimal install for i3wm on Debian Jessie</a>
-            </h3>
-            
-            <h1 id="hope-to-make-debian-with-i3wm-my-linux-home">Hope to make Debian with i3wm my Linux home</h1>
-            
-            <pre><code>
-            apt-get install remmina remmina-plugin-rdp remmina-plugin-vnc
-            </code></pre>
-            <hr>
-            <h3>
-              12 December 2014
-              &raquo;
-              <a href="/blog/2014/12/Secure-Debian-https-ssh/">How to secure Debian https ssh</a>
-            </h3>
-            <h2 id="goal">Goal</h2>
-            
-            <p>Reasonable security for  public Debian 7 server with:</p>
-            
-            <ul>
-              <li>https</li>
-              <li>ssh</li>
-            </ul>
-            
-            <h2 id="research">Research</h2>
-            
-            <ul>
-              <li><a href="https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html">Securing Debian Manual</a></li>
-              <li>Package: harden (0.1.38+nmu1) </li>
-              <li><a href="http://unix.stackexchange.com/questions/30838/hardening-debian">Stack Exchange - hardening-debian</a></li>
-              <li><a href="http://noobsysadmin.wordpress.com/2014/03/05/hardening-your-linux-debian-7-wheezy-part-1/">Noobsysadmin - Hardening your Linux Debian 7 Wheezy – Part 1</a></li>
-              <li><a href="http://howto.biapy.com/en/debian-gnu-linux/system/security/harden-the-ssh-access-security-on-debian">biapy - harden ssh on Debian</a></li>
-              <li><a href="http://linoxide.com/how-tos/lynis-security-tool-audit-hardening-linux/">linoxide - Lynis - Security Tool for Audit and Hardening Linux / Unix Systems</a></li>
-              <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-bastille-to-harden-an-ubuntu-12-04">digitalocean - How To Install and Use Bastille To Harden an Ubuntu 12.04</a></li>
-              <li><a href="http://www.unixmen.com/how-to-harden-your-linux-servers-security-with-bastille/">unixmen - How to Harden Your Linux Servers Security with Bastille</a></li>
-              <li><a href="https://www.linode.com/docs/security/securing-your-server">linode - Securing Your Server</a></li>
-              <li><a href="http://feeding.cloud.geek.nz/posts/hardening-ssh-servers/">Hardening ssh Servers</a></li>
-            </ul>
-            <hr>
-            <h3>
-              09 May 2014
-              &raquo;
-              <a href="/blog/2014/05/debian-vmhost/">Debian Virtualbox Host</a>
-            </h3>
-            
-            <h1 id="notes-on-setting-up-a-debian-virtualbox-host-for-my-employer">Notes on setting up a Debian Virtualbox host for my employer</h1>
-            
-            <h2 id="overview">Overview</h2>
-            
-            <p>https://www.virtualbox.org/manual/</p>
-            
-            <p>https://blogs.oracle.com/virtualization/entry/new_commercial_license_for_oracle</p>
-            
-            <ul>
-              <li>Oracle VM VirtualBox Enterprise - Named User Plus - $50 per named user</li>
-              <li>Oracle’s standard processor licensing, $1,000 per processor socket</li>
-            </ul>
-            
-            <h1 id="setting-up-the-host-box">Setting up the host box.</h1>
-            
-            <h1 id="how-to-autostart-vms">How to autostart vms</h1>
-            
-            <h2 id="good-guide-to-setting-up-autostart">Good guide to setting up autostart</h2>
-            
-            <p>http://lifeofageekadmin.com/how-to-set-your-virtualbox-vm-to-automatically-startup/</p>
-            
-            <h2 id="log">Log</h2>
-            
-            <p>First you need to create the file /etc/default/virtualbox and add a
-            few variables.</p>
-            
-            <pre><code>
-            VBOXAUTOSTART_DB=/etc/vbox
-            VBOXAUTOSTART_CONFIG=/etc/vbox/vbox.cfg
-            </code></pre>
-            
-            <p>Create the file /etc/vbox/vbox.cfg</p>
-            
-            <pre><code>
-            root# mkdir /etc/vbox
-            </code></pre>
-            
-            <p>With one line.</p>
-            
-            <pre><code>
-            default_policy = allow
-            </code></pre>
-            
-            <p>Set permissions on directory to the vboxuser group and make sure users
-            can write to the directory as well as sticky bit.</p>
-            
-            <pre><code>
-            root# chgrp vboxusers /etc/vbox
-            root# chmod 1775 /etc/vbox
-            </code></pre>
-            
-            <p>Add administrator to the vboxusers group.</p>
-            
-            <pre><code>
-            root# groups administrator
-            administrator : administrator sudo
-            
-            root# usermod -a -G vboxusers administrator
-            
-            root# groups administrator
-            administrator : administrator sudo vboxusers
-            </code></pre>
-            
-            <p>Every user who wants to enable autostart for individual machines has to
-            set the path to the autostart database directory with</p>
-            
-            <pre><code>
-            administrator$ VBoxManage setproperty autostartdbpath /etc/vbox
-            </code></pre>
-            
-            <p>List the vms</p>
-            
-            <pre><code>
-            administrator$ VBoxManage list vms
-            "craigdeb" {0e7bca8b-b552-4ebb-9e39-bb1f6fb19d5c}
-            </code></pre>
-            
-            <pre><code>
-            administrator$ VBoxManage modifyvm craigdeb --autostart-enabled on
-            </code></pre>
-            
-            <pre><code>
-            root# update-rc.d virtualbox defaults
-            </code></pre>
-            
-            <h2 id="after-log-place-holder">After log place holder</h2>
-            
-            <p><img src="/assets/images/rhombic_diagram_with_angle.png" /></p>
-            
-            <pre><code>
-            code
-            </code></pre>
-            <hr>
-            <h3>
-              27 July 2014
-              &raquo;
-              <a href="/blog/2014/07/trash-rolloff/">Pueblo trash roll offs</a>
-            </h3>
-            
-            <p>==================== from yellow pages
-            C&amp;C Disposal
-            582-8940</p>
-            
-            <p>C-Spicola’s Roll-Off Service
-            546-9488</p>
-            
-            <p>A-Affordable Disposal
-            542-8757</p>
-            
-            <p>====================
-            Waste Connections of Pueblo</p>
-            
-            <p>$300.00 10 days
-            20 yards
-            7.5 x 4 x 22</p>
-            
-            <p>10 yard
-            7.5 x 3.5 x 14 
-            $300.00 10 days</p>
-            
-            <p>end gate? yes for both</p>
-            
-            <hr />
-            
-            <p>Waste Connections of Pueblo</p>
-            
-            <p>http://wcpueblo.rtrk.com/?scid=3084219&amp;kw=1933994:18209&amp;pub_cr_id=37977018385</p>
-            
-            <p>Dumpster Sizes</p>
-            
-            <p>2 yard
-            3 yard
-            4 yard
-            6 yard
-            8 yard
-            Roll-off Sizes</p>
-            
-            <p>10 Yard Size: 14’ x 8’ x 3’
-            20 Yard Size: 22’ x 8’ x 3’5”
-            30 Yard Size: 22’ x 8’ x 5’
-            40 Yard Size: 22’ x 8’ x 7’</p>
-            
-            <p>Copyright © 2014 Waste Connections of Colorado Inc.
-            28900 E Hwy 96 - Pueblo, Colorado 81001
-            Phone 719-423-6639 - Fax 719-948-3652</p>
-            
-            <p>=======================
-            http://www.ccdisposalco.com/RollOffs/tabid/1764/Default.aspx
-            C&amp;C Disposal
-            582-8940</p>
-            
-            <p>Roll-Offs</p>
-            
-            <p>Our locally owned business offers multiple dumpster sizes  for large disposal rental to meet your needs. Roll off dumpster rental sizes are measured in cubic yards. We’ve included the dumpster dimensions for each of these roll off dumpster sizes below.  If you have questions about renting or the size you might need, please call us at 719-647-9100.</p>
-            
-            <p>Roll-Off and Large Dumpster Rental Terms
-            6 Yard Dumpster</p>
-            
-            <p>A 6 yard dumpster can hold 6 cubic yards of waste. Dumpster dimensions for a 6 yard dumpster are: 6 ft. deep by 5 ft. 6 in. wide by 6ft. high. This dumpster is great for yard, garage, estate and remodel clean ups. If you have limited space for a container or a clean up that may take you several weekends this is the dumpster for you. Rental options ranging from one time pick up to monthly rental that includes a weekly pick up.</p>
-            
-            <p>month 4 pickups - 280.</p>
-            
-            <p>10 Yard Dumpster</p>
-            
-            <p>A 10 yard dumpster can hold 10 cubic yards of waste. Dumpster dimensions for the 10 yard dumpster are: 12 ft. long by 8 ft. wide by 4 ft. high. There’s no perfect way to choose dumpster sizes, but a 10 yard dumpster may be appropriate for a small basement or garage cleanout; removing a 250 sq. ft deck; removing 1500 sq. ft. of single layer roof shingles; yard debris cleanup, or a small kitchen &amp; bath remodeling job.</p>
-            
-            <p>15 day - $280</p>
-            
-            <p>20 Yard Dumpster</p>
-            
-            <p>A 20 yard dumpster holds 20 cubic yards of waste. Dumpster dimensions for a 20 yard dumpster are: 20 ft. long by 8 ft. wide by 4 ft. high. A 20 yard dumpster may be the right dumpster size for a large basement, attic, or garage cleanup; flooring and carpet removal for a large house; 300 to 400 square feet of deck removal; or 2500 to 3000 sq. ft. of single layer roof shingle removal.</p>
-            
-            <p>15 day - $300</p>
-            
-            <p>30 Yard Dumpster</p>
-            
-            <p>A 30 yard dumpster holds 30 cubic yards of waste. Dumpster dimensions for a 30 yard dumpster are: 22 ft. long by 8 ft. wide by 6 ft. high. A 30 yard dumpster may be the right dumpster size for a major home addition; construction of a new home; demolition of a garage; or entire house window or siding replacement for a small to medium size home.</p>
-            
-            <p>40 Yard Dumpster</p>
-            
-            <p>A 40 yard dumpster holds 40 cubic yards of waste. Dumpster dimensions for a 40 yard dumpster are: 22 ft. long by 8 ft. wide by 8 ft. high. A 40 yard dumpster may be appropriate for window or siding replacement for a large home; commercial roof tear off; commercial cleanout; new construction or major addition; large amount of trash, paper, or cardboard.</p>
-            
-            <p>40 Yard Compactor Receiver</p>
-            
-            <p>A 40 yard compacter receiver is ideal for businesses with an extremely high volume of waste.  This compacter receiver requires a permanent installation of a stationary compactor that packs waste into a 40 yard receiver box.</p>
-            
-            <p>===================================
-            C-Spicola’s Roll-Off Services
-            ===================================</p>
-            
-            <hr />
-            
-            <p>A-Affordable Disposal
-            542-8757</p>
-            
-            <p>15 yard
-            17 x 8 x 5
-            $285 30 days. 1 pickup.</p>
-            
-            <p>none
-            Sept. 8.</p>
             <hr>
             <h3>
               09 December 2014
@@ -1201,113 +587,727 @@
             change them manually.</p>
             <hr>
             <h3>
-              12 July 2014
+              10 September 2014
               &raquo;
-              <a href="/blog/2014/07/Arch-Linux-On-Cubox/">Arch Linux On Cubox</a>
+              <a href="/blog/2014/09/debian-vm-remote-dummy-x/">Debian Remote Dummy X on Virtual Box</a>
             </h3>
             
-            <h1 id="key-websites-and-forums">Key Websites and Forums</h1>
+            <hr>
+            <h3>
+              09 May 2014
+              &raquo;
+              <a href="/blog/2014/05/debian-vmhost/">Debian Virtualbox Host</a>
+            </h3>
+            
+            <h1 id="notes-on-setting-up-a-debian-virtualbox-host-for-my-employer">Notes on setting up a Debian Virtualbox host for my employer</h1>
+            
+            <h2 id="overview">Overview</h2>
+            
+            <p>https://www.virtualbox.org/manual/</p>
+            
+            <p>https://blogs.oracle.com/virtualization/entry/new_commercial_license_for_oracle</p>
             
             <ul>
-              <li><a href="http://www.solid-run.com/community/">Solid Run (Cubox Mfgr) Forum</a></li>
-              <li><a href="http://www.runeaudio.com/forum/">Rune Audio Forum</a></li>
-              <li><a href="http://archlinuxarm.org/forum/">Arch Linux ARM Forum</a></li>
-              <li><a href="https://www.archlinux.org/">Arch Linux Forum</a></li>
-              <li><a href="https://planet.archlinux.org/">Planet Arch Linux</a></li>
-              <li><a href="https://bbs.archlinux.org/">Arch Linux BBS</a></li>
+              <li>Oracle VM VirtualBox Enterprise - Named User Plus - $50 per named user</li>
+              <li>Oracle’s standard processor licensing, $1,000 per processor socket</li>
             </ul>
             
-            <h1 id="log-first-install">Log first install</h1>
+            <h1 id="setting-up-the-host-box">Setting up the host box.</h1>
             
-            <p>First up is where to find the install and instructions.</p>
+            <h1 id="how-to-autostart-vms">How to autostart vms</h1>
+            
+            <h2 id="good-guide-to-setting-up-autostart">Good guide to setting up autostart</h2>
+            
+            <p>http://lifeofageekadmin.com/how-to-set-your-virtualbox-vm-to-automatically-startup/</p>
+            
+            <h2 id="log">Log</h2>
+            
+            <p>First you need to create the file /etc/default/virtualbox and add a
+            few variables.</p>
+            
+            <pre><code>
+            VBOXAUTOSTART_DB=/etc/vbox
+            VBOXAUTOSTART_CONFIG=/etc/vbox/vbox.cfg
+            </code></pre>
+            
+            <p>Create the file /etc/vbox/vbox.cfg</p>
+            
+            <pre><code>
+            root# mkdir /etc/vbox
+            </code></pre>
+            
+            <p>With one line.</p>
+            
+            <pre><code>
+            default_policy = allow
+            </code></pre>
+            
+            <p>Set permissions on directory to the vboxuser group and make sure users
+            can write to the directory as well as sticky bit.</p>
+            
+            <pre><code>
+            root# chgrp vboxusers /etc/vbox
+            root# chmod 1775 /etc/vbox
+            </code></pre>
+            
+            <p>Add administrator to the vboxusers group.</p>
+            
+            <pre><code>
+            root# groups administrator
+            administrator : administrator sudo
+            
+            root# usermod -a -G vboxusers administrator
+            
+            root# groups administrator
+            administrator : administrator sudo vboxusers
+            </code></pre>
+            
+            <p>Every user who wants to enable autostart for individual machines has to
+            set the path to the autostart database directory with</p>
+            
+            <pre><code>
+            administrator$ VBoxManage setproperty autostartdbpath /etc/vbox
+            </code></pre>
+            
+            <p>List the vms</p>
+            
+            <pre><code>
+            administrator$ VBoxManage list vms
+            "craigdeb" {0e7bca8b-b552-4ebb-9e39-bb1f6fb19d5c}
+            </code></pre>
+            
+            <pre><code>
+            administrator$ VBoxManage modifyvm craigdeb --autostart-enabled on
+            </code></pre>
+            
+            <pre><code>
+            root# update-rc.d virtualbox defaults
+            </code></pre>
+            
+            <h2 id="after-log-place-holder">After log place holder</h2>
+            
+            <p><img src="/assets/images/rhombic_diagram_with_angle.png" /></p>
+            
+            <pre><code>
+            code
+            </code></pre>
+            <hr>
+            <h3>
+              09 December 2014
+              &raquo;
+              <a href="/blog/2014/12/Debian-i3wm-minimal/">Minimal install for i3wm on Debian Jessie</a>
+            </h3>
+            
+            <h1 id="hope-to-make-debian-with-i3wm-my-linux-home">Hope to make Debian with i3wm my Linux home</h1>
+            
+            <pre><code>
+            apt-get install remmina remmina-plugin-rdp remmina-plugin-vnc
+            </code></pre>
+            <hr>
+            <h3>
+              27 July 2014
+              &raquo;
+              <a href="/blog/2014/07/trash-rolloff/">Pueblo trash roll offs</a>
+            </h3>
+            
+            <p>==================== from yellow pages
+            C&amp;C Disposal
+            582-8940</p>
+            
+            <p>C-Spicola’s Roll-Off Service
+            546-9488</p>
+            
+            <p>A-Affordable Disposal
+            542-8757</p>
+            
+            <p>====================
+            Waste Connections of Pueblo</p>
+            
+            <p>$300.00 10 days
+            20 yards
+            7.5 x 4 x 22</p>
+            
+            <p>10 yard
+            7.5 x 3.5 x 14 
+            $300.00 10 days</p>
+            
+            <p>end gate? yes for both</p>
+            
+            <hr />
+            
+            <p>Waste Connections of Pueblo</p>
+            
+            <p>http://wcpueblo.rtrk.com/?scid=3084219&amp;kw=1933994:18209&amp;pub_cr_id=37977018385</p>
+            
+            <p>Dumpster Sizes</p>
+            
+            <p>2 yard
+            3 yard
+            4 yard
+            6 yard
+            8 yard
+            Roll-off Sizes</p>
+            
+            <p>10 Yard Size: 14’ x 8’ x 3’
+            20 Yard Size: 22’ x 8’ x 3’5”
+            30 Yard Size: 22’ x 8’ x 5’
+            40 Yard Size: 22’ x 8’ x 7’</p>
+            
+            <p>Copyright © 2014 Waste Connections of Colorado Inc.
+            28900 E Hwy 96 - Pueblo, Colorado 81001
+            Phone 719-423-6639 - Fax 719-948-3652</p>
+            
+            <p>=======================
+            http://www.ccdisposalco.com/RollOffs/tabid/1764/Default.aspx
+            C&amp;C Disposal
+            582-8940</p>
+            
+            <p>Roll-Offs</p>
+            
+            <p>Our locally owned business offers multiple dumpster sizes  for large disposal rental to meet your needs. Roll off dumpster rental sizes are measured in cubic yards. We’ve included the dumpster dimensions for each of these roll off dumpster sizes below.  If you have questions about renting or the size you might need, please call us at 719-647-9100.</p>
+            
+            <p>Roll-Off and Large Dumpster Rental Terms
+            6 Yard Dumpster</p>
+            
+            <p>A 6 yard dumpster can hold 6 cubic yards of waste. Dumpster dimensions for a 6 yard dumpster are: 6 ft. deep by 5 ft. 6 in. wide by 6ft. high. This dumpster is great for yard, garage, estate and remodel clean ups. If you have limited space for a container or a clean up that may take you several weekends this is the dumpster for you. Rental options ranging from one time pick up to monthly rental that includes a weekly pick up.</p>
+            
+            <p>month 4 pickups - 280.</p>
+            
+            <p>10 Yard Dumpster</p>
+            
+            <p>A 10 yard dumpster can hold 10 cubic yards of waste. Dumpster dimensions for the 10 yard dumpster are: 12 ft. long by 8 ft. wide by 4 ft. high. There’s no perfect way to choose dumpster sizes, but a 10 yard dumpster may be appropriate for a small basement or garage cleanout; removing a 250 sq. ft deck; removing 1500 sq. ft. of single layer roof shingles; yard debris cleanup, or a small kitchen &amp; bath remodeling job.</p>
+            
+            <p>15 day - $280</p>
+            
+            <p>20 Yard Dumpster</p>
+            
+            <p>A 20 yard dumpster holds 20 cubic yards of waste. Dumpster dimensions for a 20 yard dumpster are: 20 ft. long by 8 ft. wide by 4 ft. high. A 20 yard dumpster may be the right dumpster size for a large basement, attic, or garage cleanup; flooring and carpet removal for a large house; 300 to 400 square feet of deck removal; or 2500 to 3000 sq. ft. of single layer roof shingle removal.</p>
+            
+            <p>15 day - $300</p>
+            
+            <p>30 Yard Dumpster</p>
+            
+            <p>A 30 yard dumpster holds 30 cubic yards of waste. Dumpster dimensions for a 30 yard dumpster are: 22 ft. long by 8 ft. wide by 6 ft. high. A 30 yard dumpster may be the right dumpster size for a major home addition; construction of a new home; demolition of a garage; or entire house window or siding replacement for a small to medium size home.</p>
+            
+            <p>40 Yard Dumpster</p>
+            
+            <p>A 40 yard dumpster holds 40 cubic yards of waste. Dumpster dimensions for a 40 yard dumpster are: 22 ft. long by 8 ft. wide by 8 ft. high. A 40 yard dumpster may be appropriate for window or siding replacement for a large home; commercial roof tear off; commercial cleanout; new construction or major addition; large amount of trash, paper, or cardboard.</p>
+            
+            <p>40 Yard Compactor Receiver</p>
+            
+            <p>A 40 yard compacter receiver is ideal for businesses with an extremely high volume of waste.  This compacter receiver requires a permanent installation of a stationary compactor that packs waste into a 40 yard receiver box.</p>
+            
+            <p>===================================
+            C-Spicola’s Roll-Off Services
+            ===================================</p>
+            
+            <hr />
+            
+            <p>A-Affordable Disposal
+            542-8757</p>
+            
+            <p>15 yard
+            17 x 8 x 5
+            $285 30 days. 1 pickup.</p>
+            
+            <p>none
+            Sept. 8.</p>
+            <hr>
+            <h3>
+              03 September 2014
+              &raquo;
+              <a href="/blog/2014/09/debian-7-notes/">Using Debian 7 (Wheezy)</a>
+            </h3>
+            
+            <h1 id="overview---switch-from-lubuntu-to-debian">Overview - Switch from Lubuntu to Debian</h1>
+            
+            <p>Disruptive motivators:</p>
             
             <ul>
-              <li><a href="http://archlinuxarm.org/support/faq">Arch Linux Arm FAQ Page</a></li>
-              <li><a href="http://archlinuxarm.org/forum/">Arch Linux Arm Forum</a></li>
+              <li>GCS workstations removed from server room</li>
+              <li>GCS VM host running Debian / VirtualBox available</li>
+              <li>
+                <p>HP envy LUG damaged in speed bump incident</p>
+              </li>
+              <li><a href="http://debian-handbook.info/browse/wheezy/index.html">Debian 7 Administrator’s Handbook</a></li>
             </ul>
             
-            <p>Found the Cubox-I on this forum, ARMv7h</p>
+            <h1 id="netinstall---then-">Netinstall - then …</h1>
             
-            <h2 id="install-instructions-herehttparchlinuxarmorgplatformsarmv7freescalecubox-i"><a href="http://archlinuxarm.org/platforms/armv7/freescale/cubox-i">Install instructions here</a></h2>
+            <h2 id="basic-dev-tools-compilervimtmuxgit">BASIC DEV. TOOLS: COMPILER,VIM,TMUX,GIT</h2>
             
-            <p>See the Installation Tab</p>
-            
-            <h2 id="zero-out-the-first-few-mb-of-the-card-to-remove-any-previous-u-boot-environment">Zero out the first few MB of the card to remove any previous U-Boot environment:</h2>
+            <h3 id="compiler-and-build-tools">Compiler and build tools</h3>
             
             <pre><code>
-            dd if=/dev/zero of=/dev/sdc bs=1M count=4
+            sudo apt-get install build-essential checkinstall libtool automake uuid-dev
             </code></pre>
             
-            <h2 id="start-fdisk-to-partition-the-sd-card">Start fdisk to partition the SD card:</h2>
+            <h3 id="vim-or-vim-gtktmuxgit">vim (or vim-gtk),tmux,git</h3>
             
             <pre><code>
-            fdisk /dev/sdc
+            sudo apt-get install vim tmux git
             </code></pre>
             
-            <p>At the fdisk prompt, create the new partitions:</p>
-            
-            <p>Type n, then p for primary, 1 for the first partition on the drive,
-            8192 for the starting sector, and +20M for the ending sector.</p>
-            
-            <p>Type t to set the type, then c to set it to FAT.</p>
-            
-            <p>Type n, then p for primary, 2 for the second partition, 49152 for the
-            first sector, and press ENTER twice to accept default values.</p>
-            
-            <p>Exit by typing w.</p>
-            
-            <h2 id="create-and-mount-the-vfat-filesystem">Create and mount the vfat filesystem:</h2>
+            <h3 id="personalize-git">Personalize git</h3>
             
             <pre><code>
-            mkfs.vfat /dev/sdc1
-            mkdir /tmp/boot
-            mount /dev/sdc1 /tmp/boot
+            git config --global user.name "Your Name Here"
+             # Sets the default name for git to use when you commit
+            
+            git config --global user.email "your_email@example.com"
+             # Sets the default email for git to use when you commit
             </code></pre>
             
-            <h2 id="create-and-mount-the-ext4-filesystem">Create and mount the ext4 filesystem:</h2>
+            <h3 id="install-the-rsa-public-key-on-my-github-account">Install the rsa public key on my github account</h3>
             
             <pre><code>
-            mkfs.ext4 /dev/sdc2
-            mkdir /tmp/root
-            mount /dev/sdc2 /tmp/root
+            ssh-keygen
             </code></pre>
             
-            <h2 id="download-and-extract-the-root-filesystem">Download and extract the root filesystem:</h2>
+            <h3 id="then-clone-the-vim-config-and-install">Then clone the vim config and install</h3>
             
             <pre><code>
-            cd /mnt/disk2/linux_distros/
-            wget http://archlinuxarm.org/os/ArchLinuxARM-imx6-cubox-latest.tar.gz
-            tar -xf /mnt/disk2/linux_distros/ArchLinuxARM-imx6-cubox-latest.tar.gz -C /tmp/root
+            cd
+            git clone git@github.com:CootCraig/dotfiles_again.git
+            cd ~/dotfiles_again/linux
+            bash install.sh
             </code></pre>
             
-            <h2 id="move-boot-files-to-the-boot-partition">Move boot files to the boot partition:</h2>
+            <p>Look at
+            /home/craig/dotfiles_again/windows/vimfiles/bundle/Readme.txt
+            for setting up the vim bundles.</p>
+            
+            <h3 id="arrange-for-mounting-windows-shares">arrange for mounting windows shares</h3>
             
             <pre><code>
-            mv /tmp/root/boot/* /tmp/boot
+            apt-get install cifs-utils winbind
             </code></pre>
             
-            <h2 id="install-the-u-boot-bootloader">Install the U-Boot bootloader:</h2>
+            <p>Add the shares to mount.  Sample entry in /etc/fstab</p>
             
             <pre><code>
-            dd if=/tmp/boot/SPL of=/dev/sdc bs=512 seek=2
-            dd if=/tmp/boot/u-boot.img of=/dev/sdc bs=1K seek=42
+            //gcs3/f$/GIT /media/gcsgit cifs rw,noauto,credentials=/home/craig/gcsww_canderson.txt,uid=craig 0 0
             </code></pre>
             
-            <h2 id="unmount-the-partitions">Unmount the partitions</h2>
+            <p>Template credentials file</p>
             
             <pre><code>
-            sync
-            umount /tmp/boot
-            umount /tmp/root
+            username=a_user
+            password=a_password
+            domain=gcsww
             </code></pre>
             
-            <h2 id="boot-the-cubox-i">Boot the Cubox-I</h2>
+            <h2 id="java-se-8u20">Java SE 8u20</h2>
             
-            <p>Insert the SD card into the Cubox-i contacts uppermost, connect ethernet,
-            and apply 6-12V power.</p>
+            <ul>
+              <li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java downloads</a></li>
+            </ul>
             
-            <p>Use the serial console (CN6 micro USB connector) or SSH to the IP address
-            given to the board by your router. The default root password is ‘root’.</p>
+            <p>Extracted jdk tar to /opt/java. Make external link.</p>
+            
+            <pre><code>
+            /opt/java/jdk -&gt; /opt/java/jdk1.8.0_20/
+            </code></pre>
+            
+            <p>Modified /etc/profile</p>
+            
+            <pre><code>
+            if [ "`id -u`" -eq 0 ]; then
+              PATH="/opt/java/jdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+            else
+              PATH="/opt/java/jdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
+            fi
+            </code></pre>
+            
+            <h2 id="jruby">JRuby</h2>
+            
+            <ul>
+              <li><a href="http://jruby.org.s3.amazonaws.com/downloads/1.7.15/jruby-bin-1.7.15.tar.gz">Download JRuby 1.7.15</a></li>
+            </ul>
+            
+            <p>Unpacked to /opt/jruby.  Make symbolic link:</p>
+            
+            <pre><code>
+            /opt/ruby/jruby -&gt; /opt/ruby/jruby-1.7.15/
+            </code></pre>
+            
+            <p>Added /opt/ruby/jruby/bin to path in /etc/profile</p>
+            
+            <h2 id="vm-guest-use-xorg-dummy-driver">vm guest use xorg dummy driver</h2>
+            
+            <h2 id="xfce-desktop">xfce desktop</h2>
+            
+            <ul>
+              <li><a href="http://forums.debian.net/viewtopic.php?f=30&amp;t=71753#p400052">Installing xfce after netinstall</a></li>
+            </ul>
+            
+            <pre><code>
+            sudo apt-get install xorg xfce4 gdm3 xfce4-goodies
+            </code></pre>
+            
+            <p>Package: xserver-xorg-video-dummy (1:0.3.5-2 and others)
+            X.Org X server – dummy display driver
+            This package provides a ‘dummy’ display driver, which does not actually display anything.</p>
+            
+            <p>http://xpra.org/xorg.conf</p>
+            
+            <p>HOWTO: headless, custom xorg resolution/modeline with vnc access to display 0 console
+            http://ubuntuforums.org/showthread.php?t=1832456</p>
+            
+            <p>(This HOWTO will cover different aspects you might not need all of this, but if you need a) a custom resolution b) setup headless access c) access to the console (display :0)remotely part of this may be useful to you.)</p>
+            
+            <p>So this was going to be a question but it turned into a HOWTO after spending hours on this. </p>
+            
+            <p>PROBLEM #1: I needed remote access to the console (display :0) of a server from a laptop because I needed to access the audio hardware (though I’m sure there are different reasons one needs access to :0) so nx, tightvnc, xvnc were all out. 
+            PROBLEM #2: The server had no monitor attached
+            PROBLEM #3: I was connecting with a laptop that had a resolution of 1280x800 but of course windows (and other OSes) have a task bar, so the actually workable area is less than that. I needed a resolution of 1224x685 (not your typical resolution).
+            PROBLEM #4: need the vnc server to start at boot to allow login from the server (no monitor).</p>
+            
+            <p>1) Install x11vnc (this seems to be the only vnc server I found that allows console access, nomachine 4 (coming soon) and nomachine 3 have some form of ‘physical screen’ access, but I had a hard time with managing the audio hardware with that so I needed to use vnc.</p>
+            
+            <p>http://askubuntu.com/questions/390113/x11vnc-much-slower-than-xvnc-how-to-get-a-xubuntu-session-manually</p>
+            
+            <p>http://www.arachnoid.com/modelines/index.html</p>
+            
+            <p>Headless VNC-Server using xvfb
+            http://gpio.kaltpost.de/?page_id=84</p>
+            
+            <p>Xvfb on Debian 7 
+            https://github.com/tansaku/LocalSupport/wiki/Xvfb-on-Debian-7</p>
+            
+            <p>How to use RDP from Windows to connect to Debian or Ubuntu machine
+            http://blog.technotesdesk.com/how-to-use-rdp-from-windows-to-connect-to-debian-or-ubuntu-machine/</p>
+            
+            <h1 id="jruby-1">JRuby</h1>
+            
+            <h1 id="desktop-howto">Desktop howto</h1>
+            
+            <h2 id="xfce-desktop-1">XFCE desktop</h2>
+            
+            <h3 id="use-xfce-410-on-debian-7">Use xfce 4.10 on Debian 7</h3>
+            
+            <ul>
+              <li><a href="https://thestandardoutput.com/2014/02/running-xfce-4-10-on-debian-7-4/">Blog with notes for xfce from testing</a></li>
+            </ul>
+            
+            <h3 id="config-notes">Config notes</h3>
+            
+            <h2 id="multiple-monitors">multiple monitors</h2>
+            
+            <h3 id="arandr-to-generate-monitor-set-script">arandr to generate monitor set script</h3>
+            
+            <h1 id="windows-netbios-names">Windows netbios names</h1>
+            
+            <ul>
+              <li><a href="https://www.zulius.com/how-to/resolve-windows-netbios-names-from-linux/">Resolve Windows netbios names from Linux</a></li>
+            </ul>
+            
+            <h1 id="virtual-box-autostart-guest">Virtual Box autostart guest</h1>
+            
+            <ul>
+              <li><a href="http://www.vionblog.com/virtualbox-4-3-autostart-debian-wheezy/">VirtualBox 4.3 autostart on Debian wheezy</a></li>
+            </ul>
+            
+            <p>https://wiki.debian.org/VirtualBox#Kernel_driver_not_installed_.28rc.3D-1908.29</p>
+            
+            <h1 id="debian-service-management">Debian service management</h1>
+            
+            <ul>
+              <li><a href="https://wiki.debian.org/LSBInitScripts/DependencyBasedBoot">Debian LSB based service install</a></li>
+            </ul>
+            <hr>
+            <h3>
+              09 December 2014
+              &raquo;
+              <a href="/blog/2014/12/Work-Gogs-Git-Server/">Setup up work Git server with Gogs</a>
+            </h3>
+            
+            <h1 id="setup-up-work-git-server-with-gogs">Setup up work Git server with Gogs</h1>
+            
+            <p>Install a Debian 7 virtualbox guest
+            to host the company GIT repositories.</p>
+            
+            <h2 id="use-debian-stable-wheezy">Use Debian stable wheezy</h2>
+            
+            <p><a href="http://cdimage.debian.org/debian-cd/7.7.0/amd64/iso-cd/debian-7.7.0-amd64-netinst.iso">Debian 7.7 net install iso</a></p>
+            
+            <p>The current “stable” distribution of Debian is version 7, codenamed
+            wheezy. It was initially released as version 7.0 on May 4th, 2013 and
+            its latest update, version 7.7, was released on October 18th, 2014.</p>
+            
+            <h2 id="base-install">Base install</h2>
+            
+            <p>Hostname: gogs.gcsww.local</p>
+            
+            <pre><code>
+            Software Selection
+            ---------------------
+            remove Debian desktop environment
+            leave Print server
+            Add SSH server
+            remove laptop
+            </code></pre>
+            
+            <pre><code>
+            apt-get update
+            apt-get dist-upgrade
+            
+            apt-get install vim
+            apt-get install tmux
+            apt-get install git
+            apt-get install sudo
+            
+            adduser craig sudo
+            </code></pre>
+            
+            <h2 id="put-local-ssh-public-key-on-gogs-server">Put local ssh public key on gogs server</h2>
+            
+            <ul>
+              <li><a href="http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/">ssh-copy-id instructions</a></li>
+            </ul>
+            
+            <p>Step 2: Copy the public key to remote-host using ssh-copy-id</p>
+            
+            <pre><code>
+            jsmith@local-host$ ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host
+            jsmith@remote-host's password:
+            Now try logging into the machine, with "ssh 'remote-host'", and check in:
+            
+            .ssh/authorized_keys
+            
+            to make sure we haven't added extra keys that you weren't expecting.
+            
+            ssh-copy-id -i ~/.ssh/id_rsa.pub 192.168.88.183
+            ssh 192.168.88.183
+            </code></pre>
+            
+            <p>Note: ssh-copy-id appends the keys to the remote-host’s .ssh/authorized_key.</p>
+            
+            <h2 id="gogs-install-howto-for-debian-7-wheezyhttpspackagerioghpkgrgogsinstallbid131debian-7-gogs"><a href="https://packager.io/gh/pkgr/gogs/install?bid=131#debian-7-gogs">gogs Install Howto for Debian 7 Wheezy</a></h2>
+            
+            <h3 id="here-is-how-to-install-the-package-on-a-debian-7-wheezy-64bits-server">Here is how to install the package on a Debian 7 Wheezy 64bits server:</h3>
+            <pre><code>
+            ssh 192.168.88.183
+            </code></pre>
+            
+            <p>https support was missing from apt-get after install</p>
+            
+            <pre><code>
+            apt-get install apt-transport-https
+            </code></pre>
+            
+            <p>Here is how to install the package on a Debian 7 Wheezy 64bits server:</p>
+            
+            <pre><code>
+            wget -qO - https://deb.packager.io/key | sudo apt-key add -
+            echo "deb https://deb.packager.io/gh/pkgr/gogs wheezy pkgr" | sudo tee /etc/apt/sources.list.d/gogs.list
+            sudo apt-get update
+            sudo apt-get install gogs
+            
+            The following NEW packages will be installed:
+              gogs libevent-core-2.0-5 libevent-extra-2.0-5 libmysqlclient18 libpq5 libreadline5 libxslt1.1 mysql-common
+            
+            Setting up gogs (0.5.8-1418206274.9ee80e3.wheezy) ...
+            Scaling up...
+            update-rc.d: using dependency based boot sequencing
+            update-rc.d: using dependency based boot sequencing
+            update-rc.d: using dependency based boot sequencing
+            gogs-web-1 started.
+            --&gt; done.
+            </code></pre>
+            
+            <pre><code>
+            APP_NAME="gogs"
+            MYSQL_PASSWORD="change_me"
+            HOSTNAME="example.com"
+            
+            debconf-set-selections &lt;&lt;CONFIG
+            mysql-server-5.5 mysql-server/root_password password ${MYSQL_PASSWORD}
+            mysql-server-5.5 mysql-server/root_password_again password ${MYSQL_PASSWORD}
+            CONFIG
+            </code></pre>
+            
+            <pre><code>
+            APP_NAME="gogs"
+            MYSQL_PASSWORD="change_me"
+            HOSTNAME="example.com"
+            
+            apt-get install -y --force-yes mysql-server
+            
+            The following NEW packages will be installed:
+              libaio1 libdbd-mysql-perl libdbi-perl libhtml-template-perl mysql-client-5.5 mysql-server mysql-server-5.5 mysql-server-core-5.5
+            </code></pre>
+            
+            <pre><code>
+            APP_NAME="gogs"
+            MYSQL_PASSWORD="change_me"
+            HOSTNAME="example.com"
+            
+            mysql -uroot -p${MYSQL_PASSWORD} -e "create database if not exists ${APP_NAME};"
+            </code></pre>
+            
+            <pre><code>
+            apt-get install -y nginx
+            
+            The following NEW packages will be installed:
+              nginx nginx-common nginx-full
+            </code></pre>
+            
+            <pre><code>
+            APP_NAME="gogs"
+            MYSQL_PASSWORD="change_me"
+            HOSTNAME="example.com"
+            
+            cat &gt; /etc/nginx/sites-available/default &lt;&lt;EOF
+            server {
+              listen          80;
+              server_name     ${HOSTNAME} "";
+              location / {
+                proxy_pass      http://localhost:6000;
+              }
+            }
+            EOF
+            </code></pre>
+            
+            <pre><code>
+            sudo service nginx restart
+            </code></pre>
+            
+            <p>Now, access http://${HOSTNAME} and finish the installation process. Easy!</p>
+            <pre><code>
+            http://10.10.9.186/craig/game_justin_craig_20141209
+            
+            git remote add origin http://localhost:6000/craig/game_justin_craig_20141209.git
+            git push -u origin master
+            </code></pre>
+            
+            <ul>
+              <li><a href="https://www.kernel.org/pub/software/scm/git/docs/git-push.html#URLS">Git URLs</a></li>
+            </ul>
+            
+            <pre><code>
+            was
+            origin	/media/gcs3f/GIT/game_justin_craig_20141209.git 
+            
+            git remote set-url origin http://10.10.9.186/craig/game_justin_craig_20141209
+            
+            
+            ssh://[user@]host.xz[:port]/path/to/repo.git/ 
+            gogs@localhost:craig/game_justin_craig_20141209.git
+            
+            git remote set-url origin craig@10.10.9.186:craig/game_justin_craig_20141209.git
+            
+            </code></pre>
+            
+            <h3 id="on-reboot-gogs-service-not-running">On reboot gogs service not running</h3>
+            
+            <h4 id="some-background-on-debian-boot-up-services">Some background on Debian boot up services</h4>
+            
+            <p><a href="http://www.jamescoyle.net/cheat-sheets/791-update-rc-d-cheat-sheet">update-rc.d Cheat Sheet - James Coyle</a></p>
+            
+            <pre><code>
+            service --status-all
+             ...
+             [ ? ]  gogs
+             [ ? ]  gogs-web
+             [ - ]  gogs-web-1
+             ...
+            </code></pre>
+            
+            <ul>
+              <li><a href="https://wiki.debian.org/LSBInitScripts/DependencyBasedBoot">LSBInitScripts DependencyBasedBoot</a></li>
+              <li><a href="https://www.debian.org/doc/manuals/debian-reference/ch03.en.html">Chapter 3. The system initialization</a></li>
+              <li><a href="https://wiki.debian.org/LSBInitScripts">How to LSBize an Init Script</a></li>
+              <li><a href="https://wiki.debian.org/Daemon">Daemons in Debian</a></li>
+              <li>
+                <p><a href="https://packages.debian.org/wheezy/bootchart2">boot process performance analyser</a></p>
+              </li>
+              <li><a href="https://www.debian.org/releases/stable/i386/release-notes/ch-whats-new.en.html#dependency-boot">2.2.3. Dependency booting</a></li>
+            </ul>
+            
+            <p>insserv is a low level tool used by update-rc.d which enables an installed
+            system init script (boot script) by reading the comment header of the
+            script, e.g.:</p>
+            
+            <p>The dependency-based boot sequencing introduced with Debian 6.0 is now
+            always enabled, including for users of file-rc.</p>
+            
+            <p>For optimal sequencing, all init.d scripts should declare their
+            dependencies in an LSB header. This is already the case for scripts
+            shipped in Debian, but users should check their local scripts and consider
+            adding that information.</p>
+            
+            <p>For more information on this feature refer to the information available
+            in /usr/share/doc/insserv/README.Debian.</p>
+            
+            <p>Starting with Debian 6.0, the insserv command is used instead, if
+            dependency-based booting is enabled:</p>
+            
+            <pre><code>
+            insserv mydaemon
+            </code></pre>
+            
+            <p>Where mydaemon is an executable init script placed in /etc/init.d. insserv
+            will produce no output if everything went OK. Examine the error code in
+             $? if you want to be sure.</p>
+            
+            <p>Both the old and the new way requires an init script to be present in
+            /etc/init.d. For dependency-based booting, the script needs to be an
+            LSB init script.</p>
+            
+            <h4 id="lets-fix-it">Let’s fix it</h4>
+            
+            <pre><code>
+            /etc/init.d/gogs
+            /etc/init.d/gogs-web
+            /etc/init.d/gogs-web-1
+            </code></pre>
+            
+            <p>To see all the files the package installed onto your system, do this:</p>
+            
+            <pre><code>
+            dpkg-query -L <package_name>
+            
+            
+            <pre><code>
+            /opt/gogs/conf/app.ini
+            </code></pre>
+            
+            ## migrate existing
+            
+            * [Moving A Git Repository To A New Server - Nik Sumeiko](http://www.smashingmagazine.com/2014/05/19/moving-git-repository-new-server/)
+            
+            
+            </package_name></code></pre>
+            <hr>
+            <h3>
+              12 December 2014
+              &raquo;
+              <a href="/blog/2014/12/Secure-Debian-https-ssh/">How to secure Debian https ssh</a>
+            </h3>
+            <h2 id="goal">Goal</h2>
+            
+            <p>Reasonable security for  public Debian 7 server with:</p>
+            
+            <ul>
+              <li>https</li>
+              <li>ssh</li>
+            </ul>
+            
+            <h2 id="research">Research</h2>
+            
+            <ul>
+              <li><a href="https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html">Securing Debian Manual</a></li>
+              <li>Package: harden (0.1.38+nmu1) </li>
+              <li><a href="http://unix.stackexchange.com/questions/30838/hardening-debian">Stack Exchange - hardening-debian</a></li>
+              <li><a href="http://noobsysadmin.wordpress.com/2014/03/05/hardening-your-linux-debian-7-wheezy-part-1/">Noobsysadmin - Hardening your Linux Debian 7 Wheezy – Part 1</a></li>
+              <li><a href="http://howto.biapy.com/en/debian-gnu-linux/system/security/harden-the-ssh-access-security-on-debian">biapy - harden ssh on Debian</a></li>
+              <li><a href="http://linoxide.com/how-tos/lynis-security-tool-audit-hardening-linux/">linoxide - Lynis - Security Tool for Audit and Hardening Linux / Unix Systems</a></li>
+              <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-bastille-to-harden-an-ubuntu-12-04">digitalocean - How To Install and Use Bastille To Harden an Ubuntu 12.04</a></li>
+              <li><a href="http://www.unixmen.com/how-to-harden-your-linux-servers-security-with-bastille/">unixmen - How to Harden Your Linux Servers Security with Bastille</a></li>
+              <li><a href="https://www.linode.com/docs/security/securing-your-server">linode - Securing Your Server</a></li>
+              <li><a href="http://feeding.cloud.geek.nz/posts/hardening-ssh-servers/">Hardening ssh Servers</a></li>
+            </ul>
             <hr>
           </div>
           <div class='small-4 large-2 columns'>
@@ -1318,110 +1318,111 @@
               <li><a href="/blog/tags/diy" rel="tag">diy</a></li>
               <li><a href="/blog/tags/arduino" rel="tag">arduino</a></li>
               <li><a href="/blog/tags/cellphone" rel="tag">cellphone</a></li>
-              <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
               <li><a href="/blog/tags/turntable" rel="tag">turntable</a></li>
+              <li><a href="/blog/tags/antenna" rel="tag">antenna</a></li>
               <li><a href="/blog/tags/diy_audio" rel="tag">diy_audio</a></li>
               <li><a href="/blog/tags/led" rel="tag">led</a></li>
+              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
+              <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
+              <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
+              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
               <li><a href="/blog/tags/bluehost" rel="tag">bluehost</a></li>
               <li><a href="/blog/tags/am" rel="tag">am</a></li>
-              <li><a href="/blog/tags/tuner" rel="tag">tuner</a></li>
               <li><a href="/blog/tags/mpd" rel="tag">mpd</a></li>
-              <li><a href="/blog/tags/rune_audio" rel="tag">rune_audio</a></li>
-              <li><a href="/blog/tags/raspberry_pi" rel="tag">raspberry_pi</a></li>
-              <li><a href="/blog/tags/chipamp" rel="tag">chipamp</a></li>
-              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
-              <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
-              <li><a href="/blog/tags/i3wm" rel="tag">i3wm</a></li>
-              <li><a href="/blog/tags/git" rel="tag">git</a></li>
-              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
-              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
-              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
-              <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
-              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
               <li><a href="/blog/tags/email" rel="tag">email</a></li>
-              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
+              <li><a href="/blog/tags/developers_to_watch" rel="tag">developers_to_watch</a></li>
               <li><a href="/blog/tags/beaglebone" rel="tag">beaglebone</a></li>
-              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
+              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
+              <li><a href="/blog/tags/headphone_amp" rel="tag">headphone_amp</a></li>
+              <li><a href="/blog/tags/i3wm" rel="tag">i3wm</a></li>
+              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
+              <li><a href="/blog/tags/arch_linux" rel="tag">arch_linux</a></li>
+              <li><a href="/blog/tags/bluetooth" rel="tag">bluetooth</a></li>
+              <li><a href="/blog/tags/nas" rel="tag">nas</a></li>
+              <li><a href="/blog/tags/preamp" rel="tag">preamp</a></li>
+              <li><a href="/blog/tags/git" rel="tag">git</a></li>
+              <li><a href="/blog/tags/javascript" rel="tag">javascript</a></li>
+              <li><a href="/blog/tags/sql" rel="tag">sql</a></li>
               <li><a href="/blog/tags/ti_cc_3000" rel="tag">ti_cc_3000</a></li>
               <li><a href="/blog/tags/wifi" rel="tag">wifi</a></li>
-              <li><a href="/blog/tags/fm" rel="tag">fm</a></li>
-              <li><a href="/blog/tags/nas" rel="tag">nas</a></li>
-              <li><a href="/blog/tags/stereo_system" rel="tag">stereo_system</a></li>
-              <li><a href="/blog/tags/irc" rel="tag">irc</a></li>
-              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
-              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
-              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
-              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
-              <li><a href="/blog/tags/cd_player" rel="tag">cd_player</a></li>
-              <li><a href="/blog/tags/philips_cd935" rel="tag">philips_cd935</a></li>
-              <li><a href="/blog/tags/laptop" rel="tag">laptop</a></li>
-              <li><a href="/blog/tags/robotics" rel="tag">robotics</a></li>
-              <li><a href="/blog/tags/lp_storage" rel="tag">lp_storage</a></li>
-              <li><a href="/blog/tags/vinyl_lp" rel="tag">vinyl_lp</a></li>
-              <li><a href="/blog/tags/cleaning" rel="tag">cleaning</a></li>
-              <li><a href="/blog/tags/thunderbird" rel="tag">thunderbird</a></li>
-              <li><a href="/blog/tags/survival" rel="tag">survival</a></li>
-              <li><a href="/blog/tags/hardware" rel="tag">hardware</a></li>
-              <li><a href="/blog/tags/xmonad" rel="tag">xmonad</a></li>
-              <li><a href="/blog/tags/job_hunt" rel="tag">job_hunt</a></li>
-              <li><a href="/blog/tags/gammu" rel="tag">gammu</a></li>
-              <li><a href="/blog/tags/rs232" rel="tag">rs232</a></li>
-              <li><a href="/blog/tags/max232" rel="tag">max232</a></li>
-              <li><a href="/blog/tags/arduino_ide" rel="tag">arduino_ide</a></li>
-              <li><a href="/blog/tags/rails" rel="tag">rails</a></li>
-              <li><a href="/blog/tags/rails-api" rel="tag">rails-api</a></li>
-              <li><a href="/blog/tags/tuned_loop" rel="tag">tuned_loop</a></li>
-              <li><a href="/blog/tags/repair" rel="tag">repair</a></li>
-              <li><a href="/blog/tags/bluez" rel="tag">bluez</a></li>
-              <li><a href="/blog/tags/programming" rel="tag">programming</a></li>
-              <li><a href="/blog/tags/gogs" rel="tag">gogs</a></li>
-              <li><a href="/blog/tags/pc_audio" rel="tag">pc_audio</a></li>
-              <li><a href="/blog/tags/subwoofer" rel="tag">subwoofer</a></li>
-              <li><a href="/blog/tags/security" rel="tag">security</a></li>
-              <li><a href="/blog/tags/vm_host" rel="tag">vm_host</a></li>
-              <li><a href="/blog/tags/virtualbox" rel="tag">virtualbox</a></li>
-              <li><a href="/blog/tags/firefox" rel="tag">firefox</a></li>
-              <li><a href="/blog/tags/icemonkey" rel="tag">icemonkey</a></li>
-              <li><a href="/blog/tags/headset" rel="tag">headset</a></li>
-              <li><a href="/blog/tags/ebay" rel="tag">ebay</a></li>
-              <li><a href="/blog/tags/gitlab" rel="tag">gitlab</a></li>
-              <li><a href="/blog/tags/cubox" rel="tag">cubox</a></li>
-              <li><a href="/blog/tags/hardware_hackers" rel="tag">hardware_hackers</a></li>
-              <li><a href="/blog/tags/pickup" rel="tag">pickup</a></li>
-              <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
-              <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
-              <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
-              <li><a href="/blog/tags/windows_os" rel="tag">windows_os</a></li>
+              <li><a href="/blog/tags/reactor_safety" rel="tag">reactor_safety</a></li>
+              <li><a href="/blog/tags/volumio" rel="tag">volumio</a></li>
               <li><a href="/blog/tags/raspbian" rel="tag">raspbian</a></li>
-              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
+              <li><a href="/blog/tags/pptp" rel="tag">pptp</a></li>
+              <li><a href="/blog/tags/Debian" rel="tag">Debian</a></li>
+              <li><a href="/blog/tags/keyboard" rel="tag">keyboard</a></li>
+              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
+              <li><a href="/blog/tags/lp_storage" rel="tag">lp_storage</a></li>
               <li><a href="/blog/tags/firefox_phone" rel="tag">firefox_phone</a></li>
               <li><a href="/blog/tags/firefox_os" rel="tag">firefox_os</a></li>
-              <li><a href="/blog/tags/music_playr" rel="tag">music_playr</a></li>
-              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
-              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
-              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
-              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
-              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
-              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
-              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
-              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
-              <li><a href="/blog/tags/portable" rel="tag">portable</a></li>
-              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
-              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
+              <li><a href="/blog/tags/repair" rel="tag">repair</a></li>
               <li><a href="/blog/tags/radio" rel="tag">radio</a></li>
-              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
-              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
-              <li><a href="/blog/tags/pptp" rel="tag">pptp</a></li>
-              <li><a href="/blog/tags/vpn" rel="tag">vpn</a></li>
-              <li><a href="/blog/tags/Debian" rel="tag">Debian</a></li>
-              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
-              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
-              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
-              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
+              <li><a href="/blog/tags/moteino_home_automation" rel="tag">moteino_home_automation</a></li>
+              <li><a href="/blog/tags/xmonad" rel="tag">xmonad</a></li>
+              <li><a href="/blog/tags/gitlab" rel="tag">gitlab</a></li>
+              <li><a href="/blog/tags/rails" rel="tag">rails</a></li>
+              <li><a href="/blog/tags/rails-api" rel="tag">rails-api</a></li>
+              <li><a href="/blog/tags/windows_os" rel="tag">windows_os</a></li>
+              <li><a href="/blog/tags/vm_host" rel="tag">vm_host</a></li>
+              <li><a href="/blog/tags/virtualbox" rel="tag">virtualbox</a></li>
+              <li><a href="/blog/tags/electronics" rel="tag">electronics</a></li>
+              <li><a href="/blog/tags/cubox" rel="tag">cubox</a></li>
+              <li><a href="/blog/tags/rhombic_antenna" rel="tag">rhombic_antenna</a></li>
+              <li><a href="/blog/tags/diy_li_ion_battery_pack" rel="tag">diy_li_ion_battery_pack</a></li>
+              <li><a href="/blog/tags/survival" rel="tag">survival</a></li>
+              <li><a href="/blog/tags/music_player" rel="tag">music_player</a></li>
               <li><a href="/blog/tags/headphones" rel="tag">headphones</a></li>
+              <li><a href="/blog/tags/robotics" rel="tag">robotics</a></li>
+              <li><a href="/blog/tags/welcome" rel="tag">welcome</a></li>
+              <li><a href="/blog/tags/speaker" rel="tag">speaker</a></li>
+              <li><a href="/blog/tags/subwoofer" rel="tag">subwoofer</a></li>
+              <li><a href="/blog/tags/tear_drop_trailers" rel="tag">tear_drop_trailers</a></li>
+              <li><a href="/blog/tags/philips_cd935" rel="tag">philips_cd935</a></li>
+              <li><a href="/blog/tags/diy_cabling" rel="tag">diy_cabling</a></li>
+              <li><a href="/blog/tags/laptop" rel="tag">laptop</a></li>
+              <li><a href="/blog/tags/pickup" rel="tag">pickup</a></li>
               <li><a href="/blog/tags/hurricane_lantern" rel="tag">hurricane_lantern</a></li>
-              <li><a href="/blog/tags/seamonkey" rel="tag">seamonkey</a></li>
+              <li><a href="/blog/tags/coding" rel="tag">coding</a></li>
+              <li><a href="/blog/tags/cd_player" rel="tag">cd_player</a></li>
+              <li><a href="/blog/tags/bluez" rel="tag">bluez</a></li>
+              <li><a href="/blog/tags/programming" rel="tag">programming</a></li>
+              <li><a href="/blog/tags/headset" rel="tag">headset</a></li>
+              <li><a href="/blog/tags/hardware_hackers" rel="tag">hardware_hackers</a></li>
+              <li><a href="/blog/tags/arduino_ide" rel="tag">arduino_ide</a></li>
+              <li><a href="/blog/tags/tube_audio" rel="tag">tube_audio</a></li>
+              <li><a href="/blog/tags/porch_steps_led" rel="tag">porch_steps_led</a></li>
+              <li><a href="/blog/tags/ebay" rel="tag">ebay</a></li>
+              <li><a href="/blog/tags/fm_transmitter" rel="tag">fm_transmitter</a></li>
               <li><a href="/blog/tags/coax_power_plug" rel="tag">coax_power_plug</a></li>
+              <li><a href="/blog/tags/recipe" rel="tag">recipe</a></li>
+              <li><a href="/blog/tags/vpn" rel="tag">vpn</a></li>
+              <li><a href="/blog/tags/arduino_radio" rel="tag">arduino_radio</a></li>
+              <li><a href="/blog/tags/tv" rel="tag">tv</a></li>
+              <li><a href="/blog/tags/gammu" rel="tag">gammu</a></li>
+              <li><a href="/blog/tags/stereo_receiver" rel="tag">stereo_receiver</a></li>
+              <li><a href="/blog/tags/seamonkey" rel="tag">seamonkey</a></li>
+              <li><a href="/blog/tags/thunderbird" rel="tag">thunderbird</a></li>
+              <li><a href="/blog/tags/vinyl_lp" rel="tag">vinyl_lp</a></li>
+              <li><a href="/blog/tags/cleaning" rel="tag">cleaning</a></li>
+              <li><a href="/blog/tags/hardware" rel="tag">hardware</a></li>
+              <li><a href="/blog/tags/rs232" rel="tag">rs232</a></li>
+              <li><a href="/blog/tags/max232" rel="tag">max232</a></li>
+              <li><a href="/blog/tags/gogs" rel="tag">gogs</a></li>
+              <li><a href="/blog/tags/job_hunt" rel="tag">job_hunt</a></li>
+              <li><a href="/blog/tags/phusion_passenger" rel="tag">phusion_passenger</a></li>
+              <li><a href="/blog/tags/tuned_loop" rel="tag">tuned_loop</a></li>
+              <li><a href="/blog/tags/firefox" rel="tag">firefox</a></li>
+              <li><a href="/blog/tags/icemonkey" rel="tag">icemonkey</a></li>
+              <li><a href="/blog/tags/job_skills" rel="tag">job_skills</a></li>
+              <li><a href="/blog/tags/webmail" rel="tag">webmail</a></li>
+              <li><a href="/blog/tags/spam_assassin" rel="tag">spam_assassin</a></li>
+              <li><a href="/blog/tags/irc" rel="tag">irc</a></li>
+              <li><a href="/blog/tags/security" rel="tag">security</a></li>
+              <li><a href="/blog/tags/pc_audio" rel="tag">pc_audio</a></li>
+              <li><a href="/blog/tags/green_chile" rel="tag">green_chile</a></li>
+              <li><a href="/blog/tags/moosefet" rel="tag">moosefet</a></li>
+              <li><a href="/blog/tags/usb" rel="tag">usb</a></li>
+              <li><a href="/blog/tags/ajax" rel="tag">ajax</a></li>
             </ul>
           </div>
         </div>

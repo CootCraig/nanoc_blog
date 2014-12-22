@@ -522,6 +522,10 @@ After this operation, 50.8 MB of additional disk space will be used.
 * [Uves Way - Irssi and tmux (or screen)](http://uvesway.wordpress.com/2012/03/24/irssi-and-tmux-or-screen/)
 * [steelmanronald06 - irssi For Beginners](http://www.linux.org/threads/irssi-for-beginners.4181/)
 
+qbit has ssd for sale $20
+
+OCZ 120GB Vertex 3 SATA 6Gb/s 2.5-Inch Performance Solid State Drive (SSD) with Max 550MB/s Read and  Max 4KB Write 85K IOPS- VTX3-25SAT3-120G
+
 ## next
 
 deadbeef - unpacked to /opt
