@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    
+    <h2 id="codeandlife-article-on-raspberry-pi-max3232-and-warning">codeandlife article on Raspberry PI, MAX3232 and warning</h2>
+    
+    <p><a href="http://codeandlife.com/2012/07/01/raspberry-pi-serial-console-with-max3232cpe/">Raspberry Pi Serial Console With MAX3232CPE</a></p>
+    
+    <p>In addition to the audio, video, network and USB connectors, the Raspberry
+    Pi also has 26 GPIO pins. These pins also include an UART serial console,
+    which can be used to log in to the Pi, and many other things. However,
+    normal UART device communicate with -12V (logical “1″) and +12V
+    (logical “0″), which may just fry something in the 3.3V Pi. Even
+    “TTL level” serial at 5V runs the same risk.</p>
+    
+    <p>So in this short tutorial, I’ll show you how to use a MAX3232CPE
+    transceiver to safely convert the normal UART voltage levels to 3.3V
+    accepted by Raspberry Pi, and connect to the Pi using Putty. This is
+    what you’ll need:</p>
+    
+    <h3 id="breadboard-picture">Breadboard picture</h3>
+    
+    <p><img src="/assets/images/codeandlife_max3232cpe_breadboard.jpg" /></p>
+    
+    <h3 id="raspberry-pi-application-picture">Raspberry Pi Application picture</h3>
+    
+    <p><img src="/assets/images/codeandlife_max3232cpe_raspberrypi_app.jpg" /></p>
+    
+    <h2 id="sparkfun-max3232-breakout">Sparkfun Max3232 breakout</h2>
+    
+    <p>Being a lazy sort, this $5.95 breakout looks like just the ticket.
+    There are 2 ports so one can be used as a debug console, the other
+    to connect an external RS232 device. 
+    This would fit nicely with Raspberry Pi and Arduino projects.</p>
+    
+    <p><a href="https://www.sparkfun.com/products/11189">Sparkfun - MAX3232 Breakout</a></p>
+    
+    <p>Description: The ‘must have’ IC for TTL/CMOS projects finally has its
+    own breakout board! This is the RS232 converter IC that is capable of
+    running at 3V and communicating with 5V logic.</p>
+    
+    <p>We’ve taken the SOIC package MAX3232 and broken out all the pins you
+    need to set up your RS232 to TTL connection. We’ve also included the
+    necessary 0.1uF charge pump capacitors. Also remember that because the
+    MAX3232 operates at a broader voltage range than the 232 (3 - 5.5V)
+    you can use this on both your 3.3 and 5V projects!</p>
+    
+    <h3 id="sparkfun-max3232-breakout-top">Sparkfun Max3232 breakout top</h3>
+    
+    <p><img src="/assets/images/sparkfun_max232breakout_top.jpg" /></p>
+    
+    <h3 id="sparkfun-max3232-breakout-bottom">Sparkfun Max3232 breakout bottom</h3>
+    
+    <p><img src="/assets/images/sparkfun_max232breakout_bottom.jpg" /></p>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

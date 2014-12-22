@@ -1,0 +1,6 @@
+- render 'default' do
+  %h1 Tags
+  %ul
+    - item[:tag_list].sort.each do |tag|
+      %li= link_to(tag, "/tags/#{tag}")
+

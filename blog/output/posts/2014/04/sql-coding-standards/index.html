@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    
+    <h1 id="online-survey">Online Survey</h1>
+    
+    <p>http://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions</p>
+    
+    <p>http://www.nyx.net/~bwunder/dbChangeControl/standard.htm</p>
+    
+    <p>http://selectinsql.blogspot.in/2012/08/sql-server-stored-procedure-coding.html</p>
+    
+    <p>http://blog.sqlauthority.com/2007/06/04/sql-server-database-coding-standards-and-guidelines-part-1/</p>
+    
+    <p>http://blog.sqlauthority.com/2007/06/05/sql-server-database-coding-standards-and-guidelines-part-2/</p>
+    
+    <p>http://www.pinaldave.com/sql-download/SQLServerGuideLines.pdf</p>
+    
+    <p>http://justinsomnia.org/2003/04/essential-database-naming-conventions-and-style/</p>
+    
+    <h1 id="naming">Naming</h1>
+    
+    <h2 id="naming-by-pinal-dave">Naming by Pinal Dave</h2>
+    
+    <h3 id="tables">Tables:</h3>
+    
+    <p>Rules: Pascal notation; end with an ‘s’</p>
+    
+    <p>Examples: Products, Customers</p>
+    
+    <p>Group related table names1</p>
+    
+    <h3 id="stored-procs">Stored Procs:</h3>
+    
+    <p>Rules: sp<app name="">_[<group name="">_]<action>&lt;table/logical instance&gt;</action></group></app></p>
+    
+    <p>Examples: spOrders_GetNewOrders, spProducts_UpdateProduct</p>
+    
+    <h3 id="indexes">Indexes:</h3>
+    
+    <p>Rules: IX_<tablename>_<columns separated="" by="" _=""></columns></tablename></p>
+    
+    <p>Examples: IX_Products_ProductID</p>
+    
+    <h3 id="primary-keys">Primary Keys:</h3>
+    
+    <p>Rules: PK_<tablename></tablename></p>
+    
+    <p>Examples: PK_Products</p>
+    
+    <h3 id="foreign-keys">Foreign Keys:</h3>
+    
+    <p>Rules: FK_<tablename1>_<tablename2></tablename2></tablename1></p>
+    
+    <p>Example: FK_Products_Orderss</p>
+    
+    <h3 id="defaults">Defaults:</h3>
+    
+    <p>Rules: DF_<tablename>_<columnname></columnname></tablename></p>
+    
+    <p>Example: DF_Products_Quantity</p>
+    
+    <h3 id="columns">Columns:</h3>
+    
+    <p>If a column references another table’s column, name it &lt;table name&gt;ID</p>
+    
+    <p>Example: The Customers table has an ID column
+    The Orders table should have a CustomerID column
+    General Rules:</p>
+    
+    <p>Do not use spaces in the name of database objects
+    Do not use SQL keywords as the name of database objects
+    In cases where this is necessary, surround the
+    object name with brackets, such as [Year]
+    Do not prefix stored procedures with ‘sp_’2
+    Prefix table names with the owner name3</p>
+    
+    <h1 id="craig-document-version-one">Craig Document Version One</h1>
+    
+    <h2 id="naming-1">Naming</h2>
+    
+    <h3 id="general">General</h3>
+    
+    <p>Do not use Sql reserved words for object names.
+    If for some reason a Sql reserved word must be used
+    enclose in square brackets.  For example.</p>
+    
+    <p>[user]</p>
+    
+    <h3 id="tables-names">Tables Names</h3>
+    
+    <p>Pascal notation. Singular form.</p>
+    
+    <p>Examples</p>
+    
+    <ul>
+      <li>AgentDispo</li>
+      <li>Dispo</li>
+      <li>TZState</li>
+      <li>JobDispo</li>
+    </ul>
+    
+    <p>This table name convetion is seen in current usage.</p>
+    
+    <h3 id="stored-procedure-names">Stored Procedure Names</h3>
+    
+    <pre>
+    <code>
+    proc_camelCaseNameOfProcedure
+    </code>
+    </pre>
+    
+    <p>For example</p>
+    
+    <ul>
+      <li>proc_login</li>
+      <li>proc_groupScore</li>
+    </ul>
+    
+    <p>Notes:</p>
+    
+    <p>The prefix sp_ is reserved for system stored procedures that ship with
+    SQL Server. Whenever SQL Server encounters a procedure name starting
+    with sp<em>, it first tries to locate the procedure in the master database,
+    then it looks for any qualifiers (database, owner) provided, then it
+    tries dbo as the owner. Time spent locating the stored procedure can be
+    saved by avoiding the “sp</em>” prefix.</p>
+    
+    <h3 id="index-names">Index Names</h3>
+    
+    <p>Rule:</p>
+    
+    <pre><code>
+    IX_TableName_(columns separated by _)
+    </code></pre>
+    
+    <p>Note that if the column name starts with the table name, omit the table
+    name in the index name.</p>
+    
+    <p>Examples:</p>
+    
+    <ul>
+      <li>IX_AgentGroup_Agent_ID_Group_ID</li>
+      <li>IX_Dispo_Code</li>
+    </ul>
+    
+    <h3 id="primary-key-column-names">Primary Key Column names:</h3>
+    
+    <p>Each table must have a primary key.  In most cases it should be an
+    IDENTITY column named </p>
+    
+    <pre><code>
+    TableName_ID.
+    </code></pre>
+    
+    <p>For instance.</p>
+    
+    <ul>
+      <li>Quiz_ID in table Quiz.</li>
+      <li>Dispo_ID in table Dispo.</li>
+      <li>Group_ID in table Group.</li>
+    </ul>
+    
+    <h3 id="foreign-key-constraint-names">Foreign Key Constraint Names:</h3>
+    
+    <p>Rules:</p>
+    
+    <pre><code>
+    FK_(TableName1)_(TableName2)
+    </code></pre>
+    
+    <p>Examples:</p>
+    
+    <ul>
+      <li>FK_AgentGroup_Agent</li>
+      <li>FK_AgentGroup_Group</li>
+    </ul>
+    
+    <h3 id="defaults-1">Defaults:</h3>
+    
+    <p>Rules: </p>
+    
+    <pre><code>
+    DF_(ColumnName)
+    </code></pre>
+    
+    <p>Example:</p>
+    
+    <p>DF_AgentGroup_Visible</p>
+    
+    <p>Note our convention is that column names are prefixed with the table name.</p>
+    
+    <h3 id="columns-1">Columns:</h3>
+    
+    <p>Column names will have the table name as a prefix.  Use camel case
+    notation after the table name prefix.</p>
+    
+    <p>For example </p>
+    
+    <ul>
+      <li>column Agent_lastLogin in table Agent</li>
+      <li>column Dispo_name in table Dispo.</li>
+      <li>column AgentGroup_visible in table AgentGroup</li>
+    </ul>
+    
+    <p>If a column references another table’s column, name it </p>
+    <pre><code>
+    (table name)_(primary key column)
+    </code></pre>
+    
+    <p>For example, the Agent table has a primary key Agent_ID, the AgentGroup
+    table would have a AgentGroup_Agent_ID column.</p>
+    
+    <ul>
+      <li>AgentGroup_Agent_ID</li>
+    </ul>
+    
+    <h3 id="standard-abbreviations">Standard Abbreviations</h3>
+    
+    <p>It will be useful to have a list of GCS standard prefixes.  The First one
+    seen was TZ.</p>
+    
+    <ul>
+      <li>TZ - timezone</li>
+    </ul>
+    
+    <h2 id="query-formatting-examples">Query Formatting Examples</h2>
+    
+    <p>TBD</p>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

@@ -1,0 +1,8 @@
+- render 'default' do
+  %div.post
+    %h1= item[:title]
+    %aside
+      Posted at:
+      = item[:created_at]
+    %article= yield
+

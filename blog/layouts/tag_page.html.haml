@@ -1,0 +1,6 @@
+- render 'default' do
+  %h1= "Tag: #{item[:tag]}"
+  %ul
+    - items_with_tag(item[:tag]).each do |item|
+      %li= link_to(item[:title], item.path)
+
