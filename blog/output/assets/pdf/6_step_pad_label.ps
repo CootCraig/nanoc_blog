@@ -1,0 +1,101 @@
+%!PS-Adobe-2.0
+%%Creator: Craig Anderson in vim
+%%Title: 3db lpad panels
+%%Pages: 1
+%%PageOrder: Ascend
+%%BoundingBox: 0 0 612 792
+%%DocumentPaperSizes: Letter
+%%EndComments
+
+/inch {72 mul} def
+/label_width 2.125 inch def
+/sweep_angle 140 def
+/label_radius 1.36 2 div 0.05 add inch def
+
+/recess_box {
+  newpath
+  0 0 moveto
+  label_width 0 lineto
+  label_width label_width lineto
+  0 label_width lineto
+  closepath
+  stroke
+} def
+
+/center_mark {
+  newpath
+  label_width 2 div dup 0.05 inch 0 360 arc closepath fill
+} def
+
+/knob_outline {
+  newpath
+  label_width 2 div dup 0.750 inch 0 360 arc closepath stroke
+} def
+
+/step_line_at_angle {
+  newpath
+  label_width 2 div dup moveto
+
+  360 exch sub 90 add dup
+  cos label_radius mul
+  exch
+  sin label_radius mul
+  rlineto
+  stroke
+} def
+
+/step_lines {
+  0 step_line_at_angle
+  32 step_line_at_angle
+  64 step_line_at_angle
+  96 step_line_at_angle
+  128 step_line_at_angle
+  160 step_line_at_angle
+
+%  0 step_line_at_angle
+%  30 step_line_at_angle
+%  60 step_line_at_angle
+%  90 step_line_at_angle
+%  120 step_line_at_angle
+%  150 step_line_at_angle
+
+%  0 step_line_at_angle
+%  28 step_line_at_angle
+%  56 step_line_at_angle
+%  84 step_line_at_angle
+%  112 step_line_at_angle
+%  140 step_line_at_angle
+
+%  90 step_line_at_angle
+%  270 step_line_at_angle
+} def
+
+/back_bracket_hole {
+  newpath
+  0 0 moveto
+  2.175 inch 0 rlineto
+  0 0.905 inch rlineto
+  2.175 inch neg 0 rlineto
+  closepath stroke
+
+  2.175 inch 2 div 0.905 inch 2 div 0.03 inch 0 360 arc closepath fill
+} def
+
+/top_label {
+  recess_box
+  center_mark
+  step_lines
+  knob_outline
+} def
+
+
+gsave
+  1 inch 1 inch translate
+  top_label
+
+  0 inch 4 inch translate
+  back_bracket_hole
+grestore
+
+showpage
+
