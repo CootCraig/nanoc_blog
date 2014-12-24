@@ -11,307 +11,318 @@
     Cootcraig Public Blog
   </div>
   <div id='main'>
-    <h2 id="irc-information">IRC Information</h2>
-    
-    <h3 id="freenod-faqhttpsfreenodenetfaqshtmlnicksetup"><a href="https://freenode.net/faq.shtml#nicksetup">freenod faq</a></h3>
-    
-    <h4 id="what-is-the-recommended-way-to-set-up-my-irc-nickname">What is the recommended way to set up my IRC nickname?</h4>
-    
-    <p>Please follow these steps to set up your nick and configure your
-    client. Check off each step to make sure it’s been done:</p>
-    
-    <h5 id="select-a-permanent-master-nickname-if-the-nickname-you-want-is-registered-but-has-expired-just-ask-a-staffer-and-in-most-cases-we-will-be-happy-to-drop-it-for-you">Select a permanent, master nickname. If the nickname you want is registered but has expired, just ask a staffer and in most cases, we will be happy to drop it for you.</h5>
-    
-    <p>Please avoid using the name of a community project or trademarked entity,
-    to avoid conflicts. Write down your password and be sure to keep the
-    sheet of paper in a safe place.</p>
-    
-    <p>Register your IRC nick:</p>
-    
-    <pre><code>/msg NickServ REGISTER password youremail@example.com
-    </code></pre>
-    
-    <p>Replace password with a secure, unguessable password that you keep secret.</p>
-    
-    <h5 id="the-email-address-that-you-select-will-not-be-given-out-by-staff-and-is-mainly-used-to-allow-us-to-help-you-recover-the-account-in-the-event-that-you-forget-your-password-for-this-reason-you-are-required-to-use-a-real-non-disposable-email-address-upon-registering-you-will-receive-an-email-with-a-verification-command-that-you-will-need-to-run-to-complete-the-registration-process-failure-to-verify-the-account-will-cause-it-to-be-automatically-dropped-after-about-24-hours">The email address that you select will not be given out by staff, and is mainly used to allow us to help you recover the account in the event that you forget your password. For this reason, you are required to use a real, non-disposable, email address. Upon registering, you will receive an email with a verification command that you will need to run to complete the registration process. Failure to verify the account will cause it to be automatically dropped after about 24 hours.</h5>
-    
-    <h5 id="to-keep-your-email-address-private-rather-than-displaying-it-publicly-mark-it-as-hidden-which-is-done-by-default-for-new-accounts">To keep your email address private, rather than displaying it publicly, mark it as hidden (which is done by default for new accounts):</h5>
-    
-    <pre><code>/msg NickServ SET HIDEMAIL ON
-    </code></pre>
-    
-    <h5 id="its-useful-but-not-required-to-have-an-alternate-nick-grouped-to-your-account-for-example-if-your-primary-nick-is-foo">It’s useful, but not required, to have an alternate nick grouped to your account. For example, if your primary nick is foo:</h5>
-    
-    <pre><code>/nick foo_
-    </code></pre>
-    
-    <p>then identify to your primary account:</p>
-    
-    <pre><code>/msg NickServ IDENTIFY foo password
-    </code></pre>
-    
-    <p>and finally, group the new nick to your account</p>
-    
-    <pre><code>/msg NickServ GROUP
-    </code></pre>
-    
-    <h4 id="we-prefer-you-to-use-just-one-account-and-group-nicks-to-it-as-described-above-rather-than-registering-for-multiple-accounts-grouping-nicks-in-this-way-gives-you-the-benefit-of-having-all-your-nicks-covered-by-the-same-cloak-should-you-choose-to-wear-a-cloak">We prefer you to use just one account, and group nicks to it as described above, rather than registering for multiple accounts. Grouping nicks in this way gives you the benefit of having all your nicks covered by the same cloak, should you choose to wear a cloak.</h4>
-    
-    <p>The exception to this is where you might want to run a bot. You should
-    register a separate account for your bot.</p>
-    
-    <h4 id="configure-your-client-to-identify-itself-to-nickserv-automatically-whenever-it-connects-to-freenode-so-that-its-less-likely-youll-connect-to-the-network-without-being-identified-to-nickserv-the-easiest-approach-is-to-specify-your-nickserv-password-as-a-server-password">Configure your client to identify itself to NickServ automatically whenever it connects to freenode so that it’s less likely you’ll connect to the network without being identified to NickServ. The easiest approach is to specify your NickServ password as a server password.</h4>
-    
-    <p>If your client supports server password, please set this up as
-    accountname:password. Make sure to include the colon. This will allow
-    you to identify to your services account on connect, regardless of the
-    nickname you are using when you connect. For example:</p>
-    
-    <pre><code>/connect chat.freenode.net 6667 mquin:uwhY8wgzWw22-zXs.M39p
-    </code></pre>
-    
-    <h3 id="whats-the-easiest-way-to-identify-to-nickserv-when-i-connect-to-freenode">What’s the easiest way to identify to NickServ when I connect to freenode?</h3>
-    
-    <p>If your client supports SASL, that is best. Otherwise, just plug your
-    NickServ password into your client as a server password. To make this work
-    when connecting from a different nick than the one you’ve got registered,
-    use nick:password. You’ll be identified to NickServ automatically when
-    you connect.</p>
-    
-    <p>In some cases, it’s more convenient to configure your client to send this command to achieve the same effect:</p>
-    
-    <pre><code>/msg NickServ IDENTIFY account password
-    </code></pre>
-    
-    <h3 id="mibbit---create-your-own-nicknamehttpwikimibbitcomindexphpcreateyourownnickname"><a href="http://wiki.mibbit.com/index.php/Create_your_own_nickname">mibbit - Create your own nickname</a></h3>
-    
-    <h4 id="registering-your-nickname">Registering your Nickname</h4>
-    
-    <h5 id="choose-a-user-name-or-nick">Choose a user name or nick.</h5>
-    
-    <p>This user name should consist only of the letters from A-Z, the ciphers
-    from 0-9 (but not as first character) and certain symbols such as
-    “_” and “-“ (“" breakes some mails). It may have a maximum of 16
-    characters. Please note that some nicknames are used internally and
-    cannot be used. Also, please stay family friendly with your nicknames</p>
-    
-    <h5 id="change-your-user-name-to-the-user-name-you-have-chosen-suppose-you-chose-the-nick-stupidname-for-example-type-the-following-in-the-input-line">Change your user name to the user name you have chosen. Suppose you chose the nick “StupidName” for example. Type the following in the input line:</h5>
-    
-    <pre><code>/nick StupidName
-    </code></pre>
-    
-    <h5 id="register-your-nick-or-user-name-type-the-following-command-and-replace-yourpassword-with-a-password-that-will-be-easy-to-remember-and-use-a-working-email-address">Register your nick or user name. Type the following command and replace yourPassword with a password that will be easy to remember and use a working email address.</h5>
-    
-    <pre><code>irc command
-    /ns register yourPassword yourEmailAccountName@yourMailProvider
-    
-    (no nick here, otherwise you'll get "use a more obscure password" or similar) 
-    </code></pre>
-    
-    <h5 id="get-the-confirmation-code-from-your-email-inbox-type-the-following-command-and-replace-confirmationcode-with-the-code-sent-to-you-in-the-email-never-replace-the-word-nickserv-in-msg-nickserv--with-your-nick-it-has-the-template-shown-below">Get the confirmation code from your email inbox. Type the following command and replace confirmationCode with the code sent to you in the email (NEVER replace the word “nickserv” in /msg nickserv … with your nick). It has the template shown below</h5>
-    
-    <pre><code>irc command
-    /ns confirm confirmationCode 
-    
-    If you want your email address to remain private, use the following command:
-    
-    /ns set hide email on
-    </code></pre>
-    
-    <h5 id="register-an-alternate-nickname-using-the-same-password-if-you-would-like-to-register-an-alternate-nickname-repeat-the-same-procedure-using-steps-2-to-4-alternatively-type-ns-group-mainnick-mainpass-see-ns-help-group">Register an alternate nickname using the same password. If you would like to register an alternate nickname, repeat the same procedure, using steps 2 to 4. Alternatively type /ns GROUP mainNick mainPass (see /ns help group)</h5>
-    
-    <h5 id="identify-with-nickserv-each-time-you-connect-you-should-sign-in-or-identify-yourself-using-the-following-command">Identify with NickServ. Each time you connect, you should sign in, or “identify” yourself, using the following command:</h5>
-    
-    <pre><code>/ns identify your_password
-    </code></pre>
-    
-    <h5 id="auto-connect-with-mibbit-for-your-convience-if-you-are-using-the-fully-featured-httpchatmibbitcom-main-client-and-created-a-mibbit-account-and-are-logged-in-you-can-add-that-nick-and-password-to-the-my-account-list-to-be-auto-identified-see-autoidentify-most-clients-have-their-own-way-of-setting-up-an-auto-connect-also">Auto connect with mibbit: For your convience, if you are using the fully featured http://chat.mibbit.com (main client) and created a Mibbit account and are logged in, you can add that nick and password to the “My Account” list to be auto-identified, see Autoidentify. Most clients have their own way of setting up an auto-connect also.</h5>
-    
-    <h2 id="package-weechat-101-1">Package: weechat (1.0.1-1)</h2>
-    
-    <h3 id="weechat-links">Weechat links</h3>
-    
-    <ul>
-      <li><a href="http://kmacphail.blogspot.com/2011/09/using-weechat-with-freenode-basics.html">Best starter - kmacphail.blogspot</a></li>
-      <li><a href="http://weechat.org/">WeeChat is a fast, light and extensible chat client</a></li>
-      <li><a href="http://thepracticalsysadmin.com/introduction-to-weechat/">The Practical Sysadmin - Introduction to Weechat</a></li>
-    </ul>
-    
-    <h3 id="weechat-install">Weechat Install</h3>
-    
-    <pre><code>apt-get install weechat
-    
-    apt-get install weechat
-    Reading package lists... Done
-    Building dependency tree       
-    Reading state information... Done
-    The following extra packages will be installed:
-      liblua5.1-0 libtcl8.5 weechat-core weechat-curses weechat-plugins
-    Suggested packages:
-      tcl8.5 weechat-doc weechat-scripts
-    The following NEW packages will be installed:
-      liblua5.1-0 libtcl8.5 weechat weechat-core weechat-curses weechat-plugins
-    0 upgraded, 6 newly installed, 0 to remove and 0 not upgraded.
-    Need to get 2,297 kB of archives.
-    After this operation, 9,975 kB of additional disk space will be used.
-    </code></pre>
-    
-    <h3 id="configure-weechat">configure weechat</h3>
-    
-    <pre><code>/server add twice-irc.de irc.twice-irc.de
-    
-    </code></pre>
-    
-    <h3 id="using-weechat-tips">Using weechat tips</h3>
-    
-    <h2 id="stuff">stuff</h2>
-    
-    <pre><code>/set irc.server.freenode.nicks "cootcraig"
-    /set irc.server.freenode.username "cootcraig"
-    /set irc.server.freenode.realname "Craig Anderson"
-    /set irc.server.freenode.command "/msg nickserv identify cootcraig **********"
-    
-    /connect freenode
-    /join #cobug
-    
-    /server add twice-irc irc.twice-irc.de
-    /connect twice-irc
-    /join #i3
-    </code></pre>
-    
-    <p>Register nick cootcraig at twice-irc</p>
-    
-    <pre><code>irc commands
-    
-    /msg nickserv help register 
-    
-    /msg nickserv register ********** craig@coot.net
-    
-    A password has been sent to craig@coot.net , please type / msg NickServ
-    confirm &lt; passcode &gt; to | complete the registration process .
-    </code></pre>
-    
-    <pre><code>irc commands
-    /msg NickServ confirm x2WB6Tmuc
-    
-    The nickname craig has been successfully registered .
-    Your password is ********** - keep it for later use.
-    
-    /msg nickserv identify craig **********
-    
-    You are already registered.
-    
-    /nick cootcraig
-    
-    /msg nickserv identify craig **********
-    
-    /msg nickserv group craig **********
-    
-    You are now represented by craig in the group.
-    
-    /join #i3
-    
-    craig (~craig@twice-F85F5742.hsd1.co.comcast.net) has joined #i3
-    </code></pre>
-    
-    <p>connect to:               irc.twice-irc.de</p>
-    
-    <pre><code>/set irc.server.twice-irc.nicks "craig cootcraig"
-    /set irc.server.twice-irc.username "craig@coot.net"
-    /set irc.server.twice-irc.realname "Craig Anderson"
-    /set irc.server.twice-irc.command "/msg nickserv identify **********; /nick cootcraig"
-    </code></pre>
-    
-    <pre><code>[23:08] [1] [core] 1:weechat
-    </code></pre>
-    
-    <h2 id="using-weechat">Using Weechat</h2>
-    
-    <h3 id="my-notes">My Notes</h3>
-    
-    <pre><code>useful commands
-    /buffer 1 - goto buffer 1, the core weechat buffer
-    /buffer weechat - goto buffer 1, the core weechat buffer
-    /buffer list - list the buffers
-    /buffer #cobug - goto buffer with channel #cobug
-    /buffer 3 - goto buffer 3
-    /plugin list
-    /alias b /buffer
-    /alias - list aliases
-    /join [-server freenode] #weechat
-    /server list
-    /server listfull [&lt;server&gt;]
-    </code></pre>
-    
-    <h3 id="screen-layouthttpsweechatorgfilesdocdevelweechatuserenhtmlscreenlayout"><a href="https://weechat.org/files/doc/devel/weechat_user.en.html#screen_layout">3.2. Screen layout</a></h3>
-    
-    <h3 id="weechat-commandshttpsweechatorgfilesdocdevelweechatuserenhtmlweechatcommands"><a href="https://weechat.org/files/doc/devel/weechat_user.en.html#weechat_commands">3.12.3. WeeChat commands</a></h3>
-    
-    <h4 id="away-set-or-remove-away-status">away set or remove away status</h4>
-    
-    <pre><code>/away  [-all] [&lt;message&gt;]
-    
-       -all: set or remove away status on all connected servers
-    message: message for away (if no message is given, away status is removed)
-    </code></pre>
-    
-    <h4 id="bar-manage-bars">bar manage bars</h4>
-    
-    <h4 id="buffer-manage-buffers">buffer manage buffers</h4>
-    
-    <pre><code>/buffer  list
-    clear [&lt;number&gt;|&lt;name&gt;|-merged|-all [&lt;number&gt;|&lt;name&gt;...]]
-    move &lt;number&gt;|-|+
-    swap &lt;number1&gt;|&lt;name1&gt; [&lt;number2&gt;|&lt;name2&gt;]
-    merge &lt;number&gt;
-    unmerge [&lt;number&gt;|-all]
-    hide [&lt;number&gt;|&lt;name&gt;|-all [&lt;number&gt;|&lt;name&gt;...]]
-    unhide [&lt;number&gt;|&lt;name&gt;|-all [&lt;number&gt;|&lt;name&gt;...]]
-    renumber [&lt;number1&gt; [&lt;number2&gt; [&lt;start&gt;]]]
-    close [&lt;n1&gt;[-&lt;n2&gt;]|&lt;name&gt;]
-    notify &lt;level&gt;
-    localvar
-    set &lt;property&gt; &lt;value&gt;
-    get &lt;property&gt;
-    </code></pre>
-    
-    <h4 id="window-manage-windows">window manage windows</h4>
-    
-    <pre><code>/window  list
-    -1|+1|b#|up|down|left|right [-window &lt;number&gt;]
-    &lt;number&gt;
-    splith|splitv [-window &lt;number&gt;] [&lt;pct&gt;]
-    resize [-window &lt;number&gt;] [+/-]&lt;pct&gt;
-    balance
-    merge [-window &lt;number&gt;] [all]
-    page_up|page_down [-window &lt;number&gt;]
-    refresh
-    scroll [-window &lt;number&gt;] [+/-]&lt;value&gt;[s|m|h|d|M|y]
-    scroll_horiz [-window &lt;number&gt;] [+/-]&lt;value&gt;[%]
-    scroll_up|scroll_down|scroll_top|scroll_bottom|scroll_beyond_end|scroll_previous_highlight|scroll_next_highlight|scroll_unread [-window &lt;number&gt;]
-    swap [-window &lt;number&gt;] [up|down|left|right]
-    zoom[-window &lt;number&gt;]
-    bare [&lt;delay&gt;]
-    </code></pre>
-    
-    <h2 id="research-links">research links</h2>
-    
-    <p>irssi or WeeChat</p>
-    
-    <ul>
-      <li><a href="http://wiki.doubleunion.org/index.php?title=IRC_Tutorial">Double Union IRC Tutorial</a></li>
-      <li><a href="https://webchat.freenode.net/">Webchat at freenode</a></li>
-      <li>ChatZilla extension</li>
-      <li><a href="http://www.irchelp.org/irchelp/irctutorial.html">irchelp.org - An IRC Tutorial</a></li>
-      <li><a href="https://freenode.net/faq.shtml">freenode - Frequently-Asked Questions</a></li>
-      <li><a href="http://robots.thoughtbot.com/weechat-for-slacks-irc-gateway">thoughtbot - WeeChat for Slack’s IRC Gateway</a></li>
-    </ul>
-    
-    <h3 id="vpn-host">vpn host</h3>
-    
-    <p>vultr = yubikey</p>
-    
-    <p>digital ocean</p>
+    <div class='post'>
+      <h1>IRC</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/irc">irc</a></span>
+        |
+      </div>
+      <article>
+        <h2 id="irc-information">IRC Information</h2>
+        
+        <h3 id="freenod-faqhttpsfreenodenetfaqshtmlnicksetup"><a href="https://freenode.net/faq.shtml#nicksetup">freenod faq</a></h3>
+        
+        <h4 id="what-is-the-recommended-way-to-set-up-my-irc-nickname">What is the recommended way to set up my IRC nickname?</h4>
+        
+        <p>Please follow these steps to set up your nick and configure your
+        client. Check off each step to make sure it’s been done:</p>
+        
+        <h5 id="select-a-permanent-master-nickname-if-the-nickname-you-want-is-registered-but-has-expired-just-ask-a-staffer-and-in-most-cases-we-will-be-happy-to-drop-it-for-you">Select a permanent, master nickname. If the nickname you want is registered but has expired, just ask a staffer and in most cases, we will be happy to drop it for you.</h5>
+        
+        <p>Please avoid using the name of a community project or trademarked entity,
+        to avoid conflicts. Write down your password and be sure to keep the
+        sheet of paper in a safe place.</p>
+        
+        <p>Register your IRC nick:</p>
+        
+        <pre><code>/msg NickServ REGISTER password youremail@example.com
+        </code></pre>
+        
+        <p>Replace password with a secure, unguessable password that you keep secret.</p>
+        
+        <h5 id="the-email-address-that-you-select-will-not-be-given-out-by-staff-and-is-mainly-used-to-allow-us-to-help-you-recover-the-account-in-the-event-that-you-forget-your-password-for-this-reason-you-are-required-to-use-a-real-non-disposable-email-address-upon-registering-you-will-receive-an-email-with-a-verification-command-that-you-will-need-to-run-to-complete-the-registration-process-failure-to-verify-the-account-will-cause-it-to-be-automatically-dropped-after-about-24-hours">The email address that you select will not be given out by staff, and is mainly used to allow us to help you recover the account in the event that you forget your password. For this reason, you are required to use a real, non-disposable, email address. Upon registering, you will receive an email with a verification command that you will need to run to complete the registration process. Failure to verify the account will cause it to be automatically dropped after about 24 hours.</h5>
+        
+        <h5 id="to-keep-your-email-address-private-rather-than-displaying-it-publicly-mark-it-as-hidden-which-is-done-by-default-for-new-accounts">To keep your email address private, rather than displaying it publicly, mark it as hidden (which is done by default for new accounts):</h5>
+        
+        <pre><code>/msg NickServ SET HIDEMAIL ON
+        </code></pre>
+        
+        <h5 id="its-useful-but-not-required-to-have-an-alternate-nick-grouped-to-your-account-for-example-if-your-primary-nick-is-foo">It’s useful, but not required, to have an alternate nick grouped to your account. For example, if your primary nick is foo:</h5>
+        
+        <pre><code>/nick foo_
+        </code></pre>
+        
+        <p>then identify to your primary account:</p>
+        
+        <pre><code>/msg NickServ IDENTIFY foo password
+        </code></pre>
+        
+        <p>and finally, group the new nick to your account</p>
+        
+        <pre><code>/msg NickServ GROUP
+        </code></pre>
+        
+        <h4 id="we-prefer-you-to-use-just-one-account-and-group-nicks-to-it-as-described-above-rather-than-registering-for-multiple-accounts-grouping-nicks-in-this-way-gives-you-the-benefit-of-having-all-your-nicks-covered-by-the-same-cloak-should-you-choose-to-wear-a-cloak">We prefer you to use just one account, and group nicks to it as described above, rather than registering for multiple accounts. Grouping nicks in this way gives you the benefit of having all your nicks covered by the same cloak, should you choose to wear a cloak.</h4>
+        
+        <p>The exception to this is where you might want to run a bot. You should
+        register a separate account for your bot.</p>
+        
+        <h4 id="configure-your-client-to-identify-itself-to-nickserv-automatically-whenever-it-connects-to-freenode-so-that-its-less-likely-youll-connect-to-the-network-without-being-identified-to-nickserv-the-easiest-approach-is-to-specify-your-nickserv-password-as-a-server-password">Configure your client to identify itself to NickServ automatically whenever it connects to freenode so that it’s less likely you’ll connect to the network without being identified to NickServ. The easiest approach is to specify your NickServ password as a server password.</h4>
+        
+        <p>If your client supports server password, please set this up as
+        accountname:password. Make sure to include the colon. This will allow
+        you to identify to your services account on connect, regardless of the
+        nickname you are using when you connect. For example:</p>
+        
+        <pre><code>/connect chat.freenode.net 6667 mquin:uwhY8wgzWw22-zXs.M39p
+        </code></pre>
+        
+        <h3 id="whats-the-easiest-way-to-identify-to-nickserv-when-i-connect-to-freenode">What’s the easiest way to identify to NickServ when I connect to freenode?</h3>
+        
+        <p>If your client supports SASL, that is best. Otherwise, just plug your
+        NickServ password into your client as a server password. To make this work
+        when connecting from a different nick than the one you’ve got registered,
+        use nick:password. You’ll be identified to NickServ automatically when
+        you connect.</p>
+        
+        <p>In some cases, it’s more convenient to configure your client to send this command to achieve the same effect:</p>
+        
+        <pre><code>/msg NickServ IDENTIFY account password
+        </code></pre>
+        
+        <h3 id="mibbit---create-your-own-nicknamehttpwikimibbitcomindexphpcreateyourownnickname"><a href="http://wiki.mibbit.com/index.php/Create_your_own_nickname">mibbit - Create your own nickname</a></h3>
+        
+        <h4 id="registering-your-nickname">Registering your Nickname</h4>
+        
+        <h5 id="choose-a-user-name-or-nick">Choose a user name or nick.</h5>
+        
+        <p>This user name should consist only of the letters from A-Z, the ciphers
+        from 0-9 (but not as first character) and certain symbols such as
+        “_” and “-“ (“" breakes some mails). It may have a maximum of 16
+        characters. Please note that some nicknames are used internally and
+        cannot be used. Also, please stay family friendly with your nicknames</p>
+        
+        <h5 id="change-your-user-name-to-the-user-name-you-have-chosen-suppose-you-chose-the-nick-stupidname-for-example-type-the-following-in-the-input-line">Change your user name to the user name you have chosen. Suppose you chose the nick “StupidName” for example. Type the following in the input line:</h5>
+        
+        <pre><code>/nick StupidName
+        </code></pre>
+        
+        <h5 id="register-your-nick-or-user-name-type-the-following-command-and-replace-yourpassword-with-a-password-that-will-be-easy-to-remember-and-use-a-working-email-address">Register your nick or user name. Type the following command and replace yourPassword with a password that will be easy to remember and use a working email address.</h5>
+        
+        <pre><code>irc command
+        /ns register yourPassword yourEmailAccountName@yourMailProvider
+        
+        (no nick here, otherwise you'll get "use a more obscure password" or similar) 
+        </code></pre>
+        
+        <h5 id="get-the-confirmation-code-from-your-email-inbox-type-the-following-command-and-replace-confirmationcode-with-the-code-sent-to-you-in-the-email-never-replace-the-word-nickserv-in-msg-nickserv--with-your-nick-it-has-the-template-shown-below">Get the confirmation code from your email inbox. Type the following command and replace confirmationCode with the code sent to you in the email (NEVER replace the word “nickserv” in /msg nickserv … with your nick). It has the template shown below</h5>
+        
+        <pre><code>irc command
+        /ns confirm confirmationCode 
+        
+        If you want your email address to remain private, use the following command:
+        
+        /ns set hide email on
+        </code></pre>
+        
+        <h5 id="register-an-alternate-nickname-using-the-same-password-if-you-would-like-to-register-an-alternate-nickname-repeat-the-same-procedure-using-steps-2-to-4-alternatively-type-ns-group-mainnick-mainpass-see-ns-help-group">Register an alternate nickname using the same password. If you would like to register an alternate nickname, repeat the same procedure, using steps 2 to 4. Alternatively type /ns GROUP mainNick mainPass (see /ns help group)</h5>
+        
+        <h5 id="identify-with-nickserv-each-time-you-connect-you-should-sign-in-or-identify-yourself-using-the-following-command">Identify with NickServ. Each time you connect, you should sign in, or “identify” yourself, using the following command:</h5>
+        
+        <pre><code>/ns identify your_password
+        </code></pre>
+        
+        <h5 id="auto-connect-with-mibbit-for-your-convience-if-you-are-using-the-fully-featured-httpchatmibbitcom-main-client-and-created-a-mibbit-account-and-are-logged-in-you-can-add-that-nick-and-password-to-the-my-account-list-to-be-auto-identified-see-autoidentify-most-clients-have-their-own-way-of-setting-up-an-auto-connect-also">Auto connect with mibbit: For your convience, if you are using the fully featured http://chat.mibbit.com (main client) and created a Mibbit account and are logged in, you can add that nick and password to the “My Account” list to be auto-identified, see Autoidentify. Most clients have their own way of setting up an auto-connect also.</h5>
+        
+        <h2 id="package-weechat-101-1">Package: weechat (1.0.1-1)</h2>
+        
+        <h3 id="weechat-links">Weechat links</h3>
+        
+        <ul>
+          <li><a href="http://kmacphail.blogspot.com/2011/09/using-weechat-with-freenode-basics.html">Best starter - kmacphail.blogspot</a></li>
+          <li><a href="http://weechat.org/">WeeChat is a fast, light and extensible chat client</a></li>
+          <li><a href="http://thepracticalsysadmin.com/introduction-to-weechat/">The Practical Sysadmin - Introduction to Weechat</a></li>
+        </ul>
+        
+        <h3 id="weechat-install">Weechat Install</h3>
+        
+        <pre><code>apt-get install weechat
+        
+        apt-get install weechat
+        Reading package lists... Done
+        Building dependency tree       
+        Reading state information... Done
+        The following extra packages will be installed:
+          liblua5.1-0 libtcl8.5 weechat-core weechat-curses weechat-plugins
+        Suggested packages:
+          tcl8.5 weechat-doc weechat-scripts
+        The following NEW packages will be installed:
+          liblua5.1-0 libtcl8.5 weechat weechat-core weechat-curses weechat-plugins
+        0 upgraded, 6 newly installed, 0 to remove and 0 not upgraded.
+        Need to get 2,297 kB of archives.
+        After this operation, 9,975 kB of additional disk space will be used.
+        </code></pre>
+        
+        <h3 id="configure-weechat">configure weechat</h3>
+        
+        <pre><code>/server add twice-irc.de irc.twice-irc.de
+        
+        </code></pre>
+        
+        <h3 id="using-weechat-tips">Using weechat tips</h3>
+        
+        <h2 id="stuff">stuff</h2>
+        
+        <pre><code>/set irc.server.freenode.nicks "cootcraig"
+        /set irc.server.freenode.username "cootcraig"
+        /set irc.server.freenode.realname "Craig Anderson"
+        /set irc.server.freenode.command "/msg nickserv identify cootcraig **********"
+        
+        /connect freenode
+        /join #cobug
+        
+        /server add twice-irc irc.twice-irc.de
+        /connect twice-irc
+        /join #i3
+        </code></pre>
+        
+        <p>Register nick cootcraig at twice-irc</p>
+        
+        <pre><code>irc commands
+        
+        /msg nickserv help register 
+        
+        /msg nickserv register ********** craig@coot.net
+        
+        A password has been sent to craig@coot.net , please type / msg NickServ
+        confirm &lt; passcode &gt; to | complete the registration process .
+        </code></pre>
+        
+        <pre><code>irc commands
+        /msg NickServ confirm x2WB6Tmuc
+        
+        The nickname craig has been successfully registered .
+        Your password is ********** - keep it for later use.
+        
+        /msg nickserv identify craig **********
+        
+        You are already registered.
+        
+        /nick cootcraig
+        
+        /msg nickserv identify craig **********
+        
+        /msg nickserv group craig **********
+        
+        You are now represented by craig in the group.
+        
+        /join #i3
+        
+        craig (~craig@twice-F85F5742.hsd1.co.comcast.net) has joined #i3
+        </code></pre>
+        
+        <p>connect to:               irc.twice-irc.de</p>
+        
+        <pre><code>/set irc.server.twice-irc.nicks "craig cootcraig"
+        /set irc.server.twice-irc.username "craig@coot.net"
+        /set irc.server.twice-irc.realname "Craig Anderson"
+        /set irc.server.twice-irc.command "/msg nickserv identify **********; /nick cootcraig"
+        </code></pre>
+        
+        <pre><code>[23:08] [1] [core] 1:weechat
+        </code></pre>
+        
+        <h2 id="using-weechat">Using Weechat</h2>
+        
+        <h3 id="my-notes">My Notes</h3>
+        
+        <pre><code>useful commands
+        /buffer 1 - goto buffer 1, the core weechat buffer
+        /buffer weechat - goto buffer 1, the core weechat buffer
+        /buffer list - list the buffers
+        /buffer #cobug - goto buffer with channel #cobug
+        /buffer 3 - goto buffer 3
+        /plugin list
+        /alias b /buffer
+        /alias - list aliases
+        /join [-server freenode] #weechat
+        /server list
+        /server listfull [&lt;server&gt;]
+        </code></pre>
+        
+        <h3 id="screen-layouthttpsweechatorgfilesdocdevelweechatuserenhtmlscreenlayout"><a href="https://weechat.org/files/doc/devel/weechat_user.en.html#screen_layout">3.2. Screen layout</a></h3>
+        
+        <h3 id="weechat-commandshttpsweechatorgfilesdocdevelweechatuserenhtmlweechatcommands"><a href="https://weechat.org/files/doc/devel/weechat_user.en.html#weechat_commands">3.12.3. WeeChat commands</a></h3>
+        
+        <h4 id="away-set-or-remove-away-status">away set or remove away status</h4>
+        
+        <pre><code>/away  [-all] [&lt;message&gt;]
+        
+           -all: set or remove away status on all connected servers
+        message: message for away (if no message is given, away status is removed)
+        </code></pre>
+        
+        <h4 id="bar-manage-bars">bar manage bars</h4>
+        
+        <h4 id="buffer-manage-buffers">buffer manage buffers</h4>
+        
+        <pre><code>/buffer  list
+        clear [&lt;number&gt;|&lt;name&gt;|-merged|-all [&lt;number&gt;|&lt;name&gt;...]]
+        move &lt;number&gt;|-|+
+        swap &lt;number1&gt;|&lt;name1&gt; [&lt;number2&gt;|&lt;name2&gt;]
+        merge &lt;number&gt;
+        unmerge [&lt;number&gt;|-all]
+        hide [&lt;number&gt;|&lt;name&gt;|-all [&lt;number&gt;|&lt;name&gt;...]]
+        unhide [&lt;number&gt;|&lt;name&gt;|-all [&lt;number&gt;|&lt;name&gt;...]]
+        renumber [&lt;number1&gt; [&lt;number2&gt; [&lt;start&gt;]]]
+        close [&lt;n1&gt;[-&lt;n2&gt;]|&lt;name&gt;]
+        notify &lt;level&gt;
+        localvar
+        set &lt;property&gt; &lt;value&gt;
+        get &lt;property&gt;
+        </code></pre>
+        
+        <h4 id="window-manage-windows">window manage windows</h4>
+        
+        <pre><code>/window  list
+        -1|+1|b#|up|down|left|right [-window &lt;number&gt;]
+        &lt;number&gt;
+        splith|splitv [-window &lt;number&gt;] [&lt;pct&gt;]
+        resize [-window &lt;number&gt;] [+/-]&lt;pct&gt;
+        balance
+        merge [-window &lt;number&gt;] [all]
+        page_up|page_down [-window &lt;number&gt;]
+        refresh
+        scroll [-window &lt;number&gt;] [+/-]&lt;value&gt;[s|m|h|d|M|y]
+        scroll_horiz [-window &lt;number&gt;] [+/-]&lt;value&gt;[%]
+        scroll_up|scroll_down|scroll_top|scroll_bottom|scroll_beyond_end|scroll_previous_highlight|scroll_next_highlight|scroll_unread [-window &lt;number&gt;]
+        swap [-window &lt;number&gt;] [up|down|left|right]
+        zoom[-window &lt;number&gt;]
+        bare [&lt;delay&gt;]
+        </code></pre>
+        
+        <h2 id="research-links">research links</h2>
+        
+        <p>irssi or WeeChat</p>
+        
+        <ul>
+          <li><a href="http://wiki.doubleunion.org/index.php?title=IRC_Tutorial">Double Union IRC Tutorial</a></li>
+          <li><a href="https://webchat.freenode.net/">Webchat at freenode</a></li>
+          <li>ChatZilla extension</li>
+          <li><a href="http://www.irchelp.org/irchelp/irctutorial.html">irchelp.org - An IRC Tutorial</a></li>
+          <li><a href="https://freenode.net/faq.shtml">freenode - Frequently-Asked Questions</a></li>
+          <li><a href="http://robots.thoughtbot.com/weechat-for-slacks-irc-gateway">thoughtbot - WeeChat for Slack’s IRC Gateway</a></li>
+        </ul>
+        
+        <h3 id="vpn-host">vpn host</h3>
+        
+        <p>vultr = yubikey</p>
+        
+        <p>digital ocean</p>
+      </article>
+    </div>
   </div>
   <div id='sidebar'>
     <ul>

@@ -1,8 +1,11 @@
 - render 'default' do
   %div.post
     %h1= item[:title]
-    %aside
-      Posted at:
-      = item[:created_at]
+    %div
+      %span Post tags:
+      - item[:tags].sort.each do |tag|
+        |
+        %span= link_to(tag, "/tags/#{tag}")
+      |
     %article= yield
 

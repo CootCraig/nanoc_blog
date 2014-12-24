@@ -11,99 +11,116 @@
     Cootcraig Public Blog
   </div>
   <div id='main'>
-    
-    <h1 id="notes-on-setting-up-a-debian-virtualbox-host-for-my-employer">Notes on setting up a Debian Virtualbox host for my employer</h1>
-    
-    <h2 id="overview">Overview</h2>
-    
-    <p>https://www.virtualbox.org/manual/</p>
-    
-    <p>https://blogs.oracle.com/virtualization/entry/new_commercial_license_for_oracle</p>
-    
-    <ul>
-      <li>Oracle VM VirtualBox Enterprise - Named User Plus - $50 per named user</li>
-      <li>Oracle’s standard processor licensing, $1,000 per processor socket</li>
-    </ul>
-    
-    <h1 id="setting-up-the-host-box">Setting up the host box.</h1>
-    
-    <h1 id="how-to-autostart-vms">How to autostart vms</h1>
-    
-    <h2 id="good-guide-to-setting-up-autostart">Good guide to setting up autostart</h2>
-    
-    <p>http://lifeofageekadmin.com/how-to-set-your-virtualbox-vm-to-automatically-startup/</p>
-    
-    <h2 id="log">Log</h2>
-    
-    <p>First you need to create the file /etc/default/virtualbox and add a
-    few variables.</p>
-    
-    <pre><code>
-    VBOXAUTOSTART_DB=/etc/vbox
-    VBOXAUTOSTART_CONFIG=/etc/vbox/vbox.cfg
-    </code></pre>
-    
-    <p>Create the file /etc/vbox/vbox.cfg</p>
-    
-    <pre><code>
-    root# mkdir /etc/vbox
-    </code></pre>
-    
-    <p>With one line.</p>
-    
-    <pre><code>
-    default_policy = allow
-    </code></pre>
-    
-    <p>Set permissions on directory to the vboxuser group and make sure users
-    can write to the directory as well as sticky bit.</p>
-    
-    <pre><code>
-    root# chgrp vboxusers /etc/vbox
-    root# chmod 1775 /etc/vbox
-    </code></pre>
-    
-    <p>Add administrator to the vboxusers group.</p>
-    
-    <pre><code>
-    root# groups administrator
-    administrator : administrator sudo
-    
-    root# usermod -a -G vboxusers administrator
-    
-    root# groups administrator
-    administrator : administrator sudo vboxusers
-    </code></pre>
-    
-    <p>Every user who wants to enable autostart for individual machines has to
-    set the path to the autostart database directory with</p>
-    
-    <pre><code>
-    administrator$ VBoxManage setproperty autostartdbpath /etc/vbox
-    </code></pre>
-    
-    <p>List the vms</p>
-    
-    <pre><code>
-    administrator$ VBoxManage list vms
-    "craigdeb" {0e7bca8b-b552-4ebb-9e39-bb1f6fb19d5c}
-    </code></pre>
-    
-    <pre><code>
-    administrator$ VBoxManage modifyvm craigdeb --autostart-enabled on
-    </code></pre>
-    
-    <pre><code>
-    root# update-rc.d virtualbox defaults
-    </code></pre>
-    
-    <h2 id="after-log-place-holder">After log place holder</h2>
-    
-    <p><img src="/assets/images/rhombic_diagram_with_angle.png" /></p>
-    
-    <pre><code>
-    code
-    </code></pre>
+    <div class='post'>
+      <h1>Debian Virtualbox Host</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/debian">debian</a></span>
+        |
+        <span><a href="/tags/linux">linux</a></span>
+        |
+        <span><a href="/tags/virtualbox">virtualbox</a></span>
+        |
+        <span><a href="/tags/vm_host">vm_host</a></span>
+        |
+      </div>
+      <article>
+        
+        <h1 id="notes-on-setting-up-a-debian-virtualbox-host-for-my-employer">Notes on setting up a Debian Virtualbox host for my employer</h1>
+        
+        <h2 id="overview">Overview</h2>
+        
+        <p>https://www.virtualbox.org/manual/</p>
+        
+        <p>https://blogs.oracle.com/virtualization/entry/new_commercial_license_for_oracle</p>
+        
+        <ul>
+          <li>Oracle VM VirtualBox Enterprise - Named User Plus - $50 per named user</li>
+          <li>Oracle’s standard processor licensing, $1,000 per processor socket</li>
+        </ul>
+        
+        <h1 id="setting-up-the-host-box">Setting up the host box.</h1>
+        
+        <h1 id="how-to-autostart-vms">How to autostart vms</h1>
+        
+        <h2 id="good-guide-to-setting-up-autostart">Good guide to setting up autostart</h2>
+        
+        <p>http://lifeofageekadmin.com/how-to-set-your-virtualbox-vm-to-automatically-startup/</p>
+        
+        <h2 id="log">Log</h2>
+        
+        <p>First you need to create the file /etc/default/virtualbox and add a
+        few variables.</p>
+        
+        <pre><code>
+        VBOXAUTOSTART_DB=/etc/vbox
+        VBOXAUTOSTART_CONFIG=/etc/vbox/vbox.cfg
+        </code></pre>
+        
+        <p>Create the file /etc/vbox/vbox.cfg</p>
+        
+        <pre><code>
+        root# mkdir /etc/vbox
+        </code></pre>
+        
+        <p>With one line.</p>
+        
+        <pre><code>
+        default_policy = allow
+        </code></pre>
+        
+        <p>Set permissions on directory to the vboxuser group and make sure users
+        can write to the directory as well as sticky bit.</p>
+        
+        <pre><code>
+        root# chgrp vboxusers /etc/vbox
+        root# chmod 1775 /etc/vbox
+        </code></pre>
+        
+        <p>Add administrator to the vboxusers group.</p>
+        
+        <pre><code>
+        root# groups administrator
+        administrator : administrator sudo
+        
+        root# usermod -a -G vboxusers administrator
+        
+        root# groups administrator
+        administrator : administrator sudo vboxusers
+        </code></pre>
+        
+        <p>Every user who wants to enable autostart for individual machines has to
+        set the path to the autostart database directory with</p>
+        
+        <pre><code>
+        administrator$ VBoxManage setproperty autostartdbpath /etc/vbox
+        </code></pre>
+        
+        <p>List the vms</p>
+        
+        <pre><code>
+        administrator$ VBoxManage list vms
+        "craigdeb" {0e7bca8b-b552-4ebb-9e39-bb1f6fb19d5c}
+        </code></pre>
+        
+        <pre><code>
+        administrator$ VBoxManage modifyvm craigdeb --autostart-enabled on
+        </code></pre>
+        
+        <pre><code>
+        root# update-rc.d virtualbox defaults
+        </code></pre>
+        
+        <h2 id="after-log-place-holder">After log place holder</h2>
+        
+        <p><img src="/assets/images/rhombic_diagram_with_angle.png" /></p>
+        
+        <pre><code>
+        code
+        </code></pre>
+      </article>
+    </div>
   </div>
   <div id='sidebar'>
     <ul>

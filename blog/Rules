@@ -56,7 +56,7 @@ end
 
 compile '/posts/*' do
   filter :kramdown
-  layout 'default'
+  layout 'post'
 end
 
 compile '*' do

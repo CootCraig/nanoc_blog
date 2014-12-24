@@ -11,270 +11,281 @@
     Cootcraig Public Blog
   </div>
   <div id='main'>
-    
-    <p>Now looking at Modeino instead of JeeNodes</p>
-    
-    <ul>
-      <li><a href="http://learn.adafruit.com/rgb-led-strips/usage">Tutorial on MosFET PWM LED dimming</a></li>
-      <li><a href="http://joost.damad.be/2012/09/dimming-12v-led-strip-with-mosfet-and.html">joost - Dimming 12v LED dimming with MosFET</a></li>
-      <li><a href="http://www.instructables.com/id/Semi-Conducting-A-Guide/step14/Totem-Poles/">instructables - Semiconductor totem-pole</a></li>
-      <li><a href="http://www.adafruit.com/products/355">Adafruit - N-channel power MOSFET - 30V / 60A</a></li>
-      <li><a href="http://jeelabs.org/">JeeNodes got me looking at arduino with radio</a></li>
-      <li><a href="http://jeelabs.net/projects/cafe/wiki/Dive_Into_JeeNodes">JeeLabs - Dive into JeeNodes</a></li>
-      <li><a href="http://moderndevice.com/product/jeenode-v6-kit/">Modern Device is US seller of JeeLabs</a></li>
-    </ul>
-    
-    <p>Radios are available in 433 MHz &amp; 915 MHz in the US, all unlicensed ISM
-    (Industrial, Scientific, Medical) bands.</p>
-    
-    <p>The JeeNode Kit contains all the parts needed to build a JeeNode v6
-    – including an ATmega328p processor and an RFM12B radio module. The
-    processor chip is pre-flashed with the Arduino boot loader and the
-    RF12demo sketch, so it works to talk to another JeeNode right out of
-    the box.</p>
-    
-    <ul>
-      <li><a href="http://moderndevice.com/product/jee-proto-boards/">Modern Device - Jee Proto Board $4.75</a></li>
-      <li><a href="http://moderndevice.com/product/jeelabs-lux-plug/">Modern Device - JeeLabs Lux Plug</a></li>
-      <li><a href="http://jeelabs.net/projects/hardware/wiki/Lux_Plug">JeeLabs - Light detector</a></li>
-      <li><a href="http://moderndevice.com/product/relay-plug/">Modern Device - JeeLabs Relay Plug $14.00</a></li>
-      <li><a href="http://jeelabs.org/2010/08/18/meet-the-relay-plug/">Meet the Relay Plug</a></li>
-      <li><a href="http://moderndevice.com/product/jeelabs-mosfet-plug-kit/">Modern Device - JeeLabs MOSFET Plug Kit $14.00</a></li>
-      <li><a href="http://moderndevice.com/product/jeelabs-dimmer-plug/">Modern Device - JeeLabs Dimmer Plug $12.50</a></li>
-      <li><a href="http://jeelabs.org/2012/12/14/meet-the-led-node-v2/">JeeLabs - Meet the LED Node</a></li>
-      <li><a href="http://moderndevice.com/product/jeelabs-led-node-v2-kit/">Modern Device - JeeLabs LED Node v2 Kit $28.00</a></li>
-      <li><a href="http://moderndevice.com/product/jeelabs-aa-power-board/">Modern Device - Jee Labs battery power board</a></li>
-      <li><a href="http://www.adafruit.com/blog/2009/10/20/example-code-for-multi-button-checker-with-debouncing/">Adafruit - 6 push buttons example</a></li>
-      <li><a href="http://moderndevice.com/product/jeelabs-memory-plug/">Modern Device - Jeelabs memory plug</a></li>
-      <li><a href="http://www.adafruit.com/products/1141">Adafruit Assembled Data Logging shield for Arduino - ID: 1141</a></li>
-    </ul>
-    
-    <h3 id="hardware-newbie-project---wireless-exterior-led-strip-control">Hardware newbie project - Wireless exterior LED strip control.</h3>
-    
-    <p>Here is an introduction of my first attempt at an Arduino project.</p>
-    
-    <p>I have installed </p>
-    
-    <p>260 inches of this 
-    <a href="http://www.ledwholesalers.com/store/index.php?act=viewProd&amp;productId=887">12v LED strip</a>
-    into my front steps.</p>
-    
-    <p>My estimate of maximum power consumed is 32W as shown here.
-    Their rating is 24W for a 16.4 foot reel. So my power estimate is</p>
-    
-    <p>260 in. X (24w / 197in) ~= 32W.</p>
-    
-    <p>The strip is too bright by itself so I use a PWM dimmer from
-    LEDWholesalers set about as low as it will go.</p>
-    
-    <p>What I would like to do is use a JeeNode and LEDnode pair to
-    make a remote controller for the lights.</p>
-    
-    <ul>
-      <li>Main control: On / Off / Sunset timer</li>
-      <li>Select sunset timer duration: 2 / 4 / 6 hours</li>
-      <li>Restart timer momentary switch if in Sunset timer mode.</li>
-      <li>Brightness control rotary dial</li>
-    </ul>
-    
-    <p>I’m hoping to get some help and encouragement here and to end up
-    with a sweet controller for our LED step lighting.</p>
-    
-    <h3 id="tinker-kit-mosfethttpwwwtinkerkitcommosfet"><a href="http://www.tinkerkit.com/mosfet/">Tinker Kit MosFET</a></h3>
-    
-    <p>This module switches a high current load using a high power
-    transistor. Unlike a mechanical relay, this is capable of high speed
-    switching for use with PWM.</p>
-    
-    <p>Output: This module lets you control devices operating at a maximun of
-    24VDC with an Arduino pin. To wire the module, connect the power supply
-    for your device (max 24 V) to the V+ and GND terminals. Connect the
-    device to M+ and M-. Be aware of your circuit’s polarity, you could
-    damage your components if it is not wired correctly.</p>
-    
-    <p>Module Description: This module features an IRF520 power MOSFET
-    transistor, a kick-back diode, a standard TinkerKit 3pin connector,a
-    signal amplifier, a green LED that signals that the module is correctly
-    powered and one yellow LED whose brightness depends on the input signal
-    received by the module.</p>
-    
-    <h3 id="sparkfun-rotary-encoder-com-09117httpswwwsparkfuncomproducts9117"><a href="https://www.sparkfun.com/products/9117">SparkFun Rotary Encoder COM-09117</a></h3>
-    
-    <p>Description: This is a 12-step rotary encoder with a nice ‘clicking’
-    feel. It’s breadboard friendly, and has a pretty handy select switch (by
-    pushing in on the knob). The encoder is different from a potentiometer in
-    that an encoder has full rotation without limits. The unit outputs gray
-    code so that you can tell how much and in which direction the encoder
-    has been turned.</p>
-    
-    <h3 id="jeelabs---16-channel-input-multiplexerhttpmoderndevicecomproductjeelabs-input-plug"><a href="http://moderndevice.com/product/jeelabs-input-plug/">JeeLabs - 16-channel input multiplexer</a></h3>
-    
-    <p>The Input Plug is a small board containing a CD4067 16-channel analog
-    multiplexer plus a dedicated ATtiny microcontroller to take care of
-    channel selection. It allows you to connect up to 16 analog inputs to a
-    single AIO pin on any port. There is an “InputPlug” class in the Ports
-    library to interface with this board and perform the channel selection.</p>
-    
-    <p>This board can also be used as 16-channel digital input multiplexer,
-    and even for digital outputs or PWM – with the restriction than a
-    channel goes into high-impedance mode when not selected (there is no
-    latching or buffering).</p>
-    
-    <h3 id="sparkfun---momentary-push-button-switch---12mm-squarehttpswwwsparkfuncomproducts9190"><a href="https://www.sparkfun.com/products/9190">Sparkfun - Momentary Push Button Switch - 12mm Square</a></h3>
-    
-    <p>Description: This is a standard 12mm square momentary button. What we
-    really like is the large button head and good tactile feel (it ‘clicks’
-    really well). This button is great for user input on a PCB or a good,
-    big reset button on a breadboard. Breadboard friendly!</p>
-    
-    <h3 id="sparkfun---tsl2561-luminosity-sensor-breakouthttpswwwsparkfuncomproducts12055"><a href="https://www.sparkfun.com/products/12055">Sparkfun - TSL2561 Luminosity Sensor Breakout</a></h3>
-    
-    <p>The TSL2561 Luminosity Sensor Breakout is a sophisticated light sensor
-    which has a flat response across most of the visible spectrum. Unlike
-    simpler sensors, the TSL2561 measures both infrared and visible light
-    to better approximate the response of the human eye. And because the
-    TSL2561 is an integrating sensor (it soaks up light for a predetermined
-    amount of time), it is capable of measuring both small and large amounts
-    of light by changing the integration time.</p>
-    
-    <p>The TSL2561 is capable of direct I2C communication and is able to conduct
-    specific light ranges from 0.1 - 40k+ Lux easily. Additionally, the
-    TSL12561 contains two integrating analog-to-digital converters (ADC) that
-    integrate currents from two photodiodes, simultaneously. Each breakout
-    requires a supply voltage of 3V and a low supply current max of 0.6mA.</p>
-    
-    <p><a href="https://learn.sparkfun.com/tutorials/tsl2561-luminosity-sensor-hookup-guide">TSL2561 Luminosity Sensor Hookup Guide</a></p>
-    
-    <p><img src="/assets/images/spark_fun_luminosity_breakout.jpg" /></p>
-    
-    <table>
-      <tbody>
-        <tr>
-          <th>TSL2561 label</th>
-          <th>Pin function</th>
-          <th>Arduino connection</th>
-        </tr>
-        <tr>
-          <td>SDA</td>
-          <td>I2C data</td>
-          <td>pin labeled A4/SDA</td>
-        </tr>
-        <tr>
-          <td>SCL</td>
-          <td>I2C clock</td>
-          <td>pin labeled A5/SCL</td>
-        </tr>
-        <tr>
-          <td>GND</td>
-          <td>Ground</td>
-          <td>GND</td>
-        </tr>
-        <tr>
-          <td>3V3</td>
-          <td>3.3V power supply</td>
-          <td>3.3V (NOT 5V)</td>
-        </tr>
-        <tr>
-          <td>INT</td>
-          <td>Interrupt</td>
-          <td>Optional, leave disconnected unless you're using interrupts.</td>
-        </tr>
-      </tbody>
-    </table>
-    
-    <p><a href="http://learn.adafruit.com/tsl2561/wiring">Adafruit tsl2561 Breakout - wiring Tsl2561 and RTC</a></p>
-    
-    <p>Notes on using the Tsl2561 and the RTC both on I2c.</p>
-    
-    <p>You may be wondering, how is it OK to connect a 3.3V chip like the TSL2561
-    to 5.0V data pins like the Arduino? Isn’t that bad? Well, in this specific
-    case its OK. I2c uses pullup lines to the 3.3V power pin, so the data
-    is actually being sent at 3.3V. As long as all the sensors/device on
-    the i2c bus are running on 3.3V power, we’re fine. However, don’t use a
-    5.0v powered i2c device (like the DS1307) with pullups at the same time
-    as a 3.3V device like the TSL2561! If you want to use this sensor with a
-    datalogger that uses the DS1307, remove any/all of the pullup resistors
-    from the DS1307 SDA/SCL pins. The pullups built into the TSL2561 will
-    then be active and keep the voltage at 3.3V which is safe for both the
-    RTC and the sensor.</p>
-    
-    <p>You don’t need to connect the ADDR (i2c address change) or INT (interrupt
-    output) pins.</p>
-    
-    <p>The ADDR pin can be used if you have an i2c address conflict, to change
-    the address. Connect it to ground to set the address to 0x29, connect
-    it to 3.3V (vcc) to set the address to 0x49 or leave it floating
-    (unconnected) to use address 0x39.</p>
-    
-    <p>The INT pin is an ouput from the sensor used when you have the sensor
-    configured to signal when the light level has changed. We don’t have
-    that code written in this tutorial so you don’t have to use it. If you
-    do end up using it, use a 10K-100K pullup from INT to 3.3V (vcc)</p>
-    
-    <h4 id="changing-the-i2c-address-addr---default-0x29">Changing the I2C address (ADDR) - default 0x29</h4>
-    
-    <p>Every component attached to an I2C bus has a fixed address from 0 to
-    127. You can theoretically have a maximum of 128 devices on a single bus,
-    but in practice you are limited to the options available for each part.</p>
-    
-    <p>The TSL2561 supports three possible addresses: 0x29, 0x39, or
-    0x49. Practically speaking, this means you can have up to three TSL2561s
-    attached to a single I2C bus.</p>
-    
-    <p>Which address the part uses is controlled by the solder jumper labeled
-    “ADDR”. When there is no solder on this jumper, the TSL2561 will
-    used the default address of 0x39.</p>
-    
-    <p>To use one of the other addresses, add solder to bridge the center pad
-    to ONE of the two side pads. If you bridge to the “0” side, the
-    address will be 0x29. If you bridge to the “1” side, the address
-    will be 0x49. Don’t bridge both sides.</p>
-    
-    <h3 id="adafruit-ds1307-rtc-breakouthttplearnadafruitcomds1307-real-time-clock-breakout-board-kitoverview"><a href="http://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/overview">Adafruit DS1307 RTC breakout</a></h3>
-    
-    <p><img src="/assets/images/adafruit_ds1307rtc_LRG.jpg" /></p>
-    
-    <p><a href="https://github.com/adafruit/RTClib/blob/master/RTClib.cpp">RTC breakout i2c address</a></p>
-    
-    <pre><code>
-     #define DS1307_ADDRESS 0x68
-    </code></pre>
-    
-    <p>## </p>
-    
-    <h3 id="using-solderable-breadboards---off-board-connections">Using Solderable breadboards - Off-board Connections</h3>
-    
-    <p><a href="http://www.busboard.us/pdfs/BPS-AN0002-Solderable_PC_BreadBoard.pdf">BPS AN0002 Introducing Solderable PC BreadBoard</a></p>
-    
-    <p>Here are some suggestions for connecting power and other off-board signal connections to a solderable PC
-    breadboard:</p>
-    
-    <ol>
-      <li>Use stranded 22 AWG wire for wire connections running off-board to other boards or devices. Solid 22 AWG wire will crack and break after being flexed many times. Stranded wire can be flexed more times.</li>
-      <li>Use a strain relief to keep the wire from flexing at the point where it is soldered. Solder will wick up stranded wire when it is soldered, and make it stiff and susceptible to cracking. Using a strain relief causes the wire to flex away from the solder joint, where it is more flexible.</li>
-      <li>Use headers or other connectors with removable plugs for off-board</li>
-    </ol>
-    
-    <h2 id="to-5v-regulations">9/12 to 5v Regulations</h2>
-    
-    <p><a href="http://jumptuck.com/2011/11/15/voltage-regulation-friend-7805/">Jumptuck - Voltage regulation with our friend the 7805</a></p>
-    
-    <p><img src="/assets/images/lm7805_application.png" /></p>
-    
-    <p>Electrolytic smoothing caps</p>
-    
-    <ul>
-      <li>input - 0.33uF</li>
-      <li>
-        <p>output - 0.1uF</p>
-      </li>
-      <li>Digikey - 0.1uF.  Nichicon UVR1H0R1MDD CAP ALUM 0.1UF 50V 20% RADIAL</li>
-      <li>Digikey - 0.33uf.  Nichicon UVR1HR33MDD CAP ALUM 0.33UF 50V 20% RADIA</li>
-    </ul>
-    
-    <h2 id="jst-ph-connectors">JST PH connectors</h2>
-    
-    <p>Digikey - JST Sales America Inc B2B-PH-K-S(LF)(SN) CONN HEADER PH TOP 2POS 2MM</p>
+    <div class='post'>
+      <h1>Step Light Control</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/arduino">arduino</a></span>
+        |
+      </div>
+      <article>
+        
+        <p>Now looking at Modeino instead of JeeNodes</p>
+        
+        <ul>
+          <li><a href="http://learn.adafruit.com/rgb-led-strips/usage">Tutorial on MosFET PWM LED dimming</a></li>
+          <li><a href="http://joost.damad.be/2012/09/dimming-12v-led-strip-with-mosfet-and.html">joost - Dimming 12v LED dimming with MosFET</a></li>
+          <li><a href="http://www.instructables.com/id/Semi-Conducting-A-Guide/step14/Totem-Poles/">instructables - Semiconductor totem-pole</a></li>
+          <li><a href="http://www.adafruit.com/products/355">Adafruit - N-channel power MOSFET - 30V / 60A</a></li>
+          <li><a href="http://jeelabs.org/">JeeNodes got me looking at arduino with radio</a></li>
+          <li><a href="http://jeelabs.net/projects/cafe/wiki/Dive_Into_JeeNodes">JeeLabs - Dive into JeeNodes</a></li>
+          <li><a href="http://moderndevice.com/product/jeenode-v6-kit/">Modern Device is US seller of JeeLabs</a></li>
+        </ul>
+        
+        <p>Radios are available in 433 MHz &amp; 915 MHz in the US, all unlicensed ISM
+        (Industrial, Scientific, Medical) bands.</p>
+        
+        <p>The JeeNode Kit contains all the parts needed to build a JeeNode v6
+        – including an ATmega328p processor and an RFM12B radio module. The
+        processor chip is pre-flashed with the Arduino boot loader and the
+        RF12demo sketch, so it works to talk to another JeeNode right out of
+        the box.</p>
+        
+        <ul>
+          <li><a href="http://moderndevice.com/product/jee-proto-boards/">Modern Device - Jee Proto Board $4.75</a></li>
+          <li><a href="http://moderndevice.com/product/jeelabs-lux-plug/">Modern Device - JeeLabs Lux Plug</a></li>
+          <li><a href="http://jeelabs.net/projects/hardware/wiki/Lux_Plug">JeeLabs - Light detector</a></li>
+          <li><a href="http://moderndevice.com/product/relay-plug/">Modern Device - JeeLabs Relay Plug $14.00</a></li>
+          <li><a href="http://jeelabs.org/2010/08/18/meet-the-relay-plug/">Meet the Relay Plug</a></li>
+          <li><a href="http://moderndevice.com/product/jeelabs-mosfet-plug-kit/">Modern Device - JeeLabs MOSFET Plug Kit $14.00</a></li>
+          <li><a href="http://moderndevice.com/product/jeelabs-dimmer-plug/">Modern Device - JeeLabs Dimmer Plug $12.50</a></li>
+          <li><a href="http://jeelabs.org/2012/12/14/meet-the-led-node-v2/">JeeLabs - Meet the LED Node</a></li>
+          <li><a href="http://moderndevice.com/product/jeelabs-led-node-v2-kit/">Modern Device - JeeLabs LED Node v2 Kit $28.00</a></li>
+          <li><a href="http://moderndevice.com/product/jeelabs-aa-power-board/">Modern Device - Jee Labs battery power board</a></li>
+          <li><a href="http://www.adafruit.com/blog/2009/10/20/example-code-for-multi-button-checker-with-debouncing/">Adafruit - 6 push buttons example</a></li>
+          <li><a href="http://moderndevice.com/product/jeelabs-memory-plug/">Modern Device - Jeelabs memory plug</a></li>
+          <li><a href="http://www.adafruit.com/products/1141">Adafruit Assembled Data Logging shield for Arduino - ID: 1141</a></li>
+        </ul>
+        
+        <h3 id="hardware-newbie-project---wireless-exterior-led-strip-control">Hardware newbie project - Wireless exterior LED strip control.</h3>
+        
+        <p>Here is an introduction of my first attempt at an Arduino project.</p>
+        
+        <p>I have installed </p>
+        
+        <p>260 inches of this 
+        <a href="http://www.ledwholesalers.com/store/index.php?act=viewProd&amp;productId=887">12v LED strip</a>
+        into my front steps.</p>
+        
+        <p>My estimate of maximum power consumed is 32W as shown here.
+        Their rating is 24W for a 16.4 foot reel. So my power estimate is</p>
+        
+        <p>260 in. X (24w / 197in) ~= 32W.</p>
+        
+        <p>The strip is too bright by itself so I use a PWM dimmer from
+        LEDWholesalers set about as low as it will go.</p>
+        
+        <p>What I would like to do is use a JeeNode and LEDnode pair to
+        make a remote controller for the lights.</p>
+        
+        <ul>
+          <li>Main control: On / Off / Sunset timer</li>
+          <li>Select sunset timer duration: 2 / 4 / 6 hours</li>
+          <li>Restart timer momentary switch if in Sunset timer mode.</li>
+          <li>Brightness control rotary dial</li>
+        </ul>
+        
+        <p>I’m hoping to get some help and encouragement here and to end up
+        with a sweet controller for our LED step lighting.</p>
+        
+        <h3 id="tinker-kit-mosfethttpwwwtinkerkitcommosfet"><a href="http://www.tinkerkit.com/mosfet/">Tinker Kit MosFET</a></h3>
+        
+        <p>This module switches a high current load using a high power
+        transistor. Unlike a mechanical relay, this is capable of high speed
+        switching for use with PWM.</p>
+        
+        <p>Output: This module lets you control devices operating at a maximun of
+        24VDC with an Arduino pin. To wire the module, connect the power supply
+        for your device (max 24 V) to the V+ and GND terminals. Connect the
+        device to M+ and M-. Be aware of your circuit’s polarity, you could
+        damage your components if it is not wired correctly.</p>
+        
+        <p>Module Description: This module features an IRF520 power MOSFET
+        transistor, a kick-back diode, a standard TinkerKit 3pin connector,a
+        signal amplifier, a green LED that signals that the module is correctly
+        powered and one yellow LED whose brightness depends on the input signal
+        received by the module.</p>
+        
+        <h3 id="sparkfun-rotary-encoder-com-09117httpswwwsparkfuncomproducts9117"><a href="https://www.sparkfun.com/products/9117">SparkFun Rotary Encoder COM-09117</a></h3>
+        
+        <p>Description: This is a 12-step rotary encoder with a nice ‘clicking’
+        feel. It’s breadboard friendly, and has a pretty handy select switch (by
+        pushing in on the knob). The encoder is different from a potentiometer in
+        that an encoder has full rotation without limits. The unit outputs gray
+        code so that you can tell how much and in which direction the encoder
+        has been turned.</p>
+        
+        <h3 id="jeelabs---16-channel-input-multiplexerhttpmoderndevicecomproductjeelabs-input-plug"><a href="http://moderndevice.com/product/jeelabs-input-plug/">JeeLabs - 16-channel input multiplexer</a></h3>
+        
+        <p>The Input Plug is a small board containing a CD4067 16-channel analog
+        multiplexer plus a dedicated ATtiny microcontroller to take care of
+        channel selection. It allows you to connect up to 16 analog inputs to a
+        single AIO pin on any port. There is an “InputPlug” class in the Ports
+        library to interface with this board and perform the channel selection.</p>
+        
+        <p>This board can also be used as 16-channel digital input multiplexer,
+        and even for digital outputs or PWM – with the restriction than a
+        channel goes into high-impedance mode when not selected (there is no
+        latching or buffering).</p>
+        
+        <h3 id="sparkfun---momentary-push-button-switch---12mm-squarehttpswwwsparkfuncomproducts9190"><a href="https://www.sparkfun.com/products/9190">Sparkfun - Momentary Push Button Switch - 12mm Square</a></h3>
+        
+        <p>Description: This is a standard 12mm square momentary button. What we
+        really like is the large button head and good tactile feel (it ‘clicks’
+        really well). This button is great for user input on a PCB or a good,
+        big reset button on a breadboard. Breadboard friendly!</p>
+        
+        <h3 id="sparkfun---tsl2561-luminosity-sensor-breakouthttpswwwsparkfuncomproducts12055"><a href="https://www.sparkfun.com/products/12055">Sparkfun - TSL2561 Luminosity Sensor Breakout</a></h3>
+        
+        <p>The TSL2561 Luminosity Sensor Breakout is a sophisticated light sensor
+        which has a flat response across most of the visible spectrum. Unlike
+        simpler sensors, the TSL2561 measures both infrared and visible light
+        to better approximate the response of the human eye. And because the
+        TSL2561 is an integrating sensor (it soaks up light for a predetermined
+        amount of time), it is capable of measuring both small and large amounts
+        of light by changing the integration time.</p>
+        
+        <p>The TSL2561 is capable of direct I2C communication and is able to conduct
+        specific light ranges from 0.1 - 40k+ Lux easily. Additionally, the
+        TSL12561 contains two integrating analog-to-digital converters (ADC) that
+        integrate currents from two photodiodes, simultaneously. Each breakout
+        requires a supply voltage of 3V and a low supply current max of 0.6mA.</p>
+        
+        <p><a href="https://learn.sparkfun.com/tutorials/tsl2561-luminosity-sensor-hookup-guide">TSL2561 Luminosity Sensor Hookup Guide</a></p>
+        
+        <p><img src="/assets/images/spark_fun_luminosity_breakout.jpg" /></p>
+        
+        <table>
+          <tbody>
+            <tr>
+              <th>TSL2561 label</th>
+              <th>Pin function</th>
+              <th>Arduino connection</th>
+            </tr>
+            <tr>
+              <td>SDA</td>
+              <td>I2C data</td>
+              <td>pin labeled A4/SDA</td>
+            </tr>
+            <tr>
+              <td>SCL</td>
+              <td>I2C clock</td>
+              <td>pin labeled A5/SCL</td>
+            </tr>
+            <tr>
+              <td>GND</td>
+              <td>Ground</td>
+              <td>GND</td>
+            </tr>
+            <tr>
+              <td>3V3</td>
+              <td>3.3V power supply</td>
+              <td>3.3V (NOT 5V)</td>
+            </tr>
+            <tr>
+              <td>INT</td>
+              <td>Interrupt</td>
+              <td>Optional, leave disconnected unless you're using interrupts.</td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <p><a href="http://learn.adafruit.com/tsl2561/wiring">Adafruit tsl2561 Breakout - wiring Tsl2561 and RTC</a></p>
+        
+        <p>Notes on using the Tsl2561 and the RTC both on I2c.</p>
+        
+        <p>You may be wondering, how is it OK to connect a 3.3V chip like the TSL2561
+        to 5.0V data pins like the Arduino? Isn’t that bad? Well, in this specific
+        case its OK. I2c uses pullup lines to the 3.3V power pin, so the data
+        is actually being sent at 3.3V. As long as all the sensors/device on
+        the i2c bus are running on 3.3V power, we’re fine. However, don’t use a
+        5.0v powered i2c device (like the DS1307) with pullups at the same time
+        as a 3.3V device like the TSL2561! If you want to use this sensor with a
+        datalogger that uses the DS1307, remove any/all of the pullup resistors
+        from the DS1307 SDA/SCL pins. The pullups built into the TSL2561 will
+        then be active and keep the voltage at 3.3V which is safe for both the
+        RTC and the sensor.</p>
+        
+        <p>You don’t need to connect the ADDR (i2c address change) or INT (interrupt
+        output) pins.</p>
+        
+        <p>The ADDR pin can be used if you have an i2c address conflict, to change
+        the address. Connect it to ground to set the address to 0x29, connect
+        it to 3.3V (vcc) to set the address to 0x49 or leave it floating
+        (unconnected) to use address 0x39.</p>
+        
+        <p>The INT pin is an ouput from the sensor used when you have the sensor
+        configured to signal when the light level has changed. We don’t have
+        that code written in this tutorial so you don’t have to use it. If you
+        do end up using it, use a 10K-100K pullup from INT to 3.3V (vcc)</p>
+        
+        <h4 id="changing-the-i2c-address-addr---default-0x29">Changing the I2C address (ADDR) - default 0x29</h4>
+        
+        <p>Every component attached to an I2C bus has a fixed address from 0 to
+        127. You can theoretically have a maximum of 128 devices on a single bus,
+        but in practice you are limited to the options available for each part.</p>
+        
+        <p>The TSL2561 supports three possible addresses: 0x29, 0x39, or
+        0x49. Practically speaking, this means you can have up to three TSL2561s
+        attached to a single I2C bus.</p>
+        
+        <p>Which address the part uses is controlled by the solder jumper labeled
+        “ADDR”. When there is no solder on this jumper, the TSL2561 will
+        used the default address of 0x39.</p>
+        
+        <p>To use one of the other addresses, add solder to bridge the center pad
+        to ONE of the two side pads. If you bridge to the “0” side, the
+        address will be 0x29. If you bridge to the “1” side, the address
+        will be 0x49. Don’t bridge both sides.</p>
+        
+        <h3 id="adafruit-ds1307-rtc-breakouthttplearnadafruitcomds1307-real-time-clock-breakout-board-kitoverview"><a href="http://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/overview">Adafruit DS1307 RTC breakout</a></h3>
+        
+        <p><img src="/assets/images/adafruit_ds1307rtc_LRG.jpg" /></p>
+        
+        <p><a href="https://github.com/adafruit/RTClib/blob/master/RTClib.cpp">RTC breakout i2c address</a></p>
+        
+        <pre><code>
+         #define DS1307_ADDRESS 0x68
+        </code></pre>
+        
+        <p>## </p>
+        
+        <h3 id="using-solderable-breadboards---off-board-connections">Using Solderable breadboards - Off-board Connections</h3>
+        
+        <p><a href="http://www.busboard.us/pdfs/BPS-AN0002-Solderable_PC_BreadBoard.pdf">BPS AN0002 Introducing Solderable PC BreadBoard</a></p>
+        
+        <p>Here are some suggestions for connecting power and other off-board signal connections to a solderable PC
+        breadboard:</p>
+        
+        <ol>
+          <li>Use stranded 22 AWG wire for wire connections running off-board to other boards or devices. Solid 22 AWG wire will crack and break after being flexed many times. Stranded wire can be flexed more times.</li>
+          <li>Use a strain relief to keep the wire from flexing at the point where it is soldered. Solder will wick up stranded wire when it is soldered, and make it stiff and susceptible to cracking. Using a strain relief causes the wire to flex away from the solder joint, where it is more flexible.</li>
+          <li>Use headers or other connectors with removable plugs for off-board</li>
+        </ol>
+        
+        <h2 id="to-5v-regulations">9/12 to 5v Regulations</h2>
+        
+        <p><a href="http://jumptuck.com/2011/11/15/voltage-regulation-friend-7805/">Jumptuck - Voltage regulation with our friend the 7805</a></p>
+        
+        <p><img src="/assets/images/lm7805_application.png" /></p>
+        
+        <p>Electrolytic smoothing caps</p>
+        
+        <ul>
+          <li>input - 0.33uF</li>
+          <li>
+            <p>output - 0.1uF</p>
+          </li>
+          <li>Digikey - 0.1uF.  Nichicon UVR1H0R1MDD CAP ALUM 0.1UF 50V 20% RADIAL</li>
+          <li>Digikey - 0.33uf.  Nichicon UVR1HR33MDD CAP ALUM 0.33UF 50V 20% RADIA</li>
+        </ul>
+        
+        <h2 id="jst-ph-connectors">JST PH connectors</h2>
+        
+        <p>Digikey - JST Sales America Inc B2B-PH-K-S(LF)(SN) CONN HEADER PH TOP 2POS 2MM</p>
+      </article>
+    </div>
   </div>
   <div id='sidebar'>
     <ul>
