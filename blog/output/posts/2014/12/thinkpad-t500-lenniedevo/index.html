@@ -88,54 +88,6 @@
         adduser yourusername netdev
         </code></pre>
         
-        <h2 id="summary-of-previous-install">Summary of previous Install</h2>
-        
-        <p>Used Debian Jessie netinst CD</p>
-        
-        <p>Use wired ethernet.
-        Wireless driver will be installed later.</p>
-        
-        <pre><code>lspci # shows
-        Network contoller: Intel Corporation PRO/Wireless 5100 AGN [Shilo] Network Connection
-        </code></pre>
-        
-        <p>At install menu</p>
-        
-        <ul>
-          <li>select advanced</li>
-          <li>xfce desktop</li>
-          <li>laptop</li>
-          <li>print server</li>
-          <li>ssh server</li>
-        </ul>
-        
-        <p>hostname: lenniedevo</p>
-        
-        <pre><code>Add contrib,non-free to /etc/apt/sources.list
-        apt-get install firmware-iwlwifi
-        </code></pre>
-        
-        <p>reboot</p>
-        
-        <pre><code>Switch from network-manager to wicd
-        apt-get remove network-manager network-manager-gnome
-        apt-get install wicd wicd-curses wicd-gtk
-        adduser yourusername netdev
-        </code></pre>
-        
-        <p>reboot</p>
-        
-        <p>Unplug wired ethernet.</p>
-        
-        <p>Use Fn+F5 to get wireless icon to light up.</p>
-        
-        <pre><code>run
-        wicd-gtk # configure the wireless network
-        </code></pre>
-        
-        <pre><code>apt-get install i3
-        </code></pre>
-        
         <h2 id="research">Research</h2>
         
         <h3 id="wireless">Wireless</h3>

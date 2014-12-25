@@ -1,9 +1,10 @@
 ---
-title: "Epson PrecisionCore Printer"
+title: "Home Office Printer"
 created_at: Wed Dec 24 13:29:55 MST 2014
 kind: article
 tags:
   - printer
+  - home_printer
   - epson_precisioncore_printer
 ---
 
