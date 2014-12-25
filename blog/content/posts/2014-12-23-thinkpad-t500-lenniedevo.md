@@ -9,7 +9,70 @@ tags:
   - laptop
 ---
 
-## Summary of Install
+## Common commands
+
+alsamixergui
+gvim
+iceweasel
+mocp
+thunar
+weechat
+wicd-gtk
+
+## Second Install on SSD
+
+Used Debian Jessie netinst CD
+
+Use wired ethernet.
+Wireless firmware will be installed later.
+
+At install menu
+
+* print server
+* ssh server
+
+hostname: lenniedevo
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Add contrib,non-free to /etc/apt/sources.list
+apt-get update
+apt-get dist-upgrade
+
+reboot
+
+apt-get autoclean
+apt-get autoremove
+apt-get install firmware-linux-nonfree
+
+reboot
+~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~
+apt-get install firmware-iwlwifi
+reboot
+~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~
+install sudo and friends
+apt-get install vim tmux git sudo
+adduser craig sudo
+~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~
+apt-git install lightdm
+apt-get install i3 
+apt-get install weechat moc
+apt-get install alsamixergui
+apt-get install vim-gtk
+apt-get install thunar iceweasel icedove gedit
+apt-get install alsa-utils
+apt-get install rxvt-unicode-256color terminator
+apt-get install gparted gnome-disk-utility
+apt-get install wicd wicd-curses wicd-gtk
+adduser yourusername netdev
+~~~~~~~~~~~~~~~~~~~~~~~
+
+## Summary of previous Install
 
 Used Debian Jessie netinst CD
 

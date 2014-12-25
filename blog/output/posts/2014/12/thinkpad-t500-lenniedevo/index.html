@@ -27,7 +27,68 @@
       </div>
       <article>
         
-        <h2 id="summary-of-install">Summary of Install</h2>
+        <h2 id="common-commands">Common commands</h2>
+        
+        <p>alsamixergui
+        gvim
+        iceweasel
+        mocp
+        thunar
+        weechat
+        wicd-gtk</p>
+        
+        <h2 id="second-install-on-ssd">Second Install on SSD</h2>
+        
+        <p>Used Debian Jessie netinst CD</p>
+        
+        <p>Use wired ethernet.
+        Wireless firmware will be installed later.</p>
+        
+        <p>At install menu</p>
+        
+        <ul>
+          <li>print server</li>
+          <li>ssh server</li>
+        </ul>
+        
+        <p>hostname: lenniedevo</p>
+        
+        <pre><code>Add contrib,non-free to /etc/apt/sources.list
+        apt-get update
+        apt-get dist-upgrade
+        
+        reboot
+        
+        apt-get autoclean
+        apt-get autoremove
+        apt-get install firmware-linux-nonfree
+        
+        reboot
+        </code></pre>
+        
+        <pre><code>apt-get install firmware-iwlwifi
+        reboot
+        </code></pre>
+        
+        <pre><code>install sudo and friends
+        apt-get install vim tmux git sudo
+        adduser craig sudo
+        </code></pre>
+        
+        <pre><code>apt-git install lightdm
+        apt-get install i3 
+        apt-get install weechat moc
+        apt-get install alsamixergui
+        apt-get install vim-gtk
+        apt-get install thunar iceweasel icedove gedit
+        apt-get install alsa-utils
+        apt-get install rxvt-unicode-256color terminator
+        apt-get install gparted gnome-disk-utility
+        apt-get install wicd wicd-curses wicd-gtk
+        adduser yourusername netdev
+        </code></pre>
+        
+        <h2 id="summary-of-previous-install">Summary of previous Install</h2>
         
         <p>Used Debian Jessie netinst CD</p>
         
