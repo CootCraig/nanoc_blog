@@ -12,26 +12,33 @@
   </div>
   <div id='main'>
     <div class='post'>
-      <h1>supervisord</h1>
+      <h1>tmux</h1>
       <div>
         <span>Post tags:</span>
         |
-        <span><a href="/tags/supervisord">supervisord</a></span>
+        <span><a href="/tags/tmux">tmux</a></span>
         |
       </div>
       <article>
         
-        <h2 id="why">Why</h2>
+        <p>First use is to run weechat all the time.</p>
         
-        <ul>
-          <li>tmux weechat</li>
-        </ul>
+        <h2 id="what">What</h2>
+        
+        <pre><code>Start tmux named sessions
+        tmux new -s weechat weechat
+        tmux new -s mocp mocp
+        </code></pre>
+        
+        <pre><code>Attach to named sessions
+        tmux attach-s -t weechat
+        tmux attach-s -t mocp
+        </code></pre>
         
         <h2 id="research">Research</h2>
         
         <ul>
-          <li><a href="https://packages.debian.org/jessie/supervisor">Debian jessie Package: supervisor (3.0r1-1)</a></li>
-          <li><a href="http://supervisord.org/introduction.html">supervisord.org / introduction</a></li>
+          <li><a href="http://robots.thoughtbot.com/a-tmux-crash-course">Josh Clayton - A tmux Crash Course</a></li>
         </ul>
       </article>
     </div>

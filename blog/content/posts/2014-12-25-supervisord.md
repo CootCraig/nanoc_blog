@@ -12,3 +12,6 @@ tags:
 
 ## Research
 
+* [Debian jessie Package: supervisor (3.0r1-1)](https://packages.debian.org/jessie/supervisor)
+* [supervisord.org / introduction](http://supervisord.org/introduction.html)
+

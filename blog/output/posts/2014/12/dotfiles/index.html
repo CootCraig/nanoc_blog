@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>dotfiles</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/dotfiles">dotfiles</a></span>
+        |
+      </div>
+      <article>
+        <h2 id="essential-programs-and-dotfile-candidates">Essential programs and dotfile candidates</h2>
+        
+        <ul>
+          <li>build-essential checkinstall</li>
+          <li>git</li>
+          <li>gitlab - private gitlab servers</li>
+          <li>hosts - /etc/host for GCS windows host names</li>
+          <li>i3 - tiled window manager</li>
+          <li>java runtime</li>
+          <li>lightdm - x login manager and x.org seed package</li>
+          <li>music on console</li>
+          <li>remmina - rdp client</li>
+          <li>passworddragon</li>
+          <li>reptyr - A tool for “re-ptying” programs</li>
+          <li>st - suckless simple terminal</li>
+          <li>supervisord - programs for boot time: mocp,weecat</li>
+          <li>tmux</li>
+          <li>vim</li>
+          <li>weechat</li>
+          <li>zsh</li>
+        </ul>
+        
+        <h2 id="research">Research</h2>
+        
+        <h3 id="people--dotfiles-to-study">People / dotfiles to study</h3>
+        
+        <ul>
+          <li><a href="https://github.com/qbit/dotfiles">qbit</a></li>
+          <li><a href="http://dotfiles.github.io/">Your unofficial guide to dotfiles on GitHub.</a></li>
+          <li><a href="https://github.com/xero/dotfiles">xero/dotfiles</a></li>
+          <li><a href="http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/">Zach Holman - Dotfiles Are Meant to Be Forked</a></li>
+          <li><a href="https://github.com/holman/dotfiles">Zach Holman - holman does dotfiles</a></li>
+        </ul>
+        
+        <h4 id="zach-holman---dotfiles-are-meant-to-be-forkedhttpzachholmancom201008dotfiles-are-meant-to-be-forked"><a href="http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/">Zach Holman - Dotfiles Are Meant to Be Forked</a></h4>
+        
+        <p>So, organize it. Do what programmers have been doing for years: make a
+        smart system, follow it, and let others use it too.</p>
+        
+        <p>There’s a lot of great projects doing this:</p>
+        
+        <h5 id="ryan-bates-rbates">Ryan Bates (@rbates)</h5>
+        
+        <p>Ryan Bates (@rbates) fame has his own network of 175 forks. His project
+        centers around bash and zsh, TextMate, Vim, and Rails.</p>
+        
+        <ul>
+          <li><a href="https://github.com/ryanb/dotfiles">ryanb/dotfiles</a></li>
+        </ul>
+        
+        <h5 id="robby-russell-robbyrussell">Robby Russell (@robbyrussell)</h5>
+        
+        <p>Robby Russell (@robbyrussell) started up oh-my-zsh, a community of some
+        250 forks surrounding zsh.</p>
+        
+        <ul>
+          <li><a href="https://github.com/robbyrussell/oh-my-zsh">robbyrussell/oh-my-zsh</a></li>
+        </ul>
+        
+        <h5 id="ryan-tomayko-rtomayko">Ryan Tomayko (@rtomayko)</h5>
+        
+        <p>Ryan Tomayko (@rtomayko) open sourced his dotfiles with a great set of
+        documentation and some 150 developers watching the repository.</p>
+        
+        <ul>
+          <li><a href="https://github.com/rtomayko/dotfiles">rtomayko/dotfiles</a></li>
+        </ul>
+        
+        <h3 id="tools">tools</h3>
+        
+        <h4 id="gnu-stow">gnu stow</h4>
+        
+        <ul>
+          <li><a href="http://www.gnu.org/software/stow/">GNU Stow</a></li>
+        </ul>
+        
+        <p>GNU Stow is a symlink farm manager which takes distinct packages of
+        software and/or data located in separate directories on the filesystem,
+        and makes them appear to be installed in the same place. For
+        example, /usr/local/bin could contain symlinks to files within
+        /usr/local/stow/emacs/bin, /usr/local/stow/perl/bin etc., and likewise
+        recursively for any other subdirectories such as …/share, …/man,
+        and so on.</p>
+        
+        <p>This is particularly useful for keeping track of system-wide and per-user
+        installations of software built from source, but can also facilitate a
+        more controlled approach to management of configuration files in the
+        user’s home directory, especially when coupled with version control
+        systems.</p>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>
