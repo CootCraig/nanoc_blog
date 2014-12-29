@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Ansible for Configuration Management</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/ansible">ansible</a></span>
+        |
+      </div>
+      <article>
+        
+        <h2 id="research">research</h2>
+        
+        <ul>
+          <li><a href="http://en.wikipedia.org/wiki/Ansible_%28software%29">wikipedia - ansible</a></li>
+          <li><a href="https://github.com/ansible/ansible">ansible at github</a></li>
+          <li><a href="https://github.com/eggsby/ansible-supervise">ansible role to install a service with supervisord</a></li>
+          <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu">DigitalOcean - Create Ansible Playbooks for Ubuntu</a></li>
+          <li><a href="http://lowendbox.com/blog/getting-started-with-ansible/">lowendbox - Getting started with ansible</a></li>
+        </ul>
+        
+        <p>Ansible is an open-source software platform for configuring and managing
+        computers. It combines multi-node software deployment, ad hoc task
+        execution, and configuration management. It manages nodes over SSH
+        and requires Python (2.4 or later)  to be installed on them. Modules
+        work over JSON and standard output and can be written in any programming
+        language. The system uses YAML to express reusable descriptions of
+        systems.</p>
+        
+        <p>Playbooks express configurations, deployment, and orchestration in
+        Ansible. The Playbook format is YAML. Each Playbook maps a group of
+        hosts to a set of roles. Each role is represented by calls to Ansible
+        call tasks.</p>
+        
+        <p>Ansible is a radically simple IT automation platform that makes your
+        applications and systems easier to deploy. Avoid writing scripts or
+        custom code to deploy and update your applications— automate in a
+        language that approaches plain English, using SSH, with no agents to
+        install on remote systems.</p>
+        
+        <h3 id="ansible---what-version-to-pickhttpdocsansiblecomintroinstallationhtmlwhat-version-to-pick"><a href="http://docs.ansible.com/intro_installation.html#what-version-to-pick">Ansible - What Version To Pick?</a></h3>
+        
+        <p>If you are wishing to run the latest released version of Ansible and
+        you are running Red Hat Enterprise Linux (TM), CentOS, Fedora, Debian,
+        or Ubuntu, we recommend using the OS package manager.</p>
+        
+        <p>On the managed nodes, you only need Python 2.4 or later, but if you are
+        running less than Python 2.5 on the remotes, you will also need:</p>
+        
+        <ul>
+          <li>python-simplejson</li>
+        </ul>
+        
+        <h3 id="good-intro-at-digitalocean-on-using-ansible-to-configure-ubuntu">Good Intro at DigitalOcean on using Ansible to configure Ubuntu</h3>
+        
+        <ul>
+          <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu">DigitalOcean - Create Ansible Playbooks for Ubuntu</a></li>
+        </ul>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

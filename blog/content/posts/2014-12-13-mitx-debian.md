@@ -5,6 +5,11 @@ kind: article
 tags: [ 'debian' ]
 ---
 
+## Migrate from craigs - lubunto to mydeb - debian jessie/testing
+
+### passwords
+
+
 ## First round of install
 Hostname: ivie.coot.local
 

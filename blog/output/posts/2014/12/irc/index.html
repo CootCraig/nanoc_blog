@@ -27,8 +27,12 @@
         <ul>
           <li>irc.server.freenode
             <ul>
+              <li>irc.freenode.#ansible </li>
               <li>irc.freenode.#cobug </li>
               <li>irc.freenode.#devious </li>
+              <li>irc.freenode.#supervisor</li>
+              <li>irc.freenode.#tmux</li>
+              <li>“#ansible,#cobug,#devious,#supervisor,#tmux”</li>
             </ul>
           </li>
           <li>irc.server.twice
@@ -39,16 +43,50 @@
           <li>irc.server.oftc
             <ul>
               <li>irc.oftc.#debian </li>
+              <li>irc.oftc.#morpheus</li>
               <li>irc.oftc.#suckless </li>
             </ul>
           </li>
         </ul>
         
+        <h2 id="logging">logging</h2>
+        
+        <h3 id="option-loggerfilepath">option logger.file.path</h3>
+        
+        <p>values: any string (default value: “%h/logs/”)</p>
+        
+        <p>“%h” at beginning of string is replaced by WeeChat home (“~/.weechat”
+        by default); date specifiers are permitted (see man strftime)</p>
+        
+        <h3 id="logging-commands">logging commands</h3>
+        
+        <pre><code>~/.weechat/logger.conf
+        path = "%h/logs/"
+          to 
+        path = "/r1/irc_logs/"
+        </code></pre>
+        
+        <pre><code>weechat logger commands
+        /set logger.level.core.weechat 0
+        /set logger.file.path ""
+        /set logger.level.irc 3
+        </code></pre>
+        
+        <h3 id="commands">commands</h3>
+        
+        <pre><code>set server options
+        /set irc.server.oftc.autoconnect on
+        /set irc.server.oftc.autojoin '#debian,#morpheus,#suckless'
+        /set irc.server.freenode.autojoin '#cobug,#devious'
+        </code></pre>
+        
         <h2 id="using-weechat">Using weechat</h2>
         
         <h3 id="move-config-around">move config around</h3>
-        <p><a href="https://weechat.org/files/doc/stable/weechat_user.en.html">In weechat user’s guide</a>
-        See - upgrade upgrade WeeChat without disconnecting from servers </p>
+        
+        <p><a href="https://weechat.org/files/doc/stable/weechat_user.en.html">In weechat user’s guide</a></p>
+        
+        <p>See - upgrade upgrade WeeChat without disconnecting from servers </p>
         
         <p>It is possible to restore WeeChat session on another machine if you copy
         the content of directory “~/.weechat”.</p>
