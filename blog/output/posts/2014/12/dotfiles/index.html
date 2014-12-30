@@ -21,6 +21,36 @@
       </div>
       <article>
         
+        <h2 id="notes-as-of-tue-dec-30-104228-mst-2014">Notes as of Tue Dec 30 10:42:28 MST 2014</h2>
+        
+        <h3 id="started-with-fork-of-httpsgithubcomjustonedotfiles">started with fork of https://github.com/justone/dotfiles</h3>
+        
+        <h3 id="dotfile-folders-with-no-secrets">dotfile folders with no secrets</h3>
+        
+        <pre><code>Just import dotfile folders with no secrets.
+        cd ~/dotfiles
+        bin/dfm import .gitconfig
+        bin/dfm import .i3
+        bin/dfm import .vim
+        bin/dfm import .vimrc
+         ...
+        </code></pre>
+        
+        <h3 id="dot-filesfolders-with-secrets">dot files/folders with secrets</h3>
+        
+        <p>Make a list of them.</p>
+        
+        <h4 id="icedove">.icedove</h4>
+        
+        <h4 id="remmina">.remmina</h4>
+        
+        <h4 id="weechat">.weechat</h4>
+        
+        <p>List them in ~/dotfiles/.gitignore</p>
+        
+        <p>Arrange to copy them into ~/dotfiles
+        before running dfm install</p>
+        
         <h2 id="essential-programs-and-dotfile-candidates">Essential programs and dotfile candidates</h2>
         
         <ul>
@@ -54,6 +84,24 @@
         
         <h2 id="research">Research</h2>
         
+        <h3 id="use-ccrypt-to-encrypt-secrets">Use ccrypt to encrypt secrets</h3>
+        
+        <ul>
+          <li><a href="http://ccrypt.sourceforge.net/">ccrypt at sourceforge</a></li>
+        </ul>
+        
+        <p>There is a deb file available there.</p>
+        
+        <h3 id="consider-these-people">Consider these people</h3>
+        
+        <ul>
+          <li>qbit</li>
+          <li>Zach Holman - like his subfolder organization</li>
+          <li>Bobby Russel - master of oh-my-zsh - Zach recommended</li>
+          <li>Nate Jones - justone - dotfiles - dfm</li>
+          <li>xero - uses stow - uses subfolders</li>
+        </ul>
+        
         <h3 id="my-thoughts-evolve">My thoughts evolve</h3>
         
         <pre><code>A git repo for each topic.
@@ -68,6 +116,7 @@
         ~/dotfiles/df-remmina/
         ~/dotfiles/df-setxkbmap/
         ~/dotfiles/df-supervisord/
+        ~/dotfiles/df-thunderbird/
         ~/dotfiles/df-tmux/
         ~/dotfiles/df-vim/
         ~/dotfiles/df-weechat/
@@ -84,6 +133,11 @@
         <ul>
           <li><a href="http://endot.org/2010/10/16/dfm-a-utility-to-manage-dotfiles/">Dfm - a Utility to Manage Dotfiles</a></li>
         </ul>
+        
+        <h5 id="githubcom---justonedotfileshttpsgithubcomjustonedotfiles"><a href="https://github.com/justone/dotfiles">github.com - justone/dotfiles</a></h5>
+        
+        <p>This repo is a skeleton/template repo for tracking dotfiles. It contains
+        a utility (dfm) to help with managing and updating your dotfiles.</p>
         
         <h3 id="where-to-start">Where to start</h3>
         
@@ -161,6 +215,10 @@
         more controlled approach to management of configuration files in the
         user’s home directory, especially when coupled with version control
         systems.</p>
+        
+        <ul>
+          <li><a href="http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html">Brandon Invergo - Using GNU Stow to manage your dotfiles</a></li>
+        </ul>
       </article>
     </div>
   </div>

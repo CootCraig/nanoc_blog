@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Practice Debian Workstation Install</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/debian">debian</a></span>
+        |
+        <span><a href="/tags/debian_install">debian_install</a></span>
+        |
+        <span><a href="/tags/dotfiles">dotfiles</a></span>
+        |
+      </div>
+      <article>
+        
+        <h2 id="sun-dec-28-214819-mst-2014">Sun Dec 28 21:48:19 MST 2014</h2>
+        
+        <p>Start with base install</p>
+        
+        <pre><code>apt-get install git sudo tmux vim zsh
+        adduser craig sudo
+        
+        cd /etc/apt
+        cp sources.list sources.list.1
+        Add contrib,non-free to sources.list
+        apt-get update
+        </code></pre>
+        
+        <pre><code>apt-get install i3 lightdm thunar iceweasel icedove
+        apt-get install rxvt-unicode stow vim-gtk
+        </code></pre>
+        
+        <p>Running as virtualbox guest, os install guest additions</p>
+        
+        <p>Save as mydeb_20141228_2214/</p>
+        
+        <h3 id="try-dotfiles-with-vim">Try dotfiles with vim</h3>
+        
+        <p>on ivie</p>
+        
+        <pre><code>cd ~/dotfiles
+        bin/dfm import .gitconfig
+        bin/dfm import .vimrc
+        dfm import .vimfiles/
+        </code></pre>
+        
+        <p>on mydeb</p>
+        
+        <pre><code>cd
+        git clone git@github.com:CootCraig/dotfiles.git
+        cd ~/dotfiles
+        bin/dfm install
+        in vim. :BundleInstall
+        </code></pre>
+        
+        <h3 id="questions">questions</h3>
+        
+        <ul>
+          <li>what about custom compile of st</li>
+          <li>git clone for vundle and manual :BundleInstall</li>
+        </ul>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

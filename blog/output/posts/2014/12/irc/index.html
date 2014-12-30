@@ -22,6 +22,7 @@
         |
       </div>
       <article>
+        
         <h2 id="track-irc-channels-for-logging">Track irc channels for logging</h2>
         
         <ul>
@@ -32,12 +33,14 @@
               <li>irc.freenode.#devious </li>
               <li>irc.freenode.#supervisor</li>
               <li>irc.freenode.#tmux</li>
-              <li>“#ansible,#cobug,#devious,#supervisor,#tmux”</li>
+              <li>irc.freenode.#weechat</li>
+              <li>/set irc.server.freenode.autojoin “#ansible,#cobug,#devious,#supervisor,#tmux,#weechat”</li>
             </ul>
           </li>
           <li>irc.server.twice
             <ul>
               <li>irc.twice.#i3 </li>
+              <li>“#i3”</li>
             </ul>
           </li>
           <li>irc.server.oftc
@@ -45,8 +48,17 @@
               <li>irc.oftc.#debian </li>
               <li>irc.oftc.#morpheus</li>
               <li>irc.oftc.#suckless </li>
+              <li>/set irc.server.oftc.autojoin “#debian,#morpheus,#suckless”</li>
             </ul>
           </li>
+        </ul>
+        
+        <h2 id="sasl-options">SASL options</h2>
+        
+        <h3 id="oftcnet-ssl-certs">oftc.net ssl certs</h3>
+        
+        <ul>
+          <li><a href="http://www.oftc.net/">oftc.net home page</a></li>
         </ul>
         
         <h2 id="logging">logging</h2>
@@ -69,8 +81,27 @@
         <pre><code>weechat logger commands
         /set logger.level.core.weechat 0
         /set logger.file.path ""
-        /set logger.level.irc 3
+        /set logger.level.irc 1
         </code></pre>
+        
+        <h4 id="log-levels">4.7.3. Log levels</h4>
+        
+        <p>Logging is made with a level for each buffer. Default level is 9 (log
+        all messages displayed on buffer). You can change level for one buffer,
+        or a group of buffers.</p>
+        
+        <p>Possible levels are 0 to 9. Zero means “do not log anything” and 9 means
+        “log all messages”.</p>
+        
+        <p>Plugins are using different levels for messages displayed. IRC plugin
+        uses following levels:</p>
+        
+        <ul>
+          <li>level 1: message from user (on channel or private)</li>
+          <li>level 2: nick change (you or someone else)</li>
+          <li>level 3: any server message (except join/part/quit)</li>
+          <li>level 4: server message join/part/quit</li>
+        </ul>
         
         <h3 id="commands">commands</h3>
         

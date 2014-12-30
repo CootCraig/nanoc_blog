@@ -15,6 +15,6 @@ tags: ['developers_to_watch']
 * [i am dustin diaz - JavaScript Expert](http://www.dustindiaz.com/)
 * [$script.js - Async JavaScript loader and dependency manager - Dustin Diaz](https://github.com/ded/script.js)
 * [Nate Jones - endot - dfm](http://endot.org/)
-
-
+* [Notes blog of pantz webmaster](http://www.pantz.org/extra/about.html)
+* [Aaron Toponce - system administrator writes about cryptography/encryption and web-based standards](https://pthree.org/)
 
