@@ -5,5 +5,10 @@ kind: article
 tags: [ 'debian', 'firefox', 'icemonkey' ]
 ---
 
+## keyboard short cuts
+
+* [support.mozilla.org - Firefox keyboard shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
+
+
 ## Research
 

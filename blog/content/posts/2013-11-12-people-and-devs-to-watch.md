@@ -1,8 +1,10 @@
 ---
-title: "Developers to Watch"
+title: "People to Watch"
 created_at: Tue Nov 12 12:32:02 MST 2013
 kind: article
-tags: ['developers_to_watch']
+tags:
+  - developers_to_watch
+  - people_to_watch
 ---
 
 # Developers to Watch
@@ -17,4 +19,8 @@ tags: ['developers_to_watch']
 * [Nate Jones - endot - dfm](http://endot.org/)
 * [Notes blog of pantz webmaster](http://www.pantz.org/extra/about.html)
 * [Aaron Toponce - system administrator writes about cryptography/encryption and web-based standards](https://pthree.org/)
+
+# People of interest
+
+* [Patrick M. Tracy - Writer - strongman](http://pmtracy.com/home)
 

@@ -15,6 +15,10 @@ tags: [ 'keyboard' ]
 
 ## Candidate keyboards
 
+### Unicomp EnduraPro
+
+* [Unicomp - $99 - EnduraPro - trackpoint - Black Buckling Spring USB](http://pckeyboard.com/page/EnduraPro/UB40PGA)
+
 ### Cooler Master Storm QuickFire family of mechanicals
 
 solid, affordable, and flexible entry-level option that'll provide huge
