@@ -131,7 +131,7 @@ adduser yourusername netdev
 ~~~~~~~~~~~~~~~~~~~~~~~
 thunar and other gui programs
 apt-get install thunar iceweasel icedove gedit
-apt-get install shutter libnet-dbus-glib-perl
+apt-get install scrot shutter libnet-dbus-glib-perl
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 ## office and drawing programs
@@ -177,4 +177,18 @@ apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadlin
 rbenv install 2.2.0
 rbenv global 2.2.0
 ~~~~~~~~~~~~~~~~~~~~~~~
+
+## Sound setup
+
+alsamixer and mocp work fine.
+
+### ncurses alsamixer is the way to go
+
+<img src="/assets/images/alsamixer_lenniedevo.png" width="500px" />
+
+#### select channels p n or left/right arrows
+
+#### m mute/unmute selected channel
+
+#### volume on selected channel + - or up/down arrows
 
