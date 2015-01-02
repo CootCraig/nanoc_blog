@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Thinkpad T500 - lenniedevo - take 2</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/debian">debian</a></span>
+        |
+        <span><a href="/tags/laptop">laptop</a></span>
+        |
+        <span><a href="/tags/lenniedevo">lenniedevo</a></span>
+        |
+        <span><a href="/tags/linux">linux</a></span>
+        |
+      </div>
+      <article>
+        
+        <h1 id="first-stage-with-debian-jessie-netinst-cd">First stage with Debian Jessie netinst CD</h1>
+        
+        <ul>
+          <li>eth0 Intel Corporation 82567LM Gigabit Network Connection</li>
+          <li>wwan0: Unknown interface</li>
+        </ul>
+        
+        <h2 id="hostname-lenniedevo">Hostname: lenniedevo</h2>
+        
+        <h2 id="domain-name-cootlocal">Domain name: coot.local</h2>
+        
+        <pre><code>Software selection
+        [*] print server
+        [*] SSH server
+        [*] standard system utilities
+        </code></pre>
+        
+        <h2 id="get-video-and-wireless-firmware">Get video and wireless firmware</h2>
+        
+        <pre><code>Add contrib,non-free to /etc/apt/sources.list
+        apt-get update
+        apt-get dist-upgrade
+        
+        reboot
+        
+        apt-get autoclean
+        apt-get autoremove
+        apt-get install firmware-linux-nonfree
+        
+        reboot
+        </code></pre>
+        
+        <pre><code>apt-get install firmware-iwlwifi
+        reboot
+        </code></pre>
+        
+        <h2 id="xorgi3">X.org/i3</h2>
+        
+        <pre><code>i3 autobuild dev package
+        echo 'deb http://build.i3wm.org/debian/sid sid main' &gt; /etc/apt/sources.list.d/i3-autobuild.list
+        apt-get update
+        apt-get --allow-unauthenticated install i3-autobuild-keyring
+        apt-get update
+        </code></pre>
+        
+        <pre><code>X environment
+        apt-get install i3 lightdm
+        </code></pre>
+        
+        <h2 id="vim-tmux-git-sudo">vim tmux git sudo</h2>
+        
+        <pre><code>vim tmux git sudo
+        apt-get install vim-gtk tmux git gitk sudo
+        adduser craig sudo
+        </code></pre>
+        
+        <h2 id="dotfiles-and-zsh">dotfiles and zsh</h2>
+        
+        <pre><code>apt-get install zsh
+        chsh -s /usr/bin/zsh
+        </code></pre>
+        
+        <pre><code>ssh-keygen
+        Add public key at github
+        </code></pre>
+        
+        <pre><code>clone dotfiles
+        cd ~
+        git clone git@github.com:CootCraig/dotfiles.git
+        cd dotfiles
+        git checkout craig
+        git submodule update --init
+        bin/dfm install
+        cd
+        vim - then :BundleInstall
+        </code></pre>
+        
+        <pre><code>apt-get install rxvt-unicode-256color terminator
+        </code></pre>
+        
+        <h2 id="st---suckless-simple-terminal">st - Suckless simple terminal</h2>
+        
+        <pre><code>Get needed packages
+        apt-get install build-essential checkinstall libtool automake uuid-dev
+        apt-get install xorg-dev
+        apt-get install fonts-inconsolata
+        </code></pre>
+        
+        <pre><code>Compile and install st
+        mkdir /opt/suckless
+        chmod 777 /opt/suckless
+        cd /opt/suckless
+        git clone git@github.com:CootCraig/st.git
+        cd st
+        git checkout craig
+        checkconfig make install
+        </code></pre>
+        
+        <h2 id="wicd-wireless">wicd wireless</h2>
+        
+        <pre><code>wicd wireless
+        apt-get install wicd wicd-curses wicd-gtk
+        adduser yourusername netdev
+        </code></pre>
+        
+        <h2 id="thunar-and-other-gui-programs">thunar and other gui programs</h2>
+        
+        <pre><code>thunar and other gui programs
+        apt-get install thunar iceweasel icedove gedit
+        apt-get install shutter libnet-dbus-glib-perl
+        </code></pre>
+        
+        <h2 id="office-and-drawing-programs">office and drawing programs</h2>
+        
+        <pre><code>office programs
+        apt-get install libreoffice abiword lyx
+        apt-get install inkscape
+        apt-get install xfig
+        apt-get install gimp
+        </code></pre>
+        
+        <h2 id="audio-music-player">Audio, music player</h2>
+        
+        <pre><code>Audio, music player
+        apt-get install moc alsa-utils moc-ffmpeg-plugin
+        </code></pre>
+        
+        <h2 id="passworddragon">passworddragon</h2>
+        
+        <h2 id="windows-network-tools">Windows network tools</h2>
+        
+        <pre><code>Windows network tools
+        apt-get install remmina cifs-utils winbind pptp-linux 
+        </code></pre>
+        
+        <h2 id="secret-dotfiles">secret dotfiles</h2>
+        
+        <pre><code>secret dotfiles
+        .remmina/
+        .icedove/
+        </code></pre>
+        
+        <h2 id="ruby-rbenv-for-craig">ruby rbenv for craig</h2>
+        
+        <pre><code>ruby rbenv for craig
+             After install rbenv and ruby-build
+        rbenv install 2.2.0
+        rbenv global 2.2.0
+        </code></pre>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

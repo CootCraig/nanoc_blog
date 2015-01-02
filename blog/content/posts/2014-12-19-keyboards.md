@@ -13,6 +13,10 @@ tags: [ 'keyboard' ]
 * price - want 2 home and office
 * usb jack on keyboard
 
+## and trackball
+
+* [$23 - Logitech Trackman Marble Mouse](http://www.amazon.com/Logitech-910-000806-Trackman-Marble-Mouse/dp/B001F42MKG/)
+
 ## Candidate keyboards
 
 ### Unicomp EnduraPro
@@ -24,6 +28,8 @@ tags: [ 'keyboard' ]
 solid, affordable, and flexible entry-level option that'll provide huge
 bang for your buck
 
+* [Cooler Master QuickFire Rapid-i](http://gaming.coolermaster.com/en/products/keyboards/rapid-i/)
+* [$132 - CM Storm QuickFire Rapid-i - tenkeyless - backlight - Cherry MX Blue](http://www.amazon.com/QuickFire-Mechanical-Keyboard-ActivLite-Technology/dp/B00M562EQU/)
 * Amazon $80 - CM Storm QuickFire Rapid - Tenkeyless - no backlight - CHERRY MX Blue
 * Amazon $120 - CM Storm QuickFire Rapid-i - Tenkeyless - backlight - Cherry MX blue
 * Amazon $100 - CM Storm QuickFire TK - Compact numeric pad CHERRY MX BLUE Switches and Fully LED Backlit

@@ -21,6 +21,22 @@
       </div>
       <article>
         
+        <h2 id="git-submodules">git submodules</h2>
+        
+        <ul>
+          <li><a href="http://komodoide.com/blog/2014-05/git-submodules/">komodoide - Getting git submodule to track a branch</a></li>
+          <li><a href="http://bec-systems.com/site/1020/git-submodules-can-now-track-branches">bec-systems - Git submodules can now track branches</a></li>
+        </ul>
+        
+        <pre><code>Create a submodule
+        git submodule add -b master https://github.com/Komodo/trackchanges.git src/modules/trackchanges
+        git submodule update --init
+        </code></pre>
+        
+        <pre><code>Update a submodule
+        git submodule update --remote
+        </code></pre>
+        
         <h2 id="research">Research</h2>
         
         <h3 id="top-links">Top links</h3>

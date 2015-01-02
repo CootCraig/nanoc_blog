@@ -57,7 +57,6 @@ apt-get install firmware-iwlwifi
 * wicd wicd-curses wicd-gtk
 * gparted gnome-disk-utility
 * audacity
-* cifs-utils
 * dkms
 * libreoffice
 * abiword
@@ -71,8 +70,47 @@ apt-get install firmware-iwlwifi
 * remmina
 * reptyr
 * noice is a small ncurses-based file browser - suckless rocks
+* shutter screen capture
 
 ## Other possibilities
+
+### file managers
+
+* noice is a small ncurses-based file browser - suckless rocks
+* ranger
+* thunar
+
+### irc
+
+* weechat
+
+### music / audio
+
+* audacity
+* DeaDBeef
+* music on console
+
+### screen capture
+
+* scrot
+* shutter
+
+### terminal emulators
+
+* rxvt-unicode
+* st
+* terminator
+
+### terminal multiplexers
+
+* screen
+* tmux
+
+### text based browsers
+
+* ELinks - Full-Featured Text WWW Browser
+* Lynx is a text browser for the World Wide Web
+* w3m is a text-based web browser
 
 ## Research
 

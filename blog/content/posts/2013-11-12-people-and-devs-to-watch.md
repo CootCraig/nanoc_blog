@@ -23,4 +23,5 @@ tags:
 # People of interest
 
 * [Patrick M. Tracy - Writer - strongman](http://pmtracy.com/home)
+* [Randall Wood - Into the Wild Spaces](http://therandymon.com/)
 

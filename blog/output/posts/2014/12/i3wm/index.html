@@ -50,7 +50,34 @@
         
         <p>Channel #i3</p>
         
-        <h3 id="asked-on-i3---tue-dec-16-090350-mst-2014">Asked on #i3 - Tue Dec 16 09:03:50 MST 2014</h3>
+        <h2 id="i3-debian-development-autobuild-repo">i3 debian development autobuild repo</h2>
+        
+        <ul>
+          <li><a href="http://i3wm.org/docs/repositories.html">Michael Stapelberg - Debian and Ubuntu repositories</a></li>
+        </ul>
+        
+        <h3 id="when-should-you-use-our-repositories">1. When should you use our repositories?</h3>
+        
+        <h4 id="you-want-the-latest-i3-development-version">You want the latest i3 development version</h4>
+        
+        <p>If you are using Debian (Debian-derived systems might work, too) or
+        Ubuntu and want the latest development version of i3, you should use
+        our Debian repository.</p>
+        
+        <h3 id="debian-repository">3. Debian repository</h3>
+        
+        <p>Our Debian repository contains packages which are automatically built
+        a few minutes after every commit. To use it, run the following commands:</p>
+        
+        <pre><code>/etc/apt/sources.list.d/i3-autobuild.list
+        echo 'deb http://build.i3wm.org/debian/sid sid main' &gt; /etc/apt/sources.list.d/i3-autobuild.list
+        apt-get update
+        apt-get --allow-unauthenticated install i3-autobuild-keyring
+        apt-get update
+        apt-get install i3
+        </code></pre>
+        
+        <h2 id="asked-on-i3---tue-dec-16-090350-mst-2014">Asked on #i3 - Tue Dec 16 09:03:50 MST 2014</h2>
         
         <p>Reading 6.5.1. Named workspaces in the User’s Guide.  I don’t understand
         how to do a rename command.</p>
