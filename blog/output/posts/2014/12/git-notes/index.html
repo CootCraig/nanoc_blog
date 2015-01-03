@@ -37,6 +37,20 @@
         git submodule update --remote
         </code></pre>
         
+        <h2 id="revert-uncommitted-changes-including-files-and-folders">Revert uncommitted changes including files and folders?</h2>
+        
+        <ul>
+          <li><a href="http://stackoverflow.com/questions/5807137/git-how-to-revert-uncommitted-changes-including-files-and-folders">stackoverflow - Revert uncommitted changes including files and folders</a></li>
+        </ul>
+        
+        <pre><code>Revert uncommitted changes including files and folders?
+         --- Revert changes to modified files.
+        git reset --hard
+        
+         --- Remove all untracked files and directories.
+        git clean -fd
+        </code></pre>
+        
         <h2 id="research">Research</h2>
         
         <h3 id="top-links">Top links</h3>
@@ -44,6 +58,7 @@
         <ul>
           <li><a href="http://www.mutuallyhuman.com/blog/2012/06/22/a-git-walkthrough/">A Git Walkthrough By Zach Dennis on 22 Jun 2012</a></li>
           <li><a href="http://nvie.com/posts/a-successful-git-branching-model/">nvie.com - A successful Git branching model</a></li>
+          <li><a href="http://eagain.net/articles/git-for-computer-scientists/">Git for Computer Scientists</a></li>
         </ul>
         
         <h3 id="other">Other</h3>
