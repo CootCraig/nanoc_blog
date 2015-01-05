@@ -28,3 +28,7 @@ tags:
 * [dedoimedo - My name is Igor Ljubuncic](http://www.dedoimedo.com/faq.html)
 * [Mark Guzdial - professor - School of Interactive Computing - Georgia Institute of Technology.](https://computinged.wordpress.com/about/)
 
+# Education related
+
+* [Christian Haschek](https://blog.haschek.at/aboutme)
+
