@@ -5,6 +5,10 @@ kind: article
 tags: [ 'laptop' ]
 ---
 
+## future reference
+
+* Toshiba Portege R700
+
 ## Purchased Thinkpad T500
 
 Lenovo ThinkPad T500, 2.4GHz Core 2 Duo 2GB / 160GB / WiFi / LINUX MINT 17.1

@@ -19,9 +19,12 @@ tags:
 * [Nate Jones - endot - dfm](http://endot.org/)
 * [Notes blog of pantz webmaster](http://www.pantz.org/extra/about.html)
 * [Aaron Toponce - system administrator writes about cryptography/encryption and web-based standards](https://pthree.org/)
+* [Mark Miller - tekkie](http://tekkie.wordpress.com/)
 
 # People of interest
 
 * [Patrick M. Tracy - Writer - strongman](http://pmtracy.com/home)
 * [Randall Wood - Into the Wild Spaces](http://therandymon.com/)
+* [dedoimedo - My name is Igor Ljubuncic](http://www.dedoimedo.com/faq.html)
+* [Mark Guzdial - professor - School of Interactive Computing - Georgia Institute of Technology.](https://computinged.wordpress.com/about/)
 
