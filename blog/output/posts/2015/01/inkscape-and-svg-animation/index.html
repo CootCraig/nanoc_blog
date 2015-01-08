@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Inkscape and SVG Animation</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/animation">animation</a></span>
+        |
+        <span><a href="/tags/inkscape">inkscape</a></span>
+        |
+        <span><a href="/tags/svg">svg</a></span>
+        |
+      </div>
+      <article>
+        
+        <h2 id="mozilla-irc-server-ircmozillaorg">Mozilla IRC server irc.mozilla.org</h2>
+        
+        <ul>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG">Mozilla SVG page</a></li>
+        </ul>
+        
+        <h3 id="irc-channels">IRC Channels</h3>
+        
+        <ul>
+          <li>
+            <h1 id="svg">svg</h1>
+          </li>
+        </ul>
+        
+        <h2 id="research">Research</h2>
+        
+        <ul>
+          <li><a href="http://wiki.inkscape.org/wiki/index.php/SVG_Animation">Inkscape Wiki - SVG Animation</a></li>
+          <li><a href="http://www.w3.org/TR/SVG/animate.html#AnimationElements">w3.org SVG/ - AnimationElements</a></li>
+          <li><a href="http://www.w3.org/TR/2001/REC-smil-animation-20010904/">W3C Recommendation SMIL Animation</a></li>
+        </ul>
+        
+        <h2 id="inkscape-script-extensions">Inkscape Script Extensions</h2>
+        
+        <h2 id="questions-on-ircfreenodeinkscapeweechatlog">Questions on irc.freenode.#inkscape.weechatlog</h2>
+        
+        <h3 id="how-could-i-reorigin-a-group-so-the-upper-left-of-the-bounding-box-is-at-00">How could I reorigin a group so the upper left of the bounding box is at 0,0?</h3>
+        
+        <p>2015-01-07 08:59:08</p>
+        
+        <p>LiamW	create guides around the page enable snap to bbox corners snap
+        it to the corner</p>
+        
+        <p>sanguivor	Upper left at 0,0 would mean it would not be on the page.</p>
+        
+        <p>su_v	0,0 as in SVG origin probably (which is upper left of the page
+        in Inkscape, originally) (could be a question about the translate()
+        transforms on layer groups?)</p>
+        
+        <p>cootcraig	su_v Yes I want to prepare groups to become svg <g>
+        elements for placement and animation in a browser.</g></p>
+        
+        <p>su_v	cootcraig: ungroup, regroup the selection again this will however
+        cause the transform attribute to be inherited by the former members of the
+        original group if it’s about a translate() on an Inkscape layer (because
+        the page size (height) was chanegd): add a new layer, move content to the
+        new layer same effect though: the translate() of the original layer will
+        be passed on to the objects formerly on that layer repeat for each group
+        (ungroup, regroup) until you reached the level of ‘flatness’ (without
+        transforms) as needed inkscape shapes will keep the transform no matter
+        what (in 0.48), convert to path if needed without, and nudge path with
+        arrow keys to force a rewrite of the path data (which converts preseved
+        transforms into optimized transforms aka stored in the path ‘d’ itself)</p>
+        
+        <p>cootcraig	su_v Thanks for the helpful comments.</p>
+        
+        <p>cootcraig	I plan to edit one group at a time in inkscape, then hand
+        edit the inkscape file to be a <g> element for import into the browser.</g></p>
+        
+        <h2 id="research-1">Research</h2>
+        
+        <ul>
+          <li><a href="http://www.inkscapeforum.com/index.php">Inkscape Forum</a></li>
+          <li><a href="https://github.com/aseldawy/rasem">rasem ruby gem - describe your SVG images in ruby code</a></li>
+          <li><a href="http://www.manuel-strehl.de/var/simple_icons.en.html">manuel-strehl.de - A Simple Icon Set</a></li>
+          <li><a href="http://www.manuel-strehl.de/assets/image/simple_icons/icons.svg">svg file from above</a></li>
+          <li><a href="https://jwatt.org/svg/authoring/">jwatt.org - SVG Authoring Guidelines</a></li>
+          <li><a href="http://www.manuel-strehl.de/dev/wireframes_with_svg.en.html">manuel-strehl.de - Wire­frames with SVG</a></li>
+          <li><a href="http://tavmjong.free.fr/blog/">Tavmjong Bah’s Blog about Inkscape, SVG</a></li>
+          <li><a href="http://tavmjong.free.fr/SVG/">Tavmjong Bah - using SVG in HTML</a></li>
+        </ul>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

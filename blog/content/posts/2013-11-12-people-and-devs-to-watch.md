@@ -20,6 +20,7 @@ tags:
 * [Notes blog of pantz webmaster](http://www.pantz.org/extra/about.html)
 * [Aaron Toponce - system administrator writes about cryptography/encryption and web-based standards](https://pthree.org/)
 * [Mark Miller - tekkie](http://tekkie.wordpress.com/)
+* [Perfection Kills by kangax](http://perfectionkills.com/)
 
 # People of interest
 

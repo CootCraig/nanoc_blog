@@ -58,6 +58,28 @@
           </li>
         </ul>
         
+        <h2 id="log-registering-on-ircmozillaorg">log registering on irc.mozilla.org</h2>
+        
+        <pre><code>/b weechat
+        /server add mozilla irc.mozilla.org
+        /connect mozilla
+        /b mozilla
+        
+        /msg NickServ REGISTER banana craig@coot.net
+        
+         -- | NickServ (services@ircservices.mozilla.org): Nickname craig registered.
+         -- | You are now logged in as craig (craig!craig@moz-ntpvaq.co.comcast.net)
+         -- | User mode [+r] by NickServ
+        
+        /set irc.server.mozilla.command "/msg nickserv identify craig banana"
+        /set irc.server.mozilla.nicks "cootcraig"
+        /set irc.server.mozilla.username "craig"
+        /set irc.server.mozilla.realname "Craig Anderson"
+        /set irc.server.mozilla.autojoin "#svg"
+        /set irc.server.mozilla.autorejoin on
+        
+        </code></pre>
+        
         <h2 id="sasl-options">SASL options</h2>
         
         <h3 id="oftcnet-ssl-certs">oftc.net ssl certs</h3>
