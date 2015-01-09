@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <script src='/assets/js/jquerymin.js'></script>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Lone SVG 01</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/svg">svg</a></span>
+        |
+      </div>
+      <article>
+        
+        <div id="svg-holder-div">
+        <svg version="1.1" baseprofile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" id="top-svg">
+        
+        <g id="g1">
+        <use id="use1" xlink:href="#rect1" style="stroke-width:3px; fill:LawnGreen; stroke:HotPink" />
+        <use id="use2" xlink:href="#rect1" transform="translate(50,50)" style="stroke-width:3px; fill:Blue; stroke:Black" />
+        <use id="use4" xlink:href="#circle2" transform="translate(0,30)" style="stroke-width:3px; fill:LawnGreen; stroke:HotPink" />
+        </g>
+        
+        <defs>
+          <rect id="rect1" x="0" y="0" width="150" height="75" />
+          <circle id="circle2" cx="40" cy="40" r="40" />
+        </defs>
+        
+        </svg>
+        </div>
+        
+        <h2 id="guides">Guides</h2>
+        
+        <ul>
+          <li><a href="https://jwatt.org/svg/authoring/">jwatt.org - SVG Authoring Guidelines</a></li>
+          <li><a href="http://www.svgbasics.com/index.html">Welcome to the SVGBasics tutorials</a></li>
+          <li><a href="http://tutorials.jenkov.com/svg/index.html">Jenkov.com = SVG Tutorial</a></li>
+        </ul>
+        
+        <script type="text/javascript">
+        $(function() {
+          var svgele = null;
+          svgele = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+          svgele.setAttribute("id", "circle1");
+          svgele.setAttributeNS(null, "cx", 40);
+          svgele.setAttributeNS(null, "cy", 40);
+          svgele.setAttributeNS(null, "r",  40);
+          $(svgele).appendTo('defs');
+        
+          svgele = document.createElementNS("http://www.w3.org/2000/svg", "use");
+          svgele.setAttribute("id", "use3");
+          svgele.setAttribute("xlink:href", "#circle1");
+          svgele.setAttribute("style", "stroke-width:3px; fill:White; stroke:Black;");
+          $(svgele).appendTo('#g1');
+        });
+        </script>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>
