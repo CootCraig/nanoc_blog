@@ -38,6 +38,26 @@
         </svg>
         </div>
         
+        <h1 id="adding-an-svg-circle-with-javascript">Adding an svg circle with JavaScript</h1>
+        
+        <pre><code>The script for adding the white circle.
+        var svgele = null;
+        svgele = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        svgele.setAttribute("id", "circle1");
+        svgele.cx.baseVal.value = 40;
+        svgele.cy.baseVal.value = 40;
+        svgele.r.baseVal.value = 40;
+        document.getElementById('svgdefs').appendChild(svgele);
+        
+        svgele = document.createElementNS("http://www.w3.org/2000/svg", "use");
+        svgele.setAttribute("id", "use3");
+        svgele.setAttributeNS("http://www.w3.org/1999/xlink","href", "#circle1");
+        svgele.style['stroke-width'] = "3px";
+        svgele.style.fill = "White";
+        svgele.style.stroke = "Black";
+        document.getElementById('g1').appendChild(svgele);
+        </code></pre>
+        
         <h2 id="guides">Guides</h2>
         
         <ul>
