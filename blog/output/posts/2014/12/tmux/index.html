@@ -16,7 +16,11 @@
       <div>
         <span>Post tags:</span>
         |
+        <span><a href="/tags/irc">irc</a></span>
+        |
         <span><a href="/tags/tmux">tmux</a></span>
+        |
+        <span><a href="/tags/weechat">weechat</a></span>
         |
       </div>
       <article>
@@ -33,6 +37,33 @@
         <pre><code>Attach to named sessions
         tmux attach-s -t weechat
         tmux attach-s -t mocp
+        </code></pre>
+        
+        <h2 id="cronttab-script-to-auto-start-tmux-running-weechat">cronttab script to auto start tmux running weechat</h2>
+        
+        <pre><code>executable file ~/bin/irc
+        #!/usr/bin/env sh
+        tmux has-session -t irc
+        case $? in
+          1) tmux -2 new-session -d -s irc weechat;;
+        esac
+        </code></pre>
+        
+        <pre><code>Some sample tmux commands and notes
+        tmux -2 new-session -d -s irc weechat
+        
+        tmux ls
+        failed to connect to server: Connection refused
+        
+        tmux has-session -t irc
+        0 if exists
+        1 if does not exist
+        </code></pre>
+        
+        <h3 id="run-binirc-every-10-minutes">run ~/bin/irc every 10 minutes</h3>
+        
+        <pre><code>crontab -l
+        1,11,21,31,41,51 * * * * /home/craig/bin/irc &gt;/dev/null &amp;&gt; /dev/null
         </code></pre>
         
         <h2 id="research">Research</h2>
