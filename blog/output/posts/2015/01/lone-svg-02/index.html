@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Lone SVG 02</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/svg">svg</a></span>
+        |
+      </div>
+      <article>
+        
+        <h1 id="load-image-and-animate">Load Image and Animate</h1>
+        
+        <svg version="1.1" baseprofile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" width="900px" height="600px" viewbox="0 0 900 600" preserveaspectratio="xMinYMin meet" style="background-color:DarkGray; display:inline-block;" id="top-svg">
+        
+        <g id="g1">
+        </g>
+        <g id="g2">
+        </g>
+        
+        <defs id="svgdefs">
+        </defs>
+        
+        </svg>
+        
+        <h1 id="endevent-for-animation">endEvent for animation</h1>
+        
+        <h3 id="w3org-svg---19-animationhttpwwww3orgtrsvganimatehtml"><a href="http://www.w3.org/TR/SVG/animate.html">w3.org SVG - 19 Animation</a></h3>
+        
+        <h2 id="endevent">endEvent</h2>
+        
+        <h3 id="interface-timeevent">19.4.2 Interface TimeEvent</h3>
+        
+        <p>This event is raised at the active end of the element.</p>
+        
+        <h1 id="online-references">Online references</h1>
+        
+        <ul>
+          <li><a href="https://jwatt.org/svg/authoring/">jwatt.org - SVG Authoring Guidelines</a></li>
+          <li><a href="http://tutorials.jenkov.com/svg/svg-viewport-view-box.html">Jakob Jenkov - SVG Viewport and View Box</a></li>
+        </ul>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/q.js/1.1.2/q.min.js"></script>
+        
+        <script type="text/javascript">
+        (function() {
+          var fn = function() {
+            var loadSvgImage = null;
+            var move1 = null;
+            var move2 = null;
+        
+            loadSvgImage = function(uri,width,height,className,imageName) {
+              var deferred = Q.defer();
+              var imageElement = null;
+        
+              imageElement = document.createElementNS("http://www.w3.org/2000/svg", "image");
+                imageElement.addEventListener('load', function() { 
+                console.log(imageName + ' loaded by loadSvgImage');
+                deferred.resolve(imageElement); 
+                });
+        
+                if (typeof className === 'string') {
+                  imageElement.setAttribute('class',className);
+                }
+                if (typeof imageName === 'string') {
+                  imageElement.setAttribute('name',imageName);
+                  imageElement.setAttribute('id','image' + imageName);
+                }
+        
+                imageElement.width.baseVal.value = width;
+                imageElement.height.baseVal.value = height;
+                imageElement.href.baseVal = uri; // This triggers the image load from the uri
+        
+                return deferred.promise;
+            };
+            loadSvgImage( '/assets/images/The_Spaniards_101-El_Estudiante_de_la_tuna.jpg',
+                          557, 987,
+                          'The_Spaniards',
+                          'El_Estudiante_de_la_tuna'
+            ).then(
+              function(theImage) {
+                var svgele = null;
+                document.getElementById('svgdefs').appendChild(theImage);
+        
+                svgele = document.createElementNS("http://www.w3.org/2000/svg", "use");
+                svgele.setAttribute("id", "EstudianteScaled");
+                svgele.setAttributeNS("http://www.w3.org/1999/xlink","href", "#imageEl_Estudiante_de_la_tuna");
+                svgele.setAttributeNS(null,"transform", "scale(0.2)");
+                document.getElementById('svgdefs').appendChild(svgele);
+        
+                svgele = document.createElementNS("http://www.w3.org/2000/svg", "use");
+                svgele.setAttribute("id", "Estudiante");
+                svgele.setAttributeNS("http://www.w3.org/1999/xlink","href", "#EstudianteScaled");
+                document.getElementById('g2').appendChild(svgele);
+        
+                move1();
+              });
+            move1 = function() {
+              var svgele = null;
+              var target = document.getElementById('Estudiante');
+              while(target.firstChild) {
+                target.removeChild(target.firstChild);
+              }
+              svgele = document.createElementNS("http://www.w3.org/2000/svg", "animateTransform");
+              svgele.setAttributeNS(null,"attributeName", "transform");
+              svgele.setAttributeNS(null,"attributeType", "XML");
+              svgele.setAttributeNS(null,"type", "translate");
+              //svgele.setAttributeNS(null,"from", "0 0");
+              svgele.setAttributeNS(null,"to", "200 100");
+              svgele.setAttributeNS(null,"dur", "6s");
+              svgele.setAttributeNS(null,"fill", "freeze");
+              svgele.addEventListener('endEvent',
+                function() {
+                  console.log("move1 end");
+                  svgele.removeEventListener('endEvent');
+                  target.setAttributeNS(null,"x", "200");
+                  target.setAttributeNS(null,"y", "100");
+                  move2();
+                });
+              target.appendChild(svgele);
+            };
+            move2 = function() {
+              var svgele = null;
+              var target = document.getElementById('Estudiante');
+              while(target.firstChild) {
+                target.removeChild(target.firstChild);
+              }
+              svgele = document.createElementNS("http://www.w3.org/2000/svg", "animateTransform");
+              svgele.setAttributeNS(null,"attributeName", "transform");
+              svgele.setAttributeNS(null,"attributeType", "XML");
+              svgele.setAttributeNS(null,"type", "translate");
+              //svgele.setAttributeNS(null,"from", "200 100");
+              svgele.setAttributeNS(null,"to", "0 0");
+              svgele.setAttributeNS(null,"dur", "6s");
+              svgele.setAttributeNS(null,"fill", "freeze");
+              svgele.addEventListener('endEvent',
+                function() {
+                  console.log("move2 end");
+                  svgele.removeEventListener('endEvent');
+                  target.setAttributeNS(null,"x", "0");
+                  target.setAttributeNS(null,"y", "0");
+                  move1();
+                });
+              target.appendChild(svgele);
+            };
+          };
+          if (document.readyState != 'loading'){
+            fn();
+          } else {
+            document.addEventListener('DOMContentLoaded', fn);
+          }
+        })();
+        </script>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

@@ -73,5 +73,3 @@ edit the inkscape file to be a <g> element for import into the browser.
 * [Tavmjong Bah's Blog about Inkscape, SVG](http://tavmjong.free.fr/blog/)
 * [Tavmjong Bah - using SVG in HTML](http://tavmjong.free.fr/SVG/)
 
-
-
