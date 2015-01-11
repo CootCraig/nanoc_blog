@@ -22,11 +22,11 @@ Codename:	wheezy
 
 wget can get a local copy of a url.
 
-<pre><code>
+~~~~~~~~~~~~~
 wget  --convert-links --adjust-extension --page-requisites --no-parent http://www.guitaralive.org/playlist_14_31.html
 
 wget  --convert-links --adjust-extension --page-requisites --no-parent http://www.cpr.org/classical/playlist
-</code></pre>
+~~~~~~~~~~~~~
 
 HTML Tidy can be used as part of editing the scraped HTML
 
@@ -36,8 +36,14 @@ HTML Tidy can be used as part of editing the scraped HTML
 
 ## 7zip tar archives
 
-<pre><code>
+~~~~~~~~~~~~~
+7zip
 apt-get install p7zip-full
 7z a archive.tar.7z archive.tar
-</code></pre>
+~~~~~~~~~~~~~
+
+# Research and sites and links
+
+* [30 Best Sources For Linux Documentation](http://www.cyberciti.biz/tips/linux-unix-bsd-documentations.html)
+
 

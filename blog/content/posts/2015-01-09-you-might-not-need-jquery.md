@@ -6,9 +6,8 @@ tags:
   - jquery
   - javascript
 ---
+
 # [You might not need jQuery](http://youmightnotneedjquery.com/)
-
-
 
 jQuery and its cousins are great, and by all means use them if it makes
 it easier to develop your application.

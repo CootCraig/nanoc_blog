@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Logitech Trackman Marble</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/trackball">trackball</a></span>
+        |
+        <span><a href="/tags/trackman">trackman</a></span>
+        |
+      </div>
+      <article>
+        
+        <pre><code>ID     	Hardware Action     	Result                
+        1 	Large button left 	normal click
+        2 	Both large buttons 	middle-click  †
+        3 	Large button right 	right-click
+        4 	(not a button) 	-
+        5 	(not a button) 	-
+        6 	(not a button) 	-
+        7 	(not a button) 	-
+        8 	Small button left 	browser back
+        9 	Small button right 	browser forward 
+        
+        Both large buttons pressed simultaneously creates a middle-click.
+        The simultaneous click is enabled by a configuration directive. It requires Emulate3buttons. 
+        </code></pre>
+        
+        <pre><code>Alternative: apply settings via xinput
+        xinput set-button-map "Logitech USB Trackball" 1 2 3 4 5 6 7 8 9
+        xinput set-int-prop "Logitech USB Trackball" "Evdev Wheel Emulation Button" 8 8
+        xinput set-int-prop "Logitech USB Trackball" "Evdev Wheel Emulation" 8 1
+        xinput set-int-prop "Logitech USB Trackball" "Evdev Wheel Emulation Axes" 8 6 7 4 5
+        xinput set-int-prop "Logitech USB Trackball" "Evdev Wheel Emulation X Axis" 8 6
+        xinput set-int-prop "Logitech USB Trackball" "Evdev Drag Lock Buttons" 8 9
+        
+          You can check what you have made via:
+        xinput list-props "Logitech USB Trackball"
+        </code></pre>
+        
+        <h1 id="research">Research</h1>
+        
+        <ul>
+          <li><a href="http://blog.karssen.org/2010/09/11/linux-the-logitech-trackman-marble-and-emulating-a-scroll-wheel/">Lennart’s weblog - Logitech Trackman Marble emulating scroll wheel</a></li>
+          <li><a href="http://superuser.com/questions/374504/configure-a-trackball-under-linux-without-editing-xorg-conf">superuser - Configure a trackball under Linux</a></li>
+          <li><a href="https://help.ubuntu.com/community/Logitech_Marblemouse_USB">ubuntu community - Logitech_Marblemouse_USB</a></li>
+          <li><a href="https://wiki.archlinux.org/index.php/Logitech_Marble_Mouse">archlinux - Logitech Marble Mouse</a></li>
+          <li><a href="http://askubuntu.com/questions/66253/how-to-configure-logitech-marble-trackball">ubuntu questions - How to configure Logitech Marble trackball</a></li>
+          <li><a href="http://www.robmeerman.co.uk/unix/xinput">RobMerrman - XInput: Scroll-Wheel Emulation on a 4-button Marble Mouse</a></li>
+        </ul>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

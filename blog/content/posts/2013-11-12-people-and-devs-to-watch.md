@@ -21,6 +21,8 @@ tags:
 * [Aaron Toponce - system administrator writes about cryptography/encryption and web-based standards](https://pthree.org/)
 * [Mark Miller - tekkie](http://tekkie.wordpress.com/)
 * [Perfection Kills by kangax](http://perfectionkills.com/)
+* [Dr. Nic](http://drnicwilliams.com/)
+* [Brian Tanaka](http://www.briantanaka.com/useful_stuff)
 
 # People of interest
 
