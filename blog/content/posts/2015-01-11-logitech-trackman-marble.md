@@ -36,6 +36,11 @@ xinput set-int-prop "Logitech USB Trackball" "Evdev Drag Lock Buttons" 8 9
 xinput list-props "Logitech USB Trackball"
 ~~~~~~~~~~~~~
 
+# x tools
+
+* Package: xinput (1.6.1-1) 
+* Package: xautomation (1.09-1) 
+* Package: xbindkeys (1.8.6-1) 
 
 # Research
 
@@ -46,4 +51,7 @@ xinput list-props "Logitech USB Trackball"
 * [archlinux - Logitech Marble Mouse](https://wiki.archlinux.org/index.php/Logitech_Marble_Mouse)
 * [ubuntu questions - How to configure Logitech Marble trackball](http://askubuntu.com/questions/66253/how-to-configure-logitech-marble-trackball)
 * [RobMerrman - XInput: Scroll-Wheel Emulation on a 4-button Marble Mouse](http://www.robmeerman.co.uk/unix/xinput)
+* [stackexchange - control the mouse wheel resolution in Debian?](http://unix.stackexchange.com/questions/30401/is-there-a-way-to-control-the-mouse-wheel-resolution-in-debian)
+
+
 
