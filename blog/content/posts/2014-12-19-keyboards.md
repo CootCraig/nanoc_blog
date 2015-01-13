@@ -64,6 +64,8 @@ bang for your buck
 
 ## Research
 
+### [ergoemacs.org - keyboards](http://ergoemacs.org/emacs/emacs_keys_index.html)
+
 ### [keyboardco - An introduction to Cherry MX mechanical switches](http://www.keyboardco.com/blog/index.php/2012/12/an-introduction-to-cherry-mx-mechanical-switches/)
 
 December 7, 2012 by William Judd

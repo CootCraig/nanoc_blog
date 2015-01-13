@@ -19,6 +19,18 @@ tags:
 * 1-5 Genesis 13-15, Matthew 5:1-26
 * 1-6 Genesis 16-17, Matthew 5:27-48
 
+# [About the M'Cheyne Bible reading plan](http://www.edginet.org/mcheyne/info.html)
+
+## [Carson 2 year reading plan - pdf](http://www.edginet.org/mcheyne/year_carson_letter.pdf)
+
+Carson suggests that the reader proceeds at half the rate of the M'Cheyne
+version: he takes just two of the four M'Cheyne readings each day,
+which is somewhat more manageable. So it takes the reader through the
+New Testament and Psalms every year, and the Old Testament every two
+years. I usually follow this scheme.
+
+### [D. A. Carson - For the Love of God](http://www.crossway.org/books/for-the-love-of-god-tpb-1/)
+
 # Plans at ligonier.org
 
 * [ligonier.org - bible-reading-plans](http://www.ligonier.org/blog/bible-reading-plans/)
