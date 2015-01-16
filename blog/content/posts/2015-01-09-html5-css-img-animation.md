@@ -68,3 +68,94 @@ This article focuses on the layout of content within a page, but the
 same rules can be applied for layout of the website itself. We start
 with the simplest case and work towards the more complicated.
 
+## [justinaguilar.com - CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/)
+
+The CSS3 Animation Cheat Sheet is a set of preset, plug-and-play
+animations for your web projects. All you need to do is add the stylesheet
+to your website and apply the premade CSS classes to the elements you
+want animated.
+
+The CSS3 Animation Cheat Sheet uses CSS3 @keyframes and works on all the
+latest browsers (that's IE 10). Using CSS3 @keyframes, you don't have
+to worry about positioning the element to accomodate the animations -
+it will animate into place. Also for users with older browsers, the
+animated element will be visible and in place, even if the animation
+doesn't trigger. Below are instructions on how to get started.
+
+## [robots.thoughtbot - CSS Animation for Beginners](http://robots.thoughtbot.com/css-animation-for-beginners)
+
+In this post we’re going to walk through the basics of CSS
+animation. You can follow along and view the CSS code for the example
+animations in this post.
+
+## [davidwalsh.name - Detecting CSS Animation Completion with JavaScript](http://davidwalsh.name/css-animation-callback)
+
+The only reason this is a somewhat involved task at this point is the
+need to account for browser prefixes.  The transitionend event and
+animationend is what standardized browsers require but WebKit-based
+browsers still rely on prefixes so we have to determine the prefix for
+the event, then apply it:
+
+Imagine how much in JavaScript code you can save by avoiding a JavaScript
+library for this.  The duration, fill-mode, and delay can all be set
+via CSS, so your JavaScript stays lightweight.  Major win!
+
+## [Mozilla CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+Cascading Style Sheets, most of the time abbreviated as CSS, is a
+stylesheet language used to describe the presentation of a document
+written in HTML or XML (including various XML languages like SVG or
+XHTML). CSS describes how the structured element must be rendered on
+screen, on paper, in speech, or on other media.
+
+## [elated.com - Removing, Replacing and Moving Elements in jQuery](http://www.elated.com/articles/jquery-removing-replacing-moving-elements/)
+
+Tutorial by Matt Doyle Published on 8 June 2010
+
+Learn how to use jQuery to easily remove elements from the page, replace
+elements, and move elements around.
+
+
+## [quackit.com - css page](http://www.quackit.com/css/)
+
+CSS (Cascading Style Sheets) allows web authors to apply styles to their
+web pages. More importantly, CSS enables them to do this independently
+of the HTML that makes up each web page.
+
+Therefore, as a web author, you can code your HTML without having to
+be concerned with what each HTML element is going to look like. You can
+change the look later using CSS.
+
+You'll find a wealth of information about CSS right here on Quackit. Read
+the CSS Tutorial, learn all the CSS properties that you can use, or just
+go straight to the code for some good old "cut & paste"!
+
+## [jQuery-Keyframes at github](https://github.com/jQueryKeyframes/jQuery.Keyframes)
+
+jQuery-Keyframes allows dynamic generation of CSS3 keyframes with callback
+events and other niceness.  Overview
+
+With the rise of CSS3 and HTML5, we see more and more usage of fancy
+features like transformations, translations, rotations and scaling. jQuery
+has a very nice built in $(selector).animate() function which allows
+for easy setup of these animations. However, jQuery's animate() does
+not support multiple keyframes. jQuery.Keyframes helps you accomplish
+just that.
+
+### [jQueryKeyframes plugin Keyframes.Pathfinder](https://github.com/jQueryKeyframes/Keyframes.Pathfinder)
+
+This plugin for jQuery.Keyframes generates complex movement paths.
+
+### [jQueryKeyframes plugin Keyframes.Spritesheet](https://github.com/jQueryKeyframes/Keyframes.Spritesheet)
+
+Keyframes.Spritesheet is a plugin for jQuery.Keyframes that easily
+generates css3 keyframes for elements using animated spritesheets.
+
+## [stylie CSS animation page](http://jeremyckahn.github.io/stylie/)
+
+CSS animation made easy!
+
+Stylie is a fun tool for easily creating CSS 3 animations. Quickly design
+your animation graphically, grab the generated CSS and go!
+
+

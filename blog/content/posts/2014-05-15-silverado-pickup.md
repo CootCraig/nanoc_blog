@@ -1,40 +1,30 @@
 ---
-title: "Debian Virtualbox Host"
+title: "Silverado Pickup"
 created_at: Thu May  15 15:26:31 MDT 2014
 kind: article
-tags: [ 'pickup' ]
+tags:
+  - pickup
+  - silverado
 ---
 
-A friend is selling his 2002 Chevrolet 1500 extended cab 4x4.
-It's in great condition and I would like to use it with a
-slide in camper eventually.  It comes with a matching truck
-cap that will get me started using it for off-pavement camping.
+# Rack System for cap
 
-My desired uses are.
+## Yakima Side Loader Brackets
 
-Mild weather (above freezing) on public land off-pavement roads.
+* [ORS Racks Direct - Yakima Side Loader Brackets](http://www.orsracksdirect.com/yakima-8008002.html)
+* [Rack Attack - Yakima Side Loader Brackets](http://www.rackattack.com/product-pages/yakima-side-loader-bracket.asp)
 
-Winter camping near ski areas. 
-* Desire good insulation and furnace.
-* Prefer portable drinking water and grey water containers over
-  winterized tanks.
+* Works with 1A Raingutter Towers only.
+* The most common bracket used - needs little space to work.
+* Mounts with holes drilled to the side of fiberglass truck canopies.
+* Sold in pairs w/ hardware.
 
-Stealth camping in urban setting to visit family and friends.
-* My thinking is hard sides and no obvious indicators of people
-  inside will minimize hassles.
+# Research
 
-Given the short bed and the relatively low weight capacity of
-the Chevy 1500 my thought is one of these models: Importer,
-Acapulco or Bayou.
-
-Looking over this forum, I think the plans can adapted to fit
-this truck and my intended uses.  I will do some looking at used
-campers to look for one that has suitable price/condition/features
-for me.
-
-I welcome comments from the forum.
-
-Thanks,
-Craig
-
+* [Proline Racks Online Store](http://www.prolineracks.com/)
+* [Proline Safari Roof Basket Racks RB4045](http://www.prolineracks.com/Proline-safari-roof-racks.html)
+* [SportRack Skyline XL Cargo Box](http://www.sportrack.com/p/skyline-xl-cargo-box?pp=24)
+* [etrailer - SportRack Skyline XL Cargo Box](http://www.etrailer.com/Roof-Cargo-Carrier/SportRack/SR7095.html)
+* [Yakima KeelOver Canoe Car Roof Rack  8004069 with Straps](http://www.prolineracks.com/yakima-keelover-canoe-rack-8004069.html)
+* [Thule 530 Quick Loop Straps](http://www.orsracksdirect.com/thule-530-quick-loop-strap.html)
 

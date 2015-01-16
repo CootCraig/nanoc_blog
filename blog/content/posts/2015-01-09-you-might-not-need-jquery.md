@@ -1,5 +1,5 @@
 ---
-title: "You Might Not Need Javascript"
+title: "You Might Not Need jQuery"
 created_at: Fri Jan  9 12:26:52 MST 2015
 kind: article
 tags:
@@ -7,7 +7,7 @@ tags:
   - javascript
 ---
 
-# [You might not need jQuery](http://youmightnotneedjquery.com/)
+### [You might not need jQuery](http://youmightnotneedjquery.com/)
 
 jQuery and its cousins are great, and by all means use them if it makes
 it easier to develop your application.
