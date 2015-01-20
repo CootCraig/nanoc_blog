@@ -157,11 +157,11 @@
         not support multiple keyframes. jQuery.Keyframes helps you accomplish
         just that.</p>
         
-        <h3 id="jquerykeyframes-plugin-keyframespathfinderhttpsgithubcomjquerykeyframeskeyframespathfinder"><a href="https://github.com/jQueryKeyframes/Keyframes.Pathfinder">jQueryKeyframes plugin Keyframes.Pathfinder</a></h3>
+        <h4 id="jquerykeyframes-plugin-keyframespathfinderhttpsgithubcomjquerykeyframeskeyframespathfinder"><a href="https://github.com/jQueryKeyframes/Keyframes.Pathfinder">jQueryKeyframes plugin Keyframes.Pathfinder</a></h4>
         
         <p>This plugin for jQuery.Keyframes generates complex movement paths.</p>
         
-        <h3 id="jquerykeyframes-plugin-keyframesspritesheethttpsgithubcomjquerykeyframeskeyframesspritesheet"><a href="https://github.com/jQueryKeyframes/Keyframes.Spritesheet">jQueryKeyframes plugin Keyframes.Spritesheet</a></h3>
+        <h4 id="jquerykeyframes-plugin-keyframesspritesheethttpsgithubcomjquerykeyframeskeyframesspritesheet"><a href="https://github.com/jQueryKeyframes/Keyframes.Spritesheet">jQueryKeyframes plugin Keyframes.Spritesheet</a></h4>
         
         <p>Keyframes.Spritesheet is a plugin for jQuery.Keyframes that easily
         generates css3 keyframes for elements using animated spritesheets.</p>
@@ -172,6 +172,78 @@
         
         <p>Stylie is a fun tool for easily creating CSS 3 animations. Quickly design
         your animation graphically, grab the generated CSS and go!</p>
+        
+        <h2 id="w3schools---css3-animationshttpwwww3schoolscomcsscss3animationsasp"><a href="http://www.w3schools.com/css/css3_animations.asp">w3schools - CSS3 Animations</a></h2>
+        
+        <p>CSS3 animations can replace animations created by Flash and JavaScript
+        in existing web pages.</p>
+        
+        <h2 id="mozillaorg---using-css-animationshttpsdevelopermozillaorgen-usdocswebguidecssusingcssanimations"><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations">mozilla.org - Using CSS Animations</a></h2>
+        
+        <p>CSS animations make it possible to animate transitions from one CSS
+        style configuration to another. Animations consist of two components, a
+        style describing the CSS animation and a set of keyframes that indicate
+        the start and end states of the animation’s style, as well as possible
+        intermediate waypoints along the way.</p>
+        
+        <h2 id="rekapihttprekapicom"><a href="http://rekapi.com/">rekapi</a></h2>
+        
+        <p>A keyframe animation library for JavaScript</p>
+        
+        <h4 id="rekapi-at-githubhttpsgithubcomjeremyckahnrekapi"><a href="https://github.com/jeremyckahn/rekapi/">rekapi at github</a></h4>
+        
+        <h2 id="speech-bubbles">Speech Bubbles</h2>
+        
+        <h3 id="sitepoint---craig-buckler---how-to-create-css3-speech-bubbles-without-imageshttpwwwsitepointcompure-css3-speech-bubbles"><a href="http://www.sitepoint.com/pure-css3-speech-bubbles/">sitepoint - Craig Buckler - How to Create CSS3 Speech Bubbles Without Images</a></h3>
+        
+        <p>CSS3 is starting to change our lives for the better. It’s now possible
+        to create a great looking speech bubble which works in all browsers,
+        uses a single HTML element, a few lines of CSS3 code, no images, and no
+        JavaScript whatsoever…</p>
+        
+        <h3 id="tupencecoui---speach-and-thought-bubbleshttpcssdemostupencecoukspeech-bubbleshtm"><a href="http://cssdemos.tupence.co.uk/speech-bubbles.htm">tupence.co.ui - Speach and Thought Bubbles</a></h3>
+        
+        <p>Use CSS3 border-radius, gradients and shadows, together the :before and
+        :after pseudo elements, to create speech and thought bubbles with no
+        need for images.</p>
+        
+        <h2 id="css-trickscom---code-snippets---keycodeshttpcss-trickscomsnippetsjavascriptjavascript-keycodes"><a href="http://css-tricks.com/snippets/javascript/javascript-keycodes/">css-tricks.com - Code Snippets - keyCodes</a></h2>
+        
+        <pre><code>jQuery code
+        $("#textinput").keydown(function(e) {
+            e.keyCode; // this value
+        });
+        </code></pre>
+        
+        <pre><code>jQuery code
+        $('body').keyup(function(e){
+           if(e.keyCode == 8){
+               // user has pressed backspace
+               array.pop();
+           }
+           if(e.keyCode == 32){
+               // user has pressed space
+               array.push('');
+           }
+        });
+        </code></pre>
+        
+        <pre><code>jQuery code
+        $(document).ready( function() {
+          $('#inputid').bind('keypress', function(e) {
+            //space bar
+            if (e.which == 32){
+              e.preventDefault();
+              alert('space');
+            }
+            //backspace
+            if (e.which == 8) {
+              e.preventDefault();
+              alert('back space');
+            }
+          });
+        });
+        </code></pre>
       </article>
     </div>
   </div>

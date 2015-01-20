@@ -142,11 +142,11 @@ for easy setup of these animations. However, jQuery's animate() does
 not support multiple keyframes. jQuery.Keyframes helps you accomplish
 just that.
 
-### [jQueryKeyframes plugin Keyframes.Pathfinder](https://github.com/jQueryKeyframes/Keyframes.Pathfinder)
+#### [jQueryKeyframes plugin Keyframes.Pathfinder](https://github.com/jQueryKeyframes/Keyframes.Pathfinder)
 
 This plugin for jQuery.Keyframes generates complex movement paths.
 
-### [jQueryKeyframes plugin Keyframes.Spritesheet](https://github.com/jQueryKeyframes/Keyframes.Spritesheet)
+#### [jQueryKeyframes plugin Keyframes.Spritesheet](https://github.com/jQueryKeyframes/Keyframes.Spritesheet)
 
 Keyframes.Spritesheet is a plugin for jQuery.Keyframes that easily
 generates css3 keyframes for elements using animated spritesheets.
@@ -158,4 +158,78 @@ CSS animation made easy!
 Stylie is a fun tool for easily creating CSS 3 animations. Quickly design
 your animation graphically, grab the generated CSS and go!
 
+## [w3schools - CSS3 Animations](http://www.w3schools.com/css/css3_animations.asp)
+
+CSS3 animations can replace animations created by Flash and JavaScript
+in existing web pages.
+ 
+## [mozilla.org - Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations)
+
+CSS animations make it possible to animate transitions from one CSS
+style configuration to another. Animations consist of two components, a
+style describing the CSS animation and a set of keyframes that indicate
+the start and end states of the animation's style, as well as possible
+intermediate waypoints along the way.
+
+## [rekapi](http://rekapi.com/)
+
+A keyframe animation library for JavaScript
+
+#### [rekapi at github](https://github.com/jeremyckahn/rekapi/)
+
+## Speech Bubbles
+
+### [sitepoint - Craig Buckler - How to Create CSS3 Speech Bubbles Without Images](http://www.sitepoint.com/pure-css3-speech-bubbles/)
+
+CSS3 is starting to change our lives for the better. It’s now possible
+to create a great looking speech bubble which works in all browsers,
+uses a single HTML element, a few lines of CSS3 code, no images, and no
+JavaScript whatsoever…
+
+### [tupence.co.ui - Speach and Thought Bubbles](http://cssdemos.tupence.co.uk/speech-bubbles.htm)
+
+Use CSS3 border-radius, gradients and shadows, together the :before and
+:after pseudo elements, to create speech and thought bubbles with no
+need for images.
+
+## [css-tricks.com - Code Snippets - keyCodes](http://css-tricks.com/snippets/javascript/javascript-keycodes/)
+
+~~~~~~~~~~~~
+jQuery code
+$("#textinput").keydown(function(e) {
+    e.keyCode; // this value
+});
+~~~~~~~~~~~~
+
+~~~~~~~~~~~~
+jQuery code
+$('body').keyup(function(e){
+   if(e.keyCode == 8){
+       // user has pressed backspace
+       array.pop();
+   }
+   if(e.keyCode == 32){
+       // user has pressed space
+       array.push('');
+   }
+});
+~~~~~~~~~~~~
+
+~~~~~~~~~~~~
+jQuery code
+$(document).ready( function() {
+  $('#inputid').bind('keypress', function(e) {
+    //space bar
+    if (e.which == 32){
+      e.preventDefault();
+      alert('space');
+    }
+    //backspace
+    if (e.which == 8) {
+      e.preventDefault();
+      alert('back space');
+    }
+  });
+});
+~~~~~~~~~~~~
 

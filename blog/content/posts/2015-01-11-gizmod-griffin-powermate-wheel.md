@@ -6,6 +6,10 @@ tags:
   - vim
 ---
 
+# Compiling gizmod
+
+## [ubuntu - Source edits needed to compile](https://help.ubuntu.com/community/GizmodIn11.10and12.04)
+
 # Research
 
 * [Griffin Powermate at Amazon](http://www.amazon.com/Griffin-Technology-NA16029-Multimedia-Controller/dp/B003VWU2WA/)
