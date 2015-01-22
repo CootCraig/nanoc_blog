@@ -31,9 +31,9 @@
         
         <h2 id="overview">Overview</h2>
         
-        <p>https://www.virtualbox.org/manual/</p>
+        <h4 id="virtualboxorg---manualhttpswwwvirtualboxorgmanual"><a href="https://www.virtualbox.org/manual/">virtualbox.org - manual/</a></h4>
         
-        <p>https://blogs.oracle.com/virtualization/entry/new_commercial_license_for_oracle</p>
+        <h4 id="blogsoraclecom---new-commercial-license-for-oraclehttpsblogsoraclecomvirtualizationentrynewcommerciallicensefororacle"><a href="https://blogs.oracle.com/virtualization/entry/new_commercial_license_for_oracle">blogs.oracle.com - new commercial license for oracle</a></h4>
         
         <ul>
           <li>Oracle VM VirtualBox Enterprise - Named User Plus - $50 per named user</li>
@@ -44,63 +44,57 @@
         
         <h1 id="how-to-autostart-vms">How to autostart vms</h1>
         
-        <h2 id="good-guide-to-setting-up-autostart">Good guide to setting up autostart</h2>
+        <h4 id="forumsvirtualboxorg---start-vms-at-boot-new-in-420httpsforumsvirtualboxorgviewtopicphpf11t51529"><a href="https://forums.virtualbox.org/viewtopic.php?f=11&amp;t=51529">forums.virtualbox.org - Start VMs at boot (new in 4.2.0)</a></h4>
         
-        <p>http://lifeofageekadmin.com/how-to-set-your-virtualbox-vm-to-automatically-startup/</p>
+        <h4 id="lifeofageekadmin---good-guide-to-setting-up-autostarthttplifeofageekadmincomhow-to-set-your-virtualbox-vm-to-automatically-startup"><a href="http://lifeofageekadmin.com/how-to-set-your-virtualbox-vm-to-automatically-startup/">lifeofageekadmin - Good guide to setting up autostart</a></h4>
         
-        <h2 id="log">Log</h2>
+        <h1 id="log">Log</h1>
         
         <p>First you need to create the file /etc/default/virtualbox and add a
         few variables.</p>
         
-        <pre><code>
+        <pre><code>/etc/default/virtualbox
         VBOXAUTOSTART_DB=/etc/vbox
         VBOXAUTOSTART_CONFIG=/etc/vbox/vbox.cfg
         </code></pre>
         
-        <p>Create the file /etc/vbox/vbox.cfg</p>
+        <p>Create the file /etc/vbox/vbox.cfg
+        With one line.</p>
         
-        <pre><code>
-        root# mkdir /etc/vbox
-        </code></pre>
-        
-        <p>With one line.</p>
-        
-        <pre><code>
+        <pre><code>/etc/vbox/vbox.cfg
         default_policy = allow
         </code></pre>
         
         <p>Set permissions on directory to the vboxuser group and make sure users
         can write to the directory as well as sticky bit.</p>
         
-        <pre><code>
-        root# chgrp vboxusers /etc/vbox
-        root# chmod 1775 /etc/vbox
+        <pre><code>Set permissions and mode on /etc/vbox
+        chgrp vboxusers /etc/vbox
+        chmod 1775 /etc/vbox
         </code></pre>
         
         <p>Add administrator to the vboxusers group.</p>
         
-        <pre><code>
-        root# groups administrator
+        <pre><code>Add administrator to the vboxusers group.
+        groups administrator
         administrator : administrator sudo
         
-        root# usermod -a -G vboxusers administrator
+        usermod -a -G vboxusers administrator
         
-        root# groups administrator
+        groups administrator
         administrator : administrator sudo vboxusers
         </code></pre>
         
         <p>Every user who wants to enable autostart for individual machines has to
         set the path to the autostart database directory with</p>
         
-        <pre><code>
-        administrator$ VBoxManage setproperty autostartdbpath /etc/vbox
+        <pre><code>VBoxManage setproperty autostartdbpath /etc/vbox
         </code></pre>
         
         <p>List the vms</p>
         
         <pre><code>
-        administrator$ VBoxManage list vms
+        VBoxManage list vms
         "craigdeb" {0e7bca8b-b552-4ebb-9e39-bb1f6fb19d5c}
         </code></pre>
         
@@ -110,14 +104,6 @@
         
         <pre><code>
         root# update-rc.d virtualbox defaults
-        </code></pre>
-        
-        <h2 id="after-log-place-holder">After log place holder</h2>
-        
-        <p><img src="/assets/images/rhombic_diagram_with_angle.png" /></p>
-        
-        <pre><code>
-        code
         </code></pre>
       </article>
     </div>

@@ -9,75 +9,74 @@ tags: [ 'vm_host', 'linux', 'debian', 'virtualbox' ]
 
 ## Overview
 
-https://www.virtualbox.org/manual/
+#### [virtualbox.org - manual/](https://www.virtualbox.org/manual/)
 
-https://blogs.oracle.com/virtualization/entry/new_commercial_license_for_oracle
+#### [blogs.oracle.com - new commercial license for oracle](https://blogs.oracle.com/virtualization/entry/new_commercial_license_for_oracle)
 
 * Oracle VM VirtualBox Enterprise - Named User Plus - $50 per named user
 * Oracle's standard processor licensing, $1,000 per processor socket
-
 
 # Setting up the host box.
 
 # How to autostart vms
 
-## Good guide to setting up autostart
+#### [forums.virtualbox.org - Start VMs at boot (new in 4.2.0)](https://forums.virtualbox.org/viewtopic.php?f=11&t=51529)
 
-http://lifeofageekadmin.com/how-to-set-your-virtualbox-vm-to-automatically-startup/
+#### [lifeofageekadmin - Good guide to setting up autostart](http://lifeofageekadmin.com/how-to-set-your-virtualbox-vm-to-automatically-startup/)
 
-## Log
+
+# Log
 
 First you need to create the file /etc/default/virtualbox and add a
 few variables.
 
-<pre><code>
+~~~~~~~~~~~~~~
+/etc/default/virtualbox
 VBOXAUTOSTART_DB=/etc/vbox
 VBOXAUTOSTART_CONFIG=/etc/vbox/vbox.cfg
-</code></pre>
+~~~~~~~~~~~~~~
 
 Create the file /etc/vbox/vbox.cfg
-
-<pre><code>
-root# mkdir /etc/vbox
-</code></pre>
-
 With one line.
 
-<pre><code>
+~~~~~~~~~~~~~~
+/etc/vbox/vbox.cfg
 default_policy = allow
-</code></pre>
+~~~~~~~~~~~~~~
 
 Set permissions on directory to the vboxuser group and make sure users
 can write to the directory as well as sticky bit.
 
-<pre><code>
-root# chgrp vboxusers /etc/vbox
-root# chmod 1775 /etc/vbox
-</code></pre>
+~~~~~~~~~~~~~~
+Set permissions and mode on /etc/vbox
+chgrp vboxusers /etc/vbox
+chmod 1775 /etc/vbox
+~~~~~~~~~~~~~~
 
 Add administrator to the vboxusers group.
 
-<pre><code>
-root# groups administrator
+~~~~~~~~~~~~~~
+Add administrator to the vboxusers group.
+groups administrator
 administrator : administrator sudo
 
-root# usermod -a -G vboxusers administrator
+usermod -a -G vboxusers administrator
 
-root# groups administrator
+groups administrator
 administrator : administrator sudo vboxusers
-</code></pre>
+~~~~~~~~~~~~~~
 
 Every user who wants to enable autostart for individual machines has to
 set the path to the autostart database directory with
 
-<pre><code>
-administrator$ VBoxManage setproperty autostartdbpath /etc/vbox
-</code></pre>
+~~~~~~~~~~~~~~
+VBoxManage setproperty autostartdbpath /etc/vbox
+~~~~~~~~~~~~~~
 
 List the vms
 
 <pre><code>
-administrator$ VBoxManage list vms
+VBoxManage list vms
 "craigdeb" {0e7bca8b-b552-4ebb-9e39-bb1f6fb19d5c}
 </code></pre>
 
@@ -89,11 +88,4 @@ administrator$ VBoxManage modifyvm craigdeb --autostart-enabled on
 root# update-rc.d virtualbox defaults
 </code></pre>
 
-## After log place holder
-
-<img src="/assets/images/rhombic_diagram_with_angle.png" >
-
-<pre><code>
-code
-</code></pre>
 

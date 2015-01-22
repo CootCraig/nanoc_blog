@@ -33,11 +33,14 @@ xrandr --output HDMI3 ...
 
 ### And the xinput commands
 
+* Scroll-click is right small button
+* Scroll emulation is left small button
+
 ~~~~~~~~~~~~~
 xinput commands
 xinput --set-button-map "Logitech USB Trackball" 1 9 3 4 5 6 7 8 2
-xinput --set-prop "Logitech USB Trackball" "Evdev Wheel Emulation Button" 8 8
 xinput set-int-prop "Logitech USB Trackball" "Evdev Wheel Emulation" 8 1 
+xinput set-int-prop "Logitech USB Trackball" "Evdev Wheel Emulation Button" 8 8
 xinput set-int-prop "Logitech USB Trackball" "Evdev Wheel Emulation Axes" 8 6 7 4 5 
 ~~~~~~~~~~~~~
 
