@@ -6,6 +6,12 @@ tags: [ 'email', 'thunderbird' ]
 ---
 
 
-## research links
+# Keyboarding Thunderbird
+
+* [mozilla.org - Keyboard Shortcuts TB](https://support.mozilla.org/en-US/kb/keyboard-shortcuts)
+* [mozillazine - Keyconfig extension](http://kb.mozillazine.org/Keyconfig_extension)
+
+
+# research links
 
 

@@ -5,6 +5,14 @@ kind: article
 tags: [ 'vm_host', 'linux', 'debian', 'virtualbox' ]
 ---
 
+~~~~~~~~~~~~~~
+Some vboxmanage commands
+vboxmanage list vms
+vboxmanage list runningvms
+vboxmanage showvminfo vmname --details
+vboxmanage startvm --type headless
+~~~~~~~~~~~~~~
+
 # Notes on setting up a Debian Virtualbox host for my employer
 
 ## Overview
