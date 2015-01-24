@@ -80,10 +80,21 @@ vboxmanage list vms
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
-VBoxManage modifyvm craigdeb --autostart-enabled on
+Enable autostart with vboxmanage
+VBoxManage startvm Gitlab --type headless
+VBoxManage modifyvm Gitlab --autostart-enabled on
+service vboxautostart-service restart
 ~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~
 update-rc.d virtualbox defaults
+~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~
+vboxmanage showvminfo --details Gitlab
+ ...
+Autostart Enabled: off
+Autostart Delay: 0
+ ...
 ~~~~~~~~~~~~~~
 
