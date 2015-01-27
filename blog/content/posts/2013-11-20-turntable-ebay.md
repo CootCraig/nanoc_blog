@@ -12,6 +12,23 @@ tags: [ 'turntable','ebay']
 * technics 1700 mk
 * Denon DP-30L II
 * pioneer pl-400
+* Kenwood KD-3070
+* Pioneer PL-630
+
+# Curious on audioasylum
+
+* [Curious on audioasylum](http://www.audioasylum.com/audio/vinyl/messages/110/1101290.html)
+
+Go to hifishark.Com
+
+Enter "Kenwood KD-3070", or "Pioneer PL-630".
+
+Look for the best attainable examples of these tables at your
+budget. Shouldn't be a difficult thing to do. They are solidly built,
+direct drive tables that are vastly superior to ANY new table below
+$600.00 bucks that you'll find. Period.
+
+You'll thank me later. 
 
 ### consider
 

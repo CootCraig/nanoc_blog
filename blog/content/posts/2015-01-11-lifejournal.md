@@ -9,6 +9,8 @@ tags:
 
 # [Life Journal old/new plan today](https://www.biblegateway.com/reading-plans/old-new-testament/today)
 
+* Jan 24 - Gn 25; Mt 24; Esth 1; Act 24
+* Jan 25 - Gn 26; Mt 25; Esth 2; Act 25
 
 # [Life Journal old/new plan 2015/01/01](https://www.biblegateway.com/reading-plans/old-new-testament/2015/01/01?version=NIV)
 

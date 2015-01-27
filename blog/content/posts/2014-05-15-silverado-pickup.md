@@ -17,6 +17,8 @@ tags:
 
 * [Oak Orchard Canoe](http://www.oakorchardcanoe.com/racks.php)
 
+#### [orsracksdirect.com - 66 inch yakima bar $89](http://www.orsracksdirect.com/yakima-8000410.html)
+
 
 ## Yakima Side Loader Brackets
 
@@ -27,6 +29,20 @@ tags:
 * The most common bracket used - needs little space to work.
 * Mounts with holes drilled to the side of fiberglass truck canopies.
 * Sold in pairs w/ hardware.
+
+# Camping in Pickup bed
+
+#### [desktodirtbag - Living in the back of your pickup](http://www.desktodirtbag.com/pickup-truck-camping/)
+
+#### [desktodirtbag - video](https://www.youtube.com/watch?v=NBOZXgU6j_I)
+
+# Pickup bed slide out
+
+#### [finehomebuilding.com - Sliding Truck-Bed Drawer](http://www.finehomebuilding.com/item/15265/build-this-sliding-truck-bed-drawer-and-get-easy-access-to-all-your-tools)
+
+#### [sunlineclub.com - home made bedslide](http://www.sunlineclub.com/forums/f65/home-made-bedslide-9084.html)
+
+
 
 # Research
 

@@ -32,3 +32,9 @@ _inch below below elbow, minus keyboard height sounds right_
 * keyboard is 1.5" high
 * So 40 - (1.5 + 1.0) = 37.5"
 
+# Construction Idea
+
+#### [hammerzone.com - A Cheap And Sturdy Workbench For About $20](http://www.hammerzone.com/archives/workshop/bench/below20xl.html)
+
+
+
