@@ -88,10 +88,20 @@
         "FOG" {c8fd1830-2165-4246-8219-35d06b15dbc3}
         </code></pre>
         
-        <pre><code>VBoxManage modifyvm craigdeb --autostart-enabled on
+        <pre><code>Enable autostart with vboxmanage
+        VBoxManage startvm Gitlab --type headless
+        VBoxManage modifyvm Gitlab --autostart-enabled on
+        service vboxautostart-service restart
         </code></pre>
         
         <pre><code>update-rc.d virtualbox defaults
+        </code></pre>
+        
+        <pre><code>vboxmanage showvminfo --details Gitlab
+         ...
+        Autostart Enabled: off
+        Autostart Delay: 0
+         ...
         </code></pre>
       </article>
     </div>
