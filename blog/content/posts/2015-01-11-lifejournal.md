@@ -7,10 +7,31 @@ tags:
   - bible_reading_plan
 ---
 
+#### Robert Murray M’Cheyne [plan](http://www.edginet.org/mcheyne/year_classic_single_letter.pdf)
+
+#### [local copy](/assets/pdf/year_classic_single_letter.pdf)
+
+## Robert Murray M’Cheyne Reading
+
+* Jan 27 - Gn 28; Mt 27; Esth 4; Act 27
+* Jan 28 - Gn 29; Mt 28; Esth 5; Act 28
+* Jan 29 - Gn 30; Mk 1; Esth 6; Ro 1
+
+#### Photographs of Bible places at [bibleplaces.com](http://www.bibleplaces.com)
+
+#### [Map page](http://www.bible-history.com/maps/) at bible-history.com
+
+#### NT Israel [map](http://www.bible-history.com/geography/ancient-israel/nt_israel-flat.jpg) from bible-history.com
+
+<img src="/assets/images/nt_israel-flat.jpg" width="560px" >
+
+#### Old Testament Israel [Map](http://www.bible-history.com/geography/ancient-israel/ot_israel-flat.jpg)
+
+<img src="/assets/images/ot_israel-flat.jpg" width="560px" >
+
+
 # [Life Journal old/new plan today](https://www.biblegateway.com/reading-plans/old-new-testament/today)
 
-* Jan 24 - Gn 25; Mt 24; Esth 1; Act 24
-* Jan 25 - Gn 26; Mt 25; Esth 2; Act 25
 
 # [Life Journal old/new plan 2015/01/01](https://www.biblegateway.com/reading-plans/old-new-testament/2015/01/01?version=NIV)
 
