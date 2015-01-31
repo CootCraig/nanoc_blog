@@ -67,5 +67,39 @@ tags:
 
 # Woodworders to watch
 
+#### [Jay Bates](http://jayscustomcreations.com/)
+
 #### [Matthias Wandel](http://woodgears.ca/)
+
+
+# Work Site Table Saw
+
+* price
+* dado blade
+
+
+Ryobi RTS10G
+$129 at home depot
+
+Ridgid P4516
+$199 at home depot
+
+Ryobi RTS21
+$199 at home depot
+
+Skil 3410-02
+$219 at Home Depot
+
+Ridgid R4513
+$499
+
+Bosch GTS1031 10-Inch Portable Jobsite Table Saw
+$379
+
+Bosch TS1013 Dado Cutter Insert GTS1031
+$15.10
+
+
+DEWALT DWE7480XA 10-Inch
+$379 at home depot
 
