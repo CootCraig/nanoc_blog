@@ -69,6 +69,9 @@ tags:
 
 #### [Jay Bates](http://jayscustomcreations.com/)
 
+* [Make An Easy Display Cabinet - 117](https://www.youtube.com/watch?v=cdELkq1Jcts)
+
+
 #### [Matthias Wandel](http://woodgears.ca/)
 
 #### [This is Carpentry site](http://www.thisiscarpentry.com/)
@@ -227,8 +230,87 @@ $132 as Amazon
 
 #### [lumberjocks - Patrick Irish - Bosch 4100 CrossCut Sled](http://lumberjocks.com/topics/44726)
 
-
-
 ## blades
 
+
+# Commercial Jigs
+
+#### [garrettwade.com - Portable Drill Guide Jig](http://www.garrettwade.com/portable-drill-guide-jig/p/91G01.05/)
+
+# projects
+
+#### [Gene Lonergan - Making $10 Cabinet Doors](https://www.youtube.com/watch?v=LgEjdfpRZa4)
+
+#### [$13 Measure Pro - 35mm Bit with Marking Template](http://www.amazon.com/35mm-Bit-with-Marking-Template/dp/B0006NNNGO/)
+
+#### [$30 Harbor Freight Trim Router](http://www.harborfreight.com/1-4-quarter-inch-trim-router-44914.html)
+
+#### [$6.62 BRAINERD H811SMV-NP-C 35mm 5/8-Inch Euro 100Deg Face Frame](www.amazon.com/BRAINERD-H811SMV-NP-C-8-Inch-100Deg-Frame/dp/B000AYHZGI)
+
+#### [Hingemark hinge template](http://www.amazon.com/Hingmark-brand-Hingemark-framless-cabinets/dp/B004P3J234/)
+
+#### [Hettich Euro Concealed Cabinet Hinge](http://www.amazon.com/Concealed-Cabinet-Overlay-Degree-Opening/dp/B000KQ37OK/)
+
+#### [Woodworkweb - Making Doors with Euro Hinges](https://www.youtube.com/watch?v=s6DDstHg7Uo)
+
+#### [josephfusco.org - The Basics of Cabinet Making Part 1](https://www.youtube.com/watch?v=Apd_Hc5wr0s)
+
+# Craftsman Contractor Saw Rebuild
+
+#### [Table Saw Rebuild: Examining the saw!](https://www.youtube.com/watch?v=hfFpYti5GrY&list=PLSw6mhcLSL-N469GfhXetC4ViYybituJA)
+
+* [On Instructables](http://www.instructables.com/id/Rebuilding-a-Craftsman-Table-Saw-The-alternative-t/)
+
+#### [Craftsman Table Saw Improvements](https://www.youtube.com/watch?v=HlB9630Mhtc)
+ 
+#### [Kevin Roberts - Craftsman Rigid Table saw fixed](https://www.youtube.com/watch?v=iPGG-GyTV8E)
+
+#### [Contractor Table Saw Modifications](https://www.youtube.com/watch?v=bP-Ab0xc4iw)
+
+#### [Woodworking For Amateurs - How To Clean A Rusty Table Saw](https://www.youtube.com/watch?v=J2RGLO-QxG`4)
+
+#### [Jamey Saunders - Craftsman Table Saw Arbor Rebuild](https://www.youtube.com/watch?v=5p3s68HZPSQ)
+
+
+## Alternate rip fence
+
+Vega PRO 40 Table Saw Fence System With 42-Inch Fence Bar, 40-Inch to Right
+
+
+#### [Dale Penkala - Ripfence for Sears/Craftsman Tablesaw](http://www.woodcentral.com/woodworking/forum/archives.pl/bid/1001/md/read/id/435306/sbj/ripfence-for-sears-craftsman-tablesaw/)
+
+#### [Very Super Cool Tools - Standard T-Square For Cabinet Saws](http://vsctools.com/shop/table-saw-fence/)
+
+# Craigs List
+
+Tue Feb  3 09:42:32 MST 2015
+
+2jxsn-4872058916@sale.craigslist.org
+
+Question on table saw
+
+Is there a fence for the saw?
+No
+Is it currently in good working condition?
+Yes
+
+
+Craftsman table saw - $100 (Pueblo)
+
+http://pueblo.craigslist.org/tls/4872058916.html
+
+=============
+Westcliffe
+http://pueblo.craigslist.org/tls/4854004673.html
+email: tk9c2-4854004673@sale.craigslist.org
+
+I have a 10" table saw. Missing adjustment knobs and blade. Has surface
+rust like it has spent time down in the gulf or somewhere humid. Runs,
+just needs a few parts. Have fence and t-slot miter gauge. Great deal
+for the right person! - Ryan
+=============
+Barter
+http://cosprings.craigslist.org/bar/4864121586.html
+
+As is....Great piece, still in good running condition, ready to use. If interested text is preferred, just let us know what you have in working/running condition. Please NO computers or exercise equipment. Text 719661-4356 
 

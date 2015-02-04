@@ -13,11 +13,8 @@ tags:
 
 ## Robert Murray M’Cheyne Reading
 
-* Jan 27 - Gn 28; Mt 27; Esth 4; Act 27
-* Jan 28 - Gn 29; Mt 28; Esth 5; Act 28
-* Jan 29 - Gn 30; Mk 1; Esth 6; Ro 1
-* Jan 30 - Gn 31; Mk 2; Esth 7; Ro 2
-* Jan 31 - Gn 32; Mk 3; Esth 8; Ro 3
+* Feb 3 - Gn 35-36; Mk 6; Job 2; Ro 6
+* Feb 4 - Gn 37; Mk 7; Job 3; Ro 7
 
 #### Photographs of Bible places at [bibleplaces.com](http://www.bibleplaces.com)
 
