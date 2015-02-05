@@ -76,6 +76,17 @@ tags:
 
 #### [This is Carpentry site](http://www.thisiscarpentry.com/)
 
+#### [Cosmas B - Building a Decent Table Saw for Cheap](https://www.youtube.com/watch?v=TjN37QWWB_o)
+
+#### [Steve Ramsey - Build a simple shop storage cabinet](https://www.youtube.com/watch?v=iQC1fCUI9wg&index=11&list=PL2Y7G15DrVt7tgzyaDbciZ-rm6tmToHoF)
+
+#### [Steve Ramsey - Making furnace vent register covers](https://www.youtube.com/watch?v=yhRtJ_Y-ezI)
+
+#### [WoodWorkWeb - Comparing Box Joint Jigs](https://www.youtube.com/watch?v=6XNbYzMCvj4)
+
+* [woodworkweb.com - Comparing Box Joint Jigs Article](http://www.woodworkweb.com/woodwork-topics/work-shop-tips/390-comparing-box-joint-jigs.html)
+
+
 # Working Forums
 
 * [LumberJocks Forum](http://lumberjocks.com/forums)
@@ -271,6 +282,22 @@ $132 as Amazon
 
 #### [Jamey Saunders - Craftsman Table Saw Arbor Rebuild](https://www.youtube.com/watch?v=5p3s68HZPSQ)
 
+#### [lumberjocks - identifying Craftsman Table Saw model number](http://lumberjocks.com/topics/48073)
+
+#### [vintagemachinery.org](http://vintagemachinery.org/mfgindex/detail.aspx?id=222&tab=4) Sears | Craftsman Manufacturer Class: Wood Working Machinery & Metal Working Machinery 
+
+#### [Jerry Cole - Testing Table Saw Alignment](https://www.youtube.com/watch?v=K5eUMVzTJio)
+
+* [A-Line It System $80](http://in-lineindustries.com/products/a-line-it-system/)
+* [$80 Woodpecker Saw Gauge](http://www.woodpeck.com/sawgauge.html)
+* [Woodpeckers Saw Gauge Product Tour](https://www.youtube.com/watch?v=dUuxwdZYpy4)
+* [Callum Cooper - Table Saw Fence Alignment](http://www.steelcitytoolworks.com/blog/table-saw-fence-alignment-2/)
+* [Mighty Mag w/Quick Release](http://www.amazon.com/Mighty-Mag-Quick-Release-Each/dp/B002SPS6DS)
+
+
+
+GEM G5000
+
 
 ## Alternate rip fence
 
@@ -284,6 +311,11 @@ Vega PRO 40 Table Saw Fence System With 42-Inch Fence Bar, 40-Inch to Right
 # Craigs List
 
 Tue Feb  3 09:42:32 MST 2015
+contact name: Valerie
+contact by phone: ☎ 5673951353
+reply by email:
+2jxsn-4872058916@sale.craigslist.org
+
 
 2jxsn-4872058916@sale.craigslist.org
 
@@ -300,6 +332,16 @@ Craftsman table saw - $100 (Pueblo)
 http://pueblo.craigslist.org/tls/4872058916.html
 
 =============
+http://pueblo.craigslist.org/tls/4836196521.html
+
+g2hxh-4836196521@sale.craigslist.org
+table saw
+
+Is the table saw still available?
+Is the table saw belt driven?
+Do you know what year the table saw was made?
+
+=============
 Westcliffe
 http://pueblo.craigslist.org/tls/4854004673.html
 email: tk9c2-4854004673@sale.craigslist.org
@@ -313,4 +355,8 @@ Barter
 http://cosprings.craigslist.org/bar/4864121586.html
 
 As is....Great piece, still in good running condition, ready to use. If interested text is preferred, just let us know what you have in working/running condition. Please NO computers or exercise equipment. Text 719661-4356 
+
+# Drill Press
+
+http://www.machinistblog.com/restoring-a-craftsman-15%E2%80%B3-drill-press/
 
