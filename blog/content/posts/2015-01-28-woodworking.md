@@ -30,6 +30,10 @@ tags:
 
 #### [Winky's Woodworking - Table Saw Cross-Cut Sled](https://www.youtube.com/watch?v=0KX5OOu2Qxg)
 
+#### [ThisWoodwork - Build a Tablesaw Crosscut Panel Sled](https://www.youtube.com/watch?v=3YD1XWBa378)
+
+
+
 # Half Lap Joints
 
 #### [Mitch Peacock - Half Lap - Easy & Accurate Table Saw Method](https://www.youtube.com/watch?v=ucisKew8CTQ)
@@ -66,6 +70,14 @@ tags:
 #### [woodgears.ca - Pantorouter plans](http://woodgears.ca/pantorouter/plans/index.html)
 
 # Woodworders to watch
+
+#### [John Heisz](http://www.ibuildit.ca/)
+
+#### [Jon Peters](https://www.youtube.com/channel/UCOUFSlpGiL9I3jPbt0vcI0A)
+
+#### [David Picciuto the Drunken Woodworker](https://www.youtube.com/channel/UCtaykeSsGhtn2o2BsPm-rsw)
+
+* [David Picciuto - Rebuilding Sony Speakers](https://www.youtube.com/watch?v=UoHw75IFOe8) 
 
 #### [Jay Bates](http://jayscustomcreations.com/)
 
@@ -268,6 +280,44 @@ $132 as Amazon
 
 # Craftsman Contractor Saw Rebuild
 
+#### [Sears Model # 113- prefix](http://vintagemachinery.org/mfgindex/detail.aspx?id=286)
+
+Emerson Electric Manufacturing Co. was established in 1890 by John Wesley
+Emerson. In the beginning, they made electric motors and related products,
+such as switches. Over theyears they added other products to their line,
+including desk fans and ceiling fans. Starting in 1948 (and perhaps
+earlier) they made a few woodworking machines for Sears Roebuck. For
+example, the 1948 Craftsman catalog features the Model 100 tablesaw as
+"Emerson saws"; examples of this saw have model numbers beginning with
+113, which corresponds to Emerson Electric Co. Most of the Craftsman
+woodworking machines at that time were made by King-Seeley Corp., however.
+
+In 1962 Emerson bought all of King-Seeley Corp.'s design patents, tooling,
+and parts for Sears, Roebuck & Co. Craftsman and Dunlap lines. Emerson
+began production of machines in 1964.
+
+In 1990, Leroy-Somer Canada Ltd., Granby, QC, was purchased by the
+U. S. Electrical Motors division of Emerson. The Granby plant was closed
+in 1992; production for the Canadian market moved to USEM's Markham plant,
+but then that plant was closed in 1993.
+
+#### [113.298032 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=12474)
+
+Mine is 113.298843
+
+#### [113.298142 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=8905)
+
+#### [113.298721 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=8213)
+
+#### [113.298240 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=8778)
+
+#### [113.298240 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=11636)
+
+#### [113.298240 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=6251)
+
+#### [113.298031 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=2404)
+
+
 #### [Table Saw Rebuild: Examining the saw!](https://www.youtube.com/watch?v=hfFpYti5GrY&list=PLSw6mhcLSL-N469GfhXetC4ViYybituJA)
 
 * [On Instructables](http://www.instructables.com/id/Rebuilding-a-Craftsman-Table-Saw-The-alternative-t/)
@@ -281,6 +331,9 @@ $132 as Amazon
 #### [Woodworking For Amateurs - How To Clean A Rusty Table Saw](https://www.youtube.com/watch?v=J2RGLO-QxG`4)
 
 #### [Jamey Saunders - Craftsman Table Saw Arbor Rebuild](https://www.youtube.com/watch?v=5p3s68HZPSQ)
+
+#### [Michael Burr - make a zero clearance insert](https://www.youtube.com/watch?v=QUeRrwrwGDs)
+
 
 #### [lumberjocks - identifying Craftsman Table Saw model number](http://lumberjocks.com/topics/48073)
 
@@ -359,4 +412,10 @@ As is....Great piece, still in good running condition, ready to use. If interest
 # Drill Press
 
 http://www.machinistblog.com/restoring-a-craftsman-15%E2%80%B3-drill-press/
+
+# Electrolysis
+
+#### [WOOD magazine - Removing Rust with Electrolysis](https://www.youtube.com/watch?v=54ADeB6V1rQ)
+
+
 
