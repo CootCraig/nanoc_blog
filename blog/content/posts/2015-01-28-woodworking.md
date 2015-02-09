@@ -71,6 +71,13 @@ tags:
 
 # Woodworders to watch
 
+Scroungineer at youtube
+
+Woodomain - Jeremy Broun
+
+Steve Ramsey
+info@formeremortals.net
+
 #### [John Heisz](http://www.ibuildit.ca/)
 
 #### [Jon Peters](https://www.youtube.com/channel/UCOUFSlpGiL9I3jPbt0vcI0A)
@@ -98,6 +105,9 @@ tags:
 
 * [woodworkweb.com - Comparing Box Joint Jigs Article](http://www.woodworkweb.com/woodwork-topics/work-shop-tips/390-comparing-box-joint-jigs.html)
 
+AskWoodMan
+
+izzy swan 
 
 # Working Forums
 
@@ -303,7 +313,9 @@ but then that plant was closed in 1993.
 
 #### [113.298032 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=12474)
 
-Mine is 113.298843
+* Mine is 113.298843
+* [Model # 113298843 CRAFTSMAN Saw Circular](http://www.searspartsdirect.com/Craftsman-Saw-Parts/Model-113298843/0247/0744410.html)
+* [User Manual](/assets/pdf/Craftsman-table-saw-manual.pdf)
 
 #### [113.298142 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=8905)
 
@@ -317,6 +329,7 @@ Mine is 113.298843
 
 #### [113.298031 at vintagemachinery.org](http://vintagemachinery.org/photoindex/detail.aspx?id=2404)
 
+#### [Evan Zerby - Craftsman 113.*** Table Saw Upgrade](https://www.youtube.com/watch?v=nnYaR6grsLA)
 
 #### [Table Saw Rebuild: Examining the saw!](https://www.youtube.com/watch?v=hfFpYti5GrY&list=PLSw6mhcLSL-N469GfhXetC4ViYybituJA)
 
@@ -334,6 +347,77 @@ Mine is 113.298843
 
 #### [Michael Burr - make a zero clearance insert](https://www.youtube.com/watch?v=QUeRrwrwGDs)
 
+#### Woodstock D4160 110-Volt Paddle Switch
+
+#### [WoodworkersJournal - Tune Up Your Table Saw](https://www.youtube.com/watch?v=DxCImg3gMwY)
+
+#### [Table Saw Arbor Bearing Replacement](http://www.benchnotes.com/ArborBearings/arborbearing.html)
+
+
+
+#### Fenner Power Twist Link Belts
+
+#### Harbor Freight Vibration Free Link Belt
+
+* [ghostses - Fenner Power Twist Link Belts](https://www.youtube.com/watch?v=S_n3vphjogs)
+
+#### [lumberjocks - Tips on protecting my table saw from rust](http://lumberjocks.com/topics/57922)
+
+# Iron Rust removal and protection
+
+#### [amazon](http://www.amazon.com/Boeshield-RF0008-Rust-Free/dp/B0000DD0F3) $14 Boeshield Rust Free
+
+#### [amazon](http://www.amazon.com/SC-Johnson-00203-Paste-Wax/dp/B008O5BDWC/) $15 w/shipping Johnson Paste Wax
+
+* [Amazon - Johnson Paste Wax](http://www.amazon.com/SC-Johnson-00203-Paste-Wax/dp/B008O5BDWC/)
+
+#### [instructables - page](http://www.instructables.com/id/Make-lubricating-graphite-wax-sticks/) Make graphite wax stick
+
+Rockler - Renaissance Micro-Crystalline Wax Polish
+
+#### [page](http://www.thewoodwhisperer.com/articles/looks-like-im-rusty/) thewoodwhisperer.com - Looks Like I’m Rusty! 
+
+The first step in fixing it is abrasion. I like to use naptha, mineral
+spirits, or WD-40 as a lubricant and either steel wool or 1000/2000
+grit sandpaper as the abrasive. A couple minutes of light sanding and
+the rust comes right up. I then wipe away the rust/metal sludge and
+apply a light coat of Renaissance Wax. I still don’t have all of my
+stuff over to the new shop yet so I didn’t do my usual protective mix,
+which is T9 Boeshield followed by the wax.
+
+#### [page](http://www.highlandwoodworking.com/woodnews/2010july/rust.html) highlandwoodworking.com - Controlling Rust in your Woodworking Shop
+
+#### [youtube](https://www.youtube.com/watch?v=Xe3sk9OVs2E) ghostses - Boeshield Rust Free Review
+
+#### [youtube](https://www.youtube.com/watch?v=Zh5YpK8aO4g) ghostses - Cleaning Cast Iron Jointer Table with Boeshield Rust Free
+
+#### Zerust 11330 Anti-Rust And Corrosion Drawer Liner and Two Vapor Capsule Combo-Pack
+
+#### Rockler $9.00 Zerust® No Rust Non-Slip Drawer Liner, 12'' x 72'' Item #: 51091
+
+#### Boeshield T-9 Waterproof Lubrication
+
+* [Chris Baylor - review Boeshield T-9 Rust and Corrosion Protection](http://woodworking.about.com/od/woodworkingaccessories/gr/BoeshieldT9.htm)
+
+#### [Bostik - GlideCote® Table & Tool Surface Sealant](http://www.leevalley.com/en/wood/page.aspx?p=40952&cat=1,43415,43440&ap=1)
+
+#### [woodworkingtalk.com - Wax treatment for table saw table?](http://www.woodworkingtalk.com/f2/wax-treatment-table-saw-table-29407/)
+
+* [Amazon - Johnson Paste Wax](http://www.amazon.com/SC-Johnson-00203-Paste-Wax/dp/B008O5BDWC/)
+* Minwax 78500 Regular Finishing Wax
+* Trewax Paste Wax
+* Rockler - Empire - Top Saver Rust Remover and Lubricant 
+* Bostik GlideCote (formerly TopCote) 
+* boeshield blade and bit
+* Bostik BladeCote (formerly DriCote)
+
+Once you get it rust-free, try using some Johnson’s Paste Wax. I live
+in a somewhat humid area and using Johnson’s Paste Was works for me. No
+rust on my table saw and jointer.
+
+#### [WoodWorkers Guild Of America - Cleaning a Rusty Table](https://www.youtube.com/watch?v=MN_DTiaXEIU)
+
+#### Bull Frog 93896 Rust Blocker Rust Inhibitor
 
 #### [lumberjocks - identifying Craftsman Table Saw model number](http://lumberjocks.com/topics/48073)
 
@@ -354,12 +438,26 @@ GEM G5000
 
 ## Alternate rip fence
 
-Vega PRO 40 Table Saw Fence System With 42-Inch Fence Bar, 40-Inch to Right
+### VSC fence
+
+#### [AskWoodMan - DIY Biesemeyer Style Guide Rail Series](https://www.youtube.com/watch?v=wEHkTncb3Wc&feature=youtu.be)
+
+#### [HohenfelsJoe - DIY - Biesemeyer fence rails](http://www.hohenfels.com/2013/04/diy-biesemeyer-fence-rails-part-1.html)
+
+#### [Jerome Pfeifer - Make Your Own Fence Rails & The VerySuperCool T-Square Fence](https://www.youtube.com/watch?v=W1kEZ9Pforo&feature=share&list=PL365SeRFPzMOW8JdOYuCbiVAvtrROC0Zn)
+
+
+
+### Vega PRO 40 Table Saw Fence System With 42-Inch Fence Bar, 40-Inch to Right
 
 
 #### [Dale Penkala - Ripfence for Sears/Craftsman Tablesaw](http://www.woodcentral.com/woodworking/forum/archives.pl/bid/1001/md/read/id/435306/sbj/ripfence-for-sears-craftsman-tablesaw/)
 
 #### [Very Super Cool Tools - Standard T-Square For Cabinet Saws](http://vsctools.com/shop/table-saw-fence/)
+
+#### [cornflake_81 - Retrofitting A Delta T2 Fence to a Craftsman Table Saw](http://www.instructables.com/id/Retrofitting-A-Delta-T2-Fence-to-a-Craftsman-Table/)
+
+#### [page](http://www.woodworkingtalk.com/f12/tablesaw-help-21517/) woodworkingtalk.com - pwoller Tablesaw help 
 
 # Craigs List
 
@@ -418,4 +516,157 @@ http://www.machinistblog.com/restoring-a-craftsman-15%E2%80%B3-drill-press/
 #### [WOOD magazine - Removing Rust with Electrolysis](https://www.youtube.com/watch?v=54ADeB6V1rQ)
 
 
+# Blades
+
+### rip lumber
+
+### crosscut lumber
+
+### composite blade
+
+## Advice pages
+
+#### [woodbin.com - Choosing a Saw Blade](http://www.woodbin.com/misc/choosing_sawblade.htm)
+
+I mostly use Freud blades.
+Forrest blades have a solid reputation
+although the higher price tag on their premium blades 
+may be outside some woodworker's budgets.
+
+#### [in-line Industries store](http://in-lineindustries.com/products/table-saw-blades/)
+
+## Blades of interest
+
+### Current buy list
+
+* Freud LU83R010 10-Inch 50 Tooth ATB Thin Kerf Combination
+* Freud SD206 6-Inch Dado
+* Freud LU79R010 Thin Kerf for Plywood 
+* Freud LU74R010 10-Inch 80-Tooth ATB Thin Kerf for crosscut
+* Freud LU87R010 10-Inch 24-Tooth FTG for ripping lumber
+
+#### For plywood
+
+[amazon](http://www.amazon.com/Freud-LU79R010-Ultimate-Melamine-Perma-Shield/dp/B000GJTIIK)
+Freud LU79R010 Thin Kerf Ultimate Plywood & Melamine Saw Blade 10 inch x 80t Hi-ATB 5/8 inch arbor Perma-Shield Coated
+
+#### crosscut/miter lumber
+
+woodbin -
+For a tablesaw or a non-sliding miter saw, 
+a hook angle around 10 degrees is acceptable.
+
+[Amazon](http://www.amazon.com/Freud-LU74R010-10-Inch-80-Tooth-PermaShield/dp/B0002H49ZS/)
+Freud LU74R010 10-Inch 80-Tooth ATB Thin Kerf Cut Off Saw Blade with 5/8-Inch Arbor and PermaShield Coating
+
+#### Ripping lumber
+
+[Amazon](http://www.amazon.com/Freud-LU87R010-10-Inch-24-Tooth-PermaShield/dp/B0000225UH/)
+Freud LU87R010 10-Inch 24-Tooth FTG 
+Thin Kerf Ripping Saw Blade 
+with 5/8-Inch Arbor and PermaShield Coating
+
+#### Combination
+
+[Amazon](http://www.amazon.com/Freud-LU83R010-10-Inch-Combination-PermaShield/dp/B00020JOAA/)
+Freud LU83R010 10-Inch 50 Tooth ATB Thin Kerf Combination Saw Blade with 5/8-Inch Arbor and PermaShield Coating
+$51
+
+#### Dado blade
+
+[Amazon](http://www.amazon.com/Freud-SD206-6-Inch-Professional-Dado/dp/B0000223O8/)
+Freud SD206 6-Inch Professional Dado
+$84
+
+[Amazon](http://www.amazon.com/Oshlun-SDS-0630-6-Inch-Tooth-8-Inch/dp/B0012YILDQ/)
+Oshlun SDS-0630 6-Inch 30 Tooth Stack Dado Set with 5/8-Inch Arbor
+$73
+
+# Measuring
+
+#### [youtube](https://www.youtube.com/watch?v=TRwEPC37pD4) Gord Graff - Accurate Woodworking Through Precise Measuring Techniques
+
+#### [youtube](https://www.youtube.com/watch?v=q3dv0LL_g90) WoodWorkWeb - Woodworking Measuring Devices for Speed and Accuracy
+
+#### [youtube](https://www.youtube.com/watch?v=VYY828hIZM0) Woodomain - Jeremy Broun - Why I never use a ruler
+
+#### [page](http://www.thewoodwhisperer.com/articles/measuring-sticks/) thewoodwhisperer.com measuring sticks
+
+### Pinch Rod / Bar gauge
+
+#### [page](http://blog.lostartpress.com/2013/04/03/make-pinch-rods-with-home-center-materials/) Chris Schwarz - Make ‘Pinch Rods’ With Home Center Materials
+
+#### [page](http://www.craftsy.com/blog/2015/01/accurate-woodworking/) Rob Porcaro - Pinch Rods for More Accurate Woodworking
+
+#### [page](http://www.rockler.com/how-to/marking-measuring-tool-basics?sid=AF078) Matt Hocking Marking and Measuring Tool Basics
+
+woodpeckers bar gauge
+
+Veritas bar gauge
+
+$17 Veritas bar gauge heads and Brass pins
+
+#### [page](http://www.leevalley.com/en/wood/page.aspx?p=67042&cat=1,43513,43553&ap=1) $10 Miter Slot Caliper Holder
+
+#### $40 Woodpeckers Rule Stop-1, Rule Stop-2
+
+<img src="/assets/images/woodpeckers-rule_stop-2.jpg" width="800">
+
+Woodpeckers woodworking rules
+
+Empire Level 4003 Aluminum Straight Edge, 36-Inch
+
+Empire Level 27318 Ruler, Stainless Steel, 18-Inch
+
+Swanson SVE240 24-Inch Savage Straight Edge, Non-marrying, Anodised and Laser-Etched Scale
+
+Swanson SVE360 36-Inch Savage Straight Edge, Non-marrying, Anodised and Laser-Etched Scale
+
+Empire Level E280 16-Inch Heavy Duty Professional Combination Square w/Etched Stainless Steel Blade and True BlueR Vial
+
+Stanley 46-131 16-Inch Contractor Grade Combination Square
+
+Precise 40" (1000mm) Sae-metric Stainless Steel Ruler
+
+Empire Level 4003 Aluminum Straight Edge, 36-Inch
+
+$14 Empire Level 4004 48-Inch Aluminum Straight Edge
+
+Empire Level 4008 96-Inch Aluminum Straight Edge
+
+Woodpeckers Bench Rule 18" $69.99 WBR-18
+
+Woodpeckers Story stick Pro 
+
+Woodpeckers new Straddle Squares 
+
+#### [wixey wr300 product page](http://www.wixey.com/anglegauge/) $35 Wixey WR300 Digital Angle Gauge.  1 AAA battery. Yea
+
+#### [page](http://www.harborfreight.com/16-in-heavy-duty-combination-square-67771.html) Harbor Freight - $8 16 in. Heavy Duty Combination Square
+
+#### [page with video](http://www.finewoodworking.com/tool-guide/video/how-to-use-a-height-gauge.aspx) Mark Schofield - How to Use a Height Gauge
+
+#### [page](https://www.grizzly.com/products/Dial-Height-Gauge-6-/G9618) $30 Grizzly Dial Height Gauge - 6"
+
+#### [page](http://www.woodpeck.com/digheightgauge.html#1398) $60 Woodpeckers Digital Height Gauge with Fractions 
+
+#### [page](http://www.wixey.com/heightgauge/index.html#wr200) $60 Wixey - Digital Height Gauge with fractions (WR200)
+
+## Story Stick / Story Pole
+
+#### [page](http://www.woodworkingonline.com/2006/06/20/story-stick/) woodworkingonline.com - Story Stick
+
+#### [page](http://www.startwoodworking.com/post/using-story-sticks-build-furniture) startwoodworking.com - Mario Rodriguez - Using Story Sticks to Build Furniture
+
+# Clamping
+
+### Pinch Dogs - Woodworking
+
+Pinch dogs are used for assembly and for clamping. Traditionally, they
+were used by upholsterers as all-purpose gluing clamps. Regardless of
+the shape of the two pieces, as long as the dog was tapped in across
+the glue line, it would hold everything tight until the glue set.
+
+Patternmakers used them for column assembly. Cabinetmakers used them
+for assembly, clamping and jigging.
 
