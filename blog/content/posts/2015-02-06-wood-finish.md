@@ -7,8 +7,9 @@ tags:
   - wood_finish
 ---
 
-#### [Jon Peters - Waterlox simple but fine furniture finish](https://www.youtube.com/watch?v=r_aDYrpOM3s)
+#### [page](https://www.youtube.com/watch?v=r_aDYrpOM3s) Jon Peters - Waterlox simple but fine furniture finish
 
-#### [Jon Peters - Refinish a Wooden Countertop](https://www.youtube.com/watch?v=1BOe_rxmyYY)
+#### [page](https://www.youtube.com/watch?v=1BOe_rxmyYY) Jon Peters - Refinish a Wooden Countertop
 
+#### [page](http://www.repair-home.com/resources/how-to-guides/how-to-sand-furniture.html) repair-home.com - Sanding Furniture
 

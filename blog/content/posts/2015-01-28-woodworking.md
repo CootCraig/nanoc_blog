@@ -20,6 +20,8 @@ tags:
 
 # Table Saw Sled
 
+#### [youtube](https://www.youtube.com/watch?v=H00prACPflw) Steve Ramsey - Make a miter sled for your table saw. Improved version.
+
 #### [GarageWoodworks - Build a small table saw sled](https://www.youtube.com/watch?v=YTlpY_chcio)
 
 #### [Laney Shaughnessy - Make A Cross Cut Sled](https://www.youtube.com/watch?v=-GdTU9St--Q)
