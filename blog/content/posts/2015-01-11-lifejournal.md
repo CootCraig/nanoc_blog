@@ -13,9 +13,12 @@ tags:
 
 ## Robert Murray M’Cheyne Reading
 
-* Feb 6 - Gn 39; Mk 9; Job 5; Ro 9
-* Feb 7 - Gn 40; Mk 10; Job 6; Ro 10
-* Feb 8 - Gn 41; Mk 11; Job 7; Ro 11
+* Feb 12 - Gn 45; Mk 15; Job 11; Ro 15
+* Feb 13 - Gn 46; Mk 16; Job 12; Ro 16
+* Feb 14 - Gn 47; Lk 1:1-38; Job 13; 1Co 1
+* Feb 15 - Gn 48; Lk 1:39-80; Job 14; 1Co 2
+* Feb 16 - Gn 49; Lk 2; Job 15; 1Co 3
+* Feb 17 - Gn 50; Lk 3; Job 16-17; 1Co 4
 
 #### Photographs of Bible places at [bibleplaces.com](http://www.bibleplaces.com)
 

@@ -8,6 +8,8 @@ tags:
 
 # Work Bench
 
+### [video](https://www.youtube.com/watch?v=lQWY7Pi4v-M) Steve Ramsey - cheap sturdy workbench using 2x4s and plywood.
+
 #### [New Yankee Workshop - 102 - Work Bench](https://www.youtube.com/watch?v=IJjrB4SvMWg)
 
 #### [Matthias Wandel - Simple sturdy workbench build](https://www.youtube.com/watch?v=M_xJD_aylYw)
@@ -18,7 +20,13 @@ tags:
 
 #### [Alan Webster - Plywood Panel Cutting Table](https://www.youtube.com/watch?v=ykKrfjEx570)
 
+#### [video](https://www.youtube.com/watch?v=nZtIEFa3Ofk) Steve Ramsey - Build a lumber storage cart for your workshop
+
+#### [video](https://www.youtube.com/watch?v=l_vlA0crb4c) Steve Ramsey - Woodworking clamp storage and organization
+
 # Table Saw Sled
+
+#### [video](https://www.youtube.com/watch?v=fz0a41HF4Ys) Rick McQuay - Speed Square Miter Sled
 
 #### [youtube](https://www.youtube.com/watch?v=H00prACPflw) Steve Ramsey - Make a miter sled for your table saw. Improved version.
 
@@ -67,7 +75,28 @@ tags:
 
 #### [Harbor Freight Multi-Position Magnetic Base with Fine Adjustment](http://www.harborfreight.com/multipositional-magnetic-base-with-fine-adjustment-5645.html)
  
-# Pantorouter
+#### Starrett 11H-6-4R 6-Inch Combination Square with Cast Iron Head and Black Wrinkle Finish
+
+So many uses.  Worth the price for the quality.
+
+#### Whiteside 5 Piece Brass Set-up Gauges, 2-1/2"
+
+From woodcraft.com -
+Set includes: five 2-1/2" long bars, measuring 1/8", 3/16", 1/4", 3/8"
+and 1/2" square.
+
+These precision machined brass set-up gauges perform a variety
+of functions, from setting depth of cut on a plunge router, to
+setting bit height or fence depth on the router table. We continue
+to find more and more uses for these finely crafted gauges from
+Whiteside. Stack them together to combine measurements from 1/8" to
+1-7/16". Brass gauges will not damage tool or bit edges. - See more at:
+
+#### Wheel Marking Gauge Item #153490 From woodcraft.com # Pantorouter
+
+* Trend GAUGE/1 Depth Gauge
+* Kreg PRS3400 Precision Router Table Set Up Bars, Set of 7
+* Wixey WR25 Mini Digital Height Gauge
 
 #### [woodgears.ca - Pantorouter plans](http://woodgears.ca/pantorouter/plans/index.html)
 
@@ -373,9 +402,31 @@ but then that plant was closed in 1993.
 
 * [Amazon - Johnson Paste Wax](http://www.amazon.com/SC-Johnson-00203-Paste-Wax/dp/B008O5BDWC/)
 
+Naval Jelly - phosphoric acid
+
+Krud Kutter The Must for Rust - Rust Remover & Inhibitor 
+
+Simple Green 128 oz. Pro HD Professional-Grade Heavy-Duty Cleaner
+
+WD-40 Specialist 1-Gallon Specialist Rust Soak
+
+chassis saver paint.
+
+Krylon Rust Tough.
+
+#### [autobodystore.com forum](http://autobodystore.com/forum/showthread.php?11872-Zero-Rust-is-nothing-more-than-a-Rustoleum-type-paint) Zero Rust is nothing more than a Rustoleum-type paint 
+
+Very worthwhile forum thread.
+
 #### [instructables - page](http://www.instructables.com/id/Make-lubricating-graphite-wax-sticks/) Make graphite wax stick
 
 Rockler - Renaissance Micro-Crystalline Wax Polish
+
+CRC 3-36 Multi-Purpose Lubricant and Corrosion Inhibitor,
+
+#### [lumberjocks](http://lumberjocks.com/topics/26856) Maintaining Machine Surfaces on Woodworking Tools
+
+Good information in post thread.
 
 #### [page](http://www.thewoodwhisperer.com/articles/looks-like-im-rusty/) thewoodwhisperer.com - Looks Like I’m Rusty! 
 
@@ -387,7 +438,11 @@ apply a light coat of Renaissance Wax. I still don’t have all of my
 stuff over to the new shop yet so I didn’t do my usual protective mix,
 which is T9 Boeshield followed by the wax.
 
+#### [page](http://www.sawmillcreek.org/showthread.php?86115-Rust-Removal-for-Cast-Iron-TS) sawmillcreek.org - Rust Removal for Cast Iron TS
+
 #### [page](http://www.highlandwoodworking.com/woodnews/2010july/rust.html) highlandwoodworking.com - Controlling Rust in your Woodworking Shop
+
+#### [youtube](https://www.youtube.com/watch?v=a9BYnOaHprM) A Concord Carpenter - How To Remove Rust From Woodworking Machines
 
 #### [youtube](https://www.youtube.com/watch?v=Xe3sk9OVs2E) ghostses - Boeshield Rust Free Review
 
@@ -400,6 +455,10 @@ which is T9 Boeshield followed by the wax.
 #### Boeshield T-9 Waterproof Lubrication
 
 * [Chris Baylor - review Boeshield T-9 Rust and Corrosion Protection](http://woodworking.about.com/od/woodworkingaccessories/gr/BoeshieldT9.htm)
+
+Moovit™ Penetrating Lubricant
+
+Sandflex Sanding Block
 
 #### [Bostik - GlideCote® Table & Tool Surface Sealant](http://www.leevalley.com/en/wood/page.aspx?p=40952&cat=1,43415,43440&ap=1)
 
@@ -460,6 +519,12 @@ GEM G5000
 #### [cornflake_81 - Retrofitting A Delta T2 Fence to a Craftsman Table Saw](http://www.instructables.com/id/Retrofitting-A-Delta-T2-Fence-to-a-Craftsman-Table/)
 
 #### [page](http://www.woodworkingtalk.com/f12/tablesaw-help-21517/) woodworkingtalk.com - pwoller Tablesaw help 
+
+#### [video](https://www.youtube.com/watch?v=H3FUE8776aY&index=2&list=PLB1ATCukiUGSEvdBc7NnqlmxHAwdx6C83) Paulk Total Station build
+
+#### [video](https://www.youtube.com/playlist?list=PLB1ATCukiUGRpTw3dlQFSk8uOmIEP3BJ1) BUILDING THE PAULK WORK BENCH 
+
+#### [video](https://www.youtube.com/watch?v=IRVrq6EUBA0&index=4&list=PLB1ATCukiUGRxDll7hcAJJ5t3ipoMIpxS) Paulk - TOOL TIP #2 CROSS CUT SLED 
 
 # Craigs List
 
