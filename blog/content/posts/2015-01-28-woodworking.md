@@ -6,6 +6,19 @@ tags:
   - woodworking
 ---
 
+# Work Shop Planning
+
+### [Plan site](http://www.paulkhomes.com/Paulk_Homes/Order_Plans.html) Ron Paulk Plans
+
+* Work Bench II
+* Miter Stand
+
+#### [Store site](http://stores.modularmarket.com/paulk_homes/package-2-workbench-ii-miter-stand-crosscut-jig-p4.php) $22. Package #2 (Workbench II, Miter Stand, Crosscut Jig)
+
+### Table Saw Crosscut Sled
+
+### Table Saw Miter Sled
+
 # Work Bench
 
 ### [video](https://www.youtube.com/watch?v=lQWY7Pi4v-M) Steve Ramsey - cheap sturdy workbench using 2x4s and plywood.
@@ -276,6 +289,8 @@ $132 as Amazon
 
 
 ## Dado blade
+
+#### [amazon](http://www.amazon.com/Freud-SBOX8-Cutter-4-Inch-grooves/dp/B000ASGV1E/) $68 - Freud SBOX8 Box Joint Cutter Set, Cuts 1/4-Inch and 3/8-Inch grooves.
 
 #### Oshlun SDS-0842 8-Inch 42 Tooth Stack Dado Set with 5/8-Inch Arbor
 

@@ -71,6 +71,16 @@ Paste wax.
 Keep cast iron covered with moving blanket.
 Consider an HTC tool saver machine cover tarp.
 
+### LumberJocks Post
+
+knotscott - 
+I’ve rehabbed a few old Emerson made Cman saws. For average surface
+rust/patina of an older saw I just go at it with mineral spirits or WD40
+and 180 grit sandpaper on my ROS, followed by finer grit, Boeshield T-9,
+then paste wax. For heavier rust I use start with some form of priopionic
+acid (Boeshield, Krud Kutter, etc.). Scotchbrite pad works well for a
+newer saws with minor spots.
+
 ### Make some sawdust!
 
 ## Previous notes

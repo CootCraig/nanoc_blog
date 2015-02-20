@@ -19,6 +19,7 @@ tags:
 * Feb 15 - Gn 48; Lk 1:39-80; Job 14; 1Co 2
 * Feb 16 - Gn 49; Lk 2; Job 15; 1Co 3
 * Feb 17 - Gn 50; Lk 3; Job 16-17; 1Co 4
+* Feb 18 - Ex 1; Lk 4; Job 18; 1Co 5
 
 #### Photographs of Bible places at [bibleplaces.com](http://www.bibleplaces.com)
 
