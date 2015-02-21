@@ -23,6 +23,8 @@ tags:
 
 #### Lee Valley - $14.10 - Swivel Caster w/Brake, 3" x 4" (100kg) 	
 	
+#### [Lee Valley](http://www.leevalley.com/en/wood/page.aspx?p=66166&cat=1,240,66331) Heavy-Duty Polyurethane Casters
+
 Add to cart
 ### New link belt and combination blade
 
