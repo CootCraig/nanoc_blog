@@ -13,6 +13,8 @@ tags:
 * Work Bench II
 * Miter Stand
 
+<img src="/assets/images/paulk-workbench-II-screen-shot.png" width="500px">
+
 #### [Store site](http://stores.modularmarket.com/paulk_homes/package-2-workbench-ii-miter-stand-crosscut-jig-p4.php) $22. Package #2 (Workbench II, Miter Stand, Crosscut Jig)
 
 ### Table Saw Crosscut Sled
