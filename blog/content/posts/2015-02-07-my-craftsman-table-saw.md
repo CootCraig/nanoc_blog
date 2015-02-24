@@ -83,6 +83,8 @@ then paste wax. For heavier rust I use start with some form of priopionic
 acid (Boeshield, Krud Kutter, etc.). Scotchbrite pad works well for a
 newer saws with minor spots.
 
+#### [video](https://www.youtube.com/watch?v=oLMM15ZSnpY&index=1&list=PLkBNR47uEZ7SI4g4tYcE-BicQ8XAfQX0P) John Heisz - Rebuilt Table Saw
+
 ### Make some sawdust!
 
 ## Previous notes
