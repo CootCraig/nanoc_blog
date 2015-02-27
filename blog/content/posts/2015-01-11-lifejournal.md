@@ -15,6 +15,8 @@ tags:
 
 * Feb 23 - Ex 6; Lk 9; Job 23; 1Co 10
 * Feb 24 - Ex 7; Lk 10; Job 24; 1Co 11
+* Feb 25 - Ex 8; Lk 11; Job 25-26; 1Co 12
+* Feb 26 - Ex 9; Lk 12; Job 27; 1Co 13
 
 #### Photographs of Bible places at [bibleplaces.com](http://www.bibleplaces.com)
 
