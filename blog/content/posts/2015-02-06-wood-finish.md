@@ -27,6 +27,7 @@ tags:
 * $83 at Amazon. Makita BO5031K 5-Inch Random Orbit Sander Ki
 * $52 at Amazon. Factory-Reconditioned RIDGID ZRR2611 Professional 6-inch Random Orbit Variable Speed Sander
 * $30 at Amazon. Black & Decker RO100 5-Inch Palm Grip Random Orbit Sander
+* $61-$82 at Amazon. Factory-Reconditioned DEWALT D26453KR 3 Amp 5-Inch Variable Speed Random Orbit Sander
 
 #### [page](http://toolguyd.com/best-random-orbital-sander/) Best Random Orbital Sander under $100?
 

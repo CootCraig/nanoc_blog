@@ -29,3 +29,21 @@ Open Source SQL front-end I would recommend one of the following:
 * SQL Workbench/J
 
 
+## DBeaver
+
+~~~~~~~~~~~~~
+dpkg-query -L dbeaver
+~~~~~~~~~~~~~
+
+##  SQuirreL SQL Client
+
+## SQL Workbench/J
+
+/opt/dbeaver
+/opt/dbeaver/dbeaver/dbeaver - elf executable
+
+/opt/sqlworkbench
+
+/opt/squirrel-sql
+
+
