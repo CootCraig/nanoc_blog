@@ -7,6 +7,11 @@ tags:
   - linux
 ---
 
+## MSSQL JDBC Jar
+
+* <a href="/assets/other/sqljdbc_4-0-2206-100-tar.gz" target="_blank">sqljdbc_4-0-2206-100-tar.gz</a>
+* <a href="/assets/other/sqljdbc_4-1-5605-100-tar.gz" target="_blank">sqljdbc_4-1-5605-100-tar.gz</a>
+
 # dbeaver
 
 ## debian package
