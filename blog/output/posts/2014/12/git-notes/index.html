@@ -119,6 +119,32 @@
         git push --mirror
         </code></pre>
         
+        <h2 id="add-to-gitignore-and-then-remove-matching-files">Add to .gitignore and then remove matching files</h2>
+        
+        <h4 id="lemodanethttpwwwlemodanetgitrm-gitignore-files-remove-files-in-gitignore-from-version-control"><a href="http://www.lemoda.net/git/rm-gitignore-files/">lemoda.net</a> Remove files in .gitignore from version control</h4>
+        
+        <p>If you have a file like xyz which is under version control, then even
+        if you add an entry for the file in .gitignore, git won’t automatically
+        remove it from version control. If you have just one file you can do
+        that yourself with</p>
+        
+        <pre><code>git rm --cached xyz
+        </code></pre>
+        
+        <p>However, what if you have hundreds of different files which you need to
+        remove? The recipe is</p>
+        
+        <pre><code>git commit -m "commit message"
+        </code></pre>
+        
+        <p>to commit the current situation, then remove all the files from git’s
+        index and then add them back again with</p>
+        
+        <pre><code>git rm -r --cached .
+        git add .
+        git commit -m ".gitignore is now working"
+        </code></pre>
+        
         <h1 id="workflow-expositions">Workflow expositions</h1>
         
         <ul>

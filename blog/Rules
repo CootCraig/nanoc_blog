@@ -68,6 +68,8 @@ compile '*' do
     layout 'default'
   elsif item[:extension] == 'js'
     # don’t filter javascript
+  elsif item[:extension] == 'gz'
+    # don’t filter gzipped tar files
   elsif item[:extension] == 'css'
     # don’t filter stylesheets
   elsif item.binary?
@@ -85,7 +87,10 @@ route '/posts/*' do
 end
 
 route '*' do
-  if item[:extension] == 'css'
+  if item[:extension] == 'gz'
+    # Write item with identifier /foo/ to /foo.gz
+    item.identifier.chop + '.gz'
+  elsif item[:extension] == 'css'
     # Write item with identifier /foo/ to /foo.css
     item.identifier.chop + '.css'
   elsif item[:extension] == 'js'

@@ -7,6 +7,11 @@ tags:
   - linux
 ---
 
+## MSSQL JDBC Jar
+
+* <a href="/assets/other/sqljdbc_4-0-2206-100-tar.gz" target="_blank">sqljdbc_4-0-2206-100-tar.gz</a>
+* <a href="/assets/other/sqljdbc_4-1-5605-100-tar.gz" target="_blank">sqljdbc_4-1-5605-100-tar.gz</a>
+
 # dbeaver
 
 ## debian package
@@ -33,4 +38,22 @@ Open Source SQL front-end I would recommend one of the following:
 ~~~~~~~~~~~~~~
 wget http://www.sql-workbench.net/Workbench-Build117.zip
 ~~~~~~~~~~~~~~
+
+## DBeaver
+
+~~~~~~~~~~~~~
+dpkg-query -L dbeaver
+~~~~~~~~~~~~~
+
+##  SQuirreL SQL Client
+
+## SQL Workbench/J
+
+/opt/dbeaver
+/opt/dbeaver/dbeaver/dbeaver - elf executable
+
+/opt/sqlworkbench
+
+/opt/squirrel-sql
+
 
