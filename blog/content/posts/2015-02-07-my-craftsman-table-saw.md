@@ -188,4 +188,9 @@ See NelsonStudios video series
 
 #### [RibsBrisket4me at lumberjocks](http://lumberjocks.com/Headblade23)
 
+## RV scissor jack for height adjustment
+
+#### [etrailer.com](http://www.etrailer.com/Trailer-Jack/Stromberg-Carlson/JSC-24-IND.html) $36 - Leveling Scissor Jack - 24" Lift - 5,000 lbs
+
+#### [Harbor Freight](http://www.harborfreight.com/2-1-2-half-ton-trailer-stabilizer-jack-96406.html) $40. .5 ton Scissor Jack
 

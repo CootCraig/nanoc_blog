@@ -18,6 +18,8 @@ Workbench II and rolling stand for Craftsman saw first.  Then Miter stand.
 
 ## Router Table
 
+#### [woodpeckers store](http://www.woodpeck.com/prlv2.html#1356) Precision Router Lift V2
+
 Paulk workbench II has router insert at far end.
 
 ## Matthias Wandel - tilt and non-tilt router lift

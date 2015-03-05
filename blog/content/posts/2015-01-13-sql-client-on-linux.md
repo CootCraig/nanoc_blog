@@ -28,4 +28,9 @@ Open Source SQL front-end I would recommend one of the following:
 * SQuirreL SQL Client
 * SQL Workbench/J
 
+## sql-workbench
+
+~~~~~~~~~~~~~~
+wget http://www.sql-workbench.net/Workbench-Build117.zip
+~~~~~~~~~~~~~~
 
