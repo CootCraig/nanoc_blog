@@ -194,3 +194,5 @@ See NelsonStudios video series
 
 #### [Harbor Freight](http://www.harborfreight.com/2-1-2-half-ton-trailer-stabilizer-jack-96406.html) $40. .5 ton Scissor Jack
 
+#### [lumberjocks forum](http://lumberjocks.com/topics/51551) cast iron rust prevention advise needed
+
