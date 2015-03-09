@@ -754,3 +754,7 @@ the glue line, it would hold everything tight until the glue set.
 Patternmakers used them for column assembly. Cabinetmakers used them
 for assembly, clamping and jigging.
 
+## Wood sources
+
+#### [cswoods.com](http://cswoods.com/index.php) Collector Specialty Wood - Colorado
+
