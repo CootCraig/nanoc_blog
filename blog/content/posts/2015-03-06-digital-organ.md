@@ -121,3 +121,45 @@ e-switch D16 Series Illuminated Pushbutton Switches
 
 #### [midicpu.com](http://www.midicpu.com/) Highly Liquid Instant DIY MIDI Controller
 
+##  Organ at St. Josef, Bonn-Beuel
+
+#### [pleasuresofthepipes.info](http://pleasuresofthepipes.info/Bonn-Beuel-StJosefKirche.html) Oberlinger, St. Josef, Bonn-Beuel
+
+St. Josef Kirche - Bonn-Beuel - Ernst Oberlinger, 1981
+
+The total number of stops is 61.
+
+http://www.pipeloops.com/product_info.php?products_id=48
+
+## email
+
+~~~~~~~~~~~~~
+To Pipeloops
+
+I am working on a plan to build a console installation for the Pipeloops
+Oberlinger Bonn-Beuel organ on the Hauptwerk virtial pipe organ software.
+
+The console will hold:
+
+* windows computer running Hauptwerk VPO
+* 3 midi keyboards for the 3 manuals.
+* touchscreens for the draw knobs.
+* Custom built MIDI pedalboard and foot controls.
+
+Questions:
+
+Are 3 touchscreens (left, center, right) supported for draw knobs?
+
+What foot controls are supported (toe studs, shoes) in addition to the
+pedalboard?
+
+What resources can you recommend for information on the St. Joseph organ
+console?
+
+Can you refer me to other customers that have done a similar
+installation?
+
+Thanks,
+Craig Anderson
+~~~~~~~~~~~~~
+
