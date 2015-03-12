@@ -35,6 +35,11 @@ tags:
 
 #### [sonusparadisi.cz](http://www.sonusparadisi.cz/en/organs/top-selection/bra.html) Brasov - Black Church Organ, Buchholz, 1836-1839
 
+#### [encoreorgan.com](http://encoreorgan.com/Products.html) Encore Organ Hauptwerks based
+
+#### [Eivind Fivelsdal - Norway](http://www.fivelsdal.no/Hauptwerk%20Console/Building%20an%20organ%20console%20-%20DIY%20project.htm) Eivind Fivelsdal DIY Console
+
+
 ## Pedalboard Research
 
 #### [familjenpalo.se](http://www.familjenpalo.se/vpo/pedalboard) Pedalboard
@@ -78,6 +83,13 @@ SparkFun Photo Interrupter Breakout Board - GP1A57HRJ00F
 
 ## Pipe Organ Research
 
+#### [theaterorgans.com](http://www.theaterorgans.com/idorgannut/files/Cavaillecoll.htm) Short bio of Aristide Cavaillé-Coll By Jonathan Gradin
+
+### LDS Organist
+
+#### [LDS Organist](http://organlessons.blogspot.com/2010/05/lesson-17-more-on-stops-couplers.html) Stops, Couplers, Pistons, and Combination Action
+
+
 #### [westminsterorganworks.com](http://www.westminsterorganworks.com/pdf/agoconsole.pdf) AGO Console Specification
 
 
@@ -117,7 +129,100 @@ SparkFun Photo Interrupter Breakout Board - GP1A57HRJ00F
 
 ## parts research
 
+### Yamaha FC7 Volume Control Pedal
+
+### Tektro 319AC RH BMX Short Pull Brake Lvr Blk
+
+### Deco Slick-ISH Cable
+
+### Roman Sowa MIDI Hardware
+
+### Pushbutton switch with LED
+
 e-switch D16 Series Illuminated Pushbutton Switches
 
+#### [CNCnutz](https://www.youtube.com/watch?v=QMOTAc8zBsw&feature=youtu.be) Izzy Toggle Clamps
+
+Izzy Toggle Clamps built by CNCnutz (Peter Passuello)
+
+#### [thang010146](https://www.youtube.com/watch?v=lrL2_5tj1IE) thang010146 - Toggle clamp 2b
+
+### Midi CPU
+
 #### [midicpu.com](http://www.midicpu.com/) Highly Liquid Instant DIY MIDI Controller
+
+##  Organ at St. Josef, Bonn-Beuel
+
+#### [pleasuresofthepipes.info](http://pleasuresofthepipes.info/Bonn-Beuel-StJosefKirche.html) Oberlinger, St. Josef, Bonn-Beuel
+
+St. Josef Kirche - Bonn-Beuel - Ernst Oberlinger, 1981
+
+The total number of stops is 61.
+
+http://www.pipeloops.com/product_info.php?products_id=48
+
+## Builder Logs
+
+#### [Flickr - FriedemannW](https://www.flickr.com/photos/52179600@N06/)
+
+#### [Flickr - FriedemannW](https://www.flickr.com/photos/52179600@N06/sets/)
+
+## email
+
+~~~~~~~~~~~~~
+To Pipeloops
+
+I am working on a plan to build a console installation for the Pipeloops
+Oberlinger Bonn-Beuel organ on the Hauptwerk virtial pipe organ software.
+
+The console will hold:
+
+* windows computer running Hauptwerk VPO
+* 3 midi keyboards for the 3 manuals.
+* touchscreens for the draw knobs.
+* Custom built MIDI pedalboard and foot controls.
+
+Questions:
+
+Are 3 touchscreens (left, center, right) supported for draw knobs?
+
+What foot controls are supported (toe studs, shoes) in addition to the
+pedalboard?
+
+What resources can you recommend for information on the St. Joseph organ
+console?
+
+Can you refer me to other customers that have done a similar
+installation?
+
+Thanks,
+Craig Anderson
+~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~
+To ReinerS of Pipeloops
+> Regarding foot controls:
+> 
+> These are not specifically included in the GUI. The real organ duplicates
+> all toe studs with drawknobs as well, e.g. couplers, appel anches,
+> etc. So you would just link the toe-studs you are planning to use to
+> the corresponding draw-knobs on the virtual console. In addition there
+> is a crescendo roller and one swell-shoe on the console. I can send
+> you photographs of the original toe stud arrangements to your e-mail
+> address. (Since I did not take those photographs myself, I do not have
+> the copyright and hence would have to ask before posting them here).
+
+I would appreciate getting your pictures of the foot controls.
+
+I will continue to study Hauptwerk consoles and general organ controls
+leading up to designing a pedalboard and foot control assembly. My
+wife is the organist and I plan to run a trial software install for
+her to try and then plan out a full 3 manual installation with licensed
+software.
+
+Thanks,
+Craig H. Anderson
+craig@coot.net
+~~~~~~~~~~~~~
+
 
