@@ -9,6 +9,32 @@ tags:
   - agp_pedalboard
 ---
 
+## Foot Controls Interface
+
+### [midiboutique.com](http://www.midiboutique.com/) midiboutique
+
+#### [midiboutique.com](http://www.midiboutique.com/MIDI-encoders/hwce2x) midiboutique hwce2x
+
+
+### [midi-hardware.com](http://www.midi-hardware.com/index.php?section=products) Roman Sowa MIDI Hardware
+
+#### [mrg3](http://www.midi-hardware.com/index.php?section=prod_info&product=MRG3) MRG3
+
+#### [midi-hardware.com](http://www.midi-hardware.com/index.php?section=tutorial) Midi-Hardware Tutorial
+
+See last section - 
+keyboards, stops, pedals, pistons and swell shoes
+
+<img src="/assets/images/mrg3-3k1p-pist-swel-stop-lcd.gif" width="700px">
+
+### [midicpu.com](http://www.midicpu.com/) Highly Liquid Instant DIY MIDI Controller
+
+### NickNelson
+
+#### [NickNelson](http://forum.hauptwerk.com/viewtopic.php?f=15&t=12849&p=94757)
+
+NickNelson - DIY Pedal/manual encoder
+
 ## [renatous.co.uk](http://www.renatus.co.uk/pedalboards.shtml)
 
 <img src="http://www.renatus.co.uk/images/organs/pedalboards/straight_pb_1.jpg" style="" id="lightboxImage">
@@ -51,4 +77,8 @@ tags:
 ## Wikimedia AGO drawing
 
 <img class="mw-mmv-dialog-is-open" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pedalierago.jpg/320px-Pedalierago.jpg" crossorigin="anonymous" height="246" width="230">
+
+## Pedalboard builds
+
+### [ilyasivkov](http://midipedalboard.narod.ru/EN/manufact.htm) ilyasivkov build
 
