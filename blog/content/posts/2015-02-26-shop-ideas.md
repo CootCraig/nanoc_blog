@@ -18,6 +18,15 @@ Workbench II and rolling stand for Craftsman saw first.  Then Miter stand.
 
 ## Router Table
 
+Use Jay's Quick Release Lever Router Lift
+
+### [jayscustomcreations.com](http://jayscustomcreations.com/downloads/quick-release-lever-router-lift/) Lever Router Plans
+
+### [youtube](https://www.youtube.com/watch?v=pFcWWbJKnyc) Router Lift build video
+
+use PORTER-CABLE 892 2-1/4-Horsepower Router
+$182.30 at Amazon
+
 #### [woodpeckers store](http://www.woodpeck.com/prlv2.html#1356) Precision Router Lift V2
 
 Paulk workbench II has router insert at far end.

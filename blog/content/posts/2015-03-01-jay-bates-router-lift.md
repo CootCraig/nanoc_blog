@@ -12,3 +12,10 @@ tags:
 
 <img src="/assets/images/jays-featured-image-router-plan.jpg" width="600px">
 
+
+### [Jay Bates](http://jayscustomcreations.com/downloads/quick-release-lever-router-lift/) Quick Release Lever Router Lift
+
+$10 for plans
+
+#### [youtube](https://www.youtube.com/watch?v=pFcWWbJKnyc) Quick Action Lever Router Lift - 187 
+
