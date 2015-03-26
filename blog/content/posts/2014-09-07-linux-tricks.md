@@ -46,4 +46,8 @@ apt-get install p7zip-full
 
 * [30 Best Sources For Linux Documentation](http://www.cyberciti.biz/tips/linux-unix-bsd-documentations.html)
 
+## sed
+
+### [site](http://www.grymoire.com/Unix/Sed.html) Sed Tutorial by Bruce Barnett
+
 
