@@ -7,7 +7,28 @@ tags:
   - box_joint_jigs
 ---
 
-# Leeway version of Lynn box joint jig
+## William Ng simple box joint jig
+
+#### [youtube](https://www.youtube.com/watch?v=NutwD7B6tmE) Ng's how to make box joints
+
+Demo makes drawer with 5/8" Baltic Birch.
+
+Uses 3/8 inch dado set.
+
+First drawer on top is usually a 6 inch drawer.
+Drawer front is 6", opening is 5".
+
+Blade height set by width of material.
+About 1/32 inch more than material width.
+
+Spacer 0.004 less than dado kerf.
+
+
+
+Make fingers 0.005 - 0.007 inch smaller than kerf.
+
+
+## Leeway version of Lynn box joint jig
 
 <img src="/assets/images/leeway_lynns_box_joint_plan.png" width="800px" >
 
