@@ -3,6 +3,7 @@ title: "Using Routers"
 created_at: Mon Mar 23 04:19:32 MDT 2015
 kind: article
 tags:
+  - woodworking
   - wood_shop
   - routers
   - router_bits

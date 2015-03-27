@@ -31,7 +31,7 @@ Yep, to re-state (since I like repeating things) the particulate filter
 the 6001 organic vapor cartridge for finishing. An adapter would let
 you use the 2097 on top of the 6001
 
-http://www.uline.com/BL_693/Respirator-Cartridges-Filters
+### [uline.com](http://www.uline.com/BL_693/Respirator-Cartridges-Filters) Respirator Cartridges Filters
 
 
 ### 7163 3M Full Face Respirator Large
@@ -53,6 +53,9 @@ $145.00 at Amazon
 
 #### [amazon](http://www.amazon.com/3M-501-PREFILTER-RETAINER-pack/dp/B002ABO14I/) $6.77 Pair of 501 Prefilter Retainers
 
+#### [amazon](http://www.amazon.com/3M-2097-Particulate-Filter-Organic/dp/B00328IAO0/) $6.73/pair 3M 2097 P100 with Organic Vapor 
+
+#### [amazon](http://www.amazon.com/3M-2091-P100-Particulate-Filter/dp/B002KFFY9A/) $6.79/pair 3M 2091 P100 without organic vapor
 
 ### envirosafetyproducts
 

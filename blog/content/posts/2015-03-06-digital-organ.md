@@ -333,6 +333,9 @@ http://www.pipeloops.com/product_info.php?products_id=48
 Hauptwerk AGO Pipe Organ Project
 ~ A blog following my process & experience in building my own Hauptwerk virtual pipe organ. :)
 
+### [my-music.mine.nu](http://my-music.mine.nu/project.htm) Organ build
+
+
 
 ### [Lauwerk](http://forum.hauptwerk.com/viewtopic.php?f=21&t=13444)
 
