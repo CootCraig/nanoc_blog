@@ -1,6 +1,7 @@
 .bundle/
 bin/
 blog/tmp/
+blog/output/
 .sass-cache/
 crash.log
 
