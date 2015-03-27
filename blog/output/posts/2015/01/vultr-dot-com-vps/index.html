@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Vultr.com VPS - pt 1</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/cloud-host">cloud-host</a></span>
+        |
+        <span><a href="/tags/remote-desktop">remote-desktop</a></span>
+        |
+        <span><a href="/tags/remote-x">remote-x</a></span>
+        |
+        <span><a href="/tags/vps">vps</a></span>
+        |
+        <span><a href="/tags/vultr.com">vultr.com</a></span>
+        |
+        <span><a href="/tags/x2go">x2go</a></span>
+        |
+      </div>
+      <article>
+        
+        <h2 id="goals-and-thoughts">Goals and Thoughts</h2>
+        
+        <h3 id="fqdn---oncootnet">fqdn - on.coot.net</h3>
+        
+        <ul>
+          <li>ssh access only</li>
+          <li>X2Go Remote Desktop</li>
+          <li>Private Gitlab</li>
+          <li>Weechat IRC full time.</li>
+        </ul>
+        
+        <h2 id="vultr-bottom-3-monthly-pricing">vultr bottom 3 monthly pricing</h2>
+        
+        <ul>
+          <li>$5.00 - 1 CPU - 768MB mem - 15GB SSD - 1000GB bw</li>
+          <li>$7.00 - 1 CPU - 1024MB mem - 20GB SSD - 2000GB bw</li>
+          <li>$15.00 - 2 CPU - 2048MB mem- 40GB SSD - 3000GB bw</li>
+        </ul>
+        
+        <h2 id="x2go-research">X2Go Research</h2>
+        
+        <h3 id="x2go-packages-for-debian-gnulinuxhttpwikix2goorgdokuphpwikirepositoriesdebian"><a href="http://wiki.x2go.org/doku.php/wiki:repositories:debian">X2Go Packages for Debian GNU/Linux</a></h3>
+        
+        <pre><code>/etc/apt/sources.list.d/x2go.list
+          X2Go Repository (release builds)
+        deb http://packages.x2go.org/debian wheezy main
+          X2Go Repository (sources of release builds)
+        deb-src http://packages.x2go.org/debian wheezy main
+        
+          X2Go Repository (nightly builds)
+        deb http://packages.x2go.org/debian wheezy heuler
+          X2Go Repository (sources of nightly builds)
+        deb-src http://packages.x2go.org/debian wheezy heuler
+        </code></pre>
+        
+        <h3 id="x2go-server">X2Go Server</h3>
+        
+        <h4 id="a-local-xorg-installation-is-not-required-on-the-x2go-server">A local X.Org installation is not required on the X2Go Server</h4>
+        
+        <h4 id="connections-are-handled-through-the-linux-distros-ssh-server">Connections are handled through the Linux distro’s SSH server</h4>
+        
+        <p>Installation normally consists of adding the X2Go repository for your
+        Linux distro, and then installing the packages. Instructions are here. (A
+        local X.Org installation is not required on the X2Go Server).</p>
+        
+        <p>Once installed, there is only a tiny service that needs to run in the
+        background. That daemon is a post-session clean-up daemon, but it is not
+        required to launch X2Go sessions. Connections are handled through the
+        Linux distro’s SSH server and the users that are permitted to connect to
+        an X2Go desktop are those that are permitted to login over command-line
+        SSH. If SSH login works, X2Go will work, as well.</p>
+        
+        <h3 id="x2go-client">X2Go Client</h3>
+        
+        <p>X2Go Client is available for … many Linux distros. </p>
+        
+        <p>X2Go’s “X Server” is called “nxagent”. It is part of the nx-libs
+        package.</p>
+        
+        <h4 id="x2go-client-man-pagehttpcodex2goorgdocx2goclientmanman1x2goclient1html"><a href="http://code.x2go.org/doc/x2goclient/man/man1/x2goclient.1.html">x2go client man page</a></h4>
+        
+        <h2 id="x2go-and-i3">x2go and i3</h2>
+        
+        <ul>
+          <li><a href="http://www.djmannion.net/notes.html#x2go">Damien J. Mannion - Remote connection to i3 via x2go</a></li>
+        </ul>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

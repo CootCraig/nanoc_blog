@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Personal Computer Software Coices</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/software_choices">software_choices</a></span>
+        |
+        <span><a href="/tags/workstation_install">workstation_install</a></span>
+        |
+      </div>
+      <article>
+        
+        <h2 id="install-notes">Install Notes</h2>
+        
+        <h3 id="debian-testing-network-install-image">Debian Testing network install image</h3>
+        
+        <ul>
+          <li>no desktop</li>
+          <li>select ssh server</li>
+          <li>select print server</li>
+        </ul>
+        
+        <h3 id="continue">Continue</h3>
+        
+        <pre><code>sudo and vim
+        apt-get install vim sudo
+        adduser craig sudo
+        </code></pre>
+        
+        <pre><code>Add contrib,non-free to /etc/apt/sources.list
+        apt-get update
+        apt-get dist-upgrade
+        </code></pre>
+        
+        <pre><code>Add needed firmware
+        apt-get autoclean
+        apt-get autoremove
+        
+        For video support and other:
+        apt-get install firmware-linux-nonfree
+        
+        For common wireless:
+        apt-get install firmware-iwlwifi
+        </code></pre>
+        
+        <h2 id="software-choices">Software choices</h2>
+        
+        <ul>
+          <li>lightdm</li>
+          <li>i3</li>
+          <li>git gitk</li>
+          <li>build-essential checkinstall libtool automake uuid-dev</li>
+          <li>xorg-dev</li>
+          <li>suckless st - terminal emulater - needs build</li>
+          <li>thunar iceweasel icedove gedit</li>
+          <li>vim-gtk</li>
+          <li>alsa-utils alsamixergui</li>
+          <li>pulseaudio</li>
+          <li>weechat moc</li>
+          <li>wicd wicd-curses wicd-gtk</li>
+          <li>gparted gnome-disk-utility</li>
+          <li>audacity</li>
+          <li>dkms</li>
+          <li>libreoffice</li>
+          <li>abiword</li>
+          <li>lyx</li>
+          <li>ruby</li>
+          <li>java</li>
+          <li>python-setuptools</li>
+          <li>supervisord</li>
+          <li>cifs-utils winbind</li>
+          <li>passworddragon</li>
+          <li>remmina</li>
+          <li>reptyr</li>
+          <li>noice is a small ncurses-based file browser - suckless rocks</li>
+          <li>shutter screen capture</li>
+        </ul>
+        
+        <h2 id="other-possibilities">Other possibilities</h2>
+        
+        <h3 id="file-managers">file managers</h3>
+        
+        <ul>
+          <li>noice is a small ncurses-based file browser - suckless rocks</li>
+          <li>ranger</li>
+          <li>thunar</li>
+        </ul>
+        
+        <h3 id="irc">irc</h3>
+        
+        <ul>
+          <li>weechat</li>
+        </ul>
+        
+        <h3 id="music--audio">music / audio</h3>
+        
+        <ul>
+          <li>audacity</li>
+          <li>DeaDBeef</li>
+          <li>music on console</li>
+        </ul>
+        
+        <h3 id="screen-capture">screen capture</h3>
+        
+        <ul>
+          <li>scrot</li>
+          <li>shutter</li>
+        </ul>
+        
+        <h3 id="terminal-emulators">terminal emulators</h3>
+        
+        <ul>
+          <li>rxvt-unicode</li>
+          <li>st</li>
+          <li>terminator</li>
+        </ul>
+        
+        <h3 id="terminal-multiplexers">terminal multiplexers</h3>
+        
+        <ul>
+          <li>screen</li>
+          <li>tmux</li>
+        </ul>
+        
+        <h3 id="text-based-browsers">text based browsers</h3>
+        
+        <ul>
+          <li>ELinks - Full-Featured Text WWW Browser</li>
+          <li>Lynx is a text browser for the World Wide Web</li>
+          <li>w3m is a text-based web browser</li>
+        </ul>
+        
+        <h2 id="research">Research</h2>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>SQL Tricks</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/sql">sql</a></span>
+        |
+      </div>
+      <article>
+        
+        <pre><code>select CONVERT(CHAR(8), getdate(), 112)
+        20131107
+        </code></pre>
+        
+        <pre><code>select CONVERT(CHAR(8), READ_AT, 112),count(*)
+        FROM extract.dbo.CVLAN_CALL_EVENTS
+        group by CONVERT(CHAR(8), READ_AT, 112)
+        order by CONVERT(CHAR(8), READ_AT, 112)
+        </code></pre>
+        
+        <p><a href="http://blog.sqlauthority.com/2014/04/11/sql-server-drop-all-the-foreign-key-constraint-in-database-create-all-the-foreign-key-constraint-in-database/">Drop foreign key constraints and recreate them</a></p>
+        
+        <h4 id="slideshowhttpwwwslidesharenetmarkuswinandmodern-sql-markus-winand---modern-sql-in-postgresql"><a href="http://www.slideshare.net/MarkusWinand/modern-sql">slideshow</a> Markus Winand - Modern SQL in PostgreSQL</h4>
+        
+        <h4 id="pagehttpblogjooqorg20131218add-lateral-joins-or-cross-apply-to-your-sql-tool-chain-add-lateral-joins-or-cross-apply-to-your-sql-tool-chain"><a href="http://blog.jooq.org/2013/12/18/add-lateral-joins-or-cross-apply-to-your-sql-tool-chain/">page</a> Add LATERAL Joins or CROSS APPLY to Your SQL Tool Chain</h4>
+        
+        <h4 id="pagehttpblogheapanalyticscompostgresqls-powerful-new-join-type-lateral-dan-robinson---postgresqls-powerful-new-join-type-lateral"><a href="http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/">page</a> Dan Robinson - PostgreSQL’s Powerful New Join Type: LATERAL</h4>
+        
+        <h4 id="pagehttpwwwpostgresonlinecomjournalarchives285-postgresql-93-lateral-part2-the-lateral-left-joinhtml-postgresql-93-lateral-part2-the-lateral-left-join"><a href="http://www.postgresonline.com/journal/archives/285-PostgreSQL-9.3-Lateral-Part2-The-Lateral-Left-Join.html">page</a> PostgreSQL 9.3 Lateral Part2: The Lateral Left Join</h4>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

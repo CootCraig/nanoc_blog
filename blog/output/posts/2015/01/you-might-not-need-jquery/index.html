@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>You Might Not Need jQuery</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/javascript">javascript</a></span>
+        |
+        <span><a href="/tags/jquery">jquery</a></span>
+        |
+      </div>
+      <article>
+        
+        <h3 id="you-might-not-need-jqueryhttpyoumightnotneedjquerycom"><a href="http://youmightnotneedjquery.com/">You might not need jQuery</a></h3>
+        
+        <p>jQuery and its cousins are great, and by all means use them if it makes
+        it easier to develop your application.</p>
+        
+        <p>If you’re developing a library on the other hand, please take a moment
+        to consider if you actually need jQuery as a dependency. Maybe you can
+        include a few lines of utility code, and forgo the requirement. If you’re
+        only targeting more modern browsers, you might not need anything more
+        than what the browser ships with.</p>
+        
+        <p>At the very least, make sure you know what <a href="https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit">jQuery is doing for you</a>,
+        and what it’s not. Some developers believe that jQuery is protecting us
+        from a great demon of browser incompatibility when, in truth, post-IE8,
+        browsers are pretty easy to deal with on their own.</p>
+        
+        <h1 id="what-ive-done">What I’ve done.</h1>
+        
+        <h2 id="document-ready">Document ready</h2>
+        
+        <pre><code>Document ready with no jQuery
+        (function() {
+          var fn = function() {
+            // Code goes here.
+          };
+          if (document.readyState != 'loading'){
+            fn();
+          } else {
+            document.addEventListener('DOMContentLoaded', fn);
+          }
+        })();
+        </code></pre>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

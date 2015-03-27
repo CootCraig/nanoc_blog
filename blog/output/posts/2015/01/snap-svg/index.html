@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>Snap Svg</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/snap-svg">snap-svg</a></span>
+        |
+        <span><a href="/tags/svg">svg</a></span>
+        |
+        <span><a href="/tags/svg-image">svg-image</a></span>
+        |
+      </div>
+      <article>
+        
+        <h2 id="svg-image-load-event">SVG image load event</h2>
+        
+        <ul>
+          <li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=620002">bugzilla Bug 620002 - Support SVG 2 event model (dispatch load rather than SVGLoad etc)</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/document.createElementNS">MDN - document.createElementNS</a></li>
+        </ul>
+        
+        <h2 id="try-svgjs">Try svg.js</h2>
+        
+        <h2 id="research">Research</h2>
+        
+        <ul>
+          <li><a href="http://svg.dabbles.info/">svg.dabbles.info</a></li>
+          <li><a href="http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/">tympanus.net - interactive infographic with svg and css animations</a></li>
+          <li><a href="http://sarasoueidan.com/blog/svg-coordinate-systems/">sara soueidan - Understanding SVG Coordinate Systems</a></li>
+          <li><a href="http://css-tricks.com/guide-svg-animations-smil/">sara soueidan - A Guide to SVG Animations</a></li>
+          <li><a href="http://codepen.io/collection/edpyJ/">codepen.io - Collection of Examples using Snap.svg</a></li>
+          <li><a href="http://www.w3.org/TR/SVG/struct.html#ImageElement">W3 - Image Element</a></li>
+          <li><a href="http://www.w3.org/TR/SVG/coords.html">W3 - SVG - 7 Coordinate Systems, Transformations and Units</a></li>
+          <li><a href="http://www.w3.org/TR/SVG-Transforms/">W3 - SVG - Transforms</a></li>
+          <li><a href="http://www.technology-ebay.de/the-teams/mobile-de/blog/svg-plus-javascript-equals-awesome-four-examples-how-to-make-your-web-pages-take-off-with-snap-svg.html">Patrick Hund - SVG Plus JavaScript Equals Awesome</a></li>
+          <li><a href="http://stackoverflow.com/questions/11390830/is-it-possible-to-listen-image-load-event-in-svg">stackoverflow - SVG image load event</a></li>
+          <li><a href="http://raphaeljs.com/reference.html#Element.transform">raphaeljs reference - Element transform string</a></li>
+          <li><a href="http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/">Sara Soueidan - Making SVGs Responsive with CSS</a></li>
+        </ul>
+        
+        <pre><code>code notes
+         #coffee {
+            transform-origin: 517px 484px;
+         }
+        Snap.select('selector')
+        Snap.selectAll('selector')
+        </code></pre>
+        
+        <ul>
+          <li>paper = Snap(query)</li>
+          <li>element = Snap.select(query) - Wraps a DOM element as Element</li>
+          <li>Snap.slectAll(query) - Wraps DOM elements as set or array of Element</li>
+          <li>fragment = Snap.fragmen(ele1,ele2)</li>
+          <li>element = Paper.el(name,attr)</li>
+          <li>useElement = Element.use()</li>
+          <li>cloneElement = Element.clone()</li>
+          <li>element.toDefs()</li>
+        </ul>
+        
+        <h2 id="w3---svg---transforms">W3 - SVG - Transforms</h2>
+        
+        <h3 id="w3---svg---transformshttpwwww3orgtrsvg-transforms"><a href="http://www.w3.org/TR/SVG-Transforms/">W3 - SVG - Transforms</a></h3>
+        
+        <h2 id="w3---image-element">W3 - Image Element</h2>
+        
+        <h3 id="w3---svg---7-coordinate-systems-transformations-and-unitshttpwwww3orgtrsvgcoordshtml"><a href="http://www.w3.org/TR/SVG/coords.html">W3 - SVG - 7 Coordinate Systems, Transformations and Units</a></h3>
+        
+        <h3 id="mdn---embedding-raster-imageshttpsdevelopermozillaorgen-usdocswebsvgtutorialothercontentinsvg"><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Other_content_in_SVG">MDN - Embedding raster images</a></h3>
+        
+        <h4 id="embedding-raster-images">Embedding raster images</h4>
+        
+        <p>Much like the img element in HTML SVG has an image element to serve
+        the same purpose. You can use it to embed arbitrary raster (and vector)
+        images. The specification requests applications to support at least PNG,
+        JPEG and SVG format files.</p>
+        
+        <p>The embedded picture becomes a normal SVG element. This means, that you
+        can use clips, masks, filters, rotations and all other tools of SVG on
+        the content:</p>
+        
+        <h3 id="mdn---svg-image-elementhttpsdevelopermozillaorgen-usdocswebsvgtutorialsvgimagetag"><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/SVG_Image_Tag">MDN - SVG image element</a></h3>
+        
+        <p>There are some important things to take note of (referenced from the
+        <a href="http://www.w3.org/TR/SVG/struct.html#ImageElement">W3 specs</a>
+        ):</p>
+        
+        <p>If you do not set the x or y attributes, they will be set to 0.</p>
+        
+        <p>If you do not set the height or width attributes, they will be set
+        to 0.  Having a height or width attribute of 0 will disable rendering
+        of the image.</p>
+        
+        <h2 id="gimp-doc---23-saving-images-with-transparencyhttpdocsgimporgengimp-using-web-transparencyhtml"><a href="http://docs.gimp.org/en/gimp-using-web-transparency.html">Gimp Doc - 2.3. Saving Images with Transparency</a></h2>
+        
+        <h2 id="jquery-plugin---beatakjquery-imageloaderhttpsgithubcombeatakjquery-imageloader"><a href="https://github.com/beatak/jquery-imageloader/">jquery plugin - beatak/jquery-imageloader</a></h2>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

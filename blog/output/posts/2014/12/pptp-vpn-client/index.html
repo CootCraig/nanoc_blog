@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>PPTP VPN Client on Debian</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/Debian">Debian</a></span>
+        |
+        <span><a href="/tags/pptp">pptp</a></span>
+        |
+        <span><a href="/tags/vpn">vpn</a></span>
+        |
+      </div>
+      <article>
+        
+        <ul>
+          <li><a href="http://pptpclient.sourceforge.net/howto-debian.phtml#install">pptpclient.sourceforge.net - Debian Howto</a></li>
+          <li><a href="http://www.howtogeek.com/51237/setting-up-a-vpn-pptp-server-on-debian/">HowToGeek - How to Setup a VPN (PPTP) Server on Debian Linux</a></li>
+        </ul>
+        
+        <pre><code>apt-get install pptp-linux 
+        
+        The following NEW packages will be installed:
+          libpcap0.8 ppp pptp-linux
+        0 upgraded, 3 newly installed, 0 to remove and 0 not upgraded.
+        Need to get 520 kB of archives.
+        After this operation, 1,368 kB of additional disk space will be used.
+        </code></pre>
+        
+        <p>create or edit the /etc/ppp/options.pptp</p>
+        
+        <pre><code>diff options.pptp.1 options.pptp
+        
+        26,27c26,35
+        &lt; refuse-chap
+        &lt; refuse-mschap
+        ---
+        &gt; #refuse-chap
+        &gt; #refuse-mschap
+        &gt; 
+        &gt; usepeerdns
+        &gt; require-mppe
+        &gt; #require-mppe-128
+        &gt; nomppe-stateful
+        &gt; #require-mschap-v2
+        &gt; bsdcomp 15
+        &gt; deflate 15
+        </code></pre>
+        
+        <p>create or add lines to the /etc/ppp/chap-secrets file, which holds usernames and passwords:</p>
+        
+        <p>create a /etc/ppp/peers/$TUNNEL file:</p>
+        
+        <pre><code>find /etc/ppp -name '*gcs*'
+        
+        /etc/ppp/peers/gcsww
+        /etc/ppp/ip-up.d/100gcsww
+        </code></pre>
+        
+        <ul>
+          <li>10.10.10.111</li>
+          <li>10.10.10.116</li>
+        </ul>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>

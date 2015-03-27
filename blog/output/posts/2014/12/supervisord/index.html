@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<head>
+  <meta charset='utf-8'>
+  <title>
+    Nanoc Blog
+  </title>
+  <link href='/stylesheet.css' rel='stylesheet'>
+</head>
+<body>
+  <div id='banner'>
+    Cootcraig Public Blog
+  </div>
+  <div id='main'>
+    <div class='post'>
+      <h1>supervisord</h1>
+      <div>
+        <span>Post tags:</span>
+        |
+        <span><a href="/tags/supervisord">supervisord</a></span>
+        |
+      </div>
+      <article>
+        
+        <h2 id="why">Why</h2>
+        
+        <ul>
+          <li>tmux weechat</li>
+        </ul>
+        
+        <h2 id="supervisord-installhttpsupervisordorginstallinghtml">Supervisord <a href="http://supervisord.org/installing.html">Install</a></h2>
+        
+        <p>Debian Package: python-setuptools</p>
+        
+        <pre><code>install supervisor in one step using easy_install.
+        easy_install supervisor
+        </code></pre>
+        
+        <h2 id="start-at-boot-time">Start at boot time</h2>
+        
+        <pre><code>/etc/init.d/supervisor
+        DAEMON_OPTS="-c /etc/supervisor/supervisord.conf $DAEMON_OPTS"
+        </code></pre>
+        
+        <pre><code>system control commands
+        update-rc.d supervisor enable
+        update-rc.d supervisor disable
+        
+        service supervisor start
+        service supervisor stop
+        service supervisor restart
+        service supervisor reload
+        service supervisor status
+        </code></pre>
+        
+        <h2 id="tmux-weechat-config-example">tmux weechat config example</h2>
+        
+        <pre><code>/etc/supervisor/conf.d/irc
+        [program:irc]
+        command=/home/craig/bin/irc
+        process_name=$(program_name)s
+        directory=/tmp
+        autostart=true
+        autorestart=true
+        startsecs=30
+        startretries=3
+        user=craig
+        environment=TERM="st-256color"
+        </code></pre>
+        
+        <pre><code>~craig/bin/irc
+        shebang /bin/bash
+        export TERM="st-256color"
+        tmux -2 new-session -s irc weechat
+        </code></pre>
+        
+        <h2 id="research">Research</h2>
+        
+        <ul>
+          <li><a href="https://packages.debian.org/jessie/supervisor">Debian jessie Package: supervisor (3.0r1-1)</a></li>
+          <li><a href="http://supervisord.org/introduction.html">supervisord.org / introduction</a></li>
+          <li><a href="https://serversforhackers.com/process-monitoring/">serversforhackers - Monitoring Processes with Supervisord</a></li>
+          <li><a href="http://jpmens.net/2014/02/13/in-my-toolbox-supervisord/">Jan-Piet Mens - In my toolbox: Supervisord</a></li>
+          <li><a href="http://bixly.com/blog/supervisord-or-how-i-learned-to-stop-worrying-and-um-use-supervisord/">bixly.com - Stop Worrying and… um… Use Supervisord</a></li>
+          <li><a href="http://codesamplez.com/management/supervisord-process-monitoring">codesamplez - Beginners Guide To Supervisord Process Monitoring</a></li>
+          <li><a href="http://reustle.io/blog/managing-long-running-processes-with-supervisor">reustle.io - Managing Long Running Processes With Supervisor</a></li>
+        </ul>
+      </article>
+    </div>
+  </div>
+  <div id='sidebar'>
+    <ul>
+      <li><a href="/">Main</a></li>
+      <li><a href="/post_index/">Posts</a></li>
+      <li><a href="/tag_index/">Tags</a></li>
+    </ul>
+  </div>
+</body>
