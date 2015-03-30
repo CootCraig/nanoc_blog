@@ -676,6 +676,10 @@ $84
 Oshlun SDS-0630 6-Inch 30 Tooth Stack Dado Set with 5/8-Inch Arbor
 $73
 
+[amazon](http://www.amazon.com/Oshlun-SDS-0842-8-Inch-Tooth-Stack/dp/B0012YF25Q/) $96.75 Oshlun SDS-0842 8-Inch
+
+[amazon](http://www.amazon.com/Freud-SD208-8-Inch-Professional-Dado/dp/B0000223O9/) $84.66 Freud SD208 8-Inch Professional Dado
+
 # Measuring
 
 #### [youtube](https://www.youtube.com/watch?v=TRwEPC37pD4) Gord Graff - Accurate Woodworking Through Precise Measuring Techniques

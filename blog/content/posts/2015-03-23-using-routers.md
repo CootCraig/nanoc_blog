@@ -11,6 +11,58 @@ tags:
 
 ## Router Bits
 
+## Insert Router Bits
+
+#### [lumberjocks.com](http://lumberjocks.com/reviews/2615)
+
+
+### Amana RC-47104
+
+#### [amanatool.com](http://www.amanatool.com/rc-47104-insert-flush-trim-1-2-dia-x-13-16-x-1-4-inch-shank.html)
+
+RC-47104 Insert Flush Trim 1/2 Dia x 13/16 x 1/4 Inch Shank
+
+* Tool No. RC-47104
+* Diameter (D) 	1/2
+* Cutting Height (B) 	13/16
+* Shank (d) 	1/4
+* Overall Length (L) 	2-5/16
+* Replacement Bearing 	47706
+* Flutes 	2
+
+### Amana RC-45226
+
+#### [amanatool.com](http://www.amanatool.com/rc-45226-in-tech-series-insert-straight-plunge-1-2-dia-x-30mm-x-1-4-inch-shank.html) Amana RC-45226
+
+
+RC-45226 In-Tech Series Insert Straight Plunge 1/2 Dia x 30mm x 1/4 Inch Shank
+
+#### [amazon](http://www.amazon.com/Amana-RC-45226-INSERT-FLUTE-DIA/dp/B001PTXYXK) $18.64 Amana RC-45226
+
+
+### Amana RC-47104
+
+#### [amazon](http://www.amazon.com/Amana-RC-47104-INSERT-FLUSH-TRIM/dp/B00286WUZC) Amana RC-47104 INSERT
+
+$31.13
+Amana RC-47104 INSERT FLUSH TRIM 1/2 DIA 1/4
+
+#### [amazon](www.amazon.com/CMT-653-158-11-Carbide-Straight-Diameter/dp/B000UJTZY8/) CMT Insert Carbide Straight Router Bit with 5/8-Inch Diameter with 1/2-Inch Shank
+
+CMT 653.158.11 Insert Carbide Straight Router Bit with 5/8-Inch Diameter with 1/2-Inch Shank
+$67.79
+
+#### [amazon](http://www.amazon.com/CMT-657-192-11-Insert-Carbide-Diameter/dp/B000UK0V8Q) CMT Insert Carbide Flush Trim Bit
+
+CMT 657.192.11 Insert Carbide Flush Trim Bit with 3/4-Inch Diameter with 1/4-Inch Shank
+$50.28 
+
+#### [amazon](http://www.amazon.com/Freud-43-128-4-Inch-Diameter-Insert/dp/B00004T7N3) Freud 3/4-Inch Diameter Insert Flush Trim Router Bit with 1/2-Inch Shank
+
+Freud 43-128 3/4-Inch Diameter Insert Flush Trim Router Bit with 1/2-Inch Shank
+$72.47
+
+
 ### [lumberjocks blog](http://lumberjocks.com/knotscott/blog/39678) knotscott - Strategies For Choosing Router Bits
 
 #### [grizzly.com](http://www.grizzly.com/products/Router-Bit-12-pc-Set-1-2-Shank/H5561) $26.50 Router Bit 12 pc. Set, 1/2" Shank

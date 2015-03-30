@@ -7,7 +7,42 @@ tags:
   - tools
 ---
 
+# Suppliers
+
+### [toolstoday.com](http://www.toolstoday.com/) Tools Today Cutting Tools
+
+
+
+# Drill bits
+
+
+### Colt TwinLand Brad Point Wood Drilling Bits Set
+
+#### [amazon](http://www.amazon.com/10700412-TwinLand-Drilling-Plastic-7-Piece/dp/B005PKM5LW) $19.99 Colt Bit Set
+
+Colt 10700412 TwinLand Brad Point Wood Drilling Bits, Metric Set in Plastic Pouch, 7-Piece
+
+# Hand tools
+
+#### [HomeDepot](http://www.homedepot.com/p/National-Hardware-677-3-8-in-x-4-in-x-7-in-Zinc-Plated-U-Bolt-Plate-with-Hex-Nut-2192BC-677-SQ-U-BOLT-ZN/204660110?N=5yc1vZc2ao) U-bolt for dog hole clamp?
+
+$3.60 National Hardware Model # 2192BC 677 SQ U BOLT ZN
+3/8 in. x 4 in. x 7 in. Zinc-Plated U Bolt Plate with Hex Nut
+
+## Threaded Rod
+
+#### [metalbythefoot.com](http://www.metalbythefoot.com/onlinestore-3/acme-threaded-rod/3-4-6-x-36-acme-threaded-rod.html) $16.99 3/4-6 x 36" Acme Threaded Rod
+
+## Grizzly hand wheel
+
+#### [grizzly.com](https://www.grizzly.com/products/Spoked-Handwheel-6-/H3191) $14 6" hand wheel
+
 # Power to the Tools
+
+## Flush Trim router
+
+#### [HarborFreight](http://www.harborfreight.com/14-in-24-amp-trim-router-61626.html) $30 Trim Router
+
 
 ## Brad Nailer
 

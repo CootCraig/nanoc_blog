@@ -144,6 +144,8 @@ Brad Clark - How to Resurface a Very Rusty Tablesaw
 [youtube](https://www.youtube.com/watch?v=MN_DTiaXEIU)
 WoodWorkers Guild Of America - Cleaning a Rusty Table
 
+### [youtube](https://www.youtube.com/watch?v=zRnJEgwRDWY) herkojh Saw Maintenance
+
 
 # Cover
 
