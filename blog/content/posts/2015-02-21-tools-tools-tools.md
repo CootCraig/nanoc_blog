@@ -39,9 +39,27 @@ $3.60 National Hardware Model # 2192BC 677 SQ U BOLT ZN
 
 # Power to the Tools
 
+## jigsaw
+
+### [lumberjocks](http://lumberjocks.com/reviews/2553) Review Bosch JS365
+
+Amazon $99.00 Bosch JS365 120-Volt Top-Handle Jigsaw Kit
+
+### Makita 4351FCT
+
+$159.00 on Amazon.
+Makita 4351FCT Barrel Grip Jig Saw with L.E.D. Light
+
 ## Flush Trim router
 
 #### [HarborFreight](http://www.harborfreight.com/14-in-24-amp-trim-router-61626.html) $30 Trim Router
+
+
+## Planer
+
+### [lumberjocks](http://lumberjocks.com/reviews/3553) Review DeWalt DW 734 $399.00 on amazon
+
+#### [holbren.com](http://www.holbren.com/byrd-shelix-head-for-dewalt-dw734_planer-bearings-included-and-installed.html) $447.00 Byrd Shelix head
 
 
 ## Brad Nailer
@@ -101,4 +119,41 @@ $165.00
 item number: 10-2943
 http://www.surpluscenter.com/Electrical/AC-Motors/AC-Motors-Base-Mount/1-5-HP-3460-RPM-115-208-230-VAC-MOTOR-10-2943.axd
 
+
+## DIY knobs
+
+#### [youtube](https://www.youtube.com/watch?v=31WIG0pTS-c) routermillwoodworks diy knobs
+
+#### [youtube](https://www.youtube.com/watch?v=18PP0XY8X2s) Scroungineer DIY home made wooden clamp and jig knobs
+
+
+### Jack Houweling - Making easy grip wooden knobs
+
+#### [youtube](https://www.youtube.com/watch?v=dWUrUYqHcj8) easy grip wooden knobs
+
+### Jim Steinbrecher - Making Knobs for a comming project
+
+https://www.youtube.com/watch?v=oyBaSs3woKQ
+
+
+### Ronald Walters - Star Knobs - Homemade
+
+Ronald Walters - Star Knobs
+
+https://www.youtube.com/watch?v=pxE_cejdZ0g
+
+## Feather Board
+
+### Jack Houweling Table saw clamp
+
+#### [youtube](https://www.youtube.com/watch?v=52g2_-N_gtM) Jack Houweling 
+
+### thesegmenter making a universal featherboard pt1
+
+#### [youtube](https://www.youtube.com/watch?v=zwzU-5zQO7Y) thesegmenter 
+
+
+### Deluxe feather board - True Wood Design
+
+#### [youtube](https://www.youtube.com/watch?v=0eKnpTPY1-w) True Wood Design
 
