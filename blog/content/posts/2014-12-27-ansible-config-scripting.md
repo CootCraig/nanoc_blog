@@ -6,7 +6,10 @@ tags:
   - ansible
 ---
 
-## research
+## Use ansible to configure Ubuntu 14.04 server
+
+
+# research
 
 * [wikipedia - ansible](http://en.wikipedia.org/wiki/Ansible_%28software%29)
 * [ansible at github](https://github.com/ansible/ansible)
@@ -47,4 +50,27 @@ running less than Python 2.5 on the remotes, you will also need:
 ### Good Intro at DigitalOcean on using Ansible to configure Ubuntu
 
 * [DigitalOcean - Create Ansible Playbooks for Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu)
+
+## Gerhard Lazu
+
+#### [Gerhard Lazu](https://thechangelog.com/ansible-docker/) The Why and How of Ansible and Docker
+
+## my little app
+
+#### [my little app](http://mylittleapp.org/) Easy setup of your own Heroku clone with Ansible and Dokku
+
+This is an Ansible playbook that from scratch will automatically turn a
+pristine server into your own Heroku clone. All you need is the server,
+a domain name, and a DNS service supporting alias records. Everything
+is powered by Dokku, which itself runs on Docker.
+
+## [github.com/jnv/ansible-role-dokku-alt](https://github.com/jnv/ansible-role-dokku-alt)
+
+Dokku Alternative Role for Ansible.
+Install Docker and dokku-alt using official PPAs and perform initial setup for Dokku.
+
+## [serversforhackers.com](https://serversforhackers.com/an-ansible-tutorial) An Ansible Tutorial
+
+## [github.com/zenzire](https://github.com/zenzire/ansible-bootstrap-ubuntu) Boostrapping and securing an Ubuntu server
+
 
