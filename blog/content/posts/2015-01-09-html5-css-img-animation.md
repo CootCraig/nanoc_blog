@@ -10,6 +10,10 @@ tags:
 
 # research
 
+### pixijs.com
+
+https://www.packtpub.com/books/content/making-games-pixijs
+
 ### [velocity.js](http://julian.com/research/velocity/)
 
 Velocity is an animation engine with the same API as jQuery's
