@@ -1,0 +1,75 @@
+---
+title: "Vagrant"
+created_at: Tue Apr 14 08:15:07 MDT 2015
+kind: article
+tags:
+  - linux
+  - virtualbox
+  - ubuntu_linux
+  - vagrant
+---
+
+# log
+
+## Install latest virtualbox
+
+~~~~~~~~~~~~~~~
+Install latest virtualbox
+wget http://download.virtualbox.org/virtualbox/4.3.26/virtualbox-4.3_4.3.26-98988~Debian~wheezy_amd64.deb
+sudo dpkg -i virtualbox-4.3_4.3.26-98988~Debian~wheezy_amd64.deb
+~~~~~~~~~~~~~~~
+
+## Install vagrant
+
+[installation](http://docs.vagrantup.com/v2/installation/)
+
+http://www.vagrantup.com/downloads
+Below are all available downloads for the latest version of Vagrant (1.7.2).
+
+https://dl.bintray.com/mitchellh/vagrant/vagrant_1.7.2_x86_64.deb
+
+
+## Install vagrant box
+
+~~~~~~~~~~~~~~~
+vagrant init hashicorp.com/trusty64
+~~~~~~~~~~~~~~~
+
+## vagrant o4g31.coot.local
+
+~~~~~~~~~~~~~~~
+mkdir ~/dev/vagrant-o4g31.coot.local
+cd ~/dev/vagrant-o4g31.coot.local
+git init .
+vagrant init hashicorp.com/trusty64
+~~~~~~~~~~~~~~~
+
+# Research
+
+## [docs.vagrantup.com/v2/](http://docs.vagrantup.com/v2/vagrantfile/) vagrantfile
+
+Vagrant is meant to run with one Vagrantfile per project, and the
+Vagrantfile is supposed to be committed to version control. This allows
+other developers involved in the project to check out the code, run
+vagrant up, and be on their way. Vagrantfiles are portable across every
+platform Vagrant supports.
+
+## [docs.vagrantup.com/v2/](http://docs.vagrantup.com/v2/virtualbox) virtualbox support
+
+## [docs.vagrantup.com/v2/](http://docs.vagrantup.com/v2/virtualbox/boxes.html) Creating a Base Box
+
+
+
+https://atlas.hashicorp.com/boxes/search
+
+https://atlas.hashicorp.com/ubuntu/boxes/trusty64
+
+virtualbox self-hosted vagrant up ubuntu/trusty64 --provider virtualbox 
+
+http://releases.ubuntu.com/14.04/
+Ubuntu 14.04.2 LTS (Trusty Tahr)
+
+## [docs.vagrantup.com/v2/](http://docs.vagrantup.com/v2/getting-started/index.html) Getting Started
+
+
+

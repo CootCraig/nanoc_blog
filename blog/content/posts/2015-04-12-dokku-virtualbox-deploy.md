@@ -9,6 +9,11 @@ tags:
   - docker
 ---
 
+# attempts
+
+* static ip
+* hostname, domain
+
 # Research
 
 ## Dokku - Docker powered mini-Heroku
