@@ -8,8 +8,32 @@ tags:
   - knots
 ---
 
+# Favorites
+
+## Sail Makers Whipping
+
+#### [youtube](https://www.youtube.com/watch?v=AUti86Y2DcU) cicdl - Sail Makers Whipping
+
+## Surgeon's Loop and Angler's Loop
+
+#### [deltas.freeserve.co.uk](http://www.deltas.freeserve.co.uk/knots.html#doubleloop) Knots
+
+
+## Coiling Rope
+
+#### [animatedknots.com](http://www.animatedknots.com/coiling/index.php) Gasket Coil
+
+
+## Trucker's Hitch
+
+#### [youtube](https://www.youtube.com/watch?v=4rkOllbcYxM) Paul Mason - How to secure a canoe
+
+At 4:00 min.
+
 # Research
 
+
+#### [youtube](https://www.youtube.com/watch?v=dGuf0M753r0) Larry Green - How to Tie a Sailmaker's Whipping
 
 #### [captnmike.com](http://captnmike.com/2011/10/26/mikes-quick-rope-whipping/) Mike’s Quick Rope Whipping
 
@@ -34,12 +58,6 @@ xxxxxxx
 Alpine Butterfly Loop (Lineman's Loop)
 
 http://www.animatedknots.com/alpinebutterfly/
-
-xxxxxxx
-
-Coiling Unattached Rope (Gasket Coil)
-
-http://www.animatedknots.com/coiling/index.php
 
 xxxxxxx
 
@@ -81,6 +99,12 @@ xxxxxxx
 #### [amazon.com](http://www.amazon.com/gp/product/0071736042/) The Splicing Handbook, by Barbara Merry (Author)
 
 #### [yachtpals.com](http://yachtpals.com/whip-rope-9186) How to Whip a Rope
+
+## eye splice
+
+#### [youtube](https://www.youtube.com/watch?v=pLox_ajDGLo) Premiumropes - Eye splice three strand rope
+
+#### [youtube](https://www.youtube.com/watch?v=UracDq6QAz4) Jim Howard - Splice a Loop
 
 ## [Samson Rope logo](http://www.newenglandisa.org/images/2009_TCCPrizePkg_Samson.jpg) Samson Rope logo
 

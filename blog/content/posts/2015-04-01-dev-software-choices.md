@@ -22,5 +22,18 @@ tags:
 * rails based open source apps
   * discourse
 * Celluloid JRuby framework
+* html5boilerplate
 * Javascript in Browser
 
+# Browser Javascript libraries
+
+* script - Async JavaScript loader & dependency manager
+* underscore - a mess of useful functional programming helpers without extending any built-in objects
+* jquery
+* q.js
+* morris.js
+* fastclick
+* picker-date
+* owl
+* twitter typeahead or devbridge autocomplete
+* flexbox layout
