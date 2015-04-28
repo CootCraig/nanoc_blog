@@ -6,6 +6,12 @@ tags:
   - sharpening
 ---
 
+# Water Stone
+
+virtuovice on youtube
+
+# Flatten stone
+
 # Research
 
 ## Scary sharp with sandpaper
