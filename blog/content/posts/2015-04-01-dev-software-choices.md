@@ -22,18 +22,28 @@ tags:
 * rails based open source apps
   * discourse
 * Celluloid JRuby framework
-* html5boilerplate
 * Javascript in Browser
+
+# HTML / CSS
+
+* html5boilerplate
+* flexbox layout
+* Font-Awesome (519 icons in 4.3.0)
 
 # Browser Javascript libraries
 
 * script - Async JavaScript loader & dependency manager
 * underscore - a mess of useful functional programming helpers without extending any built-in objects
 * jquery
-* q.js
-* morris.js
+* kriskowal q.js - asynchronous promises
+* PubSubJS
 * fastclick
-* picker-date
-* owl
+* Date / Time picker?
+  * pickadate.js
+  * rome
+  * glDatePicker
 * twitter typeahead or devbridge autocomplete
-* flexbox layout
+* morris.js - charts
+* massive-js for PostGreSQL
+* owl carousel slider
+

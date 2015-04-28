@@ -7,5 +7,5 @@ tags:
   - pubsub_library
 ---
 
-### [github](https://github.com/mroderick/PubSubJS) Dependency free publish/subscribe for JavaScript 
+### [github](https://github.com/mroderick/PubSubJS) PubSubJS - Dependency free publish/subscribe for JavaScript 
 
