@@ -12,3 +12,5 @@ tags:
 
 #### [gaboats.com](http://gaboats.com/boats/snowshoe14.html) SnowShoe 14
 
+http://wolfgangbrinck.com/boats/boatbuilding/ribs/flatfromgreen.html
+

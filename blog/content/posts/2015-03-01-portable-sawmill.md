@@ -6,6 +6,10 @@ tags:
   - sawmill
 ---
 
+How about a hand saw?
+
+http://www.traditionalwoodworker.com/One-Man-36-Crosscut-Log-Timber-Saw-Regular-Germany/productinfo/501-0900/
+
 #### [baileysonline.com](Granberg Alaskan Chainsaw Mill) Granberg Alaskan Chainsaw Mill
 
 
