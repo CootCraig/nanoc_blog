@@ -11,6 +11,10 @@ tags:
 
 # research
 
+* [ryaneschinger.com/blog](http://ryaneschinger.com/blog/ansible-quick-start/) Ansible Quick Start - A Brief Introduction
+* [ryaneschinger.com](http://ryaneschinger.com/blog/ensuring-command-module-task-is-repeatable-with-ansible/) Ensuring a Command Module Task is Repeatable with Ansible
+* [ryaneschinger.com](http://ryaneschinger.com/blog/securing-a-server-with-ansible/) Securing a Server with Ansible
+* [github](https://github.com/tundrax/ansible-vultr) tundrax/ansible-vultr create server on vultr
 * [wikipedia - ansible](http://en.wikipedia.org/wiki/Ansible_%28software%29)
 * [ansible at github](https://github.com/ansible/ansible)
 * [ansible role to install a service with supervisord](https://github.com/eggsby/ansible-supervise)

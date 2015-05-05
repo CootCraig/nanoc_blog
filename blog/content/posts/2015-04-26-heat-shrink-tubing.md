@@ -13,6 +13,7 @@ tags:
 * 3/8" 2:1 $1.04/foot
 * 1/2" 2:1 $1.06/foot
 * 5/8" 2:1 $1.43/foot
+* 3/4" 2:1 $1.72/foot
 
 ### [heatshrinksupplies.com](http://heatshrinksupplies.com/professional-grade.html) 2:1
 
@@ -25,6 +26,7 @@ tags:
 * 3/8" 2:1 $0.75/foot
 * 1/2" 2:1 $0.95/foot
 * 5/8" 2:1 $1.22/foot
+* 3/4" 2:1 $1.49/foot
 
 ### [cableorganizer.com](http://www.cableorganizer.com/heat-shrink/heat-shrink3.htm) 3:1
 

@@ -73,3 +73,9 @@ package.
 
 * [Damien J. Mannion - Remote connection to i3 via x2go](http://www.djmannion.net/notes.html#x2go)
 
+# Research
+
+* [github](https://github.com/tundrax/ansible-vultr) tundrax/ansible-vultr create server on vultr
+* [Apache libcloud](https://libcloud.readthedocs.org/en/latest/compute/drivers/vultr.html) Vultr Compute Driver Documentation
+* [apache libcloud](https://libcloud.apache.org/) libcloud cloud service api`
+
