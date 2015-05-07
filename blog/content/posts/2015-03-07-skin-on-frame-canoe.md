@@ -141,3 +141,9 @@ Stonefly Canoe * Full size plans
 Kudzu scarf jig
 http://messing-about.com/forums/topic/6892-scarf-jig/
 
+
+http://www.kayarchy.com/html/01equipment/009skinonframe.htm
+
+
+http://www.skinboats.org/
+

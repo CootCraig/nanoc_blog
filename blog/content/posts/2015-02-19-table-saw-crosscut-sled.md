@@ -45,3 +45,7 @@ Blog entry by George_SA
 
 <img src="/assets/images/don-k-rolling-stand4.jpg" width="500">
 
+## L-Fence
+
+http://www.finewoodworking.com/how-to/video/versatile-tablesaw-l-fence.aspx
+
