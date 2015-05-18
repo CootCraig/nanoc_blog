@@ -39,4 +39,7 @@ I want to do the basic content management myself.
 
 ## [CMS Critic suggests](http://www.cmscritic.com/wordpress-joomla-and-drupal-are-not-the-best-cms/)
 
+### [CMS Critic - Blogs that encourage](http://www.cmscritic.com/minimalist-blogging-platforms/)
+
+
 
