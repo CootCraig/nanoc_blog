@@ -12,7 +12,7 @@ I'm a writer, philosopher, and want a blog to share.
 
 I want to do the basic content management myself.
 
-* Pick a layout design that is pleasing
+* Pick a layout design and graphics that are pleasing
 * Add blog entries
   * Basic text formatting
   * insert pictures
