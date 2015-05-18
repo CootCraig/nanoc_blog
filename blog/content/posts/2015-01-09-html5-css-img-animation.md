@@ -10,6 +10,24 @@ tags:
 
 # research
 
+## UI tabs
+
+http://keith-wood.name/uitabs.html
+
+Tabs with smaller non-selected tabs.
+
+~~~~~~~~~~~~~~
+tabs-smaller .ui-tabs-nav li { 
+    margin-top: 0.6em; 
+    font-size: 80%; 
+} 
+tabs-smaller .ui-tabs-nav li.ui-tabs-selected, 
+tabs-smaller .ui-tabs-nav li.ui-state-active { 
+    margin-top: 0em; 
+    font-size: 100%; 
+}
+~~~~~~~~~~~~~~
+
 ### pixijs.com
 
 https://www.packtpub.com/books/content/making-games-pixijs

@@ -756,6 +756,11 @@ Woodpeckers new Straddle Squares
 
 #### [page](http://www.startwoodworking.com/post/using-story-sticks-build-furniture) startwoodworking.com - Mario Rodriguez - Using Story Sticks to Build Furniture
 
+#### [Sawdust Girl dyes pine](https://sawdustgirl.com/2015/05/18/make-inexpensive-wood-look-rich-and-luxurious/)
+
+
+
+
 # Clamping
 
 ### Pinch Dogs - Woodworking

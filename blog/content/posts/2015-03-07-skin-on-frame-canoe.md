@@ -147,3 +147,33 @@ http://www.kayarchy.com/html/01equipment/009skinonframe.htm
 
 http://www.skinboats.org/
 
+
+
+
+
+Build a boat for the Hobie Mirage drive.
+
+http://mackhorton.com/Strider%20build/Ripple_build.htm
+
+
+
+
+http://www.harrybryan.com/harrybryan/ThistlePlan.html
+
+
+
+
+Harry Bryan's Thistle
+bauerdad's channel 
+https://www.youtube.com/watch?v=3PdOIXvfB3g
+
+
+[ihpva article by Harry Bryan](/content/assets/pdf/ihpva-fin-power-harry-bryan.pdf)
+
+
+http://www.mission-base.com/sea-land-design/design-file.html
+
+On May 10, 2014, Philip Thiel passed on to that great shipyard in the
+sky. He lives on in his boat designs and surely smiles down upon all
+who take pleasure in building and riding in his boats.
+
