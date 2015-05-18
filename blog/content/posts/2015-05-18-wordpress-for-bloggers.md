@@ -27,3 +27,11 @@ I want to do the basic content management myself.
 
 # research
 
+## [code.makery.ch](http://code.makery.ch/blog/making-content-editors-and-web-developers-happy/) static site for cms
+
+* [Hugo static site generator](http://gohugo.io/overview/introduction/)
+* Webhook.com $9 / month
+
+* [Prose web-based interface for managing content on GitHub.](http://prose.io/#about)
+
+
