@@ -29,17 +29,18 @@ I want to do the basic content management myself.
 
 ## Easy Peasy WordPress?
 
+## WordPress Alternatives
 
-## [code.makery.ch](http://code.makery.ch/blog/making-content-editors-and-web-developers-happy/) static site for cms
+### [code.makery.ch](http://code.makery.ch/blog/making-content-editors-and-web-developers-happy/) static site for cms
 
 * [Hugo static site generator](http://gohugo.io/overview/introduction/)
 * Webhook.com $9 / month
 
 * [Prose web-based interface for managing content on GitHub.](http://prose.io/#about)
 
-## [CMS Critic suggests](http://www.cmscritic.com/wordpress-joomla-and-drupal-are-not-the-best-cms/)
+### [CMS Critic suggests](http://www.cmscritic.com/wordpress-joomla-and-drupal-are-not-the-best-cms/)
 
-### [CMS Critic - Blogs that encourage](http://www.cmscritic.com/minimalist-blogging-platforms/)
+#### [CMS Critic - Blogs that encourage](http://www.cmscritic.com/minimalist-blogging-platforms/)
 
 
 
