@@ -23,6 +23,7 @@ I want to do the basic content management myself.
   * album cover with text
   * album navigation
   * picture text 
+  * tags on albums and pictures?
 
 
 # research
