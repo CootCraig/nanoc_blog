@@ -18,7 +18,7 @@ I want to do the basic content management myself.
   * insert pictures
   * insert links
   * add tags for blog entry
-* content tagging
+* content tagging with navigation
 * picture albums
   * album cover with text
   * album navigation
