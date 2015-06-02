@@ -20,6 +20,9 @@ tags:
 * [ansible role to install a service with supervisord](https://github.com/eggsby/ansible-supervise)
 * [DigitalOcean - Create Ansible Playbooks for Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu)
 * [lowendbox - Getting started with ansible](http://lowendbox.com/blog/getting-started-with-ansible/)
+* [amon.cx/blog/](https://www.amon.cx/blog/one-year-with-ansible/) a year using Ansible extensively
+* [recursivity.com/blog](http://recursivity.com/blog/2014/09/08/how-ansible-docker-fit-using-ansible-to-bootstrap-coordinate-docker-containers/) Using Ansible to bootstrap Docker containers
+
 
 Ansible is an open-source software platform for configuring and managing
 computers. It combines multi-node software deployment, ad hoc task

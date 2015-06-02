@@ -9,6 +9,19 @@ tags:
   - crickets
 ---
 
+# crickets
+
+#### [wikihow](http://www.wikihow.com/Raise-Your-Own-Crickets) Raise Your Own Crickets
+
+#### [wormman.com](http://www.wormman.com/breeding_crickets.cfm) Live Crickets Care, breeding and feeding
+
+#### [armstrongcrickets.com](http://www.armstrongcrickets.com/crickets) Crickets
+
+#### [nyworms.com](http://www.nyworms.com/ccare.htm) Cricket Care and Feeding
+
+#### [wildlife.tamu.edu](http://wildlife.tamu.edu/files/2010/04/6_Raising_Crickets.pdf) Raising Crickets PDF
+
+
 # Research
 
 http://wildlife.tamu.edu/files/2010/04/6_Raising_Crickets.pdf

@@ -6,6 +6,160 @@ tags:
   - cellphone
   - gammu
 ---
+# 2015-05-25 slider GSM phone gammu
+
+google search example:
+sgh-a877 site:wammu.eu
+
+* Blackberry 8520 - wammu yes
+* BlackBerry Curve 9720 site:wammu.eu - wammu no
+* Blackberry Bold 9790 - wammu yes
+* Blackberry 9800 - wammu yes, useful no
+* BlackBerry Bold Touch 9900 - wammu no
+* LG C195  - wammu no
+* LG C410 Xpression Slider - wammu no
+* LG c710 site:wammu.eu wammu no
+* LG Fathom VS750 - wammu no
+* Samsung Impression SGH-A877 Slider - wammu yes
+* Samsung sgh-a797 site:wammu.eu - wammu no
+* Samsung Flight 2 II SGH-A927 - wammu yes
+* Samsung Smiley SGH-T359 - wammu no
+* Samsung T379 GRAVITY TXT T379 site:wammu.eu - wammu no
+* Sony Ericsson TXT Pro CK15A - wammu no
+* ZTE Z431 - wammu no
+
+## Blackberry 8520
+
+Supported Features
+
+* Calendar entries
+* Reading and making calls
+* Enhanced phonebook entries (eg. several numbers per entry)
+* Filesystem manipulation
+* Phone information
+* Logos
+* Multimedia messaging
+* Basic phonebook functions (name and phone number)
+* Ringtones
+* Sending and saving SMS
+* Todos
+
+~~~~~~~~~~~~
+[gammu]
+port = BLUETOOTH ADDRESS OF PHONE
+connection = blueat
+~~~~~~~~~~~~
+
+#### [gsmarena](http://www.gsmarena.com/blackberry_curve_8520-2889.php) Blackberry 8520
+
+* $26 http://www.ebay.com/itm/RIM-Blackberry-8520-Curve-BLACK-unlocked-WIFI-/281701773726
+* $26 http://www.ebay.com/itm/RIM-Blackberry-8520-Curve-BLACK-unlocked-Wifi-/161715624998
+
+* $13 battery http://shop.crackberry.com/blackberry-c-s2-1150mah-standard-battery-a-stock/8A37A12042.htm
+
+* Network 	Technology 	GSM
+* Status 	Available. Released 2009, August
+* Keyboard 	QWERTY
+* SIM 	Mini-SIM
+* Optical trackpad
+* Display 	Type 	TFT, 65K colors
+* Resolution 	320 x 240 pixels (~163 ppi pixel density)
+* Platform 	OS 	BlackBerry OS 5.0
+* Memory 	Card slot 	microSD, up to 32 GB
+* Internal 	256 MB
+* Camera 	Primary 	2 MP, 1600 x 1200 pixels
+* Sound 	Alert types 	Vibration; MP3, WAV ringtones
+* Loudspeaker 	Yes
+* 3.5mm jack 	Yes - Dedicated music keys
+* Comms 	WLAN 	Wi-Fi 802.11b/g
+* Bluetooth 	v2.0, A2DP
+* GPS 	No
+* Radio 	No
+* USB 	microUSB
+* Features 	Messaging 	SMS (threaded view), MMS, Email, IM
+* Battery 	  	Li-Ion 1150 mAh battery
+* Stand-by 	Up to 408 h
+* Talk time 	Up to 4 h 30 min
+
+## Blackberry Bold 9790
+
+Supported Features
+
+* Sending and saving SMS
+* Basic phonebook functions (name and phone number)
+* Enhanced phonebook entries (eg. several numbers per entry)
+* Calendar entries
+* Todos
+* Filesystem manipulation
+* Ringtones
+
+~~~~~~~~~~~~~
+[gammu]
+port = DEVICE NAME
+connection = fbusdlr3
+~~~~~~~~~~~~~
+
+## Samsung SGH-A877 Impression
+
+Supported Features
+
+* Phone information
+* Sending and saving SMS
+* Basic phonebook functions (name and phone number)
+* Reading and making calls
+
+~~~~~~~~~~~
+[gammu]
+port = BLUETOOTH ADDRESS OF PHONE
+connection = blueat
+~~~~~~~~~~~
+
+
+UNLOCKED AT&T LG C410 Xpression Slider Touch GSM Cell Phone
+
+
+## Samsung Flight 2 II SGH-A927
+
+$36 - Samsung Flight 2 II SGH-A927 Unlocked AT&T 3g GSM QWERTY Cell Phone Exc Cond!
+
+* Network 	Technology 	GSM / HSPA
+* Status 	Available. Released 2010, August
+* Keyboard 	QWERTY
+* SIM 	Mini-SIM
+
+#### [wammu phones](http://wammu.eu/phones/samsung/4508/) Samsung Flight 2 II SGH-A927
+
+Supported Features
+
+* Phone information
+* Sending and saving SMS
+* Basic phonebook functions (name and phone number)
+
+~~~~~~~~~~~~
+[gammu]
+port = BLUETOOTH ADDRESS OF PHONE
+connection = blueat
+~~~~~~~~~~~~
+
+## Blackberry 9800 torch - GSM 
+
+ebay $72.00
+BlackBerry Torch 9800 4GB Unlocked GSM Phone AT&T T Mobile Tigo Claro Movistar
+
+#### [gsmarena](http://www.gsmarena.com/blackberry_torch_9800-3203.php) BlackBerry Torch 9800
+
+* Network 	Technology 	GSM / HSPA
+* Status 	Available. Released 2010, August
+* Keyboard 	QWERTY
+* SIM 	Mini-SIM
+*  	- Optical trackpad
+
+## LG Xpression 2 C410 GSM Unlocked - No gammu
+
+review LG Xpression 2 C410
+
+ebay - $26.00
+LG Xpression 2 C410 GSM Unlocked AT&T T-Mobile Slider Cell Phone Qwerty
 
 ### [Gammu](http://wammu.eu/gammu/)
 

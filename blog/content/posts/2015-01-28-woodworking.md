@@ -553,6 +553,9 @@ GEM G5000
 
 #### [video](https://www.youtube.com/watch?v=IRVrq6EUBA0&index=4&list=PLB1ATCukiUGRxDll7hcAJJ5t3ipoMIpxS) Paulk - TOOL TIP #2 CROSS CUT SLED 
 
+
+#### [youtube - Ron Paulk](https://www.youtube.com/watch?v=vSDqJGZ9R5s) Building & Laminating a Table Top
+
 # Craigs List
 
 Tue Feb  3 09:42:32 MST 2015
