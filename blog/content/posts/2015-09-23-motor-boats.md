@@ -39,7 +39,11 @@ ready to assist. Beavertail Skiffs where life is good!
 
 
 
-Bateau - Swift Canoe 16
+# Bateau - Swift Canoe 16
+
+<a href="http://www.bateau.com/proddetail.php?prod=SC16#.VggMUmGvAcU" target="_blank">Bateau - Swift Canoe 16</a>
+
+
 
 http://bateau.com/studyplans/SC16_study.htm?prod=SC16
 
