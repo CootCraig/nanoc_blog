@@ -6,7 +6,8 @@ tags:
   - motor_boats
 ---
 
-http://www.beavertailskiffs.com/?page_id=1866
+<a href="http://www.beavertailskiffs.com/?page_id=1866" target="_blank" >Beaver Tail Ambush</a>
+
 
 Beaver Tail Ambush
 

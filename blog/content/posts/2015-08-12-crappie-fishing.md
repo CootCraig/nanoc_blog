@@ -7,6 +7,11 @@ tags:
   - crappie_fishing
 ---
 
+# fishwagon.com
+
+#### [fishwagon.com/Fish_Wagon](http://www.fishwagon.com/Fish_Wagon/Black_Crappie.html) Black Crappie
+
+
 # crappie.com Forum
 
 #### [crappie.com](http://www.crappie.com/crappie/forum.php?) forum user cootcraig
@@ -52,6 +57,12 @@ the sun gets high. Our water temps now is 80+ degrees at daylight and
 I'll fish generally 8'-17' of water and the better bites on most days
 are at 6'-9' deep. Rely on your graph to show you where theyre holding
 and present your baits right above the fish if possible.
+
+
+#### [crappie.com/crappie](http://www.crappie.com/crappie/content.php?r=220) Fishing shallow lakes in hot weather
+
+
+
 
 # crappienow
 
@@ -101,4 +112,6 @@ user - Woodlander
 # johninthewild.com
 
 #### [johninthewild.com](ttp://johninthewild.com/using-some-of-ken-cooks-favorite-crappie-tactics/) Using Some of Ken Cook’s Favorite Crappie Tactics
+
+
 
