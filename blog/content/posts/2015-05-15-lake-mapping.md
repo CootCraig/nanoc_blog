@@ -159,3 +159,89 @@ NavAids, Light Sectors, Wrecks/Obstructions, Anchorage Areas, Small Craft
 Facilities and more. MAX-N Local cartography gives boaters the confidence
 to explore all their favorite local fishing, diving and cruising spots.
 
+## walleye central forum
+
+Lowrance vs. Navionics - Freshest Data and Uploading of SonarCharts(logs)
+http://www.walleyecentral.com/forums/archive/index.php/t-240929.html
+
+## Lowrance FAQ on Insight Genesis
+
+http://support.lowrance.com/system/selfservice.controller?CONFIGURATION=1001&PARTITION_ID=1&secureFlag=false&TIMEZONE_OFFSET=&CMD=VIEW_ARTICLE&ARTICLE_ID=3007
+
+
+http://www.navionics.com/en/plotter-tutorial/all
+
+Sonar log recording tutorials - Lowrance
+
+Lowrance has changed their software which now excludes depth data when
+exporting sonar logs in the GPX format. If you purchase a new Lowrance
+plotter, you can no longer use GPX to upload sonar logs. If you update
+the software of an older plotter, the same result can happen. Check this
+page, which is continuously updated. Please contact Lowrance customer
+service for any questions. Now there is a new fun and effortless way to
+upload sonar logs! All you need is the Navionics Boating app connected
+wirelessly to a sounder to enjoy SonarCharts™ Live and at the same
+time upload sonar logs.
+
+
+
+http://www.in-fisherman.com/gear-accessories/electronics/electronic-lake-mapping/`
+
+*Dan Johnson, Harris, Minnesota, is a frequent contributor to In-Fisherman publications and director of All Creation Outdoor Media.
+
+
+
+http://www.navionics.com/en/sonarcharts
+
+
+
+http://www.humminbird.com/Category/Technology/Autochart/
+
+
+http://www.sonartrx.com/web/
+
+
+
+http://reefmaster.com.au/
+
+http://reefmaster.com.au/reference/index.htm?context=110
+
+Collecting Track Log Data on a Humminbird GPS Unit
+
+Logging Sonar Data
+
+The preferred source of Humminbird data for import into ReefMaster is
+logged sonar data. Sonar logs provide explicit time information for
+track-points which is important when tide adjusting track data.
+
+·Ensure that you have a memory card with sufficient free space inserted
+into your Humminbird unit.
+
+·On arrival at your area of interest, select the option start recording
+to start logging data.
+
+·Record the data. This step might simply involve drifting and fishing
+for a few hours, or maybe a more systematic approach if you are mapping
+out a new area.
+
+·Stop recording when you are done mapping an area.
+ 
+
+Recorded sonar data is stored on the card in the RECORD directory. To
+import Humminbird a sonar log file into ReefMaster, select the RNNNNN.DAT
+file.
+
+
+
+http://humviewer.cm-johansen.dk/
+
+http://forums.sideimagingsoft.com/
+
+
+
+http://gis.stackexchange.com/questions/3128/hardware-and-software-for-capturing-bathymetric-lake-elevations
+
+
+
+http://reefmaster.com.au/index.php/forum/mapping/763-time-2-upgrade-lowrance-elite-5-chirp-for-mapping?limitstart=0
+

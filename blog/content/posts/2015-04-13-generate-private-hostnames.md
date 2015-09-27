@@ -9,6 +9,24 @@ tags:
 
 # Random hostnames
 
+## Private for me
+
+http://codepen.io/ivanakimov/pen/bNmExm
+
+~~~~~~~~~~~~~~
+var hashids = new Hashids("coot private stock", 5, "abcdefghijklmnopqrstuvwxyz1234567890");
+var id = hashids.encode(1);
+var numbers = hashids.decode(id);
+
+$("#input").text("["+numbers.join(", ")+"]");
+$("#output").text(id);
+
+1 => 374kr - ReefMaster Pro Windows 7 Pro
+2 => grj2q
+3 => jrok7
+~~~~~~~~~~~~~~
+
+
 [hashids.org](http://hashids.org/)
 Hashids is a small open-source library that generates short, unique, non-sequential ids from numbers.
 

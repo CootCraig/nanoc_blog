@@ -18,6 +18,9 @@ tags:
 
 #### [us.blackberry.com](http://us.blackberry.com/software/smartphones/bb-5/compatibility.html) Device Software v5.0 update
 
+https://swdownloads.blackberry.com/Downloads/entry.do?code=CCDF3864E2FA9089F9ECA4FC7A48EA0A
+
+
 
 # Desktop Software
 

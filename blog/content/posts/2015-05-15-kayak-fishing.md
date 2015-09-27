@@ -9,6 +9,38 @@ tags:
 ---
 
 # Research
+http://www.yakattack.us/GTTL175_16_p/gttl175-16.htm
+GTTL175 GearTrac, 16", Single Pack
+MSRP: $33.00
+● Dims: 16"Lg X 1-3/4"Wd X 1/2"Ht
+● Weight: ~5.2 oz
+● Construction: Anodized Aluminum
+● Included: SS Screws
+
+http://www.yakattack.us/GT175_16_p/gt175-16.htm
+GT175 GearTrac, 16", Single Pack
+MSRP: $41.00
+● Dims: 16"Lg X 1-3/4"Wd X 1/2"Ht
+● Weight: ~7 oz each
+● Construction: Aluminum, Military Grade Hard Anodize
+● Included: SS Screws
+
+[youtube]()
+
+jfalbo - DIY Kayak Slide Track Adapters
+
+$9
+Scotty Slide Track, 16-Inch
+http://www.amazon.com/Scotty-439BK-16-Slide-Track-16-Inch/dp/B00CMQ4OYS/
+
+$13
+http://www.amazon.com/Scotty-439BK-24-Slide-Track-24-Inch/dp/B00CMQ4OX4/
+Scotty Slide Track, 24-Inch
+
+#### [youtube](https://www.youtube.com/watch?v=0OnxGU-i_z4) zoffinger - Poor Man's Fishing Kayak
+
+
+#### [palmettokayakfishing.blogspot](http://www.palmettokayakfishing.blogspot.com/2011/11/quick-release-diy-kayak-anchor-system.html) Quick release DIY kayak anchor system
 
 
 Back on the Old Red Kayak

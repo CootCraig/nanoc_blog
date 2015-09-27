@@ -1,0 +1,59 @@
+---
+title: "Fishing Reels"
+created_at: Tue Sep  1 10:24:36 MDT 2015
+kind: article
+tags:
+  - fishing
+  - fishing_reels
+---
+
+# [ifish.net/board](http://www.ifish.net/board/showthread.php?t=258793) Best low budget spinning reel 
+
+
+
+# Okuma Classic XT Trolling Reel (5.1:1 Bushings)
+
+#### [amazon](http://www.amazon.com/Okuma-Classic-Trolling-Reel-5-1/dp/B0045ES9W8/) Okuma Classic XT Trolling Reel
+
+* clx-200L $40
+* clx-300L $38
+* clx-450L $43
+
+#### [okumafishing.com](http://www.okumafishing.com/product/view/reels/star-drag-reels/classic) Okuma Classic bait caster
+
+~~~~~~~~~~~~~~~
+Model 	Gear Ratio 	Bearings 	Weight (oz.) 	Line Retrieve 	Max Drag Pressure 	Monofilament line capacity diameter (in mm.) 	Frame 	Side
+plates 	Spool 	Schematics	Price	Qty
+CLX-200L 	5.1:1 	Bushing 	12 	23 	12-lbs 	290/14 (0.35), 230/18 (0.40), 210/20 (0.42) 	GR 	GR 	GR 	Schematics 	44.99 	
+CLX-300L 	3.8:1 	Bushing 	15 	24" 	17-lbs 	510/15 (0.37), 420/20 (0.42), 310/25 (0.48) 	GR 	GR 	GR 	Schematics 	44.99 	
+~~~~~~~~~~~~~~~
+
+
+* CLX-200L
+* 5.1:1
+* max. drag 12-lbs
+* 290/14 (0.35) 230/18 (0.40) 210/20 (0.42)
+
+# Shimano ix
+
+Shimano ix4000r
+
+$13 http://www.tackledirect.com/shimano-ix4000r-ix-r-reel.html
+
+
+#### [youtube](https://www.youtube.com/watch?v=LJKAuEaPGQM) Shimano IX4000R Spinning Reel Review by MUDD CREEK
+
+
+# Shimano FX Spinning Reel
+
+
+# Shimano AX-2000
+
+
+* ax1000fb 5.2:1
+* ax2500fb 5.2:1
+* ax4000fb 5.2:1 tackledirect.com $23
+
+# Okuma Avenger ABF Graphite Bait Feeder Reel
+
+Okuma Avenger ABF Graphite Bait Feeder Reel
