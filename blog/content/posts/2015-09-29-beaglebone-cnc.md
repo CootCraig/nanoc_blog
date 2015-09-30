@@ -20,12 +20,59 @@ $400 - Xylotex 3AX_40V_600 - 3 Axis Drive Box complete with 600 oz.in. Nema34 Mo
 <a href="http://solsylva.com/cnc/drives_steppers.shtml" target="_blank">Solsylva steppers / drivers page</a>
 
 
+# Online Forums
+
+* <a href="http://www.linuxcnc.org/index.php/english/forum/index" target="_blank">LinuxCNC Forum</a>
+* <a href="http://www.linuxcnc.org/index.php/english/forum/beaglebone" target="_blank">BeagleBone on LinuxCNC Forum</a>
+* <a href="https://groups.google.com/forum/#!forum/machinekit" target="_blank">MachineKit Google Group</a>
+
+
+# <a href="http://solsylva.com/cnc/drives_steppers.shtml" target="_blank">Solsylva Drives and Steppers Page</a>
+
+These CNC machines require:
+
+* Steppers
+* Drives
+* Power Supplies
+
+## NEMA 23 steppers - 269 oz.in.
+
+The 269 oz.in. steppers can push a trim router hard enough for the router
+to stall, though usually the steppers will stall first.
+
+
+# Xylotex Parts and info
+
+## <a href="http://xylotex.netfirms.com/OSCommerce/catalog/product_info.php?products_id=62" target="_blank">BBB_DB25_26</a>
+
+This board is intended to run in a BeagleBone Black system as the top board. It has an identification eeprom, but is unprogrammed. The user can program the eeprom as required, while noting the BBB_DB25 P8 and P9 pin requirements. See the table at the bottom of this page.
+
+A complete (minimum) LinuxCNC Control system would consist of:
+
+* 1 BBB board
+* 1 BBB_DB25 board (with optional Case)
+* 1 uSD Card with LinuxCNC set up for BBB_DB25.
+* 1 5V 1A+ Power source (not 5V from a PC USB port)
+* 1 USB self powered hub
+* 1 USB Keyboard
+* 1 USB Mouse
+* 1 HDMI compatible monitor with micro HDMI connector (possible micro HDMI to HDMI to DVI adapter required)
+* 1 DB25 Parallel port extension cable
+* 1 Motion System with DB25 connector such as Xylotex drives/drive boxes (tested) or Gecko G540 (not tested)
+* 1 Multi outlet AC source for all of the AC powered devices.
+* 1 User ability to modify the ini file for the particular application (steps/unit, accel, max travel, etc.) Use 'nano' in a Linux terminal to do this.
+
+By ordering the BBB with uSD, BBB_DB25 and other components all at one
+time, you can save in shipping costs.
 
 # Designs
 
 * Dave Gatton Sidewinder
 * <a href="http://solsylva.com/cnc/18x24x5.shtml" target="_blank">solsylva plans - 18 x 24 x 5 V Bearing Machine</a>
 * <a href="https://buildyourcnc.com/DesktopCNCMachineKitblueChick.aspx" target="_blank">blueChick 13"x24" or 13"x36" Desktop CNC Router Kit v3.0</a>
+* <a href="http://www.cncrouterparts.com/crp2448-2-x-4-cnc-router-kit-p-164.html" target="_blank">CRP2448 2' x 4' CNC Router Kit</a>
+* <a href="http://www.openbuilds.com/builds/openbuilds-ox-cnc-machine.341/" target="_blank">OpenBuilds OX CNC Machine 22.8in x 48in</a>
+
 
 
 # Beagle Bone Linux images
