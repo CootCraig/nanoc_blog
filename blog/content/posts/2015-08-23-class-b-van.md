@@ -23,6 +23,14 @@ tags:
 #### [youtube](https://www.youtube.com/watch?v=5-e6WCnlWp8) Class A, B, B+, C? RV classes explained
 
 
+#### <a href="https://www.youtube.com/watch?v=3HXlYOu8OS0" target="_blank">RV Life: More about my Class B choice - xplorer</a>
+
+* xplorer
+* pleasure way
+* roadtrek
+* 21 feet long is absolute max
+* Dodge over chevy and ford (dodge same from 1971 to 2003)
+
 # A Guy. A Girl. And a Campervan
 
 #### [youtube](https://www.youtube.com/watch?v=VJwFwqlz4g0) Tour of the van we live in
