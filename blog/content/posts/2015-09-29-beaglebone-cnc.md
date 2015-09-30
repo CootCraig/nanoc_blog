@@ -1,6 +1,6 @@
 ---
 title: "BeagleBone Black CNC Research"
-created_at: Thu Mar 19 09:07:41 MDT 2015
+created_at: Wed Sep 30 03:37:10 MDT 2015
 kind: article
 tags:
   - cnc
