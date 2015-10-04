@@ -107,3 +107,33 @@ http://tightlineoutdoors.com/precision-is-the-key-to-success-on-well-fed-fish/
 
 
 
+# Tim Galati
+
+#### <a href="https://www.youtube.com/watch?v=8bkaP--4aQg" target="_blank">Tie and Use a 3-Way Slip Sinker Rig</a>
+
+This is my favorite way to tie a 3-way slip sinker bait rig for bait
+fishing on the bottom with minnows, shiners, suckers, nightcrawlers,
+worms, hellgrammites, crayfish, cutbait, and other dead or live
+baits. These 3-way slip sinker bait rigs each have a fluorocarbon leader
+going to a hook and a breakaway mono leader (connected to another barrel
+swivel that slides along the main line) going to a weight, and I use
+them all the time to catch walleye, panfish, carp, suckers, catfish,
+bass, pike, and more. I tie hundreds of these bait rigs every year, tie
+all sorts of variants of them, and use them in most of my bait fishing
+videos, and I think they have some advantages over standard 3-way rigs
+and standard slip sinker rigs. I also tried to share (in this video)
+some of my best bait fishing tips and techniques relating to the bait
+rig that came to mind.
+
+
+
+# Jason Mitchell Outdoors
+
+
+#### <a href="https://www.youtube.com/watch?v=zV6Qcryfik8" target="_blank">Deadly Half Crawler Rig for Walleye</a>
+
+#### <a href=""https://www.youtube.com/watch?v=0mmhAil20lw target="_blank">Walleyes Love Crankbaits</a>
+
+ 
+
+
