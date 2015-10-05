@@ -107,6 +107,16 @@ Features
 * Stepper Motors can be connected with 4 pin molex connectors.
 * Runs on 12-36V DC. (At the moment only the Pololu DRV8825 drivers can handle up to 36V so please consider the operation voltage when powering the board.)
 
+### Spark Concepts - CNC xPRO Controller V2
+
+<a href="http://www.spark-concepts.com/cnc-xpro-controller-v2/" target="_blank">CNC xPRO Controller V2 - $129.00</a>
+
+Take your CNC router to the next level with Spark Concepts' original
+CNC xPRO driver.  Runs 4 DRV8825 motor drivers; allowing for dual motor
+configurations on the X,Y, or Z axis.  The CNC xPRO is printed on 2oz
+copper to handle heavy current and improve thermal management of the
+motor drivers.  Version 2 of the CNC xPRO ships with the latest GRBL.
+
 ### Polulu DRV8825 Stepper Motor Driver Carrier, High Current
 
 <a href="https://www.pololu.com/product/2133" target="_blank">Polulu DRV8825 page</a>
