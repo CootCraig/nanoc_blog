@@ -34,3 +34,13 @@ And I think I found it, the lumbersmith portable sawmill.
 
 <img src="/assets/images/lumbersmith-sawmill-1.jpg" width="600px">
 
+# Makezine Article
+
+<a href="http://makezine.com/2015/09/19/turning-a-log-into-a-wood-pile-with-a-simple-alaskan-mill/" target="_blank">David Groth - Simple Alaskan Mill</a>
+
+<a href="http://www.instructables.com/id/Chainsaw-Mill-Build-Use-Tips-n-Tricks/" target="_blank">Chainsaw Mill Build, Use & Tips n Tricks by bongodrummer</a>
+
+~~~~~~~~~~~~~~
+<a href="" target="_blank"></a>
+~~~~~~~~~~~~~~
+

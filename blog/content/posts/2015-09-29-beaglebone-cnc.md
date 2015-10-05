@@ -180,6 +180,7 @@ assumes your PC software is already setup properly.
 * <a href="http://www.mouser.com/ProductDetail/Mean-Well/NES-350-24/?qs=%2fha2pyFaduhxfhzsenBkIkgMfhBr0hSVdTJWNZMLFL2wp6eI7VH7oQ%3d%3d" target="_blank">Mouser.com Mean Well Power Supply</a>
 
 
+http://www.planet-cnc.com/
 
 # Builds
 
