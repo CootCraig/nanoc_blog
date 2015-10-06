@@ -97,6 +97,50 @@ frame was stock spruce-pine-fir 1x4 and 1x6 boards.
 
 <img src="/assets/images/tinyg-v8-diagram.jpg" width="600px">
 
+### Smothieboard
+
+#### Stepper drivers
+
+* 3 to 5 Allegro A4982 stepper drivers.
+* Each capable of driving bipolar steppers up to 35V and 2A.
+* 1/16 microstepping.
+* TSSOP package allows for much better thermal handling than commonly used A4983/8.
+* Digital control of the current setting for each driver instead of trimpot manual control.
+
+#### Microcontroller
+
+* NXP LPC 1768/9 32-bits Cortex-M3 MCU, running at 96 to 120Mhz. 512kB Flash, 64kB RAM.
+* Drag and drop flashing : simply drop a new firmware file to the smoothieboard to update.
+* USB2 Composite device : shows to the computer as both a Serial device, and a Mass Storage device ( exposing the SD-card ), à-la mbed.
+* Ethernet
+* microSD card file storage.
+
+
+
+<img src="/assets/images/Smoothieboard-3d-printer-setup.jpg" width="600px">
+
+<img src="/assets/images/Smoothieboard-3x-pic.jpg" width="600px">
+
+<img src="/assets/images/Smoothieboard-host-side.jpg" width="600px">
+
+
+<a href="http://www.openbuilds.com/threads/smoothieboard-vs-tinyg-for-cnc-milling.1924/" target="_blank">SmoothieBoard vs. TinyG for CNC milling</a>
+
+Arthur from the Smoothie project discusses.
+
+<a href="http://smoothieware.org/smoothieboard" target="_blank">SmoothieBoard</a>
+
+<a href="http://shop.uberclock.com/collections/smoothie/products/smoothieboard-3x" target="_blank">shop.uberclock.com - smoothieboard-3x - $110</a>
+
+<a href="https://www.youtube.com/watch?v=vsu_vAKvRO0" target="_blank">Thomas Sanladerer - review: The Smoothieboard</a>
+
+<a href="https://www.youtube.com/watch?v=uIn7blr1iEs" target="_blank">Mark Cooper of SmoothieBoard</a>
+
+<a href="http://smoothieware.org/cnc-mill-guide" target="_blank">Your guide to installing Smoothieboard in a CNC Milling Machine</a>
+
+<a href="http://store.hackaday.com/products/smoothieboard5xc" target="_blank">store.hackaday.com smoothieboard5xc</a>
+
+
 ### 24V power supply
 
 #### Meanwell Power Supply - $46 - 24V 14.6A
@@ -106,6 +150,8 @@ frame was stock spruce-pine-fir 1x4 and 1x6 boards.
 <img src="/assets/images/MeanWell-power-supply-NES-350.jpg" width="450px">
 
 ### NEMA23 stepper motors
+
+NEMA23 425oz/in 2.8A Stepper Motor ¼” Dual shaft (KL23H286-20-8B)
 
 <a href="http://www.automationtechnologiesinc.com/products-page/nema-23/kl23h286-20-8b" target="_blank">Automation Technologies NEMA23 3x$32</a>
 
@@ -134,6 +180,13 @@ Features
 * Compact design.
 * Stepper Motors can be connected with 4 pin molex connectors.
 * Runs on 12-36V DC. (At the moment only the Pololu DRV8825 drivers can handle up to 36V so please consider the operation voltage when powering the board.)
+
+### GeckoDrive G540
+
+<a href="http://www.geckodrive.com/geckodrive-step-motor-drives/g540.html" target="_blank">$299 - G540 4-Axis Digital Step Drive</a>
+
+<img src="/assets/images/geckodrive-g540.png" width="450px">
+
 
 ### Spark Concepts - CNC xPRO Controller V2
 
