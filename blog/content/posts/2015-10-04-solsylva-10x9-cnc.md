@@ -21,6 +21,11 @@ This fixed gantry machine uses bearings that ride steel rails. Bearings
 also support the leadscrews. These features give a solid machine that
 can use a trim router to cut aluminum.
 
+### The photo below is of a piece of 3/8 x 6 inch aluminum flat bar that was milled with a 10x9 machine.
+
+<img src="/assets/images/solsylva_10x9_aluminum_closeup_acme500.jpg" width="350px">
+
+
 ### Construction
 
 Only basic tools are required to build this machine. Tool list (on FAQ
@@ -84,6 +89,29 @@ frame was stock spruce-pine-fir 1x4 and 1x6 boards.
 
 # Electronics
 
+### Synthetos TinyG controller
+
+<a href="http://www.smw3d.com/tinyg/" target="_blank">$130 TinyG at smw3d.com</a>
+
+<img src="/assets/images/tinyg-v8.jpg" width="600px">
+
+<img src="/assets/images/tinyg-v8-diagram.jpg" width="600px">
+
+### 24V power supply
+
+#### Meanwell Power Supply - $46 - 24V 14.6A
+
+<a href="http://www.mouser.com/ProductDetail/Mean-Well/NES-350-24/?qs=%2fha2pyFaduhxfhzsenBkIkgMfhBr0hSVdTJWNZMLFL2wp6eI7VH7oQ%3d%3d" target="_blank">Mouser.com MeanWell Power Supply</a>
+
+<img src="/assets/images/MeanWell-power-supply-NES-350.jpg" width="450px">
+
+### NEMA23 stepper motors
+
+<a href="http://www.automationtechnologiesinc.com/products-page/nema-23/kl23h286-20-8b" target="_blank">Automation Technologies NEMA23 3x$32</a>
+
+<img src="/assets/images/nema23-stepper.png" width="400px">
+
+
 ### GRBL Arduino with shield
 
 Arduino CNC Shield V3.10 – GRBL v0.9 compatible (PWM Spindle + Soft limits)
@@ -126,6 +154,82 @@ motor drivers.  Version 2 of the CNC xPRO ships with the latest GRBL.
 <a href="http://www.automationtechnologiesinc.com/products-page/nema-23/nema-23-quarter-inch-dual-shaft-with-flat-270-oz-in" target="_blank">Automation Technolory - $26 270 oz/in</a>
 
  
+# Acme Precision Lead Screws
+
+
+<a href="http://solsylva.com/cnc/acme_rod.shtml" target="_blank">Acme Threaded Rod</a>
+
+3/8-8 four start precision lead screws
+
+The edge cut shown on the 10x9 page used 3/8-8 four start precision
+Acme leadscrews with anti-backlash leadnuts on the X and Y axes. This
+was the only upgrade, and it added ~$140 to the price of the machine.
+
+The proprietary stepper to leadscrew couplers, leadnuts and collar clamps
+add up quickly.
+
+### proprietary fittings
+
+* stepper to leadscrew couplers
+* leadnuts
+* collar clamps
+
+### <a href="http://www.cncroutersource.com/acme-lead-screw.html" target="_blank">CNC Router Source ACME Lead Screw Page</a>
+
+# lead screw suppliers
+
+## Roton
+
+<a href="http://www.roton.com/Mating_Components.aspx?family=7061412" target="_blank">3/8 X .375 Right Hand Hi-Lead</a>
+
+* Product Line: Hi-Lead®
+* Major Diameter: 3/8" (in.)
+* Threads Per Inch: 10 2/3 (Threads/in.)
+* Number of Starts: 4
+* Lead: .375 (in./rev.)
+* Effective Threads Per Inch: 2 2/3 (Effective TPI)
+* Hand: Right Hand
+
+$18 / ft.
+
+## dumpster CNC
+
+http://www.dumpstercnc.com/
+
+* ACME 3/8-8, 4 Start Components (2 Turns Per Inch)
+* For screws measuring 3/8" diameter with 8 TPI and a 4 start acme thread form.
+* Screws available at: McMaster-Carr [part# 98940A607]
+
+* Anti-backlash leadnuts
+* threaded couplers
+* thread clamps
+* flange nuts
+
+part# 98940A607
+3 foot - $34.15
+6 foot - $68.30
+
+4140 Alloy Steel Precision ACME Threaded Rod, 3/8"-8 Size, 1/2"
+Travel/Turn, 3' Long, Right-Hand Thread, 4 Starts
+
+
+# Sidewinder CNC FAQ
+
+
+<a href="http://www.cncsidewinder.com/faq---links.html" target="_blank">Sidewinder CNC FAQ</a>
+
+# cnczone.com forum - ACME Leadscrew question
+
+<a href="http://www.cnczone.com/forums/open-source-cnc-machine-designs/45879-cnc.html" target="_blank">ACME Leadscrew question</a>
+
+<a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/" target="_blank">Forum: DIY CNC Router Table Machines</a>
+
+<a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/143303-cnc-software-forum-posts.html" target="_blank">Newbie- Introduction and 10x9 planning</a>
+
+<a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/139840-cnc.html" target="_blank">Solsylva 10x9 - First Build</a>
+
+
+
 
 ~~~~~~~~~~~~~~~~~~
 <a href="" target="_blank"></a>

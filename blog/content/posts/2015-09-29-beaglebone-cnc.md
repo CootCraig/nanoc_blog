@@ -8,6 +8,13 @@ tags:
   - wood_shop
 ---
 
+# This went sideways, start over
+
+<a href="http://xylotex.netfirms.com/OSCommerce/catalog/product_info.php?cPath=27&products_id=62" target="_blank">Xylotex - BBB_DB25_26</a>
+
+
+
+
 # Current Straw Man selection
 
 130 + 46 + 96 + 130 + 180 =
