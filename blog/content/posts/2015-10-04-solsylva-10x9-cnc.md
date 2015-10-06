@@ -123,6 +123,8 @@ frame was stock spruce-pine-fir 1x4 and 1x6 boards.
 
 <img src="/assets/images/Smoothieboard-host-side.jpg" width="600px">
 
+<img src="/assets/images/smoothieboard-wiring.png" width="600px">
+
 
 <a href="http://www.openbuilds.com/threads/smoothieboard-vs-tinyg-for-cnc-milling.1924/" target="_blank">SmoothieBoard vs. TinyG for CNC milling</a>
 
