@@ -135,5 +135,35 @@ rig that came to mind.
 #### <a href=""https://www.youtube.com/watch?v=0mmhAil20lw target="_blank">Walleyes Love Crankbaits</a>
 
  
+# LineOnFishing
 
+<a href="http://www.lineonfishing.com/index.php/2013-06-11-15-37-39/menu-rigging/menu-slipweightrigs" target="_blank">Slip Weight Rigs</a>
+
+
+# AnglersClug
+
+<a href="http://anglersclub.com/tips/crankbaits/" target="_blank">Crankbaits are Surprisingly Rare in Small Water By Ben Team</a>
+
+Next, you will need to select the right size, shape and the color for
+the lure. As always, you want to match your lure to the forage. Use
+crankbaits small, slim-bodied silver models for ponds that are full of
+minnows or shad, big, deep-bodied chartreuse models for ponds full
+of bluegill or medium-sized brown-and-red models in ponds with lots
+of crayfish.
+
+Use:
+
+* small slim-bodied silver models for ponds that are full of minnows or shad
+* big, deep-bodied chartreuse models for ponds full of bluegill
+* medium-sized brown-and-red models in ponds with lots of crayfish.
+
+# Flukemaster
+
+<a href="https://www.youtube.com/watch?v=Jvf0ZHkt3C8" target="_blank">How to Find Fish - Bass Fishing</a>
+
+
+
+~~~~~~~~~~~~~
+<a href="" target="_blank"></a>
+~~~~~~~~~~~~~
 

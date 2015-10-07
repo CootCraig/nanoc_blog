@@ -61,8 +61,9 @@ and present your baits right above the fish if possible.
 
 #### [crappie.com/crappie](http://www.crappie.com/crappie/content.php?r=220) Fishing shallow lakes in hot weather
 
+#### <a href="http://crappie.com/jeff/" target="_blank">Crankbaits for Crappie by J. White</a>
 
-
+ 
 
 # crappienow
 
@@ -114,4 +115,50 @@ user - Woodlander
 #### [johninthewild.com](ttp://johninthewild.com/using-some-of-ken-cooks-favorite-crappie-tactics/) Using Some of Ken Cook’s Favorite Crappie Tactics
 
 
+# in-fisherman.com
+
+<a href="http://www.in-fisherman.com/panfish/crappie-black-or-white/crankbaits-for-crappies/" target="_blank">Crankbaits For Crappies by Lonnie King</a>
+
+I pull out a #4 Glass Shad Rap and start probing basins just outside
+backwater spawning areas. Most of these basins run 3 to 4 to 7 feet
+deep. The Shad Rap runs 3 to 4 feet down on 6-pound Sufix 832, a braid,
+depending how high I keep my rod tip. I’m just casting, making slow
+retrieves, and covering water looking for fish. I start seeing some
+fish on the locator and finally catch a big fish, maybe 2.5 pounds. Then
+another nice one. And another.
+
+Many anglers hesitate to use cranks because compared to a typical crappie
+jig they seem too big—even immense. But I open the mouth of a 2-pounder
+that has completely eaten the Shad Rap. This fish could eat 4 Shad Raps
+at the same time. A 3-pound fish could eat a baseball.
+
+It isn’t just diving cranks that do a job on crappies in certain
+situations. The key factor in deciding on a crankbait style is
+always first, where are the fish. How deep are they? Depth control
+is paramount. Speed control and the way you’re working the lure is
+secondary, but also vital. All the other factors—lure size, color,
+profile, vibration pattern, and so on—you tinker with after the first
+two factors are in check. I agree, however, that lures for crappies
+shouldn’t be too big. I also agree there are traditionally productive
+colors crappies like in various water-clarity situations.
+
+I think the vibration pattern of a lure is more important than the
+other factors most of the time. Depth, speed and how you’re working
+the lure, then vibration pattern—before considering size, shape,
+color. The problem is that vibration pattern is dependent on the lure
+style you choose, so it’s hard to factor it in, other than as a matter
+of switching crankbait styles.
+
+
+<a href="http://www.in-fisherman.com/panfish/fishing-for-panfish/" target="_blank">Fishing For Panfish: What Bluegills, Perch, And Crappie Eat</a>
+
+# Lindy Fishing
+
+<a href="https://www.youtube.com/watch?v=isbHDvOPKi4" target="_blank">Fish Ed High Pressure Crappies on Crankbaits</a>
+
+
+
+~~~~~~~~~~~~~~~
+<a href="" target="_blank"></a>
+~~~~~~~~~~~~~~~
 
