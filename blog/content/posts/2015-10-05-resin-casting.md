@@ -7,7 +7,7 @@ tags:
   - resin_casting
 ---
 
-<a href="http://lcamtuf.coredump.cx/gcnc/" target="_blank">Guerrilla guide</a>
+<a href="http://lcamtuf.coredump.cx/gcnc/" target="_blank">Guerrilla guide to CNC machining, mold making, and resin casting</a>
 
 Guerrilla guide to CNC machining, mold making, and resin casting
 
@@ -54,6 +54,12 @@ materials supplier for making parts, patterns, tools, or molds.
 
 
 <a href="http://www.hirstarts.com/moldmake/moldmaking.html" target="_blank">Mold Making</a>
+
+
+
+<a href="http://makezine.com/2014/03/21/resin-casting-going-from-cad-to-engineering-grade-plastic-parts/" target="_blank">Resin Casting: Going from CAD to Engineering-Grade Plastic Parts</a>
+
+By Michal Zalewski	March 21st, 2014 1:35 pm 
 
 
 

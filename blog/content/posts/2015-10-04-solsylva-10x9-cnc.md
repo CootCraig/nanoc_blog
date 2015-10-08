@@ -285,6 +285,42 @@ Travel/Turn, 3' Long, Right-Hand Thread, 4 Starts
 
 
 
+# Notes
+
+## Forum - WoodWorking Machines - DIY CNC Router Table Machines
+
+### New builder - Solsylva 10x9 vs. OpenBuilds C-Beam vs ??
+
+~~~~~~~~~~~~~~~~~~
+I am researching a DIY CNC router build. The two designs that
+have caught my eye are the OpenBuilds C-Beam and the Solsylva
+10x9.  Some thoughts on what I'm interested in:
+
+A small work area and machine size
+Lower cost
+Machine fabrication that I can accomplish
+Produce pieces and design engraving for small wooden boxes.
+Aluminum plate milling
+Resin cast mold making
+
+C-Beam Machine Specs:
+  X Axis Travel 350mm - (13.5")
+  Y Axis Travel 280mm - (11") 
+  Z Axis Travel 160mm - (6") Actual working depth is 1.250"
+
+Solsylva 10x9  has a cutting area of 10 x 9 inches with 4 inches of Z travel,
+
+I would like to use the Smoothieboard controller:
+
+<a href="http://smoothieware.org/smoothieboard" target="_blank">SmoothieBoard</a>
+
+My current choice is the Solsylva 10x9 with Acme leadscrews.
+
+I would like to hear from others to help guide my research and
+eventual project choice.
+~~~~~~~~~~~~~~~~~~
+
+
 
 ~~~~~~~~~~~~~~~~~~
 <a href="" target="_blank"></a>
