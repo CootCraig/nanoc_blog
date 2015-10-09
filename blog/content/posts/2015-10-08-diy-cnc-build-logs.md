@@ -26,7 +26,29 @@ tags:
 <a href="https://www.youtube.com/watch?v=QRK1DfmO25A" target="_blank">FanofDocumentaries - Solsylva 10x9, truing holding/waste board</a>
 
 
+# TheHandyman - Newbie - My CNC Router Build 
 
+* Wood frame
+* rails
+* Stripped computer box as CNC controller box (Nice)
+
+<a href="http://www.cnczone.com/forums/members/thehandyman.html" target="_blank">The Handman on cnczone</a>
+
+<a href="https://www.youtube.com/channel/UC4ogFJefjRyxWElw8wiXEqQ/videos" target="_blank">The Handyman on Youtube</a>
+
+<a href="https://www.facebook.com/TheHandymanNNY/timeline/" target="_blank">The Handyman on Facebook</a>
+
+<a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/257316-cnc.html" target="_blank">TheHandyman - Newbie - My CNC Router Build</a>
+
+What spindle? new 1.5kw spindle and vfd
+ 
+# CarveOne's Steel Channel Rebuild 
+
+
+<a href="http://www.cnczone.com/forums/cnc-wood-router-project-log/118739-cnc.html" target="_blank">CarveOne's Steel Channel Rebuild</a>
+ 
+This is going to be a complete rebuild of my first CNC machine, the red
+oak Solsylva 25x37. Stiffness and extra mass is the goal.
 
 ~~~~~~~~~~~~~
 <a href="" target="_blank"></a>
