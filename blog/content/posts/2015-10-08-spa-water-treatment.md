@@ -41,7 +41,149 @@ Gary
 * or MPS ala Nature 2
 
 
+# Dichlor-then-bleach ala Trouble Free Pool
 
+<a href="http://www.poolspaforum.com/forum/index.php?showtopic=13634&st=0" target="_blank">nitro - Nitro's Approach To Water Maintaince at PoolSpaforum.com</a>
+
+## First Buy list
+
+#### Return Filter Frog
+
+* 2 new spare filters
+* Ahh-Some for Hot Tubs purging flush
+* TFTestkits TF-100
+* Aqua Chek Yellow Test Strips Free Chlorine, 50 Strips
+* boric acid
+* fixed hose nozzle
+* bleach - Clorox regular unscented
+* Trisodium Phosphate (TSP) for filter cleaning
+* baking soda
+* have Sodium dicloro-s-trazinetrione hydrated
+* have SeaKlear system flush for flushing when done with ahh-some
+
+### First order checklist
+
+* [ ] 2 new spare filters
+* [ ] Ahh-Some for Hot Tubs purging flush
+* [ ] TFTestkits TF-100
+* [ ] Aqua Chek Yellow Test Strips Free Chlorine, 50 Strips
+* [ ] boric acid
+* [ ] fixed hose nozzle
+* [ ] bleach - Clorox regular unscented
+* [ ] Trisodium Phosphate (TSP) for filter cleaning
+* [ ] baking soda
+
+### Test Kit
+
+TFTestkits TF-100
+
+<a href="www.amazon.com/Aqua-Chek-Yellow-Strips-Chlorine/dp/B003TQM9XS/" target="_blank">Aqua Chek Aqua Chek Yellow Test Strips Free Chlorine, 50 Strips</a>
+
+
+### Ahh-Some for Hot Tubs
+
+<a href="http://www.ahhsome.com/tubs.php" target="_blank">Ahh-Some for Hot Tubs</a>
+
+### Increase calcium hardness
+
+Nu-Clo Bucket Calcium Hardness  
+
+Basic Calcium Hardness.  Raises calcium level in swimmng pool.  Calcium is a valuable part of balanced water to prevent corrosion of any metal parts and protect pool surfaces. Nuclo Basic Calcium Hardness is 100% Calcium Chloride Dihydrate. It is extremely fast dissolving, pH neutral and is applied directly to the pool or pre-dissolved in water.10lb Bucket 
+
+### Boric acid (not GentleSpa)
+
+
+<a href="http://www.troublefreepool.com/threads/90257-Borates-Why-and-How" target="_blank">TFPC - Borates - Why and How</a>
+
+#### How
+
+(granules are recommended)
+
+We recommend maintaining borates at between 30 and 50 ppm. That normally
+means raising the borate level to around 50 each spring, so that it will
+still be above 30 come fall.
+
+Before you start on borates, adjust your TA level towards the low end
+of the appropriate range for your situation. See the Recommended Levels
+chart for appropriate levels. It is easier to adjust TA before adding
+borates than it will be after.
+
+There are two approaches to adding borates to the pool: boric acid, or a
+combination of Borax and muriatic acid. Using boric acid is just slightly
+more expensive in most cases, and way easier. Borax and muriatic acid
+takes more effort and handling that much acid is just slightly dangerous,
+but saves just a little money (if you shop carefully).
+
+In either case you can use PoolMath to calculate the quantities required.
+
+#### JoyfulNoise - Re: Borates - Why and How 
+
+Borates in my pool water has been a net positive for me. Better pH control
+(let's me run my TA on the low side) and I got a little efficiency boost
+in sanitizing as the SWG could run a little easier. Not everyone gets
+positive results so I hope it works out for you (another reason possibly
+not to buy so much up front).
+
+<a href="http://www.proteampoolcare.com/index.php/products/spa/gentle-spa/" target="_blank">Pro Team Poolcare - Gentle Spa (Borates)</a>
+
+<a href="http://www.troublefreepool.com/threads/9695-Borate-formula-using-ProTeam-Gentle-Spa?p=670711&viewfull=1#post670711" target="_blank">TFPC - Using Boric Acid</a>
+
+Re: Borate formula using ProTeam Gentle Spa 
+
+Gentle Spa is not as pH neutral as they claim and people who have used
+it report that it raises the pH a lot, but not as much as just being
+borax. Instead of using this product which is more expensive anyway,
+just get boric acid directly from DudaDiesel, AAA Chemicals (better for
+pool sized applications since they don't sell smaller quantities), or The
+Chemistry Store. With boric acid you don't need to do much pH balancing
+as it is only slightly acidic (moves the pH from 7.5 to 7.2 typically).
+
+Forget the part about maintenance. That's just bunk except for the
+very small amount of water dilution that occurs from carry-out and
+refill. Evaporation and refill doesn't change the concentration and the
+borates don't degrade.
+
+<a href="http://www.chemistrystore.com/Chemicals_A-F-Boric.html" target="_blank">7 lb $13.44 - Granular Technical Grade Boric Acid</a>
+
+<a href="http://www.dudadiesel.com/search.php?query=boric+%2Bgranular" target="_blank">$13.75 - Granular Boric Acid, 5 lb</a>
+
+### Trisodium Phosphate (TSP) for filter cleaning
+
+1 cup TSP + 5 gallons water
+
+<a href="http://www.troublefreepool.com/threads/4224-Re-How-to-clean-a-cartridge-filter?p=146005&viewfull=1#post146005" target="_blank">Re: How to clean a cartridge filter</a>
+
+PoolGuyNJ
+
+Re: How to clean a cartridge filter
+
+First, find the amount of displaced water when adding a cartridge.
+
+* Fill a vessel such as a clean garbage can with enough water to cover a cartridge. 
+* Measure the volume.
+* Mark the water level.
+* Add a cartridge. Agitate it to knock off and trapped air.
+* The water level will have risen some. Siphon off the water into a large corn pot until you get the water level back to the original mark.
+* Measure the amount of water in the corn pot. That is how much water is displaced by a single cartridge. Adding additional cartridges should displace the same amount.
+
+Now you can calculate how many gallons and how much TSP.
+
+Scott 
+
+
+
+### Nelson Brass Sweeper Nozzle 50161
+
+Fixed nozzle
+
+or
+Underhill SN6-75 PowerBlast Super Sweeper 6-Inch Power Nozzle with 3/4-Inch Hose Thread Inlet
+
+### 2 spare filters
+
+<a href="http://www.amazon.com/Replaces-Pleatco-PPM50TC-Cartridge-Swimming/dp/B007AJJVOA/" target="_blank">$29 Amazon - Pool filter</a>
+
+# Research
 
 <a href="http://www.watertechonline.com/maintaining-spa-water-quality-is-easier-than-you-think/" target="_blank">Maintaining spa water quality is easier than you think</a>
 
@@ -157,6 +299,22 @@ Shock once a week, and/or after high bather loads. Use MPS if you have
 party's, and/or don't want to use as much chlorine.
 
 Easy as can be, and your tub is always ready.
+
+<a href="http://www.troublefreepool.com/content/123-abc-of-pool-water-chemistry" target="_blank">TFPC - ABCs of Pool Water Chemistry</a>
+
+There are five chemical levels that every pool owner needs to keep
+track of:
+
+* FC - Free Chlorine - A sanitizer which keeps your pool water safe and free of germs. Chlorine must be constantly replenished. (level depends on CYA)
+* PH - Acidity/Alkalinity - Needs to be kept in balance to prevent irritation and protect the pool equipment. (7.5 to 7.8)
+* TA - Total Alkalinity - Appropriate levels help keep the PH in balance. High levels can cause PH to rise. (60 to 120, sometimes higher)
+* CH - Calcium Hardness - Appropriate levels help prevent plaster damage. High levels can cause calcium scaling. (220 to 350, vinyl lower)
+* CYA - Cyanuric Acid - Protects chlorine from sunlight and determines the required FC level. (outdoors 30 to 50, SWG 70 to 80, indoors 0 to 20) 
+
+And others
+
+* CC - Combined Chlorine - CC over 0.5 indicates a problem.
+* Borate - An optional enhancement.
 
 <a href="http://www.troublefreepool.com/threads/87486-Hot-tub-arrived-water-chemistry-questions?p=749741&viewfull=1#post749741" target="_blank">chem geek - Re: Hot tub arrived, water chemistry questions</a>
 
@@ -285,6 +443,99 @@ Using Chlorine in a Spa.
 <a href="http://www.troublefreepool.com/content/169-TFP-Home-Page" target="_blank">Trouble Free Pool - online forum and articles</a>
 
 <a href="http://www.troublefreepool.com/forums/15-Spas-and-Hot-Tubs" target="_blank">Spa forum at Trouble Free Pool</a>
+
+### pooldv
+
+<a href="http://www.troublefreepool.com/threads/89800-Are-hot-tubs-really-supposed-to-be-such-a-pain?p=768815&viewfull=1#post768815" target="_blank">pooldv - Are hot tubs really supposed to be such a pain?</a>
+
+Re: Are hot tubs really supposed to be such a pain?
+
+No, hot tubs are not a pain. My hot tub is way easier to maintain than
+my pool because it is smaller and covered and not plaster.
+
+I drained my tub yesterday for the first time in a year. Just because
+it seemed like I should, since people say you should drain your hot tub
+every 3-6 months. I also hosed off the filter for the first time in a
+year. Water was completely clear before and after. The only difference
+this morning was the water was a little less salty because my wife hasn't
+dumped any epsom salts in it yet. And it smelled a little chloriney
+yesterday because the CYA hadn't dissolved yet. Chlorine smell was gone
+this morning.
+
+Our hot tub is 340 gallons. I get in it every day for at least 30
+minutes. Wife and I hang out in it for a couple of hours almost every
+weekend and often more. Sometimes like 6-8 hours.
+
+All I put in my hot tub is bleach, cya and muriatic acid. And epsom
+salts. Since I drained it yesterday I've got a sock in it with 1.8 oz
+of CYA in it. Per poolmath above, to put my CYA at 40ppm. I add about
+1/4 cup of bleach per bather hour after use. If we skip a day I don't
+usually do anything, if we skip two then I'll test chlorine and add a
+little bleach if needed. I test ph every week or two at least and add
+a little acid to lower ph. Our ph only ever goes up.
+
+There is a little table by the tub with a jug of bleach a 1/4 cup
+measuring cup and a Taylor chlorine/ph test box.
+
+
+### Swampwoman
+
+Re: Are hot tubs really supposed to be such a pain?
+
+ChemGeek, I do the same thing with 1" trichlor tabs in this kind of
+dispenser: http://www.spadepot.com/shop/Floatin...1ouxoCK0rw_wcB
+
+...And then oxidize with bleach to supplement. By keeping it almost
+"closed" I get a small residual for between soaks. One downside is
+that with constantly creeping CYA, I change the water more and remain
+conscious of the ratio, eg use a little more liquid chlorine when I'm
+about due for a water change
+
+I have generally found it easy to maintain my hot tub this way.
+
+Maybe this info will help the OP arrive at something that works. I love
+my hot tub but likely love it more since I've arrived at an approach
+that works a little better for me. (I'm allergic to bromine and didn't
+have great luck with the mineral approach.)
+
+### chem geek
+
+
+Re: Are hot tubs really supposed to be such a pain?
+
+Got it. At least with Trichlor, the CYA doesn't climb as quickly as with
+Dichlor and if you use it just for background dosing then it's really not
+that much, especially given the roughly 5 ppm CYA monthly loss typical
+in spas from oxidation by chlorine. One just needs to periodically add
+some baking soda since the TA will slowly drop from the Trichlor usage
+(which is like adding acid). For every 10 ppm FC added by Trichlor,
+after chlorine consumption/usage it lowers TA by 7.1 ppm (and carbonate
+alkalinity by 9.0 ppm after pH rises back to where it started from carbon
+dioxide outgassing).
+
+The Nature2 with MPS system works, but usually needs a little help with
+periodic dosing with chlorine to keep the water crystal clear. MPS doesn't
+oxidize the same things that chlorine does. It doesn't oxidize ammonia
+very quickly, for example. Not sure it does much with urea. Of course,
+using bleach (after initial Dichlor) is the least expensive approach.
+
+### chem geek
+
+
+Re: Are hot tubs really supposed to be such a pain?
+
+Even a brand new hot tub can have bacterial biofilms in it because if
+the manufacturer or spa dealer does not thoroughly dry out the piping
+after wet testing, then bacterial biofilms can form. There can also be
+greases/oils from manufacturing leftover. That why a new spa or one you
+get used with an unknown history should get cleaned out using Ahh-Some.
+
+In your own spa, if you don't have all areas disinfected at nearly all
+times, the spa can go south pretty quickly. It only takes bacteria 15-60
+minutes to double in population so one bacteria can turn into over 4
+billion in 8 hours under the most ideal of growth conditions.
+
+
 
 
 ## SpaDepot.com
@@ -418,6 +669,40 @@ Free Chlorine (or Bromine) 1.0–2.0 ppm
 
 # test kit
 
+* Lamotte Insta Test Borate Pool & Spa Strips might be useful
+* $8.10 Lamotte Insta Test 3 Swimming pool Test Strips, 50 Strips
+
+<a href="http://www.troublefreepool.com/content/124-pool-test-kits-comparison" target="_blank">TFPC - Test Kits Compared</a>
+
+* TFTestkits TF-100
+* or Taylor K-2006 / Leslie's 81329
+
+### TFTestkits TF-100 has all these
+
+* Chlorine FAS/DPD
+* Combined Chloramines
+* Chlorine OTO
+* pH Test
+* Total Alkalinity
+* Cyanuric Acid
+* Calcium Hardness
+
+<a href="http://www.troublefreepool.com/threads/42650-TF100-the-best-test-kit-what-accessories" target="_blank">TFPC - TF100 the best test kit?? what accessories?</a>
+
+
+
+<a href="http://www.whatsthebest-hottub.com/forum/index.php?topic=17555.0" target="_blank">Isaac-1 Re: Which water test kit of these is the best?</a>
+
+Isaac-1 Re: Which water test kit of these is the best?
+
+Reply #4 on: May 08, 2014, 06:59:23 PM - I think the big question here
+is how do you plan to manage your tub, are you going to use Chlorine or
+Bromine, or something else?  If Chlorine what are you going to use to
+chlorinate, dichlor, bleach, etc?  I have the TF-100 which I use for my
+swimming pool, and occasionally for my hot tub, but most of the time I
+just use a simple OTO Chlorine / pH test for the hot tub, as it tells
+me most of what I care about on a daily basis, once I get things fine
+tuned after a fresh refill using the TF-100.
 
 <a href="http://www.amazon.com/Poolmaster-22211-Smart-4-Way-Strips/dp/B001E6E9PG" target="_blank">Poolmaster 22211 Smart Test 4-Way Pool and Spa Test Strips - 50ct</a>
 
@@ -447,7 +732,6 @@ Free Chlorine (or Bromine) 1.0–2.0 ppm
 * pH w/ acid/base demand
 * Phenol red 	
 * 7.0, 7.2, 7.4, 7.6, 7.8, 8.0
-
 
 
 # Filters
