@@ -9,6 +9,12 @@ tags:
 
 <a href="http://solsylva.com/cnc/10x9x4.shtml" target="_blank">10 x 9 x 4 Fixed Gantry Machine</a>
 
+# Ordered plans
+
+Your transaction ID for this payment is: 05P09377WB3197911.
+
+We'll send a confirmation email to craig@coot.net. This transaction will appear on your statement as PayPal *DS.
+
 ### Simple, Solid and Inexpensive
 
 * Sturdy
@@ -267,6 +273,13 @@ part# 98940A607
 4140 Alloy Steel Precision ACME Threaded Rod, 3/8"-8 Size, 1/2"
 Travel/Turn, 3' Long, Right-Hand Thread, 4 Starts
 
+## cncrouterparts.com/acme-drive-parts
+
+<a href="http://www.cncrouterparts.com/acme-drive-parts-c-46_40.html" target="_blank">cncrouterparts - Acme Drive Parts</a>
+
+louieatienza from cnczone - BTW Ahren at CNCRP has a really nice aluminum
+housing/mount that incorporates DumpsterCNC nuts, worth a look for
+a build.
 
 # Sidewinder CNC FAQ
 
@@ -283,7 +296,122 @@ Travel/Turn, 3' Long, Right-Hand Thread, 4 Starts
 
 <a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/139840-cnc.html" target="_blank">Solsylva 10x9 - First Build</a>
 
+# Router Research
 
+## CNCRouterParts
+
+#### <a href="http://www.cncrouterparts.com/bosch-1617-router-mount-p-192.html" target="_blank">$99 - Bosch 1617 Router Mount</a>
+
+As part of our new line of router mounts, CNC Router Parts is pleased to
+offer a mount for the Bosch 1617, a popular handheld router. Machined
+from solid 2" thick aluminum, these mounts offer excellent rigidity
+and strength.
+
+The mount comes with our router base adapter plate to connect to 15
+series or 40mm series extrusion, and offers easy adjustability to tram
+your router -- just shim behind the locating pins on the base adapter
+plate. Also includes t-nuts and mounting hardware. The Dewalt DW618 is
+also compatible with this mount.
+
+<a href="http://www.cncrouterparts.com/makita-rf1101-router-mount-p-292.html" target="_blank">$100 - Makita RF1101 Router Mount</a>
+
+
+CNC Router Parts is pleased to offer a mount for the popular Makita
+RF1101, a quiet and powerful variable speed router. Machined from solid 2"
+thick aluminum, these mounts offer excellent rigidity and strength.
+
+The mount comes with our router base adapter plate to connect to 15
+series or 40mm series extrusion, and offers easy adjustability to tram
+your router -- just shim behind the locating pins on the base adapter
+plate. Also includes t-nuts and mounting hardware.
+
+## PreciseBits Colt tooling
+
+<a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/214490-bosch-colt-1hp-variable-speed-router.html#post1455582" target="_blank">2Bits at cnczone.com PreciseBits Colt tooling</a>
+
+I don't have the speed information you are looking for, but one thing I
+can recommend is going to PreciseBits (website) and get their precision
+collet. Best money spent, you will have runout with the factory collet,
+I now have a backup reconditioned Colt and have replaced the brushes
+twice now in the original unit. It's been working well. PreciseBits
+website also has a lot of good information to help you with feeds and
+speeds. Precision Bosch-Colt Collet Kit
+
+## $150 - Bosch 16171 2 Horsepower Router Motor with 10-foot Cord
+
+#### CNCRouterParts mount available
+
+## $150 - DEWALT DW618 2-1/4 HP Electronic Variable-Speed Fixed-Base Router
+
+#### CNCRouterParts mount available
+
+## $110 - DEWALT DWP611 1.25 HP Max Torque Variable Speed Compact Router with LED's
+
+https://www.inventables.com/technologies/bosch-colt-spindle-mount
+
+#### PreciseBits Collet Kit available
+
+## $140 - Dewalt DW618M 2-1/4
+
+#### CNCRouterParts mount available
+
+## $125 - Hitachi M12VC 2-1/4-Horsepower Variable-Speed Router
+
+#### CNCRouterParts mount available
+
+## $180 - Makita RF1101 2-1/4-Horsepower Variable Speed Router
+
+#### CNCRouterParts mount available
+
+## $276 - PORTER-CABLE 75182 Variable Speed Router Motor
+
+#### CNCRouterParts mount available
+
+#### PreciseBits Collet Kit available
+
+## $144 - PORTER-CABLE 6902 1-3/4 
+
+<a href="http://www.portercable.com/Products/ProductDetail.aspx?ProductID=11094" target="_blank">PC 1-3/4 HP (Maximum Motor HP) Router 690LR</a>
+
+<a href="http://www.amazon.com/PORTER-CABLE-690LR-11-Amp-Fixed-Base-Router/dp/B00005QEVQ/" target="_blank">$130 - Amazon -PORTER-CABLE 690LR</a>
+
+* CNCRouterParts mount available
+* PreciseBits Collet Kit available
+* $155 super pid
+
+ger21 - Re: cutting aluminum with a CNC router - I've run my porter cable 690 with SuperPID for 12 hours.
+
+
+RicknBeachcrest
+
+Re: Looking for a quieter replacement for my Porter Cable 75182 3 1/4 HP router
+
+I'm using a Porter Cable 690 controlled by a Super PID. It works very
+well for my applications. I generally have the router spinning at about
+10K. The noise level is very tolerable. Most of my runs are usually less
+than 15 minutes. What makes all the noise is the vac system and the actual
+cutting. But not really any more than most of the shop tools. Some days
+it seems I spend most of the day wearing the ear muffs. More comfortable
+than the respirator though.
+
+~~~~~~~~~~
+To: SuperPID@VHiPe.com
+Does Super-PID work work with my router
+
+PORTER-CABLE 690LR 11-Amp Fixed-Base Router
+
+http://www.amazon.com/PORTER-CABLE-690LR-11-Amp-Fixed-Base-Router/dp/B00005QEVQ/
+
+Is this compatible?
+~~~~~~~~~~
+
+## $170 Porter-Cable 892
+
+#### CNCRouterParts mount available
+
+# Super-PID
+
+http://www.vhipe.com/product-private/SuperPID-Home.htm
 
 # Notes
 

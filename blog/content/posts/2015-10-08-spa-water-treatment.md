@@ -72,6 +72,7 @@ Gary
 * [ ] bleach - Clorox regular unscented
 * [ ] Trisodium Phosphate (TSP) for filter cleaning
 * [ ] baking soda
+* [ ] Return Filter Frog
 
 ### Test Kit
 

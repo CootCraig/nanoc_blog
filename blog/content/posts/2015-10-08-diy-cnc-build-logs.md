@@ -50,6 +50,51 @@ What spindle? new 1.5kw spindle and vfd
 This is going to be a complete rebuild of my first CNC machine, the red
 oak Solsylva 25x37. Stiffness and extra mass is the goal.
 
+
+# microcarve - My Newest Desktop machine 
+
+<a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/109390-newest-desktop-machine.html" target="_blank">microcarve - My Newest Desktop machine</a>
+
+
+<a href="http://www.microcarve.com/forum/" target="_blank">forum for microcarve kits</a>
+
+
+
+# cffellows - Small Desktop CNC Router 
+
+The inspiration for my design comes from Microcarve's MV2 and BBox
+routers with a lot of my own changes.
+
+<a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/270264-cnc.html" target="_blank">cffellows - Small Desktop CNC Router</a>
+ 
+
+Interaction of cffellows and datac is informative.
+
+
+http://home.comcast.net/~cncwoodworker/CNC_1.html
+
+
+
+# RicknBeachcrest - My 8020 router build 
+
+http://www.cnczone.com/forums/cnc-wood-router-project-log/127895-cnc-forum.html
+
+
+
+# Senna - 8020 ErectorSet Router... 
+
+http://www.cnczone.com/forums/diy-cnc-router-table-machines/65393-cnc.html
+
+
+# LS120 - LS120's Solsylva 24 x 48 build. 
+
+http://www.cnczone.com/forums/cnc-wood-router-project-log/271352-cnc.html
+
+
+# Devastator - Devastator's Ongoing Solsylva Build 
+
+<a href="http://www.cnczone.com/forums/cnc-wood-router-project-log/168244-forum.html" target="_blank">Devastator's Ongoing Solsylva Build</a>
+
 ~~~~~~~~~~~~~
 <a href="" target="_blank"></a>
 <img src="" width="400px">
