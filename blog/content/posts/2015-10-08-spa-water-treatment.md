@@ -63,16 +63,22 @@ Gary
 
 ### First order checklist
 
-* [ ] 2 new spare filters
-* [ ] Ahh-Some for Hot Tubs purging flush
-* [ ] TFTestkits TF-100
-* [ ] Aqua Chek Yellow Test Strips Free Chlorine, 50 Strips
-* [ ] boric acid
-* [ ] fixed hose nozzle
+* [x] fixed hose nozzle (amazon)
+* [x] Water Tech GG102 Grit Gitter (amazon)
+* [x] 2 new spare filters (amazon)
+* [x] Ahh-Some for Hot Tubs purging flush (amazon)
+* [x] Aqua Chek Yellow Test Strips Free Chlorine, 50 Strips (amazon)
+* [x] Hydro Tools 8051 Promotional 4-Foot Telescopic Pool Skimmer (amazon)
+* [x] TFTestkits TF-100 ( from tftestkits.net)
+* [x] boric acid - Duda Energy LLC
 * [ ] bleach - Clorox regular unscented
 * [ ] Trisodium Phosphate (TSP) for filter cleaning
 * [ ] baking soda
+* [ ] Muriatic Acid (Home Depot)
 * [ ] Return Filter Frog
+
+$68
+http://www.poolsupplyworld.com/TFTestkits-TF-100-TFTestkit-FAS-DPD-Test-Kit/TF-100.htm
 
 ### Test Kit
 
@@ -91,10 +97,23 @@ Nu-Clo Bucket Calcium Hardness
 
 Basic Calcium Hardness.  Raises calcium level in swimmng pool.  Calcium is a valuable part of balanced water to prevent corrosion of any metal parts and protect pool surfaces. Nuclo Basic Calcium Hardness is 100% Calcium Chloride Dihydrate. It is extremely fast dissolving, pH neutral and is applied directly to the pool or pre-dissolved in water.10lb Bucket 
 
+<a href="http://www.amazon.com/gp/product/B00PZZFAAA" target="_blank">Clorox Pool&Spa 19005CLX Calcium Hardness Increaser, 5-Pound</a>
+
+
 ### Boric acid (not GentleSpa)
 
 
 <a href="http://www.troublefreepool.com/threads/90257-Borates-Why-and-How" target="_blank">TFPC - Borates - Why and How</a>
+
+### Muriatic Acid
+
+Kem-Tek 1 Gal. Swimming Pool Muriatic Acid (2-Pack)
+
+Hydrochloric Acid  - 14.5% by volume
+
+<a href="http://www.kem-tek.com/kemtek_product/pool-muriatic-acid/" target="_blank">Kem-Tek Product Page</a>
+
+<a href="http://www.homedepot.com/p/Kem-Tek-1-Gal-Swimming-Pool-Muriatic-Acid-2-Pack-335/202254527" target="_blank">$12.50 at Home Depot</a>
 
 #### How
 
@@ -536,8 +555,14 @@ times, the spa can go south pretty quickly. It only takes bacteria 15-60
 minutes to double in population so one bacteria can turn into over 4
 billion in 8 hours under the most ideal of growth conditions.
 
+# pH
 
-
+* 14 - base - liquid drain cleaner
+* 9.5 - base - baking soda
+* 7.2 - blood
+* 7 - neutral
+* 2 - acid - lemon joice
+* 0 - acid - hydrochloric acid
 
 ## SpaDepot.com
 
@@ -687,6 +712,12 @@ Free Chlorine (or Bromine) 1.0–2.0 ppm
 * Total Alkalinity
 * Cyanuric Acid
 * Calcium Hardness
+
+
+speedstir
+
+<a href="http://tftestkits.net/TF-100-Refills-c11/" target="_blank">TFTestKits Refill store</a>
+
 
 <a href="http://www.troublefreepool.com/threads/42650-TF100-the-best-test-kit-what-accessories" target="_blank">TFPC - TF100 the best test kit?? what accessories?</a>
 

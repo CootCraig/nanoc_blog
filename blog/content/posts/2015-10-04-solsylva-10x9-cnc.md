@@ -371,6 +371,10 @@ https://www.inventables.com/technologies/bosch-colt-spindle-mount
 
 ## $144 - PORTER-CABLE 6902 1-3/4 
 
+## $144 - PORTER-CABLE 6902 1-3/4 
+
+$127 - PORTER-CABLE 690LR 11-Amp Fixed-Base Router
+
 <a href="http://www.portercable.com/Products/ProductDetail.aspx?ProductID=11094" target="_blank">PC 1-3/4 HP (Maximum Motor HP) Router 690LR</a>
 
 <a href="http://www.amazon.com/PORTER-CABLE-690LR-11-Amp-Fixed-Base-Router/dp/B00005QEVQ/" target="_blank">$130 - Amazon -PORTER-CABLE 690LR</a>
@@ -404,6 +408,12 @@ http://www.amazon.com/PORTER-CABLE-690LR-11-Amp-Fixed-Base-Router/dp/B00005QEVQ/
 
 Is this compatible?
 ~~~~~~~~~~
+
+Answer is yes.
+
+<a href="http://www.cnczone.com/forums/diy-cnc-router-table-machines/10297-porter-cable-690lr-router.html" target="_blank">Porter Cable 690LR Router thread</a>
+
+
 
 ## $170 Porter-Cable 892
 

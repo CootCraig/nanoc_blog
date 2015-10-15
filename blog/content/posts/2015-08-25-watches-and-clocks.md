@@ -8,6 +8,21 @@ tags:
   - alarm_clock
 ---
 
+# Seiko Men's SNK803 Seiko 5 Automatic Watch with Beige Canvas Strap
+
+My first Automatic, what a great value.
+
+http://www.seikowatches.com/support/ib/pdf/Analogue_E.pdf
+
+For models with day and date calendar
+
+1.    Pull out the crown to the first click.
+2.    Turn the crown until the previous day’s date appears in the calendar frame.
+3.    Turn the crown in the opposite direction until the desired language (bilingual) for the day before the desired day appears in the calendar frame.
+4.    Pull out the crown to the second click, and advance the hour and minute hands until the desired date and day appears.
+5.    Adjust the time by turning the crown in the desired direction.
+6.    Push the crown back in to the normal position.
+
 # Straps
 
 ## broadarrow.net maratac straps
