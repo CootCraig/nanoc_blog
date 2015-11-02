@@ -9,6 +9,30 @@ tags:
 ---
 
 # Research
+
+## Wet Suit Pants
+
+<a href="http://neosportusa.com/paddle/product/1-5mm-xspan-pants/" target="_blank">NewSport Site - 1.5mm xspan pants</a>
+
+<a href="http://www.amazon.com/gp/product/B002YQHF1K" target="_blank">Amazon - 1.5mm XSPAN® Pants</a>
+
+* 1.5mm XSPAN® Pants
+* Sizes XS-3XL 
+
+<a href="http://neosportusa.com/paddle/size-charts/" target="_blank">neosport size charts</a>
+
+
+<a href="http://www.amazon.com/Stohlquist-556213-Parent-Rapid-Pant/dp/B00HLCBOY6/" target="_blank">Amazon - Stohlquist Rapid Pant</a>
+
+Stohlquist Rapid Pant
+
+* 3mm Super Stretch Neoprene
+* Glued and Blind Stitched seams for maximum warmth
+* Integrated Supra Tex knees and seat for added durability and abrasion resistance
+* High-waist and tall back offers increased coverage and mates well with sprayskirts
+
+
+
 http://www.yakattack.us/GTTL175_16_p/gttl175-16.htm
 GTTL175 GearTrac, 16", Single Pack
 MSRP: $33.00
@@ -101,4 +125,9 @@ http://www.duckworksmagazine.com/03/r/projects/mirage/
 
 http://www.sea-cycle.com/accessories
 SEA-CYCLE Drive Units - $800 each
+
+~~~~~~~~~~~~~~~~
+<a href="" target="_blank"></a>
+<img src="" width="100px">
+~~~~~~~~~~~~~~~~
 

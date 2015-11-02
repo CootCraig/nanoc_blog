@@ -26,6 +26,7 @@ Gary
 
 <a href="/assets/pdf/Marquis-spa-1998-Reward-manual.pdf" target="_blank">Marquis 1998 Reward Spa Manual</a>
 
+* MTS (Maximum Therapy Series) - The Reward MTS 1998
 * 320 gallon
 * 6 position
 * Primary jet pump - 5.8 amps 240V
@@ -34,6 +35,16 @@ Gary
 * filter turnover rate: 32 times daily each - 64 times daily total
 * 84.5" x 83.5" x 36.5"
 * 690 lbs dry. 3358 lbs wet
+
+
+<a href="http://thespaworks.com/parts/marquis-spa-parts/marquis-spa-filters-parts/marquis-spa-lateral-holder-8-inch-arm" target="_blank">thespaworks.com MRQ370-0495</a>
+
+MRQ370-0495 - Marquis Spa Lateral Holder With 8 Inch Arm. 
+Used On 1997 To 1999 MTS Series.
+
+<a href="http://www.bigislandparts.com/marquis-spa-lateral-arm-8-inch/" target="_blank">Big Island Parts - MARQUIS SPA LATERAL ARM, 8 INCH</a>
+
+$32
 
 ### Choose
 
@@ -71,14 +82,146 @@ Gary
 * [x] Hydro Tools 8051 Promotional 4-Foot Telescopic Pool Skimmer (amazon)
 * [x] TFTestkits TF-100 ( from tftestkits.net)
 * [x] boric acid - Duda Energy LLC
-* [ ] bleach - Clorox regular unscented
-* [ ] Trisodium Phosphate (TSP) for filter cleaning
+* [x] bleach - Clorox regular unscented
+* [x] Trisodium Phosphate (TSP) for filter cleaning
 * [ ] baking soda
-* [ ] Muriatic Acid (Home Depot)
-* [ ] Return Filter Frog
+* [x] Crown Muriatic Acid 1 gal. (Lowes)
+* [x] Return Filter Frog
 
 $68
 http://www.poolsupplyworld.com/TFTestkits-TF-100-TFTestkit-FAS-DPD-Test-Kit/TF-100.htm
+
+# Hands on
+
+## Water Balance
+
+Calcium, Baking Soda, Dry Acid and Borates is all you need to balance your water
+
+### Measure CH
+
+if CH < 100. increase to 130-150
+
+measured CH 175 ppm
+
+### Measure TA
+
+Target TA is 50 ppm
+
+measured TA 130
+
+130 - 50 = 80 TA reduction
+
+### Measure pH
+
+Target pH is 7.4 - 7.6
+
+measured pH 7.5
+
+### Adjust TA and pH
+
+* Run jets to bring pH >= 7.8
+* Add 1.2 oz of 31.45% muriatic acid.
+* Repeat to adjust TA and pH as desired
+
+* TA 130 pH 7.8
+* add 1.2 oz 31.45% MA
+* aerate to 7.8 ph
+* measure 80 TA
+* add 0.65 oz 31.45% MA (0.65 by weight)
+* aerate to 7.8 pH
+* add 2.0 oz of 31.45% MA by weight
+* measure 80 TA
+* add 2.0 oz of 31.45% MA by weight
+* measure 60 TA
+* add 0.8 oz of 31.45% MA by weight
+* measure 50 TA
+* aerate to 7.6 pH
+
+* Add 12 oz (weight) of boric acid
+* Add 0.3 oz (weight of Dichlor
+* Add 0.3 oz (weight of Dichlor
+* 0.6 oz added. Use Dichlor until 2.1 oz has been added. (25 ppm CYA)
+
+SO, what's a good TA then? Because spas tends to have a lot of aeration
+from jets and because the water is hot, it is best to keep the TA low
+at around 50 ppm.
+
+OK, how do we adjust TA then? If TA is too low, you just add Baking Soda
+to raise it. However, if TA is high, it's little more involved. You'll
+need Acid (Dry or Muriatic). Depending on how high your TA is will depend
+on how long it will take you. Plan on it taking around an hour to decrease
+TA by 100 ppm. So if your TA is 300 ppm, plan it taking around 2-3
+hours. First, uncover your tub and turn on all your jets, air, blowers,
+waterfalls etc. Test your pH. When it's greater than 7.8, add enough
+acid to bring it down to 7.0. Keep aerating until your pH is 7.8 again
+(about 30 min), then add more acid and repeat. Every time you add acid
+you're lowering your pH and TA. When you get your TA tuned perfectly,
+your pH will rise to a level (i.e. ~7.6) and stop, then you know you're at
+your ideal TA level. If your pH is rising too high (>8.0), bring your TA
+down a little more. If your pH doesn't rise enough from aeration (after
+an hour or more), you over shot it and need to add a little Baking Soda
+to raise your TA. After a few days/weeks of monitoring it, you'll get
+your TA tuned perfectly. You may need to add a little Dry Acid once a
+week or two, but your water should be well balanced at that point.
+
+I wouldn't go much below 50 ppm TA, because that could become unstable if
+you add any kind of acid. Also, if you have a very high TA, above 100, you
+may need to add more acid in the beginning to get your pH down. Remember,
+TA is a pH buffer, so the higher the TA, the more acid you need to bring
+the pH down. It takes approximately 8 oz total of Dry Acid to bring TA
+down 100 ppm in a 350 Gal tub. However, the key is not to add too much
+acid all at once to bring your pH down under 7.0. That's why you should
+aerate in between adding acid.
+
+### Add Boric Acid
+
+Borates target is 50
+
+PoolMath 320 gal. spa. 0-50. 12 oz by weight
+
+## Chlorine Sanitation
+
+### First Dichlor
+
+Add 0.3 oz Dichlor
+PoolMath says 0-3.9 FC
+
+Use Dichlor until 2.1 oz has been added. (25 ppm CYA)
+
+# More Research
+
+~~~~~~~~~~~~
+Use Dichlor until 2.1 oz has been added.
+~~~~~~~~~~~~
+
+~~~~~~~~~~~~
+Adding 10 ppm of Dichlor == 9 ppm CYA
+Target CYA of 20-30 ppm.
+0.85 oz of Dichor adds 10 ppm CYA
+2.5 oz of Dichlor adds 29 ppm CYA
+2.1 oz of Dichlor addes 25 ppm CYA
+~~~~~~~~~~~~
+
+So, I'm going to assume our target CYA is 30, but feel free to use 20
+and adjust as necessary. I find that it's easier to keep track of how
+much Dichlor you're adding to the tub and calculate the CYA, rather than
+testing CYA with the drop test kit until you get a 30 ppm reading. For
+every 10 ppm of Dichlor you add to your tub, you add 9 ppm CYA. So roughly
+34 ppm Dichlor will give you 30 CYA. On a fresh fill, and after your water
+is balanced by the above method, shock your tub with Dichlor to 10 ppm
+FC. Then over the course of the next days, depending on bather load,
+add 24 ppm more FC using Dichlor. You want to keep your FC normally
+between 3-6 ppm everyday. This means you will be testing your FC EVERYDAY.
+
+<a href="http://www.troublefreepool.com/threads/98383-So-frustrated!!-Chlorine-vs-Bromine?p=849029&viewfull=1#post849029" target="_blank">Rule of thumb chlorine each soak</a>
+
+As for how much oxidizer to add after each soak, the rough rule-of-thumb
+with no ozonator and a hot (104ºF) spa is that every person-hour requires
+3-1/2 teaspoons of Dichlor or 3-1/2 fluid ounces of 8.25% bleach or 7
+teaspoons of non-chlorine shock (43% MPS) to oxidize bather waste. The
+real rule is to add whatever you need to so that you still have roughly
+2-5 ppm chlorine for the start of your next soak
+
 
 ### Test Kit
 
@@ -86,6 +229,7 @@ TFTestkits TF-100
 
 <a href="www.amazon.com/Aqua-Chek-Yellow-Strips-Chlorine/dp/B003TQM9XS/" target="_blank">Aqua Chek Aqua Chek Yellow Test Strips Free Chlorine, 50 Strips</a>
 
+<a href="http://www.troublefreepool.com/threads/24188-Extended-Test-Kit-Directions" target="_blank">TFPC - Extended Test Kit Directions</a>
 
 ### Ahh-Some for Hot Tubs
 
@@ -106,6 +250,9 @@ Basic Calcium Hardness.  Raises calcium level in swimmng pool.  Calcium is a val
 <a href="http://www.troublefreepool.com/threads/90257-Borates-Why-and-How" target="_blank">TFPC - Borates - Why and How</a>
 
 ### Muriatic Acid
+
+
+<a href="http://www.lowes.com/ProductDisplay?partNumber=206474-34228-CR.MA.P.01&langId=-1&storeId=10151&productId=3024039" target="_blank">Lowes - Crown 1-Gallon Muriatic Acid - 31.45% - $7.68</a>
 
 Kem-Tek 1 Gal. Swimming Pool Muriatic Acid (2-Pack)
 
@@ -844,6 +991,21 @@ mention, actually make your water feel silkier. I highly recommend it.
 <a href="http://www.spadepot.com/shop/EcoSpray-Instant-Filter-Cleaner---32-oz-ReFill-P773C57.aspx" target="_blank">SpaDepot.com - EcoSpray Instant Filter Cleaner - 32 oz ReFill</a>
 
 <a href="http://www.amazon.com/EcoSpray-Instant-Filter-Cleaner-ReFill/dp/B001G8KE0G/" target="_blank">Amazon - EcoSpray Instant Filter Cleaner - 32 oz ReFill</a>
+
+# Handling Muriatic Acid
+
+Be careful MA is heaver than water - add by return
+
+<a href="http://www.poolforum.com/pf2/showthread.php/13111-Using-Muriatic-Acid-to-Safely-Lower-Your-Pool-s-pH" target="_blank">Using Muriatic Acid to Safely Lower Your Pool's pH</a>
+
+<a href="https://www.youtube.com/watch?v=ajC-OROORko&feature=youtu.be" target="_blank">youtube for article</a>
+
+<a href="http://www.poolsolutions.com/gd/lowering-swimming-pool-alkalinity-step-by-step.html" target="_blank">Lowering Swimming Pool Alkalinity -- A Step by Step Guide</a>
+
+
+
+<a href="http://www.poolsolutions.com/gd/total-alkalinity-in-swimming-pools.html" target="_blank">FAQ: Questions about Swimming Pool Alkalinity Levels</a>
+
 
 ~~~~~~~~~~~~~~~~
 <a href="" target="_blank"></a>

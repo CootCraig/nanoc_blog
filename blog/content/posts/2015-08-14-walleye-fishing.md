@@ -30,6 +30,9 @@ tags:
 
 #### [youtube](https://www.youtube.com/watch?v=O84DBE9iCTc) Favorite baits for walleye
 
+#### <a href="https://www.youtube.com/watch?v=dDwQKgvk5gs" target="_blank">Balsam Lake walleye on Strike King Rage grubs</a>
+
+
 
 # Lindner's Angling Edge
 
@@ -161,6 +164,11 @@ Use:
 
 <a href="https://www.youtube.com/watch?v=Jvf0ZHkt3C8" target="_blank">How to Find Fish - Bass Fishing</a>
 
+
+# BFishnTackle
+
+
+<a href="http://www.bfishntackle.com/4inch_moxi.html" target="_blank">SOFT PLASTICS - 4" MOXI</a>
 
 
 ~~~~~~~~~~~~~

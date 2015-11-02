@@ -18,8 +18,8 @@ Decision:
 
 * Nikon ML-L3 IR Remote Control Transmitter for many Digital Cameras 
 * Nikon SB-400 flash
-* lightweight Nikon 55-200mm VR.
 * Nikon 18-200mm VR
+* Nikon 12-24mm - DX NIKKOR AF-S
 
 Ken Rockwell - The D40 only autofocuses with the latest AF-S lenses.
 My favorite Nikon 18-200mm and 12-24mm are AF-S and work perfectly. 

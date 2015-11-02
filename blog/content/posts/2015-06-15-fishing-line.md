@@ -7,6 +7,18 @@ tags:
   - fishing_line
 ---
 
+# research
+ 
+<a href="https://www.youtube.com/watch?v=-dzLSsb40K4" target="_blank">Mike Iaconelli tells the difference between co-polymer and monofilament lines</a>
+
+<a href="https://www.youtube.com/watch?v=QsuFwO002zI" target="_blank">How Long Should your Leader Line be When Using Braided Fishing Line</a>
+
+
+<a href="https://www.youtube.com/watch?v=nrMim3JESUc" target="_blank">Copolymer Fishing Line Review</a>
+
+* knots well as leader
+
+
 ## backer line preference
 
 Use a backer line weight/thickness recommended for the reel
@@ -46,6 +58,22 @@ Yes this works well.
 * Sufix 832 20 pound for finesse
 
 $18 - lo-vis green - 150 yd. Amazon
+
+# CoPolymer Line
+
+
+
+<a href="http://www.amazon.com/KastKing-Copolymer-Monofilament-Substitute-Fluorocarbon/dp/B00S17NCPE/" target="_blank">KastKing Copolymer at amazon</a>
+
+Budget price
+
+<a href="http://www.amazon.com/McCoy-Fishing-Green-250-Yard-15-Pound/dp/B00030A3JU/" target="_blank">McCoy Mean Grean CoPolymer at Amazon</a>
+
+Budget price
+
+<a href="http://www.amazon.com/Hi-Seas-Black-Widow-Co-Polymer-Line/dp/B004UUJZ98/" target="_blank">Hi-Seas Black Widow Co-Polymer Line at Amazon</a>
+
+Budget price
 
 ## Nanofil line
 
@@ -156,4 +184,9 @@ not see it going on many more. One rod with 6, one with 10, both spinning.
 
 If anyone finds any other ways to use the line and catch more fish,
 please let me know. I am always learning as well.
+
+~~~~~~~~~~~~~
+<a href="" target="_blank"></a>
+<img src="" width="100px">
+~~~~~~~~~~~~~
 

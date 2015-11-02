@@ -7,6 +7,12 @@ tags:
   - crappie_fishing
 ---
 
+# lures
+
+<a href="https://store.baits.com/product.php?productid=40&cat=22&page=1" target="_blank">2" Yamaminnow</a>
+
+<a href="https://store.baits.com/product.php?productid=20&cat=22&page=1" target="_blank">2" grub with tail</a>
+
 # fishwagon.com
 
 #### [fishwagon.com/Fish_Wagon](http://www.fishwagon.com/Fish_Wagon/Black_Crappie.html) Black Crappie

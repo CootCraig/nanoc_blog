@@ -22,3 +22,23 @@ Calypso Mako Saltwater Telescoping Fishing Rod 8 Foot MAK-8MHS/T
 * Medium/Heavy Action
 * Line Weight: 12-30 lb, Lure WT: 1-3 oz
 
+## 
+
+
+
+<a href="http://www.tackledirect.com/okuma-shadow-stalker-inshore-gulf-coast-rods.html" target="_blank">TackleDirect - Okuma Shadow Stalker Inshore Gulf Coast Rods</a>
+
+
+<a href="http://www.tackledirect.com/okuma-ssg-s-701ml-shadow-stalker-inshore-gulf-coast-rod.html" target="_blank">TackleDirect - Okuma SSG-S-701ML Shadow Stalker Inshore Gulf Coast Rod</a>
+
+* 7ft. 1 piece
+* ML M/MF Power Taper 
+* 6-12lb line
+* 1/8 - 3/8 oz lure
+* $80
+
+~~~~~~~~~~~~~~~~
+<a href="" target="_blank"></a>
+<img src="" width="100px">
+~~~~~~~~~~~~~~~~
+

@@ -7,12 +7,56 @@ tags:
   - cammper_van
 ---
 
+# My choice
+
+Dodge Ram Van Class B - old school
+
+
+# Xplorer Steve
+
+<a href="https://www.youtube.com/watch?v=bUS0tpsvAu4" target="_blank">Tour of my Dodge Xplorer 230 XLWT Class B RV</a>
+
+
+# Van Dweller
+
+<a href="https://www.youtube.com/watch?v=fSvrjesW7wI" target="_blank">Tour of the Van I live in</a>
+
+# SeanEvansPhoto
+
+<a href="https://www.youtube.com/watch?v=tgQKflH9zA4" target="_blank">Tour of my Class B 1997 XPLORER 230</a>
+
 # Nomadic Fanatic
 
 #### [youtube](https://www.youtube.com/watch?v=pE0ARnQezns) Tour Of My '88 Ford Campervan
 
 
 # Justin Credible
+
+#### <a href="https://www.youtube.com/watch?v=cTI90Kv7QN8" target="_blank">Why I believe older vehicles are the best</a>
+
+My current RV may not really be an "older vehicle" yet, but most of my
+RVs have been from the 70's and 80's. And they were fantastic.
+
+* Newer Dodge van has long lineage - old school
+* 2001 Dodge Ram Van same as 1971
+
+#### <a href="https://www.youtube.com/watch?v=-CkSQ_j5vIE" target="_blank">Why I bought Dora</a>
+
+* Park in a regular parking spot. A little too big
+* Dora explorer wide body
+* other choice 1995 - 2002 pleasureway wide body
+* islander wide body made in GC
+
+#### <a href="https://www.youtube.com/watch?v=Ks1MufB9UsA" target="_blank">two fans and their Roadtrek Class B</a>
+
+
+#### <a href="https://www.youtube.com/watch?v=FgQnn_RxHrg" target="_blank">Ed's Stealth Van</a>
+
+ 
+
+#### <a href="https://www.youtube.com/watch?v=_926NlDjJRU" target="_blank">Urban camping means size matters!</a>
+
+* marine stuff for RVs is just better
 
 #### [youtube](https://www.youtube.com/watch?v=0m-8Ub2kDOk) RV Life: My RV history and why I chose a Class B over a Class A or C
 
@@ -70,4 +114,9 @@ Watt Generator -24 Gallon Fresh Water Tank -24 Gallon Grey Water Tank
 
 #### [youtube](https://www.youtube.com/watch?v=0h8wMseHGGo) Sprinter Van Living - "Finding Creative Places to Park the Van At Night"
 
+
+~~~~~~~~~~~~~~~~
+<a href="" target="_blank"></a>
+<img src="" width="100px">
+~~~~~~~~~~~~~~~~
 

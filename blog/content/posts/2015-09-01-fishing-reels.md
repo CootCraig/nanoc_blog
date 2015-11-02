@@ -46,6 +46,7 @@ $13 http://www.tackledirect.com/shimano-ix4000r-ix-r-reel.html
 
 # Shimano FX Spinning Reel
 
+# Shimano Sienna Spin Reel
 
 # Shimano AX-2000
 
@@ -57,3 +58,27 @@ $13 http://www.tackledirect.com/shimano-ix4000r-ix-r-reel.html
 # Okuma Avenger ABF Graphite Bait Feeder Reel
 
 Okuma Avenger ABF Graphite Bait Feeder Reel
+
+* $45 at Amazon
+* ABF 30 is preference
+
+<a href="https://www.youtube.com/watch?v=fL128FegCpA" target="_blank">zoffinger - Okuma 40 Baitfeeder</a>
+
+<a href="https://www.youtube.com/watch?v=1qzLrihuiRY" target="_blank">Bob Jones - Okuma ABF30 Review</a>
+
+
+<a href="https://www.youtube.com/watch?v=RQggxuIoLnU" target="_blank">OkumaUSA - Okuma Avenger ABF Baitfeeder Series Reel by Dave Hansen</a>
+
+Calico bass fishing on west coast.
+Okuma shadow stalker rod
+
+<a href="https://www.youtube.com/watch?v=xDRt6Xg4DBs" target="_blank">iSpinningReelReviews.com - Okuma Avenger ABF Graphite Bait Feeder Reel Reviews</a>
+
+<a href="https://www.youtube.com/watch?v=B9sjxCukDOg" target="_blank">Black Warrior Lures - Okuma ABF 40 Baitfeeder</a>
+
+
+~~~~~~~~~~~~~~~~
+<a href="" target="_blank"></a>
+<img src="" width="100px">
+~~~~~~~~~~~~~~~~
+
