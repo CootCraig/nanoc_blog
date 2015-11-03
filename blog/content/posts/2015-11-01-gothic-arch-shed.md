@@ -16,6 +16,8 @@ tags:
 <a href="https://www.youtube.com/watch?v=T0125_C4DXc" target="_blank">Making Wooden Gothic Arch greenhouse</a>
 
 
+<img src="/assets/images/loveiswithus-gothic-arch-grid-layout.png" width="500px">
+
 ## ch11ew12y
 
 <a href="https://www.youtube.com/watch?v=5o6KUs7AVwI" target="_blank">Al 's gothic arch greenhouse project</a>
@@ -48,7 +50,30 @@ Sketchup
 
 <a href="http://www.lsuagcenter.com/NR/rdonlyres/5B7AFAF1-C045-4376-9261-4627AD3CF03D/14655/6298GothicRafterGreenhouse.pdf" target="_blank">lsuagcenter.com pdf plan</a>
 
-gothic site:www.lsuagcenter.com
+<a href="/assets/pdf/lsuag-gothic-rafter-greenhouse.pdf" target="_blank">Local lsuag-gothic-rafter-greenhouse.pdf</a>
+
+## layout grid from the LSU Ag plan
+
+<img src="/assets/images/lsuag-arch-layout-grid.png" width="700px">
+
+
+
+## Kevin Urban
+
+<a href="https://www.youtube.com/watch?v=hJXTk_a6hvM" target="_blank">Bow Shed Greenhouse Construction</a>
+
+## Shamrock Aquaponic Farm
+
+<a href="http://shamrockaquaponicfarm.com/" target="_blank">Shamrock Aquaponic Farm site</a>
+
+<a href="http://shamrockaquaponicfarm.com/product/16x28-green-house-plan-set/" target="_blank">16x28 green house plan set</a>
+
+<a href="https://www.youtube.com/watch?v=70tc4_kbRCI" target="_blank">DIY Greenhouse video</a>
+
+<a href="https://www.youtube.com/watch?v=6Vh99XQPHLA" target="_blank">DIY circular saw guide</a>
+
+ 
+<img src="/assets/images/shamrock-aqua-diy-circ-saw-guide.png" width="600px">
 
 ## forum.woodenboat.com thread - Stimson bowshed alternative
 
@@ -110,7 +135,23 @@ You can order your Bow-Roof Greenhouse/Shed Plans over the phone
 using Visa, MasterCard, Discover, or Amex. Plans & Manual: $18.00 plus
 $2.00 p&h.
 
+# Arch Math and Design
+
+## thisiscarpentry.com - Circular-Based Arches
+
+<a href="http://www.thisiscarpentry.com/2012/01/06/circular-based-arches-part-1/" target="_blank">Circular-Based Arches – Part 1: One-Centered and Two-Centered Arches</a>
+
+## mathinsight.org
+
+<a href="http://mathinsight.org/elliptic_paraboloid" target="_blank">The elliptic paraboloid</a>
+
+Equation: z=Ax2+By2
+(where A and B have the same sign)
+
+
+
 ~~~~~~~~~~~~~
+html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="100px">
 ~~~~~~~~~~~~~
