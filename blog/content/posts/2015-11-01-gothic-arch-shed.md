@@ -148,7 +148,23 @@ $2.00 p&h.
 Equation: z=Ax2+By2
 (where A and B have the same sign)
 
+## getdatajoy.com/examples/python-plots
 
+<a href="https://www.getdatajoy.com/examples/python-plots/3d-surface-with-contours" target="_blank">3D Surface With Contours</a>
+
+## Sam's Scientific Python Tools 
+
+<a href="http://www.sam.math.ethz.ch/~raoulb/teaching/PythonTutorial/intro_matplotlib.html" target="_blank">Sam's Scientific Python Tools</a>
+
+## matplotlib
+
+<a href="http://matplotlib.org/gallery.html" target="_blank">matplotlib gallery</a>
+
+<a href="http://matplotlib.org/" target="_blank">matplotlib main page</a>
+
+## Caleb Madrigal - Programming and Poetry
+
+<a href="http://calebmadrigal.com/first-look-at-pylab-matplotlib/" target="_blank">First look at Pylab/Matplotlib</a>
 
 ~~~~~~~~~~~~~
 html boilerplate
