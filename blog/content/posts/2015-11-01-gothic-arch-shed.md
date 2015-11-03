@@ -145,8 +145,21 @@ $2.00 p&h.
 
 <a href="http://mathinsight.org/elliptic_paraboloid" target="_blank">The elliptic paraboloid</a>
 
+~~~~~~~~~~~~
+The elliptic paraboloid
 Equation: z=Ax2+By2
 (where A and B have the same sign)
+~~~~~~~~~~~~
+
+
+<a href="http://mathinsight.org/hyperbolic_paraboloid" target="_blank">The hyperbolic paraboloid</a>
+
+~~~~~~~~~~~~
+The hyperbolic paraboloid
+
+Equation: z=Ax2+By2
+(where A and B have DIFFERENT signs)
+~~~~~~~~~~~~
 
 ## getdatajoy.com/examples/python-plots
 
