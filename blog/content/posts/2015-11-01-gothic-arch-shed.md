@@ -179,6 +179,10 @@ Equation: z=Ax2+By2
 
 <a href="http://calebmadrigal.com/first-look-at-pylab-matplotlib/" target="_blank">First look at Pylab/Matplotlib</a>
 
+## Parabola at Wikipedia
+
+<a href="https://en.wikipedia.org/wiki/Parabola" target="_blank">Parabola at Wikipedia</a>
+
 ~~~~~~~~~~~~~
 html boilerplate
 <a href="" target="_blank"></a>
