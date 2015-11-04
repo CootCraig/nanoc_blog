@@ -32,6 +32,8 @@ Dodge Ram Van Class B - old school
 
 # Justin Credible
 
+#### <a href="https://www.youtube.com/watch?v=xfobKPh8e7k" target="_blank">What brand new Class B would I buy?</a>
+
 #### <a href="https://www.youtube.com/watch?v=cTI90Kv7QN8" target="_blank">Why I believe older vehicles are the best</a>
 
 My current RV may not really be an "older vehicle" yet, but most of my
@@ -116,6 +118,7 @@ Watt Generator -24 Gallon Fresh Water Tank -24 Gallon Grey Water Tank
 
 
 ~~~~~~~~~~~~~~~~
+html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="100px">
 ~~~~~~~~~~~~~~~~
