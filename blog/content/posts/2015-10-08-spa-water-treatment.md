@@ -1007,8 +1007,37 @@ Be careful MA is heaver than water - add by return
 <a href="http://www.poolsolutions.com/gd/total-alkalinity-in-swimming-pools.html" target="_blank">FAQ: Questions about Swimming Pool Alkalinity Levels</a>
 
 
+# FLO error code
+
+http://harwil.com/model-qt-12/
+
+
+flow switch Q-12ds
+
+Harwil Q12DS501.54SNO1 Q12DS Flow Switch 1/2" NPT
+$81
+http://www.amazon.com/Harwil-Q12DS501-54SNO1-Q12DS-Flow-Switch/dp/B00KAU1GV2
+
+* 2 amp pilot duty switches on at 10 gpm and switches off at 8 gpm. ABS body, stainless spring arm
+* Kit includes 1/2" strain relief connector & one 1/2"fpt x 1/2"fpt coupling.
+
+
+http://www.spaandpoolsource.com/Flow-Switch-sundance-spas-6560-852.aspx
+$53
+
+* Replaces the Harwil Q-12DS, Q-12DS50 with ½" threads
+* Rated at: 50 Watt Max. Resistive, 10 Watt Inductive (Coil) 120-240 VAC. 5-28 VDC 0.5A DC Switching. 2.5 DC Steady State
+* Does not come with cables
+* ¾" slip x slip T with ½" threaded reducer for ½" threaded flow switch
+* Has standard spade terminals
+* Can be removed out of the T fitting and installed in existing T fitting on your spa with ½" threads
+* For ¾" threads see the 6560-860 Flow Switch
+
+
+
 ~~~~~~~~~~~~~~~~
 <a href="" target="_blank"></a>
 <img src="" width="100px">
 ~~~~~~~~~~~~~~~~
+
 
