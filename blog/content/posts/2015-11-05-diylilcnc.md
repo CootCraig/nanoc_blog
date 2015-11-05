@@ -9,6 +9,7 @@ tags:
 
 # stuff
 
+<img src="/assets/images/diylilcnc-v2.png" width="500px">
 
 <a href="http://diylilcnc.org/" target="_blank">diylilcnc.org</a>
 
