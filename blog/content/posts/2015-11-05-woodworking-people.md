@@ -29,6 +29,11 @@ tags:
 * <a href="https://www.youtube.com/watch?v=U1XwQt86mi8" target="_blank">router pantograph - Making wooden rings</a>
 
 
+## Steve Ramsey
+
+<a href="http://woodworking.formeremortals.net/2015/11/build-a-bed-with-limited-tools-and-limited-space/" target="_blank">Build a bed with limited tools and limited space</a>
+
+
 ~~~~~~~~~~~~~
 html boiler plate
 <a href="" target="_blank"></a>
