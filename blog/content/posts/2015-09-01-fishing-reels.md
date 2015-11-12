@@ -34,6 +34,13 @@ CLX-300L 	3.8:1 	Bushing 	15 	24" 	17-lbs 	510/15 (0.37), 420/20 (0.42), 310/25 
 * max. drag 12-lbs
 * 290/14 (0.35) 230/18 (0.40) 210/20 (0.42)
 
+# Daiwa Underspin US XD <a href="http://www.daiwa.com/reel/detail.aspx?id=246" target="_blank">here</a>
+
+* $17 <a href="http://www.amazon.com/Daiwa-Underspin-XD-Series-Trigger-Control-Closed-Face/dp/B001SYJH4C" target="_blank">US40XD-CP</a> / -	1BB	4.1:1	16.1"	5.5	MONO: 4/85	-
+* US80XD-CP	ML / -	1BB	4.3:1	21.8"	9.2	MONO: 8/75	-
+* US120XD-CP	ML / -	1BB	4.3:1	25.9"	10.8	MONO: 12/100
+
+
 # Shimano ix
 
 Shimano ix4000r
@@ -42,6 +49,9 @@ $13 http://www.tackledirect.com/shimano-ix4000r-ix-r-reel.html
 
 
 #### [youtube](https://www.youtube.com/watch?v=LJKAuEaPGQM) Shimano IX4000R Spinning Reel Review by MUDD CREEK
+
+#### [youtube](https://www.youtube.com/watch?v=z8RChCsSS7A) Shimano IX1000R Spinning Reel Review by MUDD CREEK
+
 
 
 # Shimano FX Spinning Reel

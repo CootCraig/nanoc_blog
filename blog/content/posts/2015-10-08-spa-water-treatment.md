@@ -24,6 +24,35 @@ Thank you,
 Gary 
 ~~~~~~~~~~~~
 
+~~~~~~~~~~~~
+Laing circulation pump
+Chula Vista, CA
+Model:
+sm-909-NTW-18 3/4"
+part:
+6010.9
+Serial:
+543041
+Manufactured:
+04/98
+Sticker:
+M7.1E
+
+HP 1/20
+RPM 3400
+watt 98
+cap 0.95
+cap 85uF
+~~~~~~~~~~~~
+
+
+http://www.spadepot.com/shop/Laing-E10-Spa-Circulating-Pump-34-Barb-240V-P8253C300.aspx
+
+http://www.spadepot.com/shop/Laing-E10-Spa-Circulating-Pump-34-Barb-120V-P708C300.aspx
+
+http://www.spaandpoolsource.com/Laing-Circulation-Pumps.aspx
+
+
 <a href="/assets/pdf/Marquis-spa-1998-Reward-manual.pdf" target="_blank">Marquis 1998 Reward Spa Manual</a>
 
 * MTS (Maximum Therapy Series) - The Reward MTS 1998
