@@ -44,6 +44,7 @@ watt 98
 cap 0.95
 cap 85uF
 ~~~~~~~~~~~~
+http://www.ronstultz.com/knowledge/Documents/How%20to%20-%20Repair%20a%20Laing%20909%20Series%20Circulator%20Pump.htm
 
 
 http://www.spadepot.com/shop/Laing-E10-Spa-Circulating-Pump-34-Barb-240V-P8253C300.aspx
@@ -52,6 +53,13 @@ http://www.spadepot.com/shop/Laing-E10-Spa-Circulating-Pump-34-Barb-120V-P708C30
 
 http://www.spaandpoolsource.com/Laing-Circulation-Pumps.aspx
 
+* Phone Order Assistance: 1-916-782-0880
+* Email: sales@spaandpoolsource.com
+
+http://www.spaandpoolsource.com/Laing-Circulation-Pumps.aspx
+
+How to Replace Sundance Spas Circulation Pump
+https://www.youtube.com/watch?v=DEi9gL-pAyw
 
 <a href="/assets/pdf/Marquis-spa-1998-Reward-manual.pdf" target="_blank">Marquis 1998 Reward Spa Manual</a>
 
@@ -167,9 +175,10 @@ measured pH 7.5
 * aerate to 7.6 pH
 
 * Add 12 oz (weight) of boric acid
-* Add 0.3 oz (weight of Dichlor
-* Add 0.3 oz (weight of Dichlor
-* 0.6 oz added. Use Dichlor until 2.1 oz has been added. (25 ppm CYA)
+* Add 0.3 oz (weight) of Dichlor
+* Add 0.3 oz (weight) of Dichlor
+* Add 0.3 oz (weight) of Dichlor
+* 0.9 oz added. Use Dichlor until 2.1 oz has been added. (25 ppm CYA)
 
 SO, what's a good TA then? Because spas tends to have a lot of aeration
 from jets and because the water is hot, it is best to keep the TA low
