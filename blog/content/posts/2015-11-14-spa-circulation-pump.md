@@ -7,6 +7,12 @@ tags:
   - spa_circulation_pump
 ---
 
+### pump in spa with visible leak
+
+<p>
+<img src="/assets/images/spa-circulation-pump/pump-in-spa-with-leak.JPG" width="450px">
+</p>
+
 <img src="/assets/images/spa-circulation-pump/DSC_0017.JPG" width="450px">
 
 <img src="/assets/images/spa-circulation-pump/DSC_0018.JPG" width="450px">
