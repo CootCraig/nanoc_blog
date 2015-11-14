@@ -6,8 +6,27 @@ tags:
   - craft_ideas
 ---
 
+# Plaques
+
 <img src="/assets/images/crafts-plaque-inthishousewedo.jpg" width="400px">
 
+# Grammar police
+
+<a href="http://www.buzzfeed.com/mallorymcinnis/call-the-grammar-police#.xpj6BRzX0" target="_blank">buzzfeed - grammar police gifts</a>
+
+# boxes
+
+## plain utility storage boxes
+
+## decorated craft boxes
+
+
+
+# Misc.
+
+## Shoe Polishing Kit
+
+<img src="/assets/images/leather-shoe-polish-kit.jpg" width="400px">
 
 ~~~~~~~~~~~~~
 html boilerplate
