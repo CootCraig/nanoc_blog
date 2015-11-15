@@ -13,6 +13,10 @@ tags:
 <img src="/assets/images/spa-circulation-pump/pump-in-spa-with-leak.JPG" width="450px">
 </p>
 
+<p>
+<img src="/assets/images/spa-circulation-pump/circ-pump-exposed-impeller-motor-gasket.jpg" width="450px">
+</p>
+
 <img src="/assets/images/spa-circulation-pump/DSC_0017.JPG" width="450px">
 
 <img src="/assets/images/spa-circulation-pump/DSC_0018.JPG" width="450px">

@@ -10,6 +10,10 @@ tags:
 
 # Research
 
+
+<a href="http://www.stundumplings.co.uk/fishing-and-hunting/rigging-up-the-kayak-for-trolling-installing-my-yak-attack-zooka-tubes/" target="_blank">review - Yak Attack Zooka Tubes</a>
+
+
 ## Wet Suit Pants
 
 <a href="http://neosportusa.com/paddle/product/1-5mm-xspan-pants/" target="_blank">NewSport Site - 1.5mm xspan pants</a>

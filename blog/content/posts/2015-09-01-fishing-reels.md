@@ -10,6 +10,11 @@ tags:
 # [ifish.net/board](http://www.ifish.net/board/showthread.php?t=258793) Best low budget spinning reel 
 
 
+<a href="http://www.stundumplings.co.uk/fishing-and-hunting/review-shimano-baitrunner-8000-oc-oceanic-fishing-reel/" target="_blank">review - Shimano Baitrunner 8000 OC Fishing Reel</a>
+
+
+<a href="http://www.amazon.com/dp/B000F7UPQW/" target="_blank">Okuma Avenger ABF Graphite Bait Feeder Reel</a>
+
 
 # Okuma Classic XT Trolling Reel (5.1:1 Bushings)
 
