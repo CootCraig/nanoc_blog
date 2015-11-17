@@ -44,12 +44,64 @@ watt 98
 cap 0.95
 cap 85uF
 ~~~~~~~~~~~~
+
+
+<a href="http://uspartscenter.com/shaft-seals.aspx" target="_blank">Shaft Seals</a>
+
+
+<a href="http://uspartscenter.com/sm-909-14.aspx" target="_blank">$100 - Laing Rotor Assembly SM-909-14 Series Only</a>
+
+
+
 http://www.ronstultz.com/knowledge/Documents/How%20to%20-%20Repair%20a%20Laing%20909%20Series%20Circulator%20Pump.htm
 
 
 http://www.spadepot.com/shop/Laing-E10-Spa-Circulating-Pump-34-Barb-240V-P8253C300.aspx
 
-http://www.spadepot.com/shop/Laing-E10-Spa-Circulating-Pump-34-Barb-120V-P708C300.aspx
+
+
+<a href="http://www.spadepot.com/shop/Laing-E10-Spa-Circulating-Pump-34-Barb-120V-P708C300.aspx" target="_blank">$200 - Laing E10 3/4" 120V</a>
+
+* SKU: BX4200
+
+#### Spa and Pool Source
+
+<a href="http://www.spaandpoolsource.com/Laing-Circulation-Pump-6500-460-E10-NSHNDNN1W-01.aspx" target="_blank">$149 - 115/120 Volt Laing Circulation Pump, 3/4" Barbed - E10-NSHNDNN1W-01</a>
+
+* Item Number: 6500-460-115v
+* Manufacturer: Laing Thermotech
+* Manufacturer Part No: E10-NSHNDNN1W-01
+
+http://www.pool-spa-supplies.com/pumps/circulation-pumps/jacuzzi-laing-e10-nshndnn1w-01-115v-50-60hz-3-4-barbed-circ-pump-6500-460
+
+#### Pool Spa Supplies
+
+(888) 933-3466
+
+
+<a href="http://www.pool-spa-supplies.com/laing-thermo-e10-nstn1w-19-3-4-mpt-threaded-circulation-spa-pump-115v-74009-found-in-most-marquis-spas-630-6330" target="_blank">Laing Ecocirc E10-NSTN1W-19 3/4” Thrd Circ. Spa Pump 115V</a>
+
+* $201.39
+* Laing Ecocirc E10-NSTN1W-19 3/4” Thrd Circ. Spa Pump 115V 
+* Replaces SM909NTW-18 3/4” Threaded 115V
+* Marquis Spas Part Number: 630-6330
+* Electrical Cord attached approx. 45” long, with 3 wires, AMP connectors on end.
+
+* Thank you for your purchase!
+* Your order # is: 200027836
+* Subtotal 	$201.39
+* Shipping & Handling 	$20.05
+* Grand Total 	$221.44
+
+<a href="http://www.pool-spa-supplies.com/pumps/circulation-pumps/jacuzzi-laing-e10-nshndnn1w-01-115v-50-60hz-3-4-barbed-circ-pump-6500-460" target="_blank">$149 - LAING E10-NSHNDNN1W-01 (115V, 50/60Hz)</a>
+
+* Sundance, La Spas - LAING E10-NSHNDNN1W-01 (115V, 50/60Hz) 3/4" BARBED CIRC PUMP - 6500-460
+
+<a href="http://www.pool-spa-supplies.com/pumps/pump-seals" target="_blank">Pool Spa Supplies - Pump Seals</a>
+
+
+<a href="http://www.pool-spa-supplies.com/pumps/circulation-pumps/aqua-flo-circ-master-cmhp-1-15-hp-115v-1spd-02093000-2010" target="_blank">$144 - Aqua-Flo - Circ-Master CMHP, 1/15 HP, 115V, 1SPD - 02093000-2010</a>
+
 
 http://www.spaandpoolsource.com/Laing-Circulation-Pumps.aspx
 
@@ -57,6 +109,94 @@ http://www.spaandpoolsource.com/Laing-Circulation-Pumps.aspx
 * Email: sales@spaandpoolsource.com
 
 http://www.spaandpoolsource.com/Laing-Circulation-Pumps.aspx
+
+## Notes to find replacement - 2015-11-16
+
+* Laing LMB05150993 Roto Repair Kit for 909 Series Circulator Pumps (Not to be used with Spa Pumps)
+
+<img src="/assets/images/spa-circulation-pump/lang-909-roto-repair-kit.jpg" width="400px">
+
+Or current version 120V barb fitting pump
+
+### Pool Spa Supplies - $149
+
+<a href="http://www.pool-spa-supplies.com/pumps/circulation-pumps/jacuzzi-laing-e10-nshndnn1w-01-115v-50-60hz-3-4-barbed-circ-pump-6500-460" target="_blank">$149 - LAING E10-NSHNDNN1W-01 (115V, 50/60Hz)</a>
+
+* (888) 933-3466
+* Laing Ecocirc E10-NSHN1W-19 3/4” Barb Circulation Pump 115V (Jacuzzi Part Number: 6500-460)
+* LA Spas Part Number: EL-64104-1, 5EL-64104-1
+* Sundance, La Spas - LAING E10-NSHNDNN1W-01 (115V, 50/60Hz) 3/4" BARBED CIRC PUMP - 6500-460
+
+### Spa and Pool Source
+
+<a href="http://www.spaandpoolsource.com/Laing-Circulation-Pump-6500-460-E10-NSHNDNN1W-01.aspx" target="_blank">$149 - 115/120 Volt Laing Circulation Pump, 3/4" Barbed - E10-NSHNDNN1W-01</a>
+
+* Phone Order Assistance: 1-916-782-0880
+* Email: sales@spaandpoolsource.com
+* Item Number: 6500-460-115v
+* Manufacturer: Laing Thermotech
+* Manufacturer Part No: E10-NSHNDNN1W-01
+
+
+
+### Spa Depot
+
+* The Spa Depot
+* 8910 Select Ct. SE
+* Olympia, WA 98501
+* Phone: (360) 956-3997 
+
+<a href="http://www.spadepot.com/shop/Laing-E10-Spa-Circulating-Pump-34-Barb-120V-P708C300.aspx" target="_blank">$200 - Laing E10 3/4" 120V</a>
+
+* SKU: BX4200
+* PRICE: $199.95
+* Utilizes 3/4" hose barbs.
+* Includes 4 ft. cord.
+
+The new E-10 series Laing Circulating Pump is used in many spa brands
+including Hot Springs, Dimension One, and others. This is a high quality,
+long-life, extremely quiet circulation pump that can be adapted to
+virtually any spa because it can be mounted horizontally or vertically
+with motor end down. This pump is rated for continuous duty operation,
+features an integrated mounting bracket, and uses up to 40% less power
+than many other circulation pumps.
+
+Product notes: 120V, 60 HZ, 1/40th HP, 63W, 15 GPM. 6"L x 4
+7/8"H. Replaces all discontinued SM-909 120V models. Other part numbers
+associated with this unit: SM-909-N-26, SM909NH18, SM-303, SM-909-14,
+SM-1212-26, Watkins silent-flo 5000, Laing Thermotech
+
+### filter holder / arm
+
+#### The Spa Works
+
+<a href="http://thespaworks.com/parts/marquis-spa-parts/marquis-spa-filters-parts/marquis-spa-lateral-holder-8-inch-arm" target="_blank">thespaworks.com MRQ370-0495</a>
+
+707-586-9999
+
+MRQ370-0495 - Marquis Spa Lateral Holder With 8 Inch Arm. 
+Used On 1997 To 1999 MTS Series.
+
+#### Big Island Parts
+
+<a href="http://www.bigislandparts.com/marquis-spa-lateral-arm-8-inch/" target="_blank">Big Island Parts - MARQUIS SPA LATERAL ARM, 8 INCH</a>
+
+* Marquis Spas
+* $31.06
+* SKU: 370-0672
+* Item Number: MRQ370-0672
+
+<a href="http://www.bigislandparts.com/marquis-spa-lateral-holder-with-8-inch-arm/" target="_blank">MARQUIS SPA LATERAL HOLDER WITH 8 INCH ARM</a>
+
+* Marquis Spas
+* $64.02
+* SKU: 370-0495
+* Marquis Spa Lateral Holder With 8 Inch Arm.
+* Used On 1997 To 1999 MTS Series.
+* Item Number: MRQ370-0495
+
+
+## stuff
 
 How to Replace Sundance Spas Circulation Pump
 https://www.youtube.com/watch?v=DEi9gL-pAyw
@@ -74,14 +214,6 @@ https://www.youtube.com/watch?v=DEi9gL-pAyw
 * 690 lbs dry. 3358 lbs wet
 
 
-<a href="http://thespaworks.com/parts/marquis-spa-parts/marquis-spa-filters-parts/marquis-spa-lateral-holder-8-inch-arm" target="_blank">thespaworks.com MRQ370-0495</a>
-
-MRQ370-0495 - Marquis Spa Lateral Holder With 8 Inch Arm. 
-Used On 1997 To 1999 MTS Series.
-
-<a href="http://www.bigislandparts.com/marquis-spa-lateral-arm-8-inch/" target="_blank">Big Island Parts - MARQUIS SPA LATERAL ARM, 8 INCH</a>
-
-$32
 
 ### Choose
 
@@ -178,7 +310,8 @@ measured pH 7.5
 * Add 0.3 oz (weight) of Dichlor
 * Add 0.3 oz (weight) of Dichlor
 * Add 0.3 oz (weight) of Dichlor
-* 0.9 oz added. Use Dichlor until 2.1 oz has been added. (25 ppm CYA)
+* Add 0.4 oz (weight) of Dichlor
+* 1.3 oz added. Use Dichlor until 2.1 oz has been added. (25 ppm CYA)
 
 SO, what's a good TA then? Because spas tends to have a lot of aeration
 from jets and because the water is hot, it is best to keep the TA low

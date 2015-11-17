@@ -7,6 +7,42 @@ tags:
   - spa_circulation_pump
 ---
 
+# Research
+
+## Replace Housing Gasket
+
+
+<a href="http://www.inyopools.com/HowToPage/how_to_replace_pool_pump_gaskets.aspx" target="_blank">How To Replace Pool Pump Gaskets</a>
+
+If you have a leak spraying out of the seal between the pool pump housing
+and the motor assembly, you probably need to replace the housing gasket
+between the two units. We recommend that when you pull the pool pump
+motor assembly to replace this gasket, you also replace the diffuser
+gasket within the motor assembly.
+
+
+<a href="http://www.amazon.com/Equalseal-EQ825-Temperature-Gasket-Sheet/dp/B015HU4Q52/" target="_blank">$31 - Equalseal EQ825 High Temperature Gasket Sheet - 1/16" Thick - 15" x 15" Sheet</a>
+
+
+<a href="http://www.amazon.com/Buna-N-Sheet-Gasket-Black-Thick/dp/B0075ZK0GM/" target="_blank">Buna-N Sheet Gasket, Black</a>
+
+http://www.gasket-tools.com/gasket-cutter-zimmerman.asp
+
+
+* sm-909-NTW-18 3/4"
+* Laing LMB10150999 Rotor Repair Kit for 303 Series Circulators
+
+Replacement?
+
+<a href="http://www.pool-spa-supplies.com/pumps/circulation-pumps/jacuzzi-laing-e10-nshndnn1w-01-115v-50-60hz-3-4-barbed-circ-pump-6500-460" target="_blank">$149 - LAING E10-NSHNDNN1W-01 (115V, 50/60Hz)</a>
+
+* Sundance, La Spas - LAING E10-NSHNDNN1W-01 (115V, 50/60Hz) 3/4" BARBED CIRC PUMP - 6500-460
+
+
+<a href="http://www.ronstultz.com/knowledge/Documents/How%20to%20-%20Repair%20a%20Laing%20909%20Series%20Circulator%20Pump.htm" target="_blank">Laing Model SM-909-NTW-18 3\4” kit</a>
+
+Laing LMB05150993 Roto Repair Kit for 909 Series Circulator Pumps (Not to be used with Spa Pumps)
+
 ### pump in spa with visible leak
 
 <p>
