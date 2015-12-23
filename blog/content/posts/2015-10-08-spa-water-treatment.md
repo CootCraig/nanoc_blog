@@ -311,7 +311,118 @@ measured pH 7.5
 * Add 0.3 oz (weight) of Dichlor
 * Add 0.3 oz (weight) of Dichlor
 * Add 0.4 oz (weight) of Dichlor
-* 1.3 oz added. Use Dichlor until 2.1 oz has been added. (25 ppm CYA)
+* Add 0.4 oz (weight) of Dichlor
+* Add 0.4 oz (weight) of Dichlor
+* 2.1 oz added. Use Dichlor until 2.1 oz has been added. (25 ppm CYA)
+
+* 2.5 oz bleach added 2015-11-22 FC 0 - 6
+* 1.5 oz MA added 2015-11-22 ph 8.2 -> 7.4
+
+* 3 oz bleach - Mon Nov 23 07:29:25 MST 2015
+
+
+* 2.4 oz bleach added 2015-11-25
+* 1.8 oz MA added 2015-11-25
+
+* 7 people in hot tub
+* 7 oz bleach - Thu Nov 26 20:26:27 MST 2015
+
+* 6 oz bleach - Fri Nov 27 16:14:52 MST 2015 ( 0 FC )
+
+* 2.5 oz bleach added - Sat Nov 28 16:17:12 MST 2015
+* 1.1 oz MA added - Sat Nov 28 16:17:12 MST 2015
+* 4.0 oz bleach added - Sun Nov 29 00:59:04 MST 2015
+* 2.4 oz bleach added - Sun Nov 29 15:16:21 MST 2015 ( 1 FC )
+* 2.5 oz bleach added - Mon Nov 30 00:16:22 MST 2015
+* 1.5 oz bleach added - Mon Nov 30 13:00:53 MST 2015 (was pH 7.9 FC 1)
+* 2.5 oz bleach added - Mon Nov 30 22:41:51 MST 2015
+
+* 3 oz bleach - Tue Dec  1 23:53:41 MST 2015
+* 1.2 oz MA - Tue Dec  1 23:53:41 MST 2015
+
+* 3 oz bleach - Wed Dec  2 09:41:07 MST 2015
+
+* FC 2 pH 7.5 - Wed Dec  2 13:23:19 MST 2015
+* 1.4 oz bleach - Wed Dec  2 13:23:19 MST 2015
+
+* TA 50 - Wed Dec  2 19:35:31 MST 2015
+* 2.0 oz bleach - Wed Dec  2 22:23:01 MST 2015
+
+* FC 2 pH 7.6 - Thu Dec  3 08:59:30 MST 2015
+
+* FC 1 pH 7.6 - Fri Dec  4 11:21:27 MST 2015 (before short soak)
+* 2.4 oz bleach - Fri Dec  4 11:38:46 MST 2015
+
+* 0 FC 8.2 ph - 2.5 oz bleach 1.9 oz MA
+* 2.0 oz bleach - Sat Dec  5 21:57:22 MST 2015
+
+* FC 2 pH 7.5 (add 1.0 oz bleach) - Sun Dec  6 09:00:41 MST 2015
+
+* FC 4 pH 7.6 (before eve. soak) - Sun Dec  6 20:28:06 MST 2015
+
+* 1.5 oz bleach (after 15min. soak) - Sun Dec  6 20:58:04 MST 2015
+
+* FC 1 pH 7.6 - add 2 oz bleach - Mon Dec  7 11:17:00 MST 2015
+
+* 1.5 oz bleach - (after soak) - Mon Dec  7 21:13:39 MST 2015
+
+* FC 2 pH 7.6 - (before soak) - Tue Dec  8 06:58:09 MST 2015
+* FC 1 pH 7.6 - 1.5 oz bleach - Tue Dec  8 14:26:10 MST 2015
+* FC 5 pH 7.8 - Tue Dec  8 20:06:16 MST 2015
+
+* FC 0 pH 7.8 (add 2.0oz bleach) - Wed Dec  9 14:30:52 MST 2015
+* FC 5 pH 7.7 - Wed Dec  9 20:26:39 MST 2015
+* 2.5 oz bleach - Wed Dec  9 22:10:18 MST 2015
+* top off water in spa
+
+* 2.5 oz bleach - Thu Dec 10 22:21:59 MST 2015
+
+* 3.0 oz bleach - Fri Dec 11 21:55:47 MST 2015
+
+* FC 3 pH 7.8 - Sat Dec 12 07:37:33 MST 2015
+* 2.6 oz bleach - after soak - Sat Dec 12 10:07:01 MST 2015
+
+* FC 5 pH 8.1 - Sat Dec 12 15:16:30 MST 2015
+* 1.4 oz MA
+
+* FC 4 pH 7.4 - Sun Dec 13 09:40:19 MST 2015
+* 1.9 oz bleach (after 1 soak) - Sun Dec 13 10:14:02 MST 2015
+* FC 1 pH 7.5
+* 3.5 oz bleach (after 1 soak) - Sun Dec 13 21:24:22 MST 2015
+
+* FC 3 pH 7.6 - Mon Dec 14 10:28:43 MST 2015
+* 2.2 oz bleach (after 1 soak) - Mon Dec 14 11:16:38 MST 2015
+
+* FC 0.5 pH 7.8 - add 3.0 oz bleach - Tue Dec 15 16:16:20 MST 2015
+* 2.2 oz bleach - (after 1 soak) - Tue Dec 15 20:30:34 MST 2015
+
+* FC 3 pH 7.7 - Thu Dec 17 13:16:07 MST 2015
+
+* 3.5 oz bleach - (after 1 soak) - Fri Dec 18 00:21:19 MST 2015
+
+* FC 4 pH 7.6 - Fri Dec 18 11:08:39 MST 2015
+* 3.7 oz bleach (after 1 soak) - Fri Dec 18 11:34:00 MST 2015
+* Top off spa - Fri Dec 18 11:48:06 MST 2015
+* FC 5 pH 8.0 - Fri Dec 18 13:24:24 MST 2015
+* 1.3 oz MA - Fri Dec 18 13:32:54 MST 2015
+* FC 5 pH 7.3 - Fri Dec 18 21:12:06 MST 2015
+* 1.8 oz bleach (after 1 soak) - Fri Dec 18 21:57:14 MST 2015
+
+* FC 5 pH 7.6 - Sat Dec 19 12:10:56 MST 2015
+* 3.5 oz bleach (after 2 soak) - Sat Dec 19 22:26:23 MST 2015
+
+* FC 4 pH 7.6 - Sun Dec 20 09:30:25 MST 2015
+* 2.0 oz bleach (after 1 soak) -
+* FC 4 pH 7.8 - Sun Dec 20 18:46:53 MST 2015
+* 4.5 oz bleach (after 3 soak) - Sun Dec 20 20:13:45 MST 2015
+
+* FC 4 pH 7.6 - Mon Dec 21 07:59:51 MST 2015
+* 6.0 oz bleach (after 3 soak) - Mon Dec 21 23:00:16 MST 2015
+
+* FC 2.0 pH 7.7 - Tue Dec 22 14:10:52 MST 2015
+
+
+## Good TA
 
 SO, what's a good TA then? Because spas tends to have a lot of aeration
 from jets and because the water is hot, it is best to keep the TA low

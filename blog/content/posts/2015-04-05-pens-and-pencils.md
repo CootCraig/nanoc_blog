@@ -27,3 +27,15 @@ Big List of other Pen and Ink Blogs here.
 
 #### [peninkcillin.blogspot](http://peninkcillin.blogspot.com/2011/06/pilot-parallel-calligraphy-pen-review.html) Pilot Parallel pen review
 
+
+## <a href="http://davesmechanicalpencils.blogspot.com/" target="_blank">Dave's Mechanical Pencils</a>
+
+<a href="http://davesmechanicalpencils.blogspot.com/2010/09/pentel-ain-stein-lead-review.html" target="_blank">Pentel Ain Stein Lead Review</a>
+
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+-->
+

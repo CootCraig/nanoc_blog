@@ -135,6 +135,53 @@ You can order your Bow-Roof Greenhouse/Shed Plans over the phone
 using Visa, MasterCard, Discover, or Amex. Plans & Manual: $18.00 plus
 $2.00 p&h.
 
+# Other fabric structures
+
+## MDM Shelters
+
+### <a href="http://mdmshelters.com/storage_shed_5x10x8.php" target="_blank">5W x 10L x 8H</a>
+
+
+### <a href="http://mdmshelters.com/barn_style.php" target="_blank">$1500 - Barn Style - 12'W x 20'L x 12'H</a>
+
+### <a href="http://www.mdmshelters.com/cable-anchor-cables-earth-anchors.php" target="_blank">MDM's Cable Earth Anchors</a>
+
+## Hoop structures
+
+<a href="http://littleseedfarm.com/to-be-a-farmer-blog/the-500-hoop-house-for-hay-storage.html" target="_blank">$500 Hoop House for Hay Storage</a>
+
+# Exterior Fabrics
+
+## Sunbrella
+
+<a href="http://www.sunbrella.com/showroom/#!submit=complexSearch&app=00100000&color=all&pattern=all&col=all&drops=&fs=&screen=listing" target="_blank">Sunbrella Marine</a>
+
+#### <a href="http://forums.sailboatowners.com/index.php?threads/alternatives-to-sunbrella.105210/" target="_blank">Sailboat Owners Forum on Sunbrella</a>
+
+
+#### <a href="http://www.ebay.com/usr/csc4textiles?rt=nc" target="_blank">CSC TEXTILES online</a>
+
+CSC TEXTILES online, supplies SUNBRELLA which is one of the best fabrics
+for outdoor use...
+
+Although it is very well known, a lot of confusion and misconceptions
+exist for the non-professional looking to use these products.  It is
+well known for its UV-Ray "sun" resistance, color retention, and
+water-repellency.  There are also other name brands made very similar
+like PARA-Tempotest and Dickson (also owned by the makers of Sunbrella),
+and many Other Fabric made similarly, so you are not limited with only
+one choice...
+
+
+<a href="http://www.ebay.com/gds/SUNBRELLA-Outdoor-FABRIC-Different-Series-FACTS-/10000000000697707/g.html" target="_blank">SUNBRELLA Outdoor FABRIC ~ Different Series FACTS</a>
+
+## Big Duck Canvas Warehouse
+
+<a href="http://www.bigduckcanvas.com/outdura-9-5oz-60-solution-dyed-acrylic-uv-marine-fabric-beach-blue/" target="_blank">Outdura® 9.5oz /60" Solution Dyed Acrylic UV Marine Fabric Beach Blue</a>
+
+<a href="http://www.bigduckcanvas.com/canvas-for-tents/army-duck/10-10-oz-60-sunforger-tent-canvas" target="_blank">10.10 OZ (60") Sunforger® Tent Canvas</a>
+
+
 # Arch Math and Design
 
 ## thisiscarpentry.com - Circular-Based Arches

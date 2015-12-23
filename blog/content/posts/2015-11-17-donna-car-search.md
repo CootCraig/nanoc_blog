@@ -9,7 +9,34 @@ tags:
 
 # Honda accord
 
+* 2004 Honda Accord - DX Sedan 4D - VG $3010 132,000mi
+
 # Honda minivan
+
+## 1st gen. RA1-5
+
+1995-1998
+
+## 2nd gen. RL1
+
+1998-2004
+
+* 2000 Honda Odyssey - EX Minivan 4D - VG $1900
+* 2004 Honda Odyssey - EX Minivan 4D - VG $3251
+
+
+<a href="http://www.autotrader.com/cars-for-sale/Used+Cars/Honda/Odyssey/Pueblo+CO-81001?endYear=2004&listingType=used&listingTypes=used&makeCode1=HONDA&mmt=%5BHONDA%5BODYSSEY%5B%5D%5D%5B%5D%5D&modelCode1=ODYSSEY&searchRadius=500&showcaseListingId=0&showcaseOwnerId=0&startYear=1981&Log=0" target="_blank">Honda Odyssey - autotrader.com</a>
+
+
+### 1999-2004
+
+<img src="http://www.tradebit.com/usr/motorfan/pub/9002/102819194_odyssey_9904.jpg" width="600px">
+
+## 3rd Gen. RL3,RL4
+
+2005-2010
+
+
 
 # Nissan Pathfinder
 
