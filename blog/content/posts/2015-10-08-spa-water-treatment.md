@@ -421,6 +421,14 @@ measured pH 7.5
 
 * FC 2.0 pH 7.7 - Tue Dec 22 14:10:52 MST 2015
 
+* FC 5 pH 7.7 - Wed Dec 23 11:15:22 MST 2015
+
+* FC 2 pH 7.9 - Thu Dec 24 12:15:46 MST 2015
+* 0.9 oz MA
+* FC 1 pH 7.1 - Thu Dec 24 15:38:16 MST 2015
+* 2.0 oz bleach - Thu Dec 24 15:40:23 MST 2015
+* FC 5 pH 7.7 (after aeration) - Thu Dec 24 16:37:42 MST 2015
+* 3.0 oz bleach (after 1 soak) - Thu Dec 24 21:54:41 MST 2015
 
 ## Good TA
 
@@ -600,7 +608,7 @@ borates don't degrade.
 
 1 cup TSP + 5 gallons water
 
-<a href="http://www.troublefreepool.com/threads/4224-Re-How-to-clean-a-cartridge-filter?p=146005&viewfull=1#post146005" target="_blank">Re: How to clean a cartridge filter</a>
+<a href="http://www.troublefreepool.com/threads/4224-Re-How-to-clean-a-cartridge-filter" target="_blank">Re: How to clean a cartridge filter</a>
 
 PoolGuyNJ
 
