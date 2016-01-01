@@ -430,6 +430,21 @@ measured pH 7.5
 * FC 5 pH 7.7 (after aeration) - Thu Dec 24 16:37:42 MST 2015
 * 3.0 oz bleach (after 1 soak) - Thu Dec 24 21:54:41 MST 2015
 
+* TA 50 Sat Dec 26 16:49:29 MST 2015
+* FC 5 pH 7.8 Sat Dec 26 16:49:29 MST 2015
+* 0.2 oz MA
+
+* FC 3 pH 7.6 - Sun Dec 27 13:11:14 MST 2015
+
+* FC 4 pH 7.9 - Tue Dec 29 11:56:10 MST 2015
+* add 0.5 oz MA
+
+* 4.0 oz bleach - Tue Dec 29 21:31:28 MST 2015
+
+* FC 6 pH 7.8 - Wed Dec 30 17:20:53 MST 2015
+
+* FC 1 pH 7.9 - Thu Dec 31 17:00:59 MST 2015
+
 ## Good TA
 
 SO, what's a good TA then? Because spas tends to have a lot of aeration

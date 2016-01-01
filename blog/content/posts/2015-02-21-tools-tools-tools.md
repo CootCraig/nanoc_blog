@@ -157,3 +157,13 @@ https://www.youtube.com/watch?v=pxE_cejdZ0g
 
 #### [youtube](https://www.youtube.com/watch?v=0eKnpTPY1-w) True Wood Design
 
+
+#### <a href="http://woodandshop.com/which-hand-tools-do-you-need-for-traditional-woodworking/" target="_blank">woodandshop.com - hand tools for traditional woodworking</a>
+
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+-->
+

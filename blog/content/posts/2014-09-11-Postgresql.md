@@ -6,6 +6,7 @@ tags:
   - linux
   - postgresql
   - pgagent
+  - sqltabs
 ---
 
 * [PostgreSQL packages for Debian and Ubuntu](https://wiki.postgresql.org/wiki/Apt)
@@ -35,6 +36,18 @@ itself - it is for this reason that pgAgent is not automatically setup
 when pgAdmin is installed.
 
 #### <a href="http://www.pgadmin.org/docs/dev/pgagent-install.html#daemon-installation-on-unix" target="_blank">Daemon installation on Unix</a>
+
+
+# SQL Tabs
+
+SQL Tabs -
+Rich SQL console for Postgresql 
+
+<a href="http://www.sqltabs.com/" target="_blank">SQL Tabs site</a>
+
+# pgAdmin
+
+<a href="http://www.pgadmin.org/" target="_blank">pgAdmin site</a>
 
 
 <!--

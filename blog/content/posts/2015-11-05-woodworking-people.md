@@ -33,10 +33,20 @@ tags:
 
 <a href="http://woodworking.formeremortals.net/2015/11/build-a-bed-with-limited-tools-and-limited-space/" target="_blank">Build a bed with limited tools and limited space</a>
 
+## Maurice Blok
 
-~~~~~~~~~~~~~
-html boiler plate
+<a href="https://www.youtube.com/watch?v=eM4oVN7SnQE" target="_blank">youtube - Making a Wooden Laptop Case</a>
+
+<img src="/assets/images/wood-laptop-case-maurice-blok.png" width="800px">
+
+<a href="https://www.youtube.com/watch?v=BSryUxdbeBM" target="_blank">Wall Mounted Coat Rack</a>
+
+<img src="/assets/images/wall-mount-coat-rack-maurice-blok.png" width="500px">
+
+
+<!--
+html boilerplate
 <a href="" target="_blank"></a>
-<img src="" width="100px">
-~~~~~~~~~~~~~
+<img src="" width="400px">
+-->
 
