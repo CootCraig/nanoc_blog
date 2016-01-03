@@ -55,6 +55,28 @@ Panel - Discover the Latest Wiring Products - Complies with 2008 NEC
 * ISBN: 9781589234130
 * Published: 2008
 
+### abe book order
+
+Title: Practical Electricity and House Wiring: A Practical Book of Instruction Covering in Detail Every Branch of Electrical Work as Applied to the Wiring of Small Buildings
+Author: Richter, Herbert P.
+1950
+
+Title: Practical Electrical Wiring - Residential, Farm, and Industrial
+Author: Richter, Herbert P. & Schwan, W. Creighton
+ISBN: 9780070523937
+1990
+
+Title: Practical Electrical Wiring: Residential, Farm, Commercial & Industrial: Based on the 2002 National Electrical Code
+Author: Herbert P. Richter, F. P. Hartwell
+2002
+
+Title: Code Check: A Field Guide to Building, Plumbing, Mechanical, and Electrical Codes
+Author: Redwood Kardon
+1995
+
+Title: Black & DeckerComplete Guide to Wiring: Upgrade Your Main Service Panel - Discover the Latest Wiring Products - Complies with 2008 NEC (Black & Decker Complete Guide)
+Author: Editors of Creative Publishing, Brevik Tharaldson
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

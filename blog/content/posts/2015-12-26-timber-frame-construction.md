@@ -50,6 +50,16 @@ tags:
 * ISBN 10: 0918238013 ISBN 13: 9780918238016
 * abe books - $8.00
 
+<a href="http://www.amazon.com/Practical-Pole-Building-Construction-Outbuildings/dp/0913589160/" target="_blank">Practical Pole Building Construction: With Plans for Barns, Cabins, & Outbuildings</a>
+
+
+* Practical Pole Building Construction: With Plans for Barns, Cabins, & Outbuildings Paperback – 
+* Leigh W. Seddon (Author)
+* July 1, 1985
+* Publisher: Williamson Publishing Company (July 1, 1985)
+* ISBN-10: 0913589160
+* ISBN-13: 978-0913589168
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
