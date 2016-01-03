@@ -6,7 +6,7 @@ tags:
   - small_computer_systems
 ---
 
-# Gigabyte Brix
+# <a name="gigabyte_brix">Gigabyte Brix</a>
 
 <a href="http://www.gigabyte.com/products/list.aspx?s=47&ck=104" target="_blank">Mini-PC Barebone (BRIX)</a>
 
