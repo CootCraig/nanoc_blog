@@ -15,6 +15,31 @@ tags:
 
 ## Monopitch Roof
 
+<a href="https://en.wikipedia.org/wiki/Mono-pitched_roof" target="_blank">Wikipedia - mono pitched roof</a>
+
+* Monopitch roof
+* pent roof
+* shed roof
+* lean-to roof
+* skillion roof (in Australia)
+* sloping flat truss
+
+A mono-pitched roof is a single-sloping roof surface, often not attached
+to another roof surface. Mono-pitched roofs are sometimes called a pent
+roof, shed roof, lean-to roof,[1] or skillion roof (in Australia). This
+is in contrast to a dual-pitched roof, also known as a gabled roof,
+which is pitched in two different directions.
+
+A mono-pitched roof can also be a smaller addition to an existing roof,
+where keeping to the same slope (roof pitch) puts the mono-pitched roof
+lower than the ceiling height of the main structure. In this case even
+though the main roof has a flat ceiling, the mono-pitched part will have
+a sloping, or raked, ceiling line to maximise the ceiling height. The
+name lean-to roof comes from this form of addition.
+
+Mono-pitched roofs can also be used to provide clerestory windows for a
+hallway or similar room where a row of windows is placed below the edge
+of the mono-pitched section reaching above the other roof below.
 
 ### myrooff.com
 
@@ -75,12 +100,117 @@ or any other material. It rarely changes shades, the roofing being a
 different color from the main house, but that is all.
 
 
-### MiTed Connectors Product Information
+### MiTek Connectors Product Information
 
 <a href="https://www.mii.com/artefact/download.asp?aid=53599" target="_blank">online - MiTek Plates Information</a>
 
 <a href="/assets/pdf/mitek-connector-plates.pdf" target="_blank">local - MiTek Plates Information</a>
 
+## Buildsum
+
+<a href="https://www.youtube.com/watch?v=xAuQdQ78mrI" target="_blank">video - Skillion Roof Scribing Rafters</a>
+
+<a href="https://www.youtube.com/watch?v=FNHyupCIQXM" target="_blank">video - Skillion Roof erection Procedure</a>
+ 
+## Burmon Cyclone Bracket
+
+<a href="https://www.youtube.com/watch?v=A-n-Rmfl07M" target="_blank">Roof Truss Erection & Tie Down Demonstration for Skillion Roof</a>
+
+<a href="https://www.youtube.com/watch?v=wZ5E3um15pU" target="_blank">Comparing Methods of Roof Truss Erection & Tie Down</a>
+
+
+## gregvancom
+
+<a href="https://www.youtube.com/watch?v=1OIJQyZ3YIw&list=PL0LubBc05NX2TViuWjX3g3sfhwqMLZYe0" target="_blank">Roof Truss Basics - Structural Engineering And Home Building Tips</a>
+
+
+## Green Building Advisor
+
+<a href="http://www.greenbuildingadvisor.com/blogs/dept/energy-solutions/using-open-web-trusses-rafters-superinsulated-roofs" target="_blank">Open-Web Trusses as Rafters</a>
+
+
+## Trim Joist Engineered Wood Products
+
+
+## RedBuilt Open Web Truss
+
+<a href="https://www.youtube.com/watch?v=gp2jMatAvjE" target="_blank">RedBuilt Open Web Truss</a>
+
+~~~~~~~~~~~~~
+PUEBLO, Colorado
+Chris Anderson, Lam-Wood Systems, Inc.
+Phone: 800-826-8488
+Cell: 303-478-0776
+Fax: 303-458-1739
+ChrisA@lamwood.com
+~~~~~~~~~~~~~
+
+ 
+<a href="https://www.youtube.com/watch?v=zFiPABXsuJk" target="_blank">Total Solutions for Today</a>
+
+
+## Roof Framing with Wood I-Joists
+
+
+<a href="http://www.jlconline.com/how-to/framing/roof-framing-with-wood-i-joists_o" target="_blank">Roof Framing with Wood I-Joists</a>
+
+I-joists make for a strong, flat roof, but you have to pay attention to
+the connections at the ridge and eaves
+
+<a href="/assets/pdf/RedBuilt_Open-Web_Design.pdf" target="_blank">local - Open Web Design</a>
+
+
+## Universal Forest Products
+
+
+<a href="http://www.ufpi.com/en/products/roof-trusses/roof-truss-terminology.aspx" target="_blank">Roof Truss Terminology</a>
+
+<img src="/assets/images/ufpi-roof-truss-terminology.jpg" width="550px">
+
+## US Glu-Lam
+
+<a href="http://www.usglulam.com/products/trimjoist/" target="_blank">Trim Joist</a>
+
+
+## Stark Truss
+
+<a href="http://www.starktruss.com/wp-content/uploads/2014/02/APA-D710.pdf" target="_blank">Stark Truss I-Joist Construction Details</a>
+
+See Page 17 for roof application.
+
+<a href="/assets/pdf/stark-truss-i-joist-details.pdf" target="_blank">local pdf</a>
+
+## Simpson Strong Tie
+
+### CS Truss
+
+#### Define and Design Metal-Plate-Connected Wood Trusses for Roofs and Floors
+
+* Create trusses from scratch or import from CS Build
+* Define and optimize webbing
+* Calculate forces and design members and plates
+* Generate engineered drawings for seal by a Professional Engineer
+* Create cutting lists and assembly drawings
+* Produce output files for automated saws and tables
+
+~~~~~~~~~~~~
+Simpson Strong Tie
+LMH Building Center
+2018 S Prairie Ave
+Pueblo, CO 81005
+Phone: (719) 560-9663
+~~~~~~~~~~~~
+
+~~~~~~~~~~~~
+Fastenal-Pueblo-POCO
+3000 Granada Blvd
+Pueblo, CO 81005
+Phone: (719) 566-0407
+~~~~~~~~~~~~
+
+## Trim Jost
+
+http://www.trimjoist.com/2008Guide.pdf 
 
 <!--
 html boilerplate

@@ -61,8 +61,12 @@ https://www.inventables.com/projects/poker-card-box
 
 <a href="http://www.evilmadscientist.com/2011/hershey-text-an-inkscape-extension-for-engraving-fonts/" target="_blank">Hershey Text: An Inkscape extension for engraving fonts</a>
 
-~~~~~~~~~~~~~
+## Misc.
+
+<img src="/assets/images/weight-watchers-knife-fork.png" width="400px">
+
+<!--
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
-~~~~~~~~~~~~~
+-->
