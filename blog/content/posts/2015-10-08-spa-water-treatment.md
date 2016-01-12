@@ -445,6 +445,8 @@ measured pH 7.5
 
 * FC 1 pH 7.9 - Thu Dec 31 17:00:59 MST 2015
 
+* add 1.5 oz MA - Mon Jan 11 22:17:07 MST 2016
+
 ## Good TA
 
 SO, what's a good TA then? Because spas tends to have a lot of aeration

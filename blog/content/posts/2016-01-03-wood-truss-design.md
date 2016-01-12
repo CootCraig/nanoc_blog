@@ -6,6 +6,89 @@ tags:
   - wood_truss
 ---
 
+Metal-Plate-Connected Wood Truss
+
+Metal Plate Connected Wood Truss
+
+4/12 = 18.5 deg.
+3/12 = 14 deg.
+
+## Pueblo Truss Co
+
+<a href="http://pueblotruss.com/aboutus.html" target="_blank">Pueblo Truss Co</a>
+
+~~~~~~~~~~~~~
+Pueblo Truss Co., Inc.
+469 E Industrial Blvd
+Pueblo West, CO  81007
+Phone: (719) 547-1225
+Fax: (719) 547-1023
+~~~~~~~~~~~~~
+
+## pac-clad snap-on standing seam metal roof panels
+
+
+<a href="https://www.pac-clad.com/metal-roofing/snap-on-standing-seam/" target="_blank">standing seam metal roof panels</a>
+
+Snap-On Standing Seam metal roofing panels are designed for use in
+roofing, mansard and fascia applications. The panels are designed to be
+installed over a waterproofed solid substrate and a minimum 3:12 roof
+pitch. Snap-On Metal Panels are to be factory roll-formed in continuous
+lengths. Maximum panel length is 45 feet and minimum panel length is
+4 feet.
+
+These metal panels are ideal for specification on applications where
+roofing transitions are required. The simplicity of the pan design
+combined with corrective leveling provides superior flatness and allows
+for greater workability on site.
+
+
+
+## Woodaware Trusses
+
+<a href="http://woodaware.com/trusses.php" target="_blank">Woodaware Trusses</a>
+
+#### Components
+
+Metal-plate-connected wood trusses are the predominant type of truss
+used in residential construction. They are typically fabricated from
+2x4 or 2x6 dimension lumber. Trusses are categorized as "parallel" chord
+for use in floor and flat roof applications or "pitch" chord for sloped
+roof applications.
+
+In a roof truss, the three sides (or perimeter elements) of the triangle
+are called "chords." The "webs" are wood pieces connecting the top and
+bottom chords. Chords and webs are the "members" or elements of the
+truss. The "connectors" joining chords and webs in modern trusses are
+usually metal-toothed plates.
+
+#### Manufacture of Trusses
+
+Trusses are designed using sophisticated software that accurately
+calculates the structural load conditions in accordance with building
+code requirements. During construction is the best time to see how
+a truss roof system is configured and distributes loads. Almost as
+soon as trusses are set in place, maybe even the same day, the roof
+sheathing is attached. This quick construction time prevents inspectors
+from having a good opportunity to see the framing from outside the
+building. Fortunately, everything the fire service and building inspector
+need to see is visible from inside the structure during the complete
+building framing inspection. The web and chord elements are fabricated
+to exact dimensions. The pieces are arranged in their final orientation
+and the metal plates are applied using equipment capable of exerting
+high pressure to embed the metal-plate teeth. Trusses are inspected
+for proper plate orientation and plate-teeth penetration depth prior to
+shipment to the job site.
+
+#### Performance Requirements for Code Acceptance
+
+Metal-plate-connected wood trusses are designed and manufactured
+in accordance with ANSI/TPI1 National Design Standard for Metal
+Plate Connected Wood Truss Construction¹, as specified by the
+building code (International Residential Code 2003, Section R802.10.2,
+International Building Code 2003, Section 2303.4). More details regarding
+metal-plate-connected wood trusses can be found in the Metal Plate
+Connected Wood Truss Handbook².
 
 ## MiTek Truss
 
@@ -211,6 +294,111 @@ Phone: (719) 566-0407
 ## Trim Jost
 
 http://www.trimjoist.com/2008Guide.pdf 
+
+
+# Truss FEA
+
+* NetGen
+* Calculix
+
+<a href="http://www.libremechanics.com/?q=node/19" target="_blank">How to mesh complex geometries on NetGen and properly analyse on CalculiX</a>
+
+NetGen it's a powerful 3D tetrahedral mesh generatorl that can handle
+complex geometries and a great variety of meshing options, the tetrahedral
+meshs as those created with Netgen are the best option on the selection
+of a discretization theorem for a non conventional bodycas long as it
+can handle a decent meshing density , wich it's possible with the use
+of current medium-high level processing units. The tetrahedral elements
+can adjust more easily to the curves and spline surfaces of the model,
+preserving its proportion form.
+
+On NetGen a 3D model can be meshed under a great variety of meshing
+controls in order to adjust de meshing density to the desired
+especifications.
+
+## Code_Aster
+
+<a href="http://www.code-aster.org/UPLOAD/DOC/Presentation/plaquette_aster_en.pdf" target="_blank">Code_Aster PDF</a>
+
+## Netgen
+
+<a href="http://www.hpfem.jku.at/netgen/" target="_blank">NETGEN - automatic mesh generator</a>
+
+## CalculiX FE Software
+
+<a href="http://www.calculixforwin.com/" target="_blank">calculixforwin.com</a>
+
+## calculix09
+
+<a href="https://www.youtube.com/watch?v=7JzNsp6UKmI" target="_blank">Part2 (of 2) Freecad + Netgen + CalculiX. Static Analysis</a>
+
+<a href="https://www.youtube.com/watch?v=qY_8HScaI5k" target="_blank">Elmer Fem and FreeCAD simple lesson</a>
+
+<a href="https://www.youtube.com/watch?v=ZYF2IBd3Fr0" target="_blank">NETGEN meshing</a>
+
+
+## LibreMechanics
+
+<a href="https://www.youtube.com/watch?v=xYUtUjMai_U" target="_blank">How to mesh complex geometries on NETGEN and properly analyse on CalculiX</a>
+ 
+## Building Safety Journal
+
+
+
+<a href="http://bsj.iccsafe.org/february/features/woodtrusses.html" target="_blank">Reviewing Metal-Plate-Connected Wood Truss Submittal Packages</a>
+
+By William Bolduc, P.E., S.E.
+
+## Truss Plate Institute
+
+
+<a href="http://www.tpinst.org/" target="_blank">Truss Plate Institute</a>
+
+The Truss Plate Institute (TPI) opened in 1961 to address the emerging
+market for metal plate connected wood trusses.  We continue to serve
+that market and are fulfilling our mission "....to maintain the truss
+industry on a sound engineering basis..." by providing:
+
+* Third Party In-Plant Quality Assurance (IAS Accredited)
+* Bracing, Handling, & Safety Guidelines &
+* Design & Quality Standards/Publications (ANSI Standards Developer).
+
+
+<a href="http://design.medeek.com/resources/truss/documents/ANSI_TPI1-2007_Standard_and_Commentary-Appendices.pdf" target="_blank">Medeek.com - ANSI National Design Standard for Metal Plate Connected Wood Truss Construction</a>
+
+
+
+<a href="/assets/pdf/ANSI_TPI1-2007_Standard_and_Commentary-Appendices.pdf" target="_blank">local pdf copy</a>
+
+
+## Mleko Engineering
+
+<a href="http://www.structuralhelp.com/prefabricated-wood-truss-roof-structures" target="_blank">Prefabricated Wood Truss Roof Structures</a>
+
+<a href="http://www.structuralhelp.com/general" target="_blank">Structural Components of a House</a>
+
+
+### <a href="http://www.structuralhelp.com/faqs" target="_blank">faqs</a>
+
+
+#### What are the rates for your services?
+
+## EV Studio
+
+
+#### <a href="http://evstudio.com/roofs-how-low-slope-can-you-go/" target="_blank">Roofs: How Low (Slope) Can You Go?</a>
+
+by Anthony Ries on May 2, 2012
+
+Metal Roof Panels – This roof type covers three types of metal
+roofs. The underlayment is per manufacturer. There are also certain
+corrosion resistance requirements that need to be met for the roof
+material.
+
+* Lapped, nonsoldered seam. Minimum 3:12
+* Lapped, nonsoldered seam with applied lap sealant. Minimum 1/2:12
+* Standing seam metal roof. Minimum 1/4:12
+
 
 <!--
 html boilerplate
