@@ -6,7 +6,61 @@ tags:
   - timber_frame_construction
 ---
 
+## Vermont Timber Works
+
+
+
+<a href="https://thepostandbeam.wordpress.com/" target="_blank">The Post and Beam</a>
+
+Hand Crafted Timber Frames by Vermont Timber Works
+
+
 <a href="http://www.vermonttimberworks.com/learn/" target="_blank">Vermont Timberworks - learn</a>
+
+
+<a href="http://www.vermonttimberworks.com/our-work/timber-trusses/king-post-truss/" target="_blank">King Post Roof Trusses</a>
+
+King Post Roof Trusses are the most cost effective truss, and they look
+great when curved braces and webs are used. A king post truss solves
+many structural problems as well. Its bottom chord acts as a ‘tie’
+for the room, holding the walls from spreading.
+
+In the South, a king post roof truss may be able to span 36 feet with 16
+foot spacing, where the same truss in a snow belt up north may only be
+able to span 24 feet with the same spacing. We size all of our truss
+members for the exact region where they are being installed and we
+provide detailed shop drawings with a structural engineer’s stamp.
+
+### Brigham Hill Farm
+
+<a href="http://www.vermonttimberworks.com/our-work/post-and-beam-barns/brigham-hill-farm-barn/" target="_blank">Brigham Hill Farm</a>
+
+The Brigham Hill Farm is in Massachusetts. Vermont Timber Works
+constructed a rough-sawn, white-pine and hemlock timber frame for
+the farm.
+
+### Trillium Dell Timberworks
+
+<a href="http://www.trilliumdell.com/timber-frame-trusses.html" target="_blank">Trillium Dell Timberworks - Timber Frame Trusses</a>
+
+##### Scissor Truss Frames
+
+A type of common purlin frame that uses diagonal, crossing ties that
+span from eave posts to the opposite rafters. The struts of the truss
+provide a number of advantages: they transfer loads more efficiently
+to the eave posts, reduce the thrust at the eave wall, and allow for a
+greater span than rafters alone.
+
+## Wikipedia - timber roof truss
+
+
+<a href="https://en.wikipedia.org/wiki/Timber_roof_truss" target="_blank">Wikipedia - timber roof truss</a>
+
+A timber roof truss is a structural framework of timbers designed to
+bridge the space above a room and to provide support for a roof. Trusses
+usually occur at regular intervals, linked by longitudinal timbers such
+as purlins. The space between each truss is known as a bay.[1]
+
 
 <a href="http://www.postandbeam.com/faqs" target="_blank">postandbeam.com/faqs</a>
 
@@ -31,7 +85,7 @@ tags:
 * Published by Touchstone, U.S.A. (1981)
 * ISBN 10: 0684172860 ISBN 13: 9780684172866
 
-<a href="http://www.amazon.com/gp/product/188926900X/" target="_blank">A Timber Framer's Workshop: Joinery, Design & Construction of Traditional Timber Frames</a>
+<a href="http://www.amazon.com/gp/product/188926901X/" target="_blank">A Timber Framer's Workshop: Joinery, Design & Construction of Traditional Timber Frames</a>
 
 * A Timber Framer's Workshop: Joinery, Design & Construction of Traditional Timber Frames
 * Steve K. Chappell
@@ -59,6 +113,33 @@ tags:
 * Publisher: Williamson Publishing Company (July 1, 1985)
 * ISBN-10: 0913589160
 * ISBN-13: 978-0913589168
+
+## Harmony Timberworks - Timber Frame Trusses
+
+
+<a href="http://www.harmonytimberworks.com/products/timber-frame-trusses/" target="_blank">Harmony Timberworks - Timber Frame Trusses</a>
+
+* Collar Tie with Queen Post
+* Craftsman
+* Hammerbeam
+* King Post Scissor
+* King Post with Struts
+* Raised Collar Tie
+* Raised Collar Tie with Struts
+* Raised Chord King Post with Struts
+* Ridge & Rafter
+* Split Chord King Post with Struts
+
+
+## Fox Maple School of Traditional Building
+
+
+<a href="http://www.foxmaple.com/primer.html" target="_blank">primer</a>
+
+
+<a href="http://www.foxmaple.com/FMbooklet.pdf" target="_blank">Fox Maple School Booklet</a>
+
+<a href="/assets/pdf/FMbooklet.pdf" target="_blank">local copy</a>
 
 <!--
 html boilerplate

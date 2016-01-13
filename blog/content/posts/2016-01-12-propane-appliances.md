@@ -16,11 +16,14 @@ tags:
 * Coleman bottle = 16.4 oz = 1.02 lb
 * 4.03 Coleman bottles = 1 US gallon liquid propane
 * 20 lb / 4.7 gal. tank ~= 20 Coleman bottles
-* refill coupler
+* <a href="http://www.amazon.com/Brass-MACCOUPLER-Fill-Propane-Coupler/dp/B005OCZ5R2/" target="_blank">MacCoupler refill coupler - $12.50</a>
 * curved forceps to relieve bottle gas pressure
 * empty Coleman bottle = 13.25 oz
 * New Coleman bottle = 30.15 oz
 * refill with pressure relief = 32.3 oz
+
+
+
 
 #### Comment on newer OPD 20 lb tanks
 
@@ -89,6 +92,64 @@ construction companies use the 100 lb tank for high-output construction
 heaters. The 100 lb propane tank can also be used for small residential
 applications such as a cottage, garage or small building. The 100 lb
 propane tank holds 23.4 gallons of propane and weighs 180 lbs full.
+
+
+# Mr. Heater Big Buddy
+
+* 4000 BTU
+* 9000 BTU
+* 18,000 BTU
+
+<a href="http://www.mrheater.com/downloads/dl/file/id/18/f274800.pdf" target="_blank">Mr. Heater Big Buddy Manual</a>
+
+##### <a href="http://www.survivalistboards.com/showthread.php?t=271593" target="_blank">Survivalistsboards - Product Review: Mr. Heater Big Buddy MH18B Propane Heater.</a>
+
+Total run time on the low setting was 8.25 hours. That comes out to
+about 0.25 lbs. of propane per hour on the low setting. By the way,
+you do not need to have both propane bottles installed to run the heater.
+
+...
+
+Running from a 20 lb. or larger tank is easy once you sort through
+the numerous options. The Buddy has a "quick release" propane input
+that bypasses the internal regulators. To use it, you must use a hose
+with a regulator on it, or have a regulator on your tank. Connecting an
+unregulated propane hose to the quick-release will force high pressure
+gas into the heater and create a very dangerous condition. The optional
+F271803 hose will safely hook your Buddy to a large tank. Wallet
+Alert...the hose costs about $40.
+
+...
+
+I realize all these hose/filter/regulator/connector combinations are
+a bit overwhelming! I'm going with the regulated hose with the quick
+connect to avoid the hassle of filters or recalcitrant non-gooey hoses.
+
+...
+
+Although the Buddy is marketed as a "ventless" heater, the manufacturer
+nonetheless recommends an 18 square inch fresh air source. That's not a
+lot; most homes are kind of "leaky" anyway. I did notice that the air
+in the room had an odd funk about it while the heater was running. It
+did not make me sick and it wasn't unacceptable, but it was evident. The
+funk went away when I cracked the door a little.
+
+The Buddy has a built-in fan that runs on four internal D batteries or
+an external 6 volt DC source. It greatly improves the efficiency of the
+heater even if the batteries cannot be expected to last as long as the
+propane. The jack for the optional AC adapter ($17) is this tiny little
+thing that looks just strange. Nearly every other similar device in the
+known universe has a common DC barrel plug. I don't understand why a
+product that is so well thought out in every other way would use such
+a cheezy off-the-map power jack.
+
+#### Internal Fan
+
+4 D Cells or Heater can also be powered by electrical adapter
+F276127. Required adapter to be 6 volt DC up to 800 mil liamp current
+with positive tip polarity
+
+<a href="http://www.amazon.com/HEATER-F276127-800MA-Power-Adapter/dp/B000HE6OAE" target="_blank">Amazon - $15 - MR HEATER CORP F276127 6V/800MA Power Adapter</a>
 
 
 <!--
