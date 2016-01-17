@@ -10,6 +10,9 @@ tags:
 
 # Refill Coleman Bottle
 
+$2.87 at Walmart
+
+
 ### <a href="https://www.youtube.com/watch?v=fD1CmorB_qM" target="_blank">FULLY Refill a 1lb Propane Bottle</a>
 
 * 1 US gallon liquid propane = 4.11 lb
@@ -95,6 +98,8 @@ propane tank holds 23.4 gallons of propane and weighs 180 lbs full.
 
 
 # Mr. Heater Big Buddy
+
+<a href="/assets/pdf/mr-heater-big-buddy-manual.pdf" target="_blank">Mr. Heater Big Buddy manual</a>
 
 * 4000 BTU
 * 9000 BTU

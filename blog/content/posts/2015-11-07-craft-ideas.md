@@ -4,6 +4,7 @@ created_at: Sat Nov  7 10:17:26 MST 2015
 kind: article
 tags:
   - craft_ideas
+  - bathymetry
 ---
 
 # Plaques
@@ -64,6 +65,13 @@ https://www.inventables.com/projects/poker-card-box
 ## Misc.
 
 <img src="/assets/images/weight-watchers-knife-fork.png" width="400px">
+
+
+### <a href="http://www.carvedlakeart.com/Default.asp" target="_blank">Carved Lake Art</a>
+
+<a href="http://www.carvedlakeart.com/lake-geneva-wood-nautical-chart-p/gene-d2m.htm" target="_blank">$178 - Lake Geneva 3-D Nautical Wood Chart 13.5 x 31</a>
+
+<img src="/assets/images/3d-wood-lake-geneva-contour-chart.png" width="800px">
 
 <!--
 html boilerplate

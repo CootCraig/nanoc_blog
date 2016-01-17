@@ -14,6 +14,30 @@ tags:
 
 ### Chargers
 
+#### Maximal Power FC999 Universal Rapid Charger
+
+Maximal Power FC999 Universal Rapid Charger for Alkaline, RAM, Ni-MH,
+Ni-CD, AA, AAA, C, D, 9V Batteries
+
+##### Type of Batteries Supported:
+
+* Alkaline (previously non-rechargeable)
+* RAM (rechargeable Alkaline Manganese)
+* Ni-CD (Nickel Cadmium)
+* Ni-MH (Nickel Metal Hydride)
+
+##### Size of Batteries Supported:
+
+* Charges 1-4: AAA, AA, C, & D Batteries
+* Charges 1: 9V Battery
+
+
+
+<a href="http://maximalpower.com/products/maximal-power-fc999-universal-rapid-charger-for-alkaline-ram-ni-mh-ni-cd-aa-aaa-c-d-n-9v-batteries" target="_blank">Maximal Power FC999 at company site</a>
+
+<a href="http://www.geekprepper.org/recharge-alkaline-batteries/" target="_blank">geekprepper.org review</a>
+
+
 #### Tenergy TN190 Universal NiMH Charger
 
 
