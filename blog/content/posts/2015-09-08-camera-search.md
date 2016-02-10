@@ -12,6 +12,20 @@ Decision:
 
 * Replace Nikon D40 (d40 released March 2007)
 
+
+dombower - Nikon DSLR 18-200mm vr lens review
+<a href="https://www.youtube.com/watch?v=4sKZ4266AGE" target="_blank">youtube</a>
+
+
+DigitalRev TV - Nikon 18-200mm f/3.5-5.6G ED VR II Hands-on Review
+<a href="https://www.youtube.com/watch?v=Zwao-ugyT2c" target="_blank">youtube</a>
+
+
+### One-Cent Soft Box (Bounce Card) <a href="http://www.kenrockwell.com/nikon/sb400.htm#card" target="_blank">by Ken Rockwell</a>
+
+The shape of the SB-400 makes it trivial to design a soft box from a single sheet of paper. 
+
+
 #### [ebay purchase](http://vod.ebay.com/vod/FetchOrderDetails?itemid=181862575376&sspagename=STRK%3AMESO%3AVPS&transid=1401459040008&viewpaymentstatus=) $174
 
 ## Planned upgrades
@@ -20,6 +34,8 @@ Decision:
 * Nikon SB-400 flash
 * Nikon 18-200mm VR
 * Nikon 12-24mm - DX NIKKOR AF-S
+* Sto-Fen Omni-Bounce OM-400 for Nikon SB-400 $17 at stofen.com
+
 
 Ken Rockwell - The D40 only autofocuses with the latest AF-S lenses.
 My favorite Nikon 18-200mm and 12-24mm are AF-S and work perfectly. 
@@ -111,4 +127,10 @@ Nikon COOLPIX L18 8.0 MP Digital Camera - Red
 
 
 ### Sony Cyber-shot DSC-W230 12.1 MP Digital Camera with 4x Optical 
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+-->
 

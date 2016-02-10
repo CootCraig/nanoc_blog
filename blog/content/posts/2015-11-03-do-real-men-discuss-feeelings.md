@@ -16,9 +16,42 @@ http://eq4pm.typepad.com/eq4pm/files/families_of_emotions_06apr19b.gif
 
 ## Sashet
 
+### simpychurch.com
+
+A way to deeper fellowship–SASHET <a href="http://simplychurch.com/a-way-to-deeper-fellowship-sashe/" target="_blank">simplychurch.com</a>
+
+Last Friday, everyone (no one was left out) in the church that meets
+in our home shared what is going on in their lives–not a casual,
+all is well with a bright and false smile, but an in-depth genuine
+sharing from the heart. To accomplish this, we used a tool that we’ve
+employed a number of times before that we were taught by John White from
+Lk10.com. It’s a brilliant tool to aid sharing in deep fellowship.
+
+### Carly Anderson
+
+http://carlyanderson.com/wp-content/uploads/SASHET-Families-of-Emotion.gif
+
+http://carlyanderson.com/coach-the-emotional-content-of-your-client
+
+In a book called “Emotional Intelligence for Project Managers by Anthony
+Mersino, there’s a model attributed to David E. Carlson called the
+“SASHET Families of Emotion.” SASHET stands for Sad, Angry, Scared,
+Happy, Excited, Tender. Carlson asserts that there are six primary feeling
+words, as well as a range of emotions each of these words represent.
+
+
 ### Joshua Hook
 
 <a href="http://www.joshuanhook.com/how-to-know-what-youre-feeling-and-talk-about-it/" target="_blank">How to Know What You’re Feeling</a>
+
+##### Use the acronym SASHET to help people identify feelings.
+
+* sad
+* angry
+* scared
+* happy
+* excited,
+* tender
 
 To start, I’d like to give us a language to talk about feelings. Some
 of my colleagues and I like to use the acronym SASHET to help people
@@ -87,6 +120,11 @@ Real Old Copied Manipulative
 ### John White - LK10 - sashet
 
 <a href="http://www.lk10.com/category/sashet/" target="_blank">Category: SASHET</a>
+
+
+What’s better than SASHET?  <a href="http://www.lk10.com/?s=sashet" target="_blank">page at lk10.com</a>
+
+Supplementary Feeling Words <a href="http://www.lk10.com/wp-content/uploads/2015/05/Supplementary-Feeling-Words-newly-formated.doc" target="_blank">Word doc at lk10.com</a> <a href="/assets/other/sashet-Supplementary-Feeling-Words-newly-formated.doc" target="_blank">local copy</a>
 
 ### godgrown.net -sashet
 

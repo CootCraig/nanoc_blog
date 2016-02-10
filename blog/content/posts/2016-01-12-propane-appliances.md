@@ -12,7 +12,6 @@ tags:
 
 $2.87 at Walmart
 
-
 ### <a href="https://www.youtube.com/watch?v=fD1CmorB_qM" target="_blank">FULLY Refill a 1lb Propane Bottle</a>
 
 * 1 US gallon liquid propane = 4.11 lb
@@ -25,8 +24,31 @@ $2.87 at Walmart
 * New Coleman bottle = 30.15 oz
 * refill with pressure relief = 32.3 oz
 
+### Measured weights
+
+* Coleman 16 oz from store - 850g
+* Empty Coleman 16 oz - 372g
+* propane weight 850 - 372 = 478g (16.86 oz)
+
+### Fractional can weights
+
+* 1.00 850g 29oz - 1lb 13oz
+* 0.75 730g 25oz - 1lb  9oz
+* 0.50 611g 21oz - 1lb  5oz
+* 0.25 491g 17oz - 1lb  1oz
+* 0.00 372g 13oz -     13oz
+
+#### spring pull scales
+
+Choose Ohaus 8003-MN 1000g <a href="http://www.amazon.com/Ohaus-8003-MN-Spring-Capacity-Readability/dp/B0039XWGKW" target="_blank">$14 at amazon</a>
 
 
+<img src="/assets/images/ohaus-1kg-spring-scale.jpg" width="100px">
+
+* Ohaus 8003-MN 1000g
+* Ohaus 8003-PN 2.25 lb
+* Ohaus 8004-MN 2000g
+* Ohaus 8004-PN 4.5 lb
 
 #### Comment on newer OPD 20 lb tanks
 
@@ -99,6 +121,8 @@ propane tank holds 23.4 gallons of propane and weighs 180 lbs full.
 
 # Mr. Heater Big Buddy
 
+## Run times
+
 <a href="/assets/pdf/mr-heater-big-buddy-manual.pdf" target="_blank">Mr. Heater Big Buddy manual</a>
 
 * 4000 BTU
@@ -106,6 +130,11 @@ propane tank holds 23.4 gallons of propane and weighs 180 lbs full.
 * 18,000 BTU
 
 <a href="http://www.mrheater.com/downloads/dl/file/id/18/f274800.pdf" target="_blank">Mr. Heater Big Buddy Manual</a>
+
+### home trial
+
+7h 10min - store full tanks - about 3h low, 4h medium - fan running - battery about 1/2 charge at end - 2016-01-17
+
 
 ##### <a href="http://www.survivalistboards.com/showthread.php?t=271593" target="_blank">Survivalistsboards - Product Review: Mr. Heater Big Buddy MH18B Propane Heater.</a>
 

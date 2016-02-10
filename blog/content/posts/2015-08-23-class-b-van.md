@@ -16,6 +16,9 @@ Dodge Ram Van Class B - old school
 
 <a href="https://www.youtube.com/watch?v=bUS0tpsvAu4" target="_blank">Tour of my Dodge Xplorer 230 XLWT Class B RV</a>
 
+#### <a href=""https://www.youtube.com/watch?v=FHhrUVU7n9M target="_blank">youtube</a> Stealth Van Cloaking Device 
+
+
 
 # Van Dweller
 
@@ -77,6 +80,10 @@ RVs have been from the 70's and 80's. And they were fantastic.
 * 21 feet long is absolute max
 * Dodge over chevy and ford (dodge same from 1971 to 2003)
 
+#### Ed's Stealth van
+
+<a href="https://www.youtube.com/watch?v=FgQnn_RxHrg" target="_blank">youtube - Ed's Stealth van</a>
+
 # A Guy. A Girl. And a Campervan
 
 #### [youtube](https://www.youtube.com/watch?v=VJwFwqlz4g0) Tour of the van we live in
@@ -116,6 +123,52 @@ Watt Generator -24 Gallon Fresh Water Tank -24 Gallon Grey Water Tank
 
 #### [youtube](https://www.youtube.com/watch?v=0h8wMseHGGo) Sprinter Van Living - "Finding Creative Places to Park the Van At Night"
 
+# Michael Tubbs
+
+Dan Travels - Stealth Van Masterpiece 
+<a href="https://www.youtube.com/watch?v=EAUo2ifboHc" target="_blank">youtube</a>
+
+Wanderlust estate
+<a href="https://www.youtube.com/watch?v=3Tk0ujZ7xA4" target="_blank">youtube</a>
+
+Without Bound - Perspectives on Mobile Living (Documentary) 
+<a href="https://www.youtube.com/watch?v=Lg37Cbx-kak" target="_blank">youtube</a>
+
+Ed and The Aberts - Van Dwelling and Cargo Conversion 
+<a href="https://www.youtube.com/watch?v=9z1drR7r85E" target="_blank">youtube</a>
+
+<a href="https://www.youtube.com/watch?v=8Yl63VI-qNk" target="_blank">youtube</a>
+Without Bound: Bonus Footage (Bob Wells) 
+
+# Dan Travels Stealth van
+
+
+<a href="https://www.youtube.com/watch?v=uhyLw9D0304&list=PLBSToa1q3C5iDE6IACu5XkYhIj1yS9DMb" target="_blank">stealth van video list</a>
+
+<a href="https://www.youtube.com/watch?v=mZbcLQyPvsY&index=35&list=PLBSToa1q3C5iDE6IACu5XkYhIj1yS9DMb" target="_blank">slide show overview on youtube</a>
+
+# WannaBFree
+
+#### <a href="" target="_blank">youtube</a> A slide show of the stealth van build process.
+
+# Backroads Vanner
+
+#### <a href="https://www.youtube.com/watch?v=OigUyvSOV0Y" target="_blank">youtube</a> From Cargo Van to Camper Van
+
+# Bob Wells Cheap RV Living
+
+<a href="http://www.cheaprvliving.com/boondocking-stealth-parking/where-to-stealth-park/" target="_blank">Where To Stealth Park</a>
+
+# Happily Houseless
+
+<a href="https://www.youtube.com/watch?v=1Wip77fr0I8" target="_blank">youtube</a>
+What's my vandwelling budget? Why don't I rent my house? and more answered from Mt. Bigelow
+
+<a href="https://www.youtube.com/watch?v=0I09VdGwRaA" target="_blank">youtube</a>
+Where did I go and am I quitting YouTube? 
+
+<a href="https://www.youtube.com/watch?v=atuYOVMmaUk" target="_blank">youtube</a>
+2004 Dodge Sprinter Van pre DIY Conversion
 
 ~~~~~~~~~~~~~~~~
 html boilerplate

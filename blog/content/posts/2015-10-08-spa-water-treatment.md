@@ -457,6 +457,17 @@ measured pH 7.5
 
 * add 4.5 oz bleach - Fri Jan 15 23:26:00 MST 2016
 
+* add 2.3 oz MA - Tue Jan 26 21:25:27 MST 2016
+* add 3.0 oz bleach - Tue Jan 26 21:25:27 MST 2016
+
+* FC 0 pH 7.6 TA 50 - Wed Jan 27 13:47:53 MST 2016
+* add 4.0 oz bleach - Wed Jan 27 13:47:53 MST 2016
+
+* FC 1 pH 8.4 - Sun Jan 31 16:57:07 MST 2016
+* add 4.0 oz bleach, 2.8 oz MA - Sun Jan 31 16:58:37 MST 2016
+
+* add 3.0 oz MA - Sat Feb  6 17:40:49 MST 2016
+
 ## Good TA
 
 SO, what's a good TA then? Because spas tends to have a lot of aeration

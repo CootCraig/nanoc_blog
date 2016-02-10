@@ -276,6 +276,30 @@ mount
 
 ### format
 
+# File information
+
+
+### List jpg file names and create date
+
+~~~~~~~~~~~~~~
+List jpg file names and create date
+ls *JPG 
+  |xargs identify -verbose 
+  |egrep 'Image:
+  |date:create' 
+  | paste -sd ' \n' 
+  >~/tmp/pics.txt
+
+Image: DSC_0038.JPG     date:create: 2015-11-15T18:52:14-07:00
+Image: DSC_0039.JPG     date:create: 2015-11-15T18:52:28-07:00
+Image: DSC_0040.JPG     date:create: 2015-11-15T18:53:00-07:00
+Image: DSC_0041.JPG     date:create: 2015-11-15T18:53:40-07:00
+Image: DSC_0042.JPG     date:create: 2015-11-15T18:54:42-07:00
+Image: DSC_0043.JPG     date:create: 2015-11-15T18:55:08-07:00
+Image: DSC_0044.JPG     date:create: 2015-11-15T18:55:32-07:00
+~~~~~~~~~~~~~~
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

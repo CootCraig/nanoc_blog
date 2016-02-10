@@ -7,7 +7,25 @@ tags:
   - ron_paulk
 ---
 
+
+
+Ron Paulk - YES, YOU HAVE THE TIME TO GET ORGANIZED.
+<a href="https://www.youtube.com/watch?v=vfxttuLVldQ" target="_blank">youtube</a>
+
+
+
 <a href="https://www.youtube.com/watch?v=kYy9lR3Cym0" target="_blank">EDGEBANDING CABINETS</a>
+
+# PAULK WORK BENCH II
+
+Ron Paulk - PAULK WORK BENCH II
+<a href="https://www.youtube.com/watch?v=KnNi6Tpp-ac" target="_blank">youtube</a>
+
+PART 11 MOUNTING THE Dewalt DWE7480 TABLE SAW AND MITER TRACK BACKING
+<a href="https://www.youtube.com/watch?v=F2rHdHrbtYI&index=13&list=PLB1ATCukiUGSEvdBc7NnqlmxHAwdx6C83" target="_blank">youtube</a>
+
+PART 12: TABLE SAW MOUNTS FOR DeWALT DW744
+<a href="https://www.youtube.com/watch?v=8ExSvvXdXNw&index=13&list=PLB1ATCukiUGRpTw3dlQFSk8uOmIEP3BJ1" target="_blank">youtube</a>
 
 
 ## pocket83

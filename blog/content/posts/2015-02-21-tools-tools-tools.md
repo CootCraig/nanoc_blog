@@ -11,7 +11,48 @@ tags:
 
 ### [toolstoday.com](http://www.toolstoday.com/) Tools Today Cutting Tools
 
+rhwsurplussales.com
 
+# Matthias Wandel
+
+How much did the machines cost?
+<a href="https://www.youtube.com/watch?v=TaT74Eqcau0" target="_blank">youtube</a>
+
+
+# Measuring
+
+## Shinwa Measuring
+
+Shinwa Measuring Tools
+<a href="http://www.shinwa-measuring.com/home.html" target="_blank">Shinwa Page</a>
+
+
+## Incra Jig Mark/Measure rules
+
+INCRA precision marking rules
+<a href="http://incra.com/measuring_marking-marking_rules.html" target="_blank">Inra Page</a>
+
+INCRA precision bend rules
+<a href="http://incra.com/measuring_marking-bend_rules.html" target="_blank">Inra Page</a>
+
+INCRA precision T-rules
+<a href="http://incra.com/measuring_marking-trules.html" target="_blank">Inra Page</a>
+
+#### Incra Tiny T-Rule
+
+Part Number: TINYT03
+
+INCRA T-Rules make it very easy to draw exact lines in either
+direction. INCRA scores again with its precision steel rule ... Select
+the proper slot or hole, insert a .5mm mechanical pencil, and mark the
+measurement with dead-on accuracy.
+
+This is our pocket sized Tiny T-Rule. Measuring only 3" by 4.5". It
+offers INCRA's patented marking holes at every 1/16th, 32nd, and 64th
+from 0 to 3 inches. It also has slotted height marking holes at every
+32nd on the end. This size is so handy many of our customers keep it in
+their pocket anytime they are in the shop. These rules are also available
+in quantity for customization with your company logo.
 
 # Drill bits
 
@@ -64,7 +105,69 @@ Makita 4351FCT Barrel Grip Jig Saw with L.E.D. Light
 
 ## Brad Nailer
 
+### Ryobi P320
+
+#### Maintenance
+
+Clean and lube.
+<ul>
+  <li>mineral spirits?</li>
+  <li>alcohol?</li>
+  <li>silicone lubricant?</li>
+  <li>teflon lubricant?</li>
+  <li>grease lubricant?</li>
+  <li>3M 08897 Silicone Lubricant (Dry Type) - 8.5 oz.?</li>
+  <ul>Kellogg's 57500 Pure Silicon - 10 oz.</ul>
+  <ul>WD-40 300052 Specialist Dirt and Dust Resistant Dry Lube PTFE Spray</ul>
+  <ul>CRC 03044 Dry PTFE Lubricating Spray, (Net Weight: 10 oz.) 16oz Aerosol</ul>
+  <ul>CRC Power Lube Industrial High Performance Lubricant with PTFE, 16 oz. (Net weight: 11 oz) Aerosol Can</ul>
+  <ul>CRC Dry Graphite Lube, 10 oz Aerosol Can</ul>
+  <ul>B'laster - 8-GS - Graphite Spray - 5.5-Ounces</ul>
+</ul>
+
+#### Video reviews
+
+8digitPDX - Ryobi P320 Cordless 18v, 18g Airstrike Brad Nailer
+<a href="https://www.youtube.com/watch?v=mFk1_zWaQQk" target="_blank">youtube</a>
+
+Every Other Day Wood Working - Ryobi P320 Cordless Brad Nailer Review
+<a href="https://www.youtube.com/watch?v=Av6xotRX6bs" target="_blank">youtube</a>
+
+randzakk1 - Ryobi 18 gauge Brad Nailer Review
+<a href="https://www.youtube.com/watch?v=DrpasSj7vJY" target="_blank">youtube</a>
+
+Meno Meraklis - Ryobi 18v Cordless Airstrike One + 18 Gauge Brad Nailer
+<a href="https://www.youtube.com/watch?v=ZWhNGNdR4OU" target="_blank">youtube</a>
+
+TylerTalksTools - Ryobi 18ga Cordless Brad Nailer (#P320)
+<a href="https://www.youtube.com/watch?v=WeIR_OzBzHc" target="_blank">youtube</a>
+
+
+
+Ryobi
+ZRP320
+or
+ZRP854
+Need Help? Experts Available	1-866-577-8885
+
+http://www.nailgundepot.com/Whats-The-Difference-Between-Brad-Nailers-Finish-Nailers-Blog.html
+
+Ryobi ZRP325 ONE+ 18V Cordless Lithium-Ion 16-Gauge Finish Nailer (Bare Tool) (Certified Refurbished) $142
+
+Factory-Reconditioned Ryobi ZRP320 ONE Plus 18V Cordless Lithium-Ion 2 in. Brad Nailer Battery and Charger Sold Separately
+
+
+Need Help? Experts Available	1-866-577-8885
+1 of 40+ CPO OUTLETS
+
 #### [amazon](http://www.amazon.com/Factory-Reconditioned-Ryobi-ZRP854-Cordless-Lithium-Ion/dp/B00FYYVA24/) $123 Ryobi ZRP854 18v cordless Brad Nailer
+
+Jay Bates 2
+My Ryobi 18v cordless tools
+<a href="https://www.youtube.com/watch?v=Z12HqCKN5PE" target="_blank">youtube</a>
+
+Factory-Reconditioned Ryobi ZRP125 One Plus 18V 6-Port Lithium-Ion/Ni-Cd SuperCharger
+<a href="http://www.amazon.com/Factory-Reconditioned-Ryobi-ZRP125-Lithium-Ion-SuperCharger/dp/B00BQZCYN4" target="_blank">$85 - amazon</a>
 
 ## Random Orbital Sander
 
@@ -160,6 +263,29 @@ https://www.youtube.com/watch?v=pxE_cejdZ0g
 
 #### <a href="http://woodandshop.com/which-hand-tools-do-you-need-for-traditional-woodworking/" target="_blank">woodandshop.com - hand tools for traditional woodworking</a>
 
+
+## Olson Saw
+
+Olson with Zona Tools
+<a href="http://www.olsonsaw.net/index.html" target="_blank">home page</a>
+
+
+Olson manufactures a wide range of band and scroll saw blades, band saw
+and power scroll saw accessories, handheld saw frames and blades –
+such as coping and mini hack saws. Band Saw Blades include: All-Pro PGT,
+MVP, Flex Back, Bi-Metal, Hard Edge, Hard Back, Thin Kerf, and Wood
+Band. Olson's Scroll Saw Blades for power and hand held scroll saws
+include: plain end, pin end, 5-inch, 3-inch hobby blades, NEW 4-inch
+blades (to fit Dremel®'s new Moto Saw™), Skip, Reverse, Double,
+Spiral, Crown Tooth, Thick Wood, Mach Speed, PGT (Precision Ground Tooth),
+Scroll Saw Files and ScrollSanders
+
+Zona, known for High Quality Razor Saws for woodworkers, model builders,
+craftspeople, and do-it-yourselfers, also includes: metal and plastic
+miter boxes, sanding tools, pin vises, tweezers, pliers and other hand
+tools; saw frames and blades; clamps and more.
+
+Olson Saw - spokeshave <a href="http://www.olsonsaw.net/spokeshave.html" target="_blank">product page</a>
 
 <!--
 html boilerplate

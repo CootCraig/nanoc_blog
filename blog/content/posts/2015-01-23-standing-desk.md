@@ -36,5 +36,14 @@ _inch below below elbow, minus keyboard height sounds right_
 
 #### [hammerzone.com - A Cheap And Sturdy Workbench For About $20](http://www.hammerzone.com/archives/workshop/bench/below20xl.html)
 
+## Solsylva plans
 
+DIY Lift Desk Plans
+<a href="http://solsylva.com/cnc/lift_desk.shtml" target="_blank">page</a>
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+-->
 

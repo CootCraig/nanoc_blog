@@ -346,6 +346,64 @@ dadonator
 
 #### [josephfusco.org - The Basics of Cabinet Making Part 1](https://www.youtube.com/watch?v=Apd_Hc5wr0s)
 
+
+http://denver.craigslist.org/tls/5430598776.html
+$100 obo
+(720) 329-3536
+jwg6x-5430598776@sale.craigslist.org
+
+
+http://denver.craigslist.org/tls/5388523633.html
+$150
+
+# Vintage Craftsman 100 table saw
+
+http://www.woodbutcher.net/craftts.shtml
+Making A Silk Purse Out Of A Sow's Ear
+
+gwcm2-5384698098@sale.craigslist.org
+
+http://pueblo.craigslist.org/tls/5384698098.html
+asking $100 obo
+
+Craftsman 100
+
+
+http://vintagemachinery.org/photoindex/detail.aspx?id=13431
+Description/Model: 	113.29992 Model 100 Table Saw
+Date of Manufacturer: 	1964 March
+Serial Number: 	none
+Last Updated 	11/22/2012 8:10:16 PM
+
+
+dallasa1983 - Craftsman 100 Table Saw
+<a href="https://www.youtube.com/watch?v=iCu9iySWgfE" target="_blank">youtube</a>
+
+* 113.23990
+
+
+
+Bob E - Craftsman Table Saw, sandblasing, painting, restore
+<a href="https://www.youtube.com/watch?v=kmqkm4PNtuc" target="_blank">youtube</a>
+
+
+Bob E - craftsman table saw part 2
+<a href="https://www.youtube.com/watch?v=N1Pscvz5yHw" target="_blank">youtube</a>
+
+
+
+Bill Van Loo - Shop Update: Craftsman Table Saw Upgrades - zero clearance insert shown
+<a href="https://www.youtube.com/watch?v=iBEG10xJJtA" target="_blank">youtube</a>
+
+# Sears/Craftsman 10-inch Table Saw - $250
+
+Asking $250
+<a href="http://pueblo.craigslist.org/tls/5392881668.html" target="_blank">craigs list</a>
+
+* t4krb-5392881668@sale.craigslist.org
+* (719) 332-3289
+
+
 # Craftsman Contractor Saw Rebuild
 
 #### [Sears Model # 113- prefix](http://vintagemachinery.org/mfgindex/detail.aspx?id=286)
@@ -779,4 +837,10 @@ for assembly, clamping and jigging.
 ## Wood sources
 
 #### [cswoods.com](http://cswoods.com/index.php) Collector Specialty Wood - Colorado
+
+<!-- html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+-->
+
 
