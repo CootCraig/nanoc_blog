@@ -553,6 +553,23 @@ Chemical Guys MIC50612 Professional Grade Premium Microfiber Towels, Gold - 16 i
 Auto Fetish Detail - Detailing Clay; What, Why, How- the comprehensive inside tutorial from the professional
 <a href="https://www.youtube.com/watch?v=OwNSMVjJcT4" target="_blank">youtube</a>
 
+
+Chemical Guys - How To Clay Bar Your Car Like a Pro <a href="https://www.youtube.com/watch?v=fqW1nzgyMNA" target="_blank"></a>
+
+
+$10 - Clay Bar, Gray (Medium) (100 g) <a href="http://www.chemicalguys.com/ProductDetails.asp?ProductCode=CLY_402" target="_blank">product page</a>
+
+$13.34 - Chemical Guys CLY402 Medium Clay Bar, Gray - 100 g <a href="http://www.amazon.com/Chemical-Guys-CLY402-Medium-Clay/dp/B00G3EAGFG/" target="_blank">amazon</a>
+
+$20 - Pinnacle Ultra Poly Clay 4oz (113g) Clay Bar <a href="http://www.amazon.com/Pinnacle-Ultra-Poly-Clay-4oz/dp/B000FGWQEC/" target="_blank">amazon</a>
+
+
+
+$25.79 - 200g - Meguiar's C-2000 Professional Detailing Clay, Mild <a href="http://www.amazon.com/Meguiars-C-2000-Professional-Detailing-Clay/dp/B0002NYE5W/" target="_blank">amazon</a>
+
+$17.49 - 200g - Meguiar's C-2100 Professional Detailing Clay, Aggressive <a href="http://www.amazon.com/Meguiars-C-2100-Professional-Detailing-Aggressive/dp/B0009IQYEO" target="_blank">amazon</a>
+
+
 # Good detailers
 
 ## Auto Fetish Detail
@@ -600,6 +617,37 @@ TheSnowman44077 - Water Pump for Camping <a href="https://www.youtube.com/watch?
 
 wally wheatley - BEST CAMPING IDEAS - PORTABLE SHOWER 12volt <a href="https://www.youtube.com/watch?v=rzulTqm1sz0" target="_blank">youtube</a>
 
+# Carnauba Wax
+
+Autogeek - How to apply a Carnauba Wax using the Straightline Technique <a href="https://www.youtube.com/watch?v=X4zXem8SxkI" target="_blank">youtube</a>
+
+Autogeek on Two Guy's Garage - How to apply a Carnauba wax by hand <a href="https://www.youtube.com/watch?v=-MIWmHJxJQw" target="_blank">youtube</a>
+
+
+Driven2Shine - How To Apply Carnauba Paste Wax Chemical Guys Pete's 53 <a href="https://www.youtube.com/watch?v=A7lHelfLkKo" target="_blank">youtube</a>
+
+ufo applicator pad
+
+
+
+Definitive Car Detailing - How To Apply Swissvax Carnauba Wax Bare Hand <a href="https://www.youtube.com/watch?v=ErsKq5BeNXk" target="_blank">youtube</a>
+
+AMMO NYC - How to Wax a Car With Your Bare Hands <a href="https://www.youtube.com/watch?v=BN5g-LW5TVg" target="_blank">youtube</a>
+
+
+Sam Harris - Apply carnauba car wax by bare hand
+<a href="https://www.youtube.com/watch?v=ruySRhJoIMg" target="_blank">youtube</a>
+
+Adam's Polishes Vol. 8 - Chapter 16 - Hand Glazing & Waxing <a href="https://www.youtube.com/watch?v=yg7EIXSLhok" target="_blank">youtube</a>
+
+$18.99 Collinite No. 476 Super Doublecoat Auto Wax - 9 oz.  <a href="http://www.amazon.com/Collinite-No-Super-Doublecoat-Auto/dp/B000AP8DZY/" target="_blank">amazon</a>
+
+Collinite #845: The Definitive How-To Guide For This Legendary Wax <a href="http://www.autogeekonline.net/forum/how-articles/40243-collinite-845-definitive-how-guide-legendary-wax.html" target="_blank">autogeekonline.net article</a>
+
+
+# Cleaning glass
+
+$22.99 Aquapel Glass Treatment By PGW 6 Single Use Applicators PPG <a href="http://www.amazon.com/Aquapel-Glass-Treatment-Single-Applicators/dp/B004NFXA7I/" target="_blank">amazon</a>
 
 
 <!--

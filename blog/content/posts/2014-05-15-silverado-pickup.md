@@ -7,6 +7,53 @@ tags:
   - silverado
 ---
 
+# Touch up paint
+
+<ul>
+  <li>silverado-service-parts-id.jpg</li>
+  <li>silverado-truck-camper-load-info.jpg</li>
+  <li>silverado-vin-on-top-of-dash.jpg</li>
+</ul>
+
+* BC/CC U 8624 12D
+* Olympic White
+
+silverado 2002 Olympic White touch up paint
+
+$11.19 - Dupli-Color AGM0434 Olympic White General Motors Exact-Match Scratch Fix All-in-1 Touch-Up Paint - 0.5 oz.
+<a href="http://www.amazon.com/Dupli-Color-AGM0434-Olympic-Exact-Match-Touch-Up/dp/B00HE6738A" target="_blank">amazon</a>
+
+$13.31 - Dupli-Color NGGM434 Olympic White General Motors Exact-Match Touch-up Paint - 0.5 oz.
+<a href="http://www.amazon.com/Dupli-Color-NGGM434-Olympic-Exact-Match-Touch-up/dp/B000ALDY1G/" target="_blank">amazon</a>
+
+### automotivetouchup.com
+
+touch-up-paint chevrolet 2002 silverado
+<a href="http://www.automotivetouchup.com/touch-up-paint/chevrolet/2002/silverado/" target="_blank">2002 Silverado page</a>
+
+* 50, 8624, GAZ, WA8624 	Olympic White
+
+Select the color for your 2002 Chevrolet Silverado below by clicking
+on any item in the corresponding row. After the color is selected, just
+click the "choose your color" button to see the products we offer with
+that color!
+
+Make Note: The color code will be located on a sticker named Parts
+Identification. The code can start with BC/CC followed by a U, or a WA
+with a four digit number/letter combination. We use the WA format for
+simplicity, your code may have a U. WA8555 is the same as U8555. Click
+here for Chevy paint code location chart and paint code label examples.
+
+#### Paint Codes Locations For Chevrolet
+
+The paint code for all Chevy cars and trucks are located on the service
+parts identification sticker. While the sticker is moved around from
+year to year, it still looks like the ones below. Most labels are white
+paper sticker, while more moderns ones are a silver label. While most
+paint codes in our database start out with a "WA", most cars and trucks
+will start out with a "BC/CC    U". BC/CC stands for basecoat/clearcoat,
+and the U stands for upper or body color.
+
 # Rack System for cap
 
 ## [Yakima Bolt Toploader](http://www.yakima.com/shop/racksystems/permanent-installation/bolt-toploader)
@@ -59,4 +106,10 @@ tags:
 * [TracRac CapRac](http://www.tracrac.com/pick-up-trucks/caprac)
 * [Joe Hyde rack post](http://flyanglersonline.com/features/warmwater/ww012207.php)
 
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+-->
 

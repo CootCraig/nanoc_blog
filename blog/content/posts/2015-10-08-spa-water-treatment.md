@@ -7,6 +7,12 @@ tags:
   - spa_water_treatment
 ---
 
+# Controls
+
+Lock / Secured
+
+Toggle with [Temp Up] followed by [Soak]
+
 # Marquis Spa Model
 
 I have Marquis Spa that came with our house, pre 2000 I think. How can
