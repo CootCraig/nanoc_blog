@@ -21,6 +21,72 @@ How much did the machines cost?
 
 # Measuring
 
+#### $17 - Oshlun MTM-CS 12-Inch Combination Square Set <a href="http://www.amazon.com/gp/product/B001KW00XY" target="_blank">amazon</a>
+
+#### $40 - Kreg PRS3400 Precision Router Table Set Up Bars, Set of 7 <a href="http://www.amazon.com/Kreg-PRS3400-Precision-Router-Table/dp/B002YIG58W/" target="_blank">amazon</a>
+
+<ul>
+  <li>Unique design straddles the Router Bit or saw blade to allow for more precise height adjustment</li>
+  <li>Step on the top edge of each setup bar acts as a gauge to test the depth of your completed cuts</li>
+  <li>Step on the end of each setup bar used to test the fence depth of a table saw blade or Router Bit</li>
+  <li>Made from a soft aluminum designed to prevent damage to your Router Bit or saw blade if contact is made during setup</li>
+</ul>
+
+#### $20 - BRASS SETUP BARS - 4" LONG by Peachtree Woodworking PW1041 <a href="http://www.amazon.com/BRASS-SETUP-BARS-Peachtree-Woodworking/dp/B00153LKI2/" target="_blank">amazon</a>
+
+<ul>
+  <li>Set Includes 5 bars: 1 each 1/8", 3/16", 1/4", 3/8", and 1/2" square by 4" long</li>
+  <li>Made of solid brass - will not damage carbide</li>
+  <li>The bars can be stacked to get measurements from 1/8" to 1-7/16"</li>
+</ul>
+
+#### $16 - Whiteside 9810 Brass Set Up Gauges, 5 Piece Set <a href="http://www.amazon.com/Whiteside-9810-Brass-Gauges-Piece/dp/B0012JGAC0/" target="_blank">amazon</a>
+
+
+
+#### $15 - BL-123 Pair of 1" x 2" x 3" Precision Steel 1-2-3 Blocks <a href="http://www.amazon.com/BL-123-Precision-Steel-1-2-3-Blocks/dp/B00092CJC6/" target="_blank">amazon</a>
+
+
+##### I use these all the time...
+
+WB Halper TOP 500 REVIEWERVINE VOICE on February 17, 2015
+
+This is perfect when a square block of steel is needed. I use them as
+calibration standards for my woodworking tools. They're not good enough
+for high precision metal work, but they're perfect to calibrate the scale
+on my miter saw fence...when I stack two blocks between the saw blade and
+the stop and the scale is adjusted to 6", I know that the rest of the
+scale is also dead on. I'm also using four of these, bolted to the saw
+bed, to hold the miter saw fence exactly vertical and at right angles
+to the blade path. (BTW, if you look at the picture, the fence pieces
+are normally much closer together...barely enough to clear the saw blade.)
+
+Want to see if your cheap calipers are reading right? Grab one of these
+and measure it. At 0.0002" accuracy, they're far more accurate than any
+inexpensive measuring tool.
+
+These are cheap and they work. Keep them corrosion free, don't drop them
+and they'll last forever.
+
+
+##### Excellent vallue, great functionality
+
+By W. R. Davis on October 7, 2009
+
+I have a Lee Valley router system that uses a steel top and fence with no
+calibrated scales or adjustments. I finally understood that this fence
+was designed more from a machinist's rather than woodworker's point
+of view. I purchased some small brass setup blocks and got immediate
+benefit in repeatable, quick setups. I realized that the larger 1-2-3
+blocks should add even more flexibility and I discovered this low cost
+set of blocks. As soon as I used them, I understood their value. They
+are well made and for a home user, I see no reason to even consider a
+more expensive set. I am going to buy one or two sets more. Actually
+this will make great low cost gifts for my family to give me for
+Christmas. I've used these for more than the router table. They work
+well on the workbench, the table saw, and the drill press.
+
+
 ## Shinwa Measuring
 
 Shinwa Measuring Tools

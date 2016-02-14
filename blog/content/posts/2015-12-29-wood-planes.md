@@ -5,7 +5,12 @@ kind: article
 tags:
   - woodworking
   - wood_planes
+  - hand_plane
 ---
+
+knotscott - Good Quality Hand Planes On a Budget <a href="http://lumberjocks.com/knotscott/blog/14523" target="_blank">lumberjocks blog</a>
+
+
 
 <!--
 html boilerplate

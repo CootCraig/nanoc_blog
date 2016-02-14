@@ -29,6 +29,7 @@ http://www.wolfemachinery.com/
 
 Book - Wally Kunkel - How to master the Radial Arm Saw <a href="http://mrsawdust.com/" target="_blank">web site</a>
 
+Book - Fine Tuning Your Radial Arm Saw Download by Jon Eakes <a href="http://joneakes.com/payments/review?type=product&id=radial_arm_saw" target="_blank">PDF Download</a>
 
 10" RADIAL ARM SAW - $100 (Falcon) <a href="http://cosprings.craigslist.org/tls/5436810945.html" target="_blank">craigslist</a>
 
