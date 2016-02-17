@@ -7,6 +7,52 @@ tags:
   - woodworking_tools
 ---
 
+# active 
+
+### 70's 10"
+
+Radial arm saw - $20 (galley and chelton)
+
+https://cosprings.craigslist.org/tls/5424795287.html
+
+* Paul
+* (928) 231-6692
+* bzpsr-5424795287@sale.craigslist.org
+
+
+
+
+The Rockwell Delta 990 was gone before I got there.  Today on CL
+I see a mid 70's Sears/Craftsman 10" RAS that looks like this:
+
+http://vintagemachinery.org/photoindex/detail.aspx?id=13682
+
+https://cosprings.craigslist.org/tls/5424795287.html
+
+contact name: Paul
+
+(928) 231-6692
+bzpsr-5424795287@sale.craigslist.org
+
+
+### 60's 9"
+
+There is also a 9" possibly early 60's RAS that looks like this
+
+http://vintagemachinery.org/photoindex/detail.aspx?id=3065
+
+
+https://cosprings.craigslist.org/tls/5447583852.html
+Radial arm saw vintage - $125
+
+contact name: Danielle
+
+(719) 964-1270
+
+ndzqr-5447583852@sale.craigslist.org
+
+
+# other
 
 
 Radial Arm Saw ????????? thread <a href="http://www.sawmillcreek.org/showthread.php?158929-Radial-Arm-Saw" target="_blank">sawmillcreek.org</a>
@@ -96,6 +142,14 @@ Andrew Pitts ~ FurnitureMaker - Installing an Original Saw Radial Arm Saw: Satur
 
 bizydad - Cutting Lap Joints on a Radial Arm Saw <a href="https://www.youtube.com/watch?v=ok-csWxcZL4" target="_blank">youtube</a>
 
+
+### Adam replied on a forum topic:
+
+If you're willing to be patient, keep an eye out for one of the 50s Dewalts: http://vintagemachinery.org/photoindex/detail.aspx?id=11989
+
+I picked one up for $110 off CL a year ago and spent a little time cleaning it up, and I like it a lot. Very solid and heavy (cast iron). You just have to make sure the ways are in good shape.
+
+I understand the powershops aren't too bad either: http://vintagemachinery.org/photoindex/detail.aspx?id=11730
 
 <!--
 html boilerplate

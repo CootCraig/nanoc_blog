@@ -7,6 +7,60 @@ tags:
   - car_search
 ---
 
+# Donna car notes
+
+Honda Leather Steering Wheel Cover (1999-2004 Odyssey) <a href="http://www.bernardiparts.com/Honda-Leather-Steering-Wheel-Cover-1999-2004-Odyssey__08U98-S0X-XXX.aspx" target="_blank">bernardiparts product page</a>
+
+Seat Armour <a href="http://www.bernardiparts.com/Seat-Armour__SA100HONX.aspx" target="_blank">bernardiparts product page</a>
+
+Honda Roof Rack (Odyssey 1999-2004) Seat Armour <a href="http://www.bernardiparts.com/Honda-Roof-Rack-Odyssey-1999-2004__08L02-S0X-101.aspx" target="_blank">bernardiparts product page</a>
+
+Complete Roof Rack for LX <a href="https://www.handa-accessories.com/odyext02.html" target="_blank">order page</a>
+
+$310 for 2 - Yakima 54 Inch Track with Plusnuts <a href="http://www.rackattack.com/base-roof-rack-systems/permanent-custom-mount-roof-rack-systems/yakima-54-inch-track-with-plusnuts/" target="_blank">rackattack product page</a>
+
+<ul>
+  <li>Compatible with Control Towers and Landing Pad 1</li>
+  <li>Creates a factory installed multi-sport rack system</li>
+  <li>Simple installation and no need for headliner removal</li>
+  <li>Stainless steel installation hardware included</li>
+  <li>54 inch yakima track $310 for 2</li>
+  <li>control tower $156 for 4</li>
+  <li>track landing pad $78 for 4</li>
+  <li></li>
+</ul>
+
+<img src="/assets/images/yakima-track.jpg" width="700px">
+
+42 inch Tracks w/ PlusNuts <a href="https://www.yakima.com/42-tracks-w-plusnuts" target="_blank">yakima product page</a>
+
+#### Yakima Landing pad 
+
+<img src="/assets/images/yakima-landing-pad-1.jpg" width="700px">
+
+RackAttack - Roof Install of track <a href="https://www.youtube.com/watch?v=HKdJoJHXAZ8" target="_blank">youtube</a>
+
+A rivet nut, also known as a blind nut, rivnut, threaded insert or nut-ser <a href="https://en.wikipedia.org/wiki/Rivet_nut" target="_blank">wikipedia</a>
+
+5cylindersymphony - How to install a rivet nut (rivnut) and the tools you need <a href="https://www.youtube.com/watch?v=KeaMsvai0FA" target="_blank">youtube</a>
+
+garyhuston - DIY Rivnut tool <a href="https://www.youtube.com/watch?v=SzWj5y00sVg" target="_blank">youtube</a>
+
+The Fab Forums - You Need This Tool - Episode 8 | RivNut or Rivet Nut or Nutsert <a href="https://www.youtube.com/watch?v=L-ik6TnWrGI" target="_blank">youtube</a>
+ 	
+Proline Roof Top Track Slats <a href="http://www.prolineracks.com/proline-roof-end-track-slats.html" target="_blank">prolineracks product page</a>
+
+#### Proline Twist-Lock Tie Down Anchors
+
+Compatible with yakima tracks
+
+<img src="/assets/images/proline-tie-down-anchor-track-mount-lrg.jpg" width="400px">
+
+# kbb on 1998 maxima
+
+$1264 good
+$1066 fair
+
 # Honda accord
 
 * 2004 Honda Accord - DX Sedan 4D - VG $3010 132,000mi
@@ -23,6 +77,8 @@ tags:
 
 * 2000 Honda Odyssey - EX Minivan 4D - VG $1900
 * 2004 Honda Odyssey - EX Minivan 4D - VG $3251
+* 2004 Honda Odyssey - LX Minivan 4D - vg $3305 (private party)
+* 2004 Honda Odyssey - LX Minivan 4D - excellent $3530 (private party)
 
 
 <a href="http://www.autotrader.com/cars-for-sale/Used+Cars/Honda/Odyssey/Pueblo+CO-81001?endYear=2004&listingType=used&listingTypes=used&makeCode1=HONDA&mmt=%5BHONDA%5BODYSSEY%5B%5D%5D%5B%5D%5D&modelCode1=ODYSSEY&searchRadius=500&showcaseListingId=0&showcaseOwnerId=0&startYear=1981&Log=0" target="_blank">Honda Odyssey - autotrader.com</a>
@@ -155,6 +211,165 @@ Models:
 * 2011–Present Lancia Voyager
 * 2012–2014 Ram C/V (Replaced in 2015 by the Ram ProMaster City)
 
+## 2004 naked roof rack
+
+Looking at 
+Heuberger Motors
+888-983-1951
+2004 odyssey LX
+
+### handa-accessories rack
+
+info@HandA.com 
+2004 Honda Odyssey LX roof rack kit
+
+I'm about to acquire a 2004 Odyssey LX with naked roof.
+I want to verify that I order the correct kit to install
+rails and crossbars. The order links have me confused.
+
+Thanks.
+
+
+2011+ Honda Odyssey Roof Rack Installation <a href="https://www.youtube.com/watch?v=jC6z4QXZqIE&feature=youtu.be" target="_blank">youtube</a>
+
+Complete Roof Rack for LX Genuine Honda Odyssey LX roof rack kit for
+Honda Odyssey. Constructed of extruded aluminum and capron resin. Includes
+adjustable cross bars and all parts needed for installation.
+
+* Fits Years 2002-2004
+* Honda Retail $300.50
+* HandA Value Price: $227.94
+
+Complete Roof Rack for LX <a href="https://www.handa-accessories.com/odyext02.html" target="_blank">order page</a>
+
+#
+
+apache junction zip
+85119
+
+Denver CO
+80202
+
+# Autotrader Mon Feb 15 2016
+
+Planet Automotive
+888-285-0844
+Used 2004 Honda Odyssey EX-L
+101,185 miles
+
+    Stock No. 0260150A
+    VIN 5FNRL18944B067246
+    AT Car ID AT-19289F5F 
+
+
+Exterior:
+Starlight Silver Metallic 
+
+----------------------
+Courtesy Acura
+866-879-8303
+Used 2004 Honda Odyssey EX
+107,435 miles
+
+    Stock No. 4B102938
+    VIN 5FNRL18644B102938
+    AT Car ID AT-19114308   
+
+----------------------
+Bekenkotter Motors
+866-450-7952
+
+Used 2002 Honda Odyssey EX-L
+160,430 miles
+
+    Stock No. U3940
+    VIN 5FNRL18902B051851
+    AT Car ID AT-186340C3 
+
+----------------------
+Bob Penkhus Mazda
+888-309-0560
+
+Used 2002 Honda Odyssey EX
+133,037 miles
+
+    Stock No. 16M160A
+    VIN 2HKRL18672H580706
+    AT Car ID AT-18E97598 
+
+----------------------
+The Sharpest Rides
+866-876-7037
+
+Used 2000 Honda Odyssey EX
+242,015 miles
+
+    Stock No. S22175
+    VIN 2HKRL186XYH504101
+    AT Car ID AT-191A555B   
+
+----------------------
+Fultons Used Cars
+866-446-1253
+
+Used 2002 Honda Odyssey EX-L
+108,838 miles
+
+    Stock No. 7865
+    VIN 2HKRL18722H542664
+    AT Car ID AT-189FFD9D
+
+----------------------
+Peak Auto Mart
+866-592-3271
+
+Used 2004 Honda Odyssey EX-L
+155,696 miles
+
+    Stock No. PA732A
+    VIN 5FNRL18904B074632
+    AT Car ID AT-1919D26B
+
+----------------------
+Heuberger Motors
+719-475-1920
+
+Used 2004 Honda Odyssey LX
+101,834 miles
+
+    Stock No. 162907J
+    VIN 5FNRL18564B142543
+    AT Car ID AT-1927B433
+
+Tom 719-238-7974
+Tue Feb 16 10:36:15 MST 2016 left message
+Our offer
+4111 + 389 deal charge = 4500
+excluding taxes
+
+----------------------
+Colo. Springs 80909
+Las Vegas 89101
+denver 80206
+phoenix 85021
+
+# Dodge caravan
+
+## Third generation (1996–2000)
+
+* short wheelbase caravan
+
+* Platform 	Chrysler NS platform
+* Related 	Chrysler Town & Country
+* Plymouth Voyager
+* Chrysler Voyager
+
+* 1996–1997 3.8 L EGH V6, 166 hp (124 kW), 227 lb·ft (308 N·m)
+* 1998–2000 3.8 L EGH V6, 180 hp (130 kW), 240 lb·ft (330 N·m)
+
+* So 1996-2000 3.8L
+
+## Fourth generation (2001–2007)
 
 <!--
 html boilerplate
