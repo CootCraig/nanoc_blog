@@ -16,6 +16,31 @@ Cabin dust and pollen filter - every 30,000 mi
 </PRE>
 
 <h3>automatic transmission fluid</h3>
+
+<h4>
+Buffalo4 odyclub post <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/258729-04-tranny-fill-option.html#post1493601" target="_blank">Forum post</a>
+</h4>
+
+<p>
+Use Honda DW-1 or Valvoline MaxLife Dex/Merc or another compatible
+synthetic atf. Do NOT use any Honda Z-1 atf (what Honda specified for
+your yr Ody) even if someone gives it to you.
+</p>
+
+<p>
+I bought a long stemmed black plastic funnel at WalMart (I think Home
+Depot has the same one even cheaper) for around $2 and it fit tightly
+'over' the dip stick tube.
+</p>
+
+<p>
+PS: If your atf is pretty dark on the dipstick, I would recommend at
+least two drain and fills with driving in between.  If you don't know
+the last time it was changed and suspect it may have Honda Z-1 atf in it,
+then I would strongly recommend that you do 4 drain and fills.
+</p>
+
+<h4>Interval</h4>
 <PRE>
 Replace automatic transmission fluid - First - 45,000 mi or 3year
 Replace automatic transmission fluid - Subsequent - 30,000 mi or 2year
@@ -47,6 +72,21 @@ Replace engine coolant - first - 120,000 mi or 8 years
 Replace engine coolant - subsequent - 60,000 mi or 5 years
 </PRE>
 
+<h3>Power Steering Fluid</h3>
+<PRE>
+No Honda recommendation
+When dirty
+Pick a mileage?
+</PRE>
+
+
+<h3>Brake Fluid</h3>
+<PRE>
+Replace Brake Fluid - every 3 years
+Pick a mileage?
+</PRE>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -54,4 +94,6 @@ html boilerplate
 <h3></h3>
 <PRE>
 </PRE>
+<p>
+</p>
 -->
