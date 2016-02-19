@@ -1,0 +1,55 @@
+Recommended Maintenance Schedule <a href="http://owners.honda.com/service-maintenance/minder?year=2004&model=Odyssey#mid^RL1854PKW" target="_blank">online schedule</a>
+
+<h3>Engine Oil</h3>
+<PRE>
+Preferred oil - 5W-20
+Oil change every 7,500 mi
+Oil Filter change every 15,000 mi
+</PRE>
+
+<h3>Air Filters</h3>
+<PRE>
+Engine Air Cleaner - every 30,000 mi
+Cabin dust and pollen filter - every 30,000 mi
+</PRE>
+
+<h3>automatic transmission fluid</h3>
+<PRE>
+Replace automatic transmission fluid - First - 45,000 mi or 3year
+Replace automatic transmission fluid - Subsequent - 30,000 mi or 2year
+</PRE>
+
+<h3>Replace spark plugs</h3>
+
+<PRE>
+Replace spark plugs - every 105,000 mi
+</PRE>
+
+<h3>Inspect valve clearance</h3>
+
+<PRE>
+Inspect valve clearance - every 105,000 mi
+</PRE>
+
+<h3>Replace timing belt and inspect water pump</h3>
+
+<PRE>
+Replace timing belt - every 105,000 mi
+Inspect water pump - every 105,000 mi
+</PRE>
+
+
+<h3>Replace engine coolant</h3>
+<PRE>
+Replace engine coolant - first - 120,000 mi or 8 years
+Replace engine coolant - subsequent - 60,000 mi or 5 years
+</PRE>
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+<h3></h3>
+<PRE>
+</PRE>
+-->

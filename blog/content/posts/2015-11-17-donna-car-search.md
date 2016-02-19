@@ -9,7 +9,63 @@ tags:
 
 # Donna car notes
 
+VIN 5FNRL18564B142543
+
+Auto Insurance pdf 2016-02-19 to 2016 <a href="/assets/pdf/pgr-auto-insurance-2016-02-19.pdf" target="_blank"></a>
+
+### manuals
+
+2004 Honda Odyssey owner Manual <a href="/assets/pdf/honda-odyssey-2004-owner-manual.pdf" target="_blank">local copy</a>
+
+2004 Honda Odyssey Manuals <a href="http://owners.honda.com/vehicles/information/2004/Odyssey/manuals" target="_blank">honda.com page</a>
+
+Recommended Maintenance Schedule <a href="http://owners.honda.com/service-maintenance/minder?year=2004&model=Odyssey#mid^RL1854PKW" target="_blank">online schedule</a>
+
+Recommended Maintenance Schedule <a href="/assets/other/honda-odyssey-2004-schedule" target="_blank">local txt</a>
+
+### Keys
+
+#### Uncut transponder key
+
+<ul>
+  <li>master key</li>
+  <li>valet key</li>
+</ul>
+
+
+#### Remote entry Key Fob
+
+Replacement Keyless Entry Remote Key Fob Clicker Van For OUCG8D440HA.
+This part is compatible with 2004	Honda	Odyssey	LX Mini Passenger Van 5-Door
+
+<ul>
+  <li>$49.95 for 2</li>
+  <li>OEM Honda FCC ID: OUCG8D-440H-A</li>
+  <li>OUCG8D440HA</li>
+  <li>ebay keylessking* 240367 </li>
+</ul>
+
+
+
+### HID lights
+
+Any DDM HID kit long term reviews?  <a href="http://www.odyclub.com/forums/10-honda-aftermarket-accessories/156074-any-ddm-hid-kit-long-term-reviews.html" target="_blank">odyclub thread</a>
+
+New Dad New Van - DDM Tuning Apexcone 55W 5000K H4/9003 (High and Low HID) <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/64266-headlamp-replacement-01-ody.html#post563585" target="_blank">odyclub post</a>
+
+$120 - Apexcone HID Kit (H4 35W 5000K) <a href="http://www.ddmhid.com/product/apexconehid.htm" target="_blank">product page</a>
+
+www.ddmtuning.com - <a href="http://www.ddmtuning.com/" target="_blank">main site</a>
+
+### Leather steering wheel cover
+
+leather steering wheel cover?  <a href="http://www.odyclub.com/forums/52-2005-2010-odyssey/26062-leather-steering-wheel-cover.html" target="_blank">odyclub thread</a>
+
 Honda Leather Steering Wheel Cover (1999-2004 Odyssey) <a href="http://www.bernardiparts.com/Honda-Leather-Steering-Wheel-Cover-1999-2004-Odyssey__08U98-S0X-XXX.aspx" target="_blank">bernardiparts product page</a>
+
+$60 - Wheelskins Original <a href="http://wheelskins.com/original" target="_blank">product page</a>
+
+
 
 Seat Armour <a href="http://www.bernardiparts.com/Seat-Armour__SA100HONX.aspx" target="_blank">bernardiparts product page</a>
 

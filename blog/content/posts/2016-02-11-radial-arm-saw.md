@@ -7,13 +7,48 @@ tags:
   - woodworking_tools
 ---
 
+### Radial Arm Saw Discussion Forum
+
+<a href="http://people.delphiforums.com/snotzalot/sawdust/" target="_blank">Radial Arm Saw Discussion Forum</a>
+
+http://vintagemachinery.org/photoindex/detail.aspx?id=13682
+
 # active 
+
+### Rockwell Commercial Radial Arm Saw
+
+Rockwell Commercial Radial Arm Saw - $150
+
+This is a 220V 3 phase saw 12" in good shape I just don't need it any
+more. I can't always get to the phone so please leave me a message
+or email me I will get back to you.Thank You Chuck 719-687-6396 or
+719-337-7891
+
+Chuck 719-687-6396 or 719-337-7891
+
+<a href="http://cosprings.craigslist.org/tls/5392938383.html" target="_blank">Rockwell 3 phase RAS</a>
+
+Looks like <a href="http://vintagemachinery.org/photoindex/detail.aspx?id=5030" target="_blank">vintagemachinery 33-892</a>
+
+This saw came to me with a toasted 3PH motor. I found out that these
+motors really can't be repaired. The motor was replaced with a 1PH
+Craftsman ( Emerson was the OEM for the motors ).
+
+* 33-890 was 1PH with no motor control
+* 33-891 was 1PH with Low Voltage motor control
+* 33-892 was 3PH with Low Voltage motor control.
+
+I now have the 3PH motor contol w/ 1PH 13a motor.... works very
+well. Since the motor mount works w/ Emerson motors, I am sure that I
+could put a Rigid RAS motor on as well.  This has replaced my DeWalt
+7790... the cross cut is 2" narrower but the saw is extremely accurate.
+
 
 ### 70's 10"
 
-Radial arm saw - $20 (galley and chelton)
+Radial arm saw - $20 (galley and chelton) <a href="https://cosprings.craigslist.org/tls/5424795287.html" target="_blank">craigs list</a>
 
-https://cosprings.craigslist.org/tls/5424795287.html
+
 
 * Paul
 * (928) 231-6692
