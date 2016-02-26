@@ -11,7 +11,31 @@ tags:
 
 VIN 5FNRL18564B142543
 
+Current Tires:
+Multi-Mile Matrix Tour RS
+$72.23 each at Amazon
+44PSI max.
+
+Tire:
+225/60R16 98T
+
+Wheel:
+16 x 6 1/2 JJ
+
+Consider
+
+* General AltiMAX RT43 (H- or V-Speed Rated)
+* General Altimax Arctic
+* Continental TrueContact Standard Touring All-Season
+* Nope. Kumho Solus TA31 Grand Touring All-Season (H speed rated)
+
+Speed Rating, Load Index & Service Descriptions <a href="http://www.tirerack.com/tires/tiretech/techpage.jsp?techid=35" target="_blank">page at tirerack.com</a>
+
 Auto Insurance pdf 2016-02-19 to 2016 <a href="/assets/pdf/pgr-auto-insurance-2016-02-19.pdf" target="_blank"></a>
+
+Vidmar Honda 719-544-5844
+
+hondaautomotiveparts <a href="http://www.hondaautomotiveparts.com/auto/jsp/mws/vinsrchrslt.jsp?search=&catcgry1=&inputstate=&srchwords=Enter+Part+Number+--&vinnosrch=5FNRL18564B142543" target="_blank">2004 LX landing page</a>
 
 ### manuals
 
@@ -42,8 +66,21 @@ This part is compatible with 2004	Honda	Odyssey	LX Mini Passenger Van 5-Door
   <li>$49.95 for 2</li>
   <li>OEM Honda FCC ID: OUCG8D-440H-A</li>
   <li>OUCG8D440HA</li>
-  <li>ebay keylessking* 240367 </li>
+  <li>ebay keylessking 68393 99.4%</li>
+  <li>ebay remotez4less 11374 99.5%</li>
 </ul>
+
+
+### Kenwood DPX500BT
+
+
+Lessco Electronics - My Detailed Kenwood DPX500BT Stereo Review <a href="https://www.youtube.com/watch?v=5YKEnmez8B0" target="_blank">youtube review</a>
+
+playboyryder83 - Crutchfield stereo advice - Kenwood DPX500BT <a href="https://www.youtube.com/watch?v=OcK2kxANCk4" target="_blank">youtube review</a>
+
+Crutchfield - Kenwood DPX501BT Display and Controls Demo <a href="https://www.youtube.com/watch?v=9WDpzC4pwaA" target="_blank">youtube</a>
+
+dmtz27 - Kenwood DPX501BT Double Din Stereo <a href="https://www.youtube.com/watch?v=4Lj7G5xnKXQ" target="_blank">youtube review</a>
 
 
 

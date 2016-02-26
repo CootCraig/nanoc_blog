@@ -6,7 +6,32 @@ tags:
   - 2002_Silverado_pickup
 ---
 
+https://www.compnine.com/signup.php
+5 reports for $5
+
+You may login at https://www.compnine.com/dealerlogin.php using your
+email address and access code ?????
+
+<!--
+access code 158652
+-->
+
+# Forums
+
+
+* <a href="http://www.silveradosierra.com/" target="_blank">silveradosierra.com</a>
+* Fullsize Truck & SUV - 1999-2013 GMT800 & GMT900 Platforms <a href="http://www.gm-trucks.com/forums/forum/166-fullsize-truck-suv-1999-2013-gmt800-gmt900-platforms/" target="_blank">gm-trucks.com/forums - 1999-2013</a>
+* 1999 - 2006 (GMT800) <a href="http://chevroletforum.com/forum/silverado-fullsize-pick-ups-21/" target="_blank">chevroletforum.com/forum</a>
+* <a href="http://www.silveradoforums.com/index.php" target="_blank">silveradoforums.com</a>
+* <a href="http://www.gmfullsize.com/" target="_blank">gmfullsize.com</a>
+
+
+
 ## Information from <a href="http://chevroletforum.com/forum/vindecoder.php" target="_blank">VIN Decoder</a>
+
+* GMT800 Platform 2001-2005
+* 2002 1,672,804 sold
+* Vortec 5300 (5.3 L) V8
 
 <!--
 VIN: 1GCEK19TX2E233277
@@ -40,7 +65,8 @@ VIN: 1GCEK19TX2E233277
 * Fuel Economy 14.0 City / 17.0 Highway MPG 
 * Fuel Capacity 26.0 gal 
 * Net Torque 325.0 @ 4000 
-
+* M30 TRANSMISSION,AUTOMATIC 4 SPEED,4L60E,ELECTRONIC 4-SPD A/TRANS(M30)
+* M30 4L60E - TRANSMISSION,AUTOMATIC 4 SPEED,4L60E,ELECTRONIC 4-SPD A/TRANS(M30)
 
 ### Tech Specs
 
@@ -57,6 +83,11 @@ VIN: 1GCEK19TX2E233277
 * Wheelbase 143.5 in (143.5 min/143.5max)
 * Ground Clearance, Front 8.5 in (8.5 min/8.5max)
 * Ground Clearance, Rear 8.6 in (8.6 min/8.6max)
+
+## touch up paint
+
+* BC/CC U 8624 12D
+* Olympic White
 
 ## Replacement Air Filter
 

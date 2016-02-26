@@ -1,25 +1,137 @@
 <h2>Honda 2004 Odyssey</h2>
 
+<h2>Research</h2>
+
+
+worsethanchiggers - 2002 Honda Odyssey ATF and Filter Replacement <a href="https://www.youtube.com/watch?v=_KYPR-gzwHM" target="_blank">youtube</a>
+
+Transmission H5 BYBA
+
+<h5>
+</h5>
+
+<p>
+<a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/212521-proud-new-owner-2004-honda-odyssey-175k-miles.html#post1160833" target="_blank">0dyfamily post</a>
+</p>
+<p>
+02Ody02, as far as we've been able to tell on this forum via reading a
+lot of Honda's TSB's, you're on-the-money.
+</p>
+
+<p>
+As far as we could tell (it was a group effort), any 2004 Odyssey with
+VIN 5FNRL18xx4B051621 and higher have all of the updates, and don't have
+that external oil jet (nor require it).
+</p>
+
+<p>
+That's all that our sleuthing could figure out.
+</p>
+
+<h5>
+odyclub thread -
+2002 Ody with vin5FNRL18952 is this covered under the 04-021 recall?
+<a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/166569-2002-ody-vin5fnrl18952is-covered-under-04-021-recall.html#post817617" target="_blank">Odyfamily post</a>
+</h5>
+
+<p>
+See this link: Oil Jet Recall. All 2002-2003 Odys are affected, and all
+2004 Odys from the first one of that model year (VIN 5FNRL18..4B000001)
+up to VIN 5FNRL18..4B051620 are included.
+</p>
+
+<p>
+In short, your 2002 should have had this done already. You can tell
+by checking the ATF fill plug on top of the A/T. If it is still there,
+this 2nd gear oil jet recall has not been performed!
+</p>
+
+<p>
+This just made me think. That last 2004 VIN must certainly be the last
+of the standard BYBA Gen 2 5-speed trannies, i.e., A/T's with possible
+3rd gear problems. Honda was called to task by the NHTSA in November
+2003 to perform engineering changes, and somebody mentioned a while
+ago that this not only included fixing the major sources of restricted
+ATF flow to the third clutch pack, but also making changes to allow for
+adequate ATF flow to the 2nd gearset. That means any 2004 Odyssey with VIN
+5FNRL18..4B051621 and beyond has a "good" A/T. I'm guessing that these
+later 2004 Odysseys will have an ATF fill plug on top of the A/T, since
+there is no need for the 2nd gear oil jet kit on those later 2004 vans.
+</p>
+
+
+<h5>
+Thread - Transmission Fluid Change
+<a href="http://www.odyclub.com/forums/52-2005-2010-odyssey/148918-transmission-fluid-change-12.html#post1528561" target="_blank">Odyfamily post</a>
+</h5>
+
+<p>
+Well, you are securing a threaded bolt into an aluminum bore...a good
+torque wrench is the way to go. I've only purchased one "bargain" wrench,
+and on that note, never again. I was actually installing a spark plug,
+and said to myself, "Self, this feels like too much torque..." The wrench
+was horribly out of standards.
+</p>
+
+<p>
+For me, when it comes to a critical measuring device like a torque wrench,
+now it has to be a trusted brand name.
+</p>
+
+<p>
+Craftsman, ATD, S-K, Snap-On, Matco, Utica-Bonney, MAC, Proto (purchased
+by Stanley), CDI and so on. Tool makers with a long history of producing
+good tools. They cost more. They are worth it.
+</p>
+
+<p>
+$140 - Stanley Proto J6006C 3/8-Inch Drive Ratcheting Head Micrometer Torque Wrench, 16-80-Feet Pound
+</p>
+
+<p>
+I didn't want to make this so much a torque wrench discussion, but it
+is relevant to changing ATF. Once that drain bolt is out and you're
+ready to refill ATF, you have to re-install it to a proper torque
+value. That allows it to stay put in leak-free fashion without wrecking
+the transmission case. For me, torquing to just about 33 ft-lbs. with
+a brand new crush washer has proved to be fine; the drain bolt always
+stays put and does not leak between servicing events. I know it's less
+than 36 ft-lbs., but it has worked. Again, I am using a new crush washer
+every time. I don't have any experience of slightly under-torquing the
+drain bolt with a used crush washer.
+</p>
+
+
+
+
+
+
+<h5>
+<p>
 Recommended Maintenance Schedule <a href="http://owners.honda.com/service-maintenance/minder?year=2004&model=Odyssey#mid^RL1854PKW" target="_blank">online schedule</a>
+</p>
+</h5>
 
-<h3>Engine Oil</h3>
-<PRE>
-Preferred oil - 5W-20
-Oil change every 7,500 mi
-Oil Filter change every 15,000 mi
-</PRE>
+<h5>
+<p>
+Should I get these recommendations done?  <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/219778-should-i-get-these-recommendations-done.html" target="_blank">odyclub thread</a>
+</p>
+</h5>
 
-<h3>Air Filters</h3>
-<PRE>
-Engine Air Cleaner - every 30,000 mi
-Cabin dust and pollen filter - every 30,000 mi
-</PRE>
 
-<h3>automatic transmission fluid</h3>
 
-<h4>
+<h5>
+<p>
+Transmission oil replacement question <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/156712-transmission-oil-replacement-question.html" target="_blank">odyclub thread</a>
+</p>
+</h5>
+<p>
+Good post <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/156712-transmission-oil-replacement-question.html#post740183" target="_blank">here</a>
+</p>
+
+<h5>
 Buffalo4 odyclub post <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/258729-04-tranny-fill-option.html#post1493601" target="_blank">Forum post</a>
-</h4>
+</h5>
 
 <p>
 Use Honda DW-1 or Valvoline MaxLife Dex/Merc or another compatible
@@ -40,10 +152,220 @@ the last time it was changed and suspect it may have Honda Z-1 atf in it,
 then I would strongly recommend that you do 4 drain and fills.
 </p>
 
-<h4>Honda Transmission Problem Root Cause and a Fix?</h4>
+<h5>
+Honda Transmission Problem Root Cause and a Fix?  <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/52345-honda-transmission-problem-root-cause-fix.html" target="_blank">Odyclub thread</a>
+</h5>
+
+
 <p>
-<a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/52345-honda-transmission-problem-root-cause-fix.html" target="_blank">Odyclub thread</a>
+<a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/52345-honda-transmission-problem-root-cause-fix-3.html#post478984" target="_blank">See this post by herrhaus</a>
 </p>
+
+
+<p>
+Let me add this to WATT-MAN's post: If they had found a signs of an
+overheated gear, you would have a received a new transmission that has
+redesigned ATF routing within the valve body. I will also say that, if
+a failure occurs since late 04, and you take your ODY to a Honda dealer,
+they are supposed to give you this re-designed transmission (i.e. not the
+2002 to early 2004 transmission with the external “oil jet”. This is
+the reason why I (me personally) would never have anyone else replace
+the tranny after it fails. When I get a re-built, I want it to be the
+one with the re-designed valve body.
+</p>
+
+<p>
+That being said, there have been members here who have had failures
+of this transmission and have often had codes that indicate hydraulic
+pressure problems and/or shift solenoid problems.
+</p>
+
+<p>
+So, let me stand out on a limb here and connect the dots…..these
+problems are again due to clogged feed tubes or other wise restricted
+ATF flow through these same screens.
+</p>
+
+<p>
+Again….what should you do? I offer the same recommendations as above.
+</p>
+
+<ol>
+  <li>
+Periodic cleaning of the screens under the clutch pressure solenoid
+valves. See this link for a few select pages from the Honda Shop
+Manual. Keep in mind that the 5-speed has two different clutch pressure
+solenoids. So there is another feed tube with a screen in it under valve
+“c”. Here is a sample order from Bernardi Honda on the parts that
+I plan to order for my 5-speed.
+  </li>
+  <li>
+At a minimum, replace the OEM filter on the side of the tranny
+housing. I’ve taken that a step further and installed a Magnefine
+in-line filter on my return line to the transmission.
+  </li>
+  <li>
+Install an auxiliary cooler to aid in removing more heat from your
+ATF. Afterall, “undercooling” was the “issue” with this tranny
+to begin with.
+  </li>
+</ol>
+
+
+<p>
+<a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/52345-honda-transmission-problem-root-cause-fix-61.html#post747907" target="_blank">another post by herrhaus</a>
+</p>
+
+<p>
+I think it's just a lack of cooling on a "potentially undersized" clutch pack...not a valve.
+</p>
+
+<p>
+With regard to the second, I'd say that the best way to the get longevity out of the old girl is to do the following:
+</p>
+
+<ol>
+  <li>Keep your foot out of the fuel injectors. Don't tromp on it....drive it easy.</li>
+  <li>replace the fluid regularly. I do a drain/fill 1-2 times a year.</li>
+  <li>add an auxillary cooler</li>
+  <li>add the magnefine</li>
+</ol>
+
+<p>
+2003 Honda Odyssey EX w/165K (Miles):, Long Tru-Cool 22,000 GVW ATF Cooler (P/N 4544), Magnefine ATF filter, with Amsoil 5W-20 Synthetic motor oil & Ea15K13 filter, Repairs. Honda 4/5 Speed Torque Converter Failures, Sonnax Tech Sheet PDF
+</p>
+
+<p>
+Note
+</p>
+
+<ul>
+  <li>2003 Honda Odyssey EX w/165K (Miles):</li>
+  <li>Long Tru-Cool 22,000 GVW ATF Cooler (P/N 4544)</li>
+  <li>Magnefine ATF filter</li>
+  <li>with Amsoil 5W-20 Synthetic motor oil</li>
+  <li>Ea15K13 filter</li>
+</ul>
+
+<p>
+Tru-Cool LPD Transmission Oil Coolers.
+Tru-Cool LPD4544 22,000GVW
+<a href="http://www.trucool.com/products/tru-cool-lpd" target="_blank">Product page</a>
+</p>
+
+<h5>
+Transmission Clunk when shifting into Reverse <a href="http://www.odyclub.com/forums/9-problems-concerns/1249-transmission-clunk-when-shifting-into-reverse.html" target="_blank">odyclub thread</a>
+</h5>
+
+<p>
+Also <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/264337-2002-odyssey-transmission-rough-shift-reverse-femco-drain-plug.html#post1538905" target="_blank">this post</a>
+</p>
+
+<h5>
+DW-1 ATF vs MaxLife <a href="http://www.amsoil.com/shop/by-product/transmission-fluid/automatic/signature-series-multi-vehicle-synthetic-automatic-transmission-fluid/" target="_blank">odyclub thread</a>
+</h5>
+
+<p>
+<a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/169914-dw-1-atf-vs-maxlife.html#post838882" target="_blank">0dyfamily post</a>
+</p>
+
+<p>
+I changed out the Honda ATF-Z1 for Valvoline MaxLife Dex/Merc and
+Lubegard Red. That 4th gear clutch slip vanished, shifts were firmer (a
+better clutch friction FM in the MaxLife), and I ended up with less wear
+material caught on the drain plug magnet with each subsequent ATF change.
+</p>
+
+<p>
+I used Valvoline MaxLife for 40,000+ miles, and it had a great
+price. Inexplicably, Wal-Mart stopped carrying it one day. herrhaus helped
+me out with an AmSOil Universal ATF purchase, and I started using that,
+and have been using it for years, now.
+</p>
+
+<h5>
+Another Transmission Fluid question...... 
+<a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/254337-another-transmission-fluid-question.html" 
+target="_blank">odyclub thread</a>
+</h5>
+<p>
+Is it still pretty split between AmSOil, Valvoline MaxLife Dex/Merc,
+Mobil 1, and Red Line ATF D4 or is one really preferred & why? Years
+ago I wanted to do Mobil 1
+</p>
+
+
+<p>
+<a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/254337-another-transmission-fluid-question.html#post1459305" target="_blank">odyfamily post on thread</a>
+</p>
+
+<h3>Engine Oil and Filter</h3>
+
+<h4>
+Synthetic Oil Used <a href="http://www.odyclub.com/forums/54-2011-odyssey/181250-synthetic-oil-used.html" target="_blank">odyclub thread</a>
+</h4>
+
+<h4>
+Anybody has 200k+, switch engine oil to Honda semi synthetic or mobil synthetic 5w-20 <a href="http://www.odyclub.com/forums/24-1999-2004-odyssey/224794-anybody-has-200k-switch-engine-oil-honda-semi-synthetic-mobil-synthetic-5w-20-a.html" target="_blank">odyclub thread</a>
+</h4>
+
+
+<h2>Supply Research</h2>
+
+<h3>ATF Fluid</h3>
+
+<h4>Honda ATF DW-1</h4>
+
+<h4>amsoil Multi-Vehicle Synthetic</h4>
+
+$48.75/gal. -  Signature Series Multi-Vehicle Synthetic Automatic Transmission Fluid <a href="http://www.amsoil.com/shop/by-product/transmission-fluid/automatic/signature-series-multi-vehicle-synthetic-automatic-transmission-fluid/" target="_blank">product page</a>
+
+<h4>Valvoline MaxLife High Mileage DEX/MERC ATF</h4>
+
+Walmart - $18/gal. - Valvoline MaxLife High Mileage DEX/MERC Automatic Transmission Fluid
+
+<h4>Lubegard<Red</h4>
+
+Lubegard Red 60902 Automatic Transmission Fluid Protectant, 10 oz.  <a href="http://www.amazon.com/Lubegard-60902-Automatic-Transmission-Protectant/dp/B0007ZAJRM" target="_blank">Amazon $10.51</a>
+
+Lubegard 63010 Platinum Universal ATF Protectant, 10 oz.  <a href="http://www.amazon.com/gp/product/B002MB57UI" target="_blank">Amazon $12.73 - 10 oz</a>
+
+* 60902 	LUBEGARD Automatic Transmission Fluid Protectant 10 oz - $10.51 at Amazon
+* 50902 	LUBEGARD Automatic Transmission Fluid Protectant 32 oz - $20.81 at Amazon
+
+<h3>Engine Oil</h3>
+
+<h4>
+Mobil 1 5W-20 High Mileage Advanced Full Synthetic Motor Oil, 5 qt. 
+<a href="http://www.walmart.com/ip/Mobil-1-5W-20-High-Mileage-Advanced-Full-Synthetic-Motor-Oil-5-qt./23636900" target="_blank">walmart - $27 for 5 qt.</a>
+</h4>
+
+<h4>
+ATP AT-205 Re-Seal Stops Leaks, 8 Ounce Bottle
+<a href="http://www.amazon.com/ATP-AT-205-Re-Seal-Stops-Bottle/dp/B000NVW1LM/" target="_blank">Amazon - $10.34 for 8 oz</a>
+</h4>
+
+<h4>
+WIX 57356XP Oil Filter
+</h4>
+
+<h2>My Plan Notes</h2>
+
+<h3>Engine Oil</h3>
+<PRE>
+Preferred oil - 5W-20
+Oil change every 7,500 mi
+Oil Filter change every 15,000 mi
+</PRE>
+
+<h3>Air Filters</h3>
+<PRE>
+Engine Air Cleaner - every 30,000 mi
+Cabin dust and pollen filter - every 30,000 mi
+</PRE>
+
+<h3>automatic transmission fluid</h3>
+
 
 <h4>Interval</h4>
 <PRE>

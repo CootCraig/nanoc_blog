@@ -7,6 +7,15 @@ tags:
   - silverado
 ---
 
+Year 	2002 	
+Engine Type 	5.3L V8 OHV 16V
+Make 	Chevrolet 	
+Driveline 	4WD
+Model 	Silverado 1500
+Trim Level 	Ext. Cab Short Bed 4WD
+
+VIN 1GCEK19TX2E233277
+
 # Touch up paint
 
 <ul>
@@ -92,6 +101,8 @@ and the U stands for upper or body color.
 
 
 # Research
+
+
 
 * [Proline Racks Online Store](http://www.prolineracks.com/)
 * [Proline Safari Roof Basket Racks RB4045](http://www.prolineracks.com/Proline-safari-roof-racks.html)
