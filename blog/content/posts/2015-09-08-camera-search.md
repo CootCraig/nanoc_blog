@@ -23,8 +23,18 @@ DigitalRev TV - Nikon 18-200mm f/3.5-5.6G ED VR II Hands-on Review
 
 ### One-Cent Soft Box (Bounce Card) <a href="http://www.kenrockwell.com/nikon/sb400.htm#card" target="_blank">by Ken Rockwell</a>
 
-The shape of the SB-400 makes it trivial to design a soft box from a single sheet of paper. 
+The shape of the SB-400 makes it trivial to design a soft box from a
+single sheet of paper.
 
+<a href="/assets/pdf/sb-400-diffuser.pdf" target="_blank">local pdf for soft box</a>
+
+#### Bounce card on sb400
+
+<img src="/assets/images/bounce-card-DSC_2314.jpg" width="500px">
+
+#### Taping Detail of bounce card
+
+<img src="/assets/images/bounce-construx-DSC_2322.jpg" width="500px">
 
 #### [ebay purchase](http://vod.ebay.com/vod/FetchOrderDetails?itemid=181862575376&sspagename=STRK%3AMESO%3AVPS&transid=1401459040008&viewpaymentstatus=) $174
 

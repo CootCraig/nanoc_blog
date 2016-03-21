@@ -35,6 +35,11 @@ Dodge Ram Van Class B - old school
 
 # Justin Credible
 
+ 
+#### <a href="https://www.youtube.com/watch?v=OGpho3YVnhw" target="_blank">RV Life: This motorhome fits everywhere!</a>
+
+#### <a href="https://www.youtube.com/watch?v=sr56rMPpfuA" target="_blank">RV Life: Less tech, less problems!</a>
+
 #### <a href="https://www.youtube.com/watch?v=xfobKPh8e7k" target="_blank">What brand new Class B would I buy?</a>
 
 #### <a href="https://www.youtube.com/watch?v=cTI90Kv7QN8" target="_blank">Why I believe older vehicles are the best</a>

@@ -299,6 +299,17 @@ Image: DSC_0043.JPG     date:create: 2015-11-15T18:55:08-07:00
 Image: DSC_0044.JPG     date:create: 2015-11-15T18:55:32-07:00
 ~~~~~~~~~~~~~~
 
+# imap
+
+
+<a href="https://delog.wordpress.com/2011/05/10/access-imap-server-from-the-command-line-using-openssl/" target="_blank">delog.wordpress.com article</a>
+
+
+<PRE>
+openssl s_client -crlf -connect imap.gmail.com:993
+tag login user@gmail.com password
+tag LIST "" "*"
+</PRE>
 
 <!--
 html boilerplate

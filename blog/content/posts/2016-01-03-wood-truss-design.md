@@ -399,6 +399,10 @@ material.
 * Lapped, nonsoldered seam with applied lap sealant. Minimum 1/2:12
 * Standing seam metal roof. Minimum 1/4:12
 
+# Truss examples
+
+Jon Peters Art & Home - Building Roof truss systems for shed, barn, or a tiny house by Jon Peters <a href="https://www.youtube.com/watch?v=mfs4rxBeyK0" target="_blank">youtube</a>
+
 
 <!--
 html boilerplate

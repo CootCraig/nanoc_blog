@@ -4,6 +4,7 @@ created_at: Fri Jan 22 22:27:20 MST 2016
 kind: article
 tags:
   - car_washing
+  - car_detailing
 ---
 
 ## AutoGeekOnline forum
@@ -134,6 +135,9 @@ Auto Fetish Detail - Optimum No-Rinse: Car washing and waxing simplified with be
 Chemical Guys IAI503 Grit Guard Insert, Black
 <a href="http://www.amazon.com/Chemical-Guys-IAI503-Guard-Insert/dp/B00ABYVTZA/" target="_blank">amazon - $7.57</a>
 
+Wizards 10023 Mystic Clay
+
+Griot's Garage 11153 Paint Cleaning Clay 8 FL.OZ
 
 Simoniz S57 Perfect Finish Detailing Clay Bar
 
@@ -211,21 +215,6 @@ ChrisFix - How to Super Clean Your Windshield
 ChrisFix - How to Super Clean the INSIDE of Your Windshield (No Streaks)
 <a href="https://www.youtube.com/watch?v=axI5Luw0Eos" target="_blank">youtube</a>
 
-# Paste Wax
-
-Mothers 05550 California Gold Pure Brazilian Carnauba Wax Paste (Ultimate Wax System, Step 3) - 12 oz.
-<a href="http://www.amazon.com/gp/product/B0002U2V1O" target="_blank">$17.21 - amazon</a>
-
-Acc0rd79 - Mothers Pure Brazilian Carnauba Wax Review and Test Results with Water Test
-<a href="https://www.youtube.com/watch?v=Y6Y4kHQVaok" target="_blank">youtube</a>
-
-
-Auto Fetish Detail - The Best Car Wax: A voice of reason has entered the room!
-<a href="https://www.youtube.com/watch?v=7n5apDr9lds" target="_blank">youtube</a>
-
-
-Chemical Guys WAC301 XXX Hardcore Carnauba Paste Wax - 8 oz.
-<a href="http://www.amazon.com/Chemical-Guys-WAC301-Hardcore-Carnauba/dp/B003UWQFKY" target="_blank">$19 - amazon</a>
 
 # interior vinyl
 
@@ -619,6 +608,20 @@ wally wheatley - BEST CAMPING IDEAS - PORTABLE SHOWER 12volt <a href="https://ww
 
 # Carnauba Wax
 
+Mothers 05550 California Gold Pure Brazilian Carnauba Wax Paste (Ultimate Wax System, Step 3) - 12 oz.
+<a href="http://www.amazon.com/gp/product/B0002U2V1O" target="_blank">$17.21 - amazon</a>
+
+Acc0rd79 - Mothers Pure Brazilian Carnauba Wax Review and Test Results with Water Test
+<a href="https://www.youtube.com/watch?v=Y6Y4kHQVaok" target="_blank">youtube</a>
+
+
+Auto Fetish Detail - The Best Car Wax: A voice of reason has entered the room!
+<a href="https://www.youtube.com/watch?v=7n5apDr9lds" target="_blank">youtube</a>
+
+
+Chemical Guys WAC301 XXX Hardcore Carnauba Paste Wax - 8 oz.
+<a href="http://www.amazon.com/Chemical-Guys-WAC301-Hardcore-Carnauba/dp/B003UWQFKY" target="_blank">$19 - amazon</a>
+
 Autogeek - How to apply a Carnauba Wax using the Straightline Technique <a href="https://www.youtube.com/watch?v=X4zXem8SxkI" target="_blank">youtube</a>
 
 Autogeek on Two Guy's Garage - How to apply a Carnauba wax by hand <a href="https://www.youtube.com/watch?v=-MIWmHJxJQw" target="_blank">youtube</a>
@@ -648,6 +651,164 @@ Collinite #845: The Definitive How-To Guide For This Legendary Wax <a href="http
 # Cleaning glass
 
 $22.99 Aquapel Glass Treatment By PGW 6 Single Use Applicators PPG <a href="http://www.amazon.com/Aquapel-Glass-Treatment-Single-Applicators/dp/B004NFXA7I/" target="_blank">amazon</a>
+
+# power polisher
+
+### PORTER-CABLE 7424XP 6-Inch Variable-Speed Polisher
+
+PORTER-CABLE 7424XP 6-Inch Variable-Speed Polisher <a href="http://www.amazon.com/PORTER-CABLE-7424XP-6-Inch-Variable-Speed-Polisher/dp/B002654I46/" target="_blank">$119 at amazon</a>
+
+Chemical Guys BUFLCBPDA5 Dual-Action Hook and Loop Molded Urethane Flexible Backing Plate - 5 in.  <a href="http://www.amazon.com/Chemical-Guys-BUFLCBPDA5-Dual-Action-Urethane/dp/B00BQVF8J0" target="_blank">$15 at Amazon</a>
+
+#### Porter Cable 7424XP <a href="http://www.autogeek.net/porter-cable-7424xp.html" target="_blank">autogeek.net article</a>
+
+The buffer accepts a 5/16-24 spindle thread
+
+Use the Lake Country Hook & Loop Flexible 5 inch Backing Plate for
+excellent balance and control with the Porter Cable 7424XP Dual Action
+Polisher. Lake Country CCS 6.5 inch Foam Pads or Cobra Cross Groove 6.5
+inch Foam Pads will give you many pad options to tackle any detailing
+challenge.
+
+#### Lake Country Flexible Backing Plate LC-43-125DA <a href="http://www.autogeek.net/lc43125.html" target="_blank">autogeek.net product page</a>
+
+5 inch molded urethane backing plate for excellent flexibility and
+balance by Lake Country MFG.
+
+If German car makers think this backing plate is good enough to use
+on their top-of-the-line vehicles, you can bet it is the best plate
+you can buy for your vehicle. BMW and Mercedes-Benz both hail these
+backing plates as the best because of the outstanding properties of
+molded urethane. These Dual-Action Flexible Backing Plates minimize
+heat transfer, flexes to hug your vehicle’s curves, and are built to
+last. And they are the best backing plates you can buy for the Porter
+Cable 7424XP Dual-Action Polisher.
+
+5 inch lake country backing plate Molded Urethane is where it’s
+at. This material is flexible yet incredibly durable. This plate will
+last through countless, rigorous uses without falling apart or becoming
+unbalanced. Balancing is essential when it comes to polishers because an
+unbalanced plate will bounce, leaving an uneven finish. The reinforced
+inner construction uses steel struts molded into the center hub to give
+the plate stability and maintain an even surface for your pad.
+
+Another benefit of urethane is its resistance to heat. The Flexible
+Backing Plate minimizes the transfer of heat from the motor to the paint
+to prevent burning. Spontaneous heat build-up is also reduced.
+
+Remove and replace pads easily from the hook & loop surface. The hook &
+loop is molded into the plate so it will not come off.
+
+The Flexible Backing Plate LC-43-125DA measures 5 Inches in Diameter
+and is perfect for pads up to 6 inches.
+
+This plate is great for the Porter Cable 7424XP because it has a generous
+edge. Even if you turn the pad onto its side accidentally, there is an
+inch of flexible, beveled urethane between the edge of the plate and the
+inner construction. The backing plate fits any polisher that accepts a
+5/16” thread.
+
+Use the backing plate preferred by some of the leading car manufacturers
+in the world to put the final touches on their vehicles. Our Dual-Action
+Flexible Backing Plate provides the safest, most durable surface for
+your pads so that you get the best performance possible from your
+dual-action polisher.
+
+These backing plates are designed to fit most dual action polishers
+including the Porter Cable 7424XP, Meguiars G110v2 and the Griots Garage
+Random Orbital Polisher.
+
+
+Lake Country Compression Washers 5-Pack <a href="http://www.autogeek.net/backing-plate-compression-washer.html" target="_blank">$5 at autogeek.net</a>
+		
+Lake Country Compression Washers are genuine replacement parts for the
+compression washers found on dual action backing plates. The compression
+washer acts as spacer between the arbor on the polisher and the stud
+seat on the backing plate. These replacement washers are compatible with
+all dual action backing plates including those manufactured by Meguiars,
+Griot’s Garage and 3M.
+
+Lake Country Dual-Action Hook & Loop Flexible Backing Plate 5" <a href="http://www.amazon.com/Dual-Action-Hook-Flexible-Backing-Plate/dp/B0008G1RDK/" target="_blank">$16 at Amazon</a>
+
+The threaded post fits any polisher with a 5/16 diameter
+
+How To Remove Swirls, Scratches & Polish Paint with the Porter Cable 7424XP - Chemical Guys <a href="https://www.youtube.com/watch?v=L5qtEUpVrSM" target="_blank">youtube</a>
+
+Chemical Guys - Porter Cable 7424XP 1-Step Polishing - Chemical Guys Microfiber Polishing V36 Cutting Polish <a href="https://www.youtube.com/watch?v=VCptM4J8UIM" target="_blank">youtube</a>
+
+
+Chemical Guys - Polishing & Buffing Pads - Choosing The Correct Polishing Pad <a href="https://www.youtube.com/watch?v=iFnmfn9mwYc" target="_blank">youtube</a>
+
+Chemical Guys - Porter Cable 7424XP vs Flex 3401 <a href="https://www.youtube.com/watch?v=IWjG9F0_BJg" target="_blank">youtube</a>
+
+Autogeek - Car polishing featuring Porter Cable 7424 <a href="https://www.youtube.com/watch?v=89323lmQ2LI" target="_blank">youtube</a>
+
+Autogeek - Mike Phillips demonstrates the proper techniques on using the Porter Cable 7424XP <a href="https://www.youtube.com/watch?v=Et6Egpw-f-s" target="_blank">youtube</a>
+
+Buffing Pads & Accessories for Porter Cable 7424 and Dual Action Polishers
+http://www.autogeek.net/dual-action-foam-pads.html
+<a href="" target="_blank"></a>
+
+### Junkman2000
+
+Junkman2000 - How Safe is the PC-7424XP? - Part 1 <a href="https://www.youtube.com/watch?v=2XAqpOe9Zt4" target="_blank">youtube</a>
+
+Junkman2000 - How To for Novice to Machine Polishing - Part 1 <a href="https://www.youtube.com/watch?v=KP-eAddv2sk" target="_blank">youtube</a>
+
+Junkman2000 - Junkman Discusses Sealant/Wax Application - Including the Hype! <a href="https://www.youtube.com/watch?v=eiIEHn-9qo8" target="_blank">youtube</a>
+
+Junkman2000 - Answer to the Car Wax Question! <a href="https://www.youtube.com/watch?v=qSOinuGu7Pk" target="_blank">youtube</a>
+
+
+
+# Headlights
+
+Do-it-yourself Headlight Lens Restoration Kits & Polishes <a href="http://www.autogeek.net/headlight-lens.html" target="_blank">autogeek.net article</a>
+
+# Sealants
+
+Meguiar's M21 Mirror Glaze Synthetic Sealant 2.0 - 16 oz.  <a href="http://www.amazon.com/Meguiars-Mirror-Glaze-Synthetic-Sealant/dp/B002J854UC" target="_blank">$21 at Amazon</a>
+
+Optimum Car Wax 128 oz. Refill <a href="http://www.autogeek.net/opcarwa1ga.html" target="_blank">128oz for $38 at autogeek.net</a>
+
+spray on liquid carnauba
+
+Optimum Car Wax <a href="http://www.optimumcarcare.com/owax.php" target="_blank">Product page</a>
+
+Optimum Car Wax is the only spray car wax that provides the durability of
+a paste wax and long-lasting UV protection. A combination of high-grade
+Carnauba wax, sealant polymers and UV inhibitors forms a protective
+layer on the painted surface to protect the paint from sun damage and
+environmental elements for up to 5 months.
+
+Zaino z-cs clear seal
+http://www.zainostore.com/product/Z-CS.html
+
+ultima paint guard plus
+
+Optimum Opti-Seal - 8 oz
+
+
+Chemical Guys - Wax vs Sealant - Chemical Guys JetSeal Celeste Dettaglio Car Care <a href="https://www.youtube.com/watch?v=glB5Xm88HHk" target="_blank">youtube</a>
+
+* Chemical Guys WAC11816 JetSeal Anti-Corrosion Sealant and Paint Protectant - 16 oz.
+* Chemical Guys SS6 Second Skin
+
+Chemical Guys WAC11816 JetSeal Anti-Corrosion Sealant and Paint Protectant - 16 oz.  <a href="http://www.amazon.com/Chemical-Guys-WAC11816-Anti-Corrosion-Protectant/dp/B001TFE38A/" target="_blank">$39 for 16 oz at Amazon</a>
+
+Wolfgang Deep Gloss Paint Sealant
+
+Meguiar's M20 Mirror Glaze Polymer Sealant - 16 oz.
+
+Meguiar's G18216 Ultimate Liquid Wax - 16 oz.  <a href="http://www.amazon.com/Meguiars-G18216-Ultimate-Liquid-Wax/dp/B004HCM9H4/" target="_blank">$19.25/16oz at Amazon</a>
+
+Meguiar's Ultimate Liquid Wax G18216 <a href="https://www.youtube.com/watch?v=RWE1s3dEHNk" target="_blank">MeguiarsUSA product video</a>
+
+Meguiar's G17516 Ultimate Quik Wax <a href="http://www.amazon.com/Meguiars-G17516-Ultimate-Quik-Wax/dp/B001O7PNS2" target="_blank">$12.50 for 15.2oz at Amazon</a>
+
+# Detailer spray
+
+Optimum (ID2008P) Instant Detailer & Gloss Enhancer - 17 oz.  <a href="http://www.amazon.com/Optimum-ID2008P-Instant-Detailer-Enhancer/dp/B00GG9FBJ4" target="_blank">$11.32/17oz at Amazon $43/1gal</a>
 
 
 <!--

@@ -6,9 +6,16 @@ tags:
   - silverado_pickup
 ---
 
+* VIN 1gcek19tx2e233277
 * GM GMT800 platform
 * Engine Vortec 5300 (5.3 L) V8
-* Transmission 4-speed 4L60-E automatic
+* 4l60e - Transmission 4-speed 4L60-E automatic
+* axle,rear,3.73 ratio 3.73r(gt4)
+* engine gas, 8 cyl, 5.3l, mfi 5.3t(lm7)
+* transmission,automatic 4 speed,4l60e,electronic 4-spd a/trans(m30)
+* tire all p245/75r16 bw r/pe st tl als 109s tire(qnk)
+* tire spare p245/75r16 bw r/pe st tl als 109s spare tire(znk)
+* touch up paint BC/CC U 8624 12D Olympic White
 * <a href="http://www.compnine.com/mycar.php?id=5e3f4cec4e27969d49e32e806f723c41" target="_blank">compnine build sheet</a>
 
 # Forums
@@ -22,15 +29,109 @@ tags:
   <li><a href="http://www.gmtruckclub.com/forum/" target="_blank">GM Truck Club</a></li>
 </ul>
 
+# Oil Filter
+
+<ul>
+  <li>ACDELCO PF46</li>
+  <li>ACDELCO PF61</li>
+  <li>Bosch 3334</li>
+  <li>K&N HP-2006</li>
+  <li>K&N PS-2006</li>
+  <li>Royal Purple 20-59</li>
+  <li>Wix 51042XP</li>
+  <li>Wix 51042</li>
+  <li>Wix 51522XP</li>
+  <li>Wix 51522</li>
+</ul>
+
+### Wix Oil Filters
+
+<ul>
+  <li>
+    <a href="http://www.wixfilters.com/Lookup/PartDetails.aspx?Part=153472" target="_blank">Wix 51042</a>
+    <a href="http://www.amazon.com/Wix-51042-Spin--Filter-Pack/dp/B000C9WL6U/" target="_blank">$9.73 at Amazon</a>
+  </li>
+  <li>
+    <a href="http://www.wixfilters.com/Lookup/PartDetails.aspx?Part=1863363" target="_blank">Wix 51042XP</a>
+    Synthetic
+    <a href="http://www.amazon.com/51042XP-Heavy-Duty-Lube-Filter/dp/B00C5T9ZV4/" target="_blank">$14 at Amazon</a>
+  </li>
+  <li>
+    <a href="http://www.wixfilters.com/Lookup/PartDetails.aspx?Part=230356" target="_blank">Wix 51060</a>
+  </li>
+  <li>
+    <a href="http://www.wixfilters.com/Lookup/PartDetails.aspx?Part=1863389" target="_blank">Wix 51060XP</a>
+  </li>
+  <li>
+    <a href="http://www.wixfilters.com/Lookup/PartDetails.aspx?Part=152158" target="_blank">Wix 51036</a>
+  </li>
+  <li>Wix 51036XP 
+    <a href="http://www.amazon.com/51036XP-Heavy-Duty-Lube-Filter/dp/B00C5T9R8K/" target="_blank">$13 at Amazon</a>
+  </li>
+</ul>
+
+# Oil change
+
+How to Change the Oil on a Chevy Silverado <a href="http://www.silveradosierra.com/how-to-articles/how-to-change-oil-on-chevy-silverado-t3.html" target="_blank">silveradosierra.com/how-to-article</a>
+
+
+### Fumoto drain valve
+
+#### <a href="http://www.fumotousa.com/results.php?make=11&year=2002&model=4402&makeid=CHEVROLET&modelid=Silverado+1500++5.3L++V8" target="_blank">Fumoto drain valve product page</a>
+
+#### <a href="http://www.silveradosierra.com/engine/fumoto-f-107n-engine-oil-drain-valve-t152281.html" target="_blank">fumoto f 107n engine oil drain valve</a>
+
+#### <a href="http://www.silveradosierra.com/engine/fumoto-valve-installed-t169002.html" target="_blank">fumoto valve installed</a>
+
+#### <a href="http://www.silveradosierra.com/vortec-5-3l-v8/engine-oil-drain-plug-o-ring-t12186.html" target="_blank">Fumoto drain valve Forum post</a>
+
+Postby O'Brien » Apr 18 2012, 6:25am
+
+Here's a link to the Fumoto site. Mine is just like the one pictured
+at the top left of page. Only difference is I bought an aluminum crush
+seal instead of the blue gasket one pictured. I installed one of these
+a couple of years ago on the wifes Honda S2000. They work good. The L
+nipple is removable and I use a rubber cap over the end nipple after I'm
+finished with the oil change to keep any debris from getting in the hole.
 
 
 # 4L60-E auto tranny
 
 <a href="http://www.4l60eguide.com/" target="_blank">Ultimate 4L60e Guide</a>
 
+### thread by katjar503 - How to do a 4L60E Transmission Service<a href="http://www.silveradosierra.com/how-to-articles/how-to-do-a-4l60e-transmission-service-t761.html" target="_blank">forum thread</a>
 
+* Valvoline Max life Dex/Merc ATF
+* Lube Gard Platinum additive
+* true cool i use the #4590
 
-How To Do A 4l60e Complete Fluid Changeover + Filter <a href="http://www.silveradosierra.com/how-to-articles/how-to-do-a-4l60e-complete-fluid-changeover-filter-t14477.html" target="_blank">forum howto page</a>
+Postby Shawner - I figured that if I had to drop the pan again, might
+as well install a new pan with a drain plug in it so I also ordered a
+Dorman 265-811 tranny oil pan. On my 2007 Silverado classic (4.8L 4x4),
+it fit perfectly. Plus, it was only $12.50!
+
+#### Dorman 265-811 Transmission Oil Pan <a href="http://www.amazon.com/Dorman-265-811-Transmission-Oil-Pan/dp/B002U6ELS4" target="_blank">$38 at amazon</a>
+
+I installed this pan on a 1998 Chevrolet Blazer with a 4L60E automatic
+and the fitment was absolutely perfect. Even though it is deeper than
+the original pan, it still clears the frame rails so no worries about
+bottoming out on it.
+
+I did however notice it doesn't take a whole lot more fluid than the
+stock despite being deeper -- this is neither good nor bad.
+
+THE PAN DOES NOT COME WITH A GASKET
+
+You will need a FelPro TOS 18663 which is a much better gasket than you
+will find in any filter kit.
+
+Remove and re-install the drain plug before you install the pan because
+it's way too tight from the factory. It takes a 17mm bolt.
+
+Also consider changing your transmission fluid to Valvoline Max Life
+which seems to work best in this transmission.
+
+### How To Do A 4l60e Complete Fluid Changeover + Filter <a href="http://www.silveradosierra.com/how-to-articles/how-to-do-a-4l60e-complete-fluid-changeover-filter-t14477.html" target="_blank">forum howto page</a>
 
 
 # 1988–1997 GMT400
@@ -70,6 +171,78 @@ full-size pickup truck platform.
 <td>.1,491,084.</td>
 </tr>
 </table>
+
+
+# Projects
+
+## 4 Rhino ramps
+
+rated 15k
+
+RhinoGear 11912ABMI RhinoRamps MAX Vehicle Ramp - Pair (16,000lb. GVW Capacity) <a href="http://www.amazon.com/RhinoGear-11912ABMI-RhinoRamps-Vehicle-Ramp/dp/B0117EESNC/" target="_blank">$59.60/pair at amazon</a>
+
+Hopkins FloTool RhinoRamp Max 11909MI <a href="http://www.autozone.com/engine-and-vehicle-lift/ramp/hopkins-12000-lbs-rhinoramps-max/89618/" target="_blank">$48/pair at autozone</a>
+
+Hopkins/16000 lbs. RhinoRamps Max 11912MI <a href="http://www.autozone.com/engine-and-vehicle-lift/ramp/hopkins-16000-lbs-rhinoramps-max/366075/" target="_blank">$55/pair at autozone</a>
+
+###
+
+<a href="" target="_blank"></a>
+
+
+
+#### Copperhead <a href="http://www.silveradosierra.com/ecotec3-4-3l-v6/oil-change-advice-t501618.html?hilit=oil%20filter#p5052258" target="_blank">silveradosierra.com post</a>
+
+
+Exactly. I got Rhino brand rated at 15K lb. I have 4 of them. I put one
+under each tire of my 2500 and drive it on up. Not a single worry that
+they will not support the pickup. allows me a easy way to check out
+the entire underside when I change oil and do lube job. I got mine at
+Northern Tool in Des Moines, but they are available anywhere. Rhino ramps
+come in various weight ratings. Get what you think is best and have fun!
+
+I am a stauch supporter of Fumoto drain valves. I have them on everything
+from compact tractors to commercial semi trucks. All my vehicles get
+one at the first oil change. I have had them on Jeeps that went thru
+some real nasty stuff regularly, and my pickups all have to deal with a
+lot of off road ag terrace and washout crossings, corn stalks and sticks
+shoved up into every nook and cranny. I have yet to have a Fumoto valve
+even look like it had been subjected to severe punishment. Been using
+them since the mid 1990's.
+
+## xxx transmission pan
+
+## yyy oil drain valve
+
+## grease fittings
+
+
+##### <a href="http://www.bobistheoilguy.com/forums/ubbthreads.php/topics/211194/Re:_Lack_of_lube_in_Silverado_#Post211194" target="_blank">johnnyo4 - Re: Lack of lube in Silverado fittings</a>
+
+This is the 11 points.
+
+<ol>
+<li>Drivers side, Upper ball joint</li>
+<li>Drivers side, Outer tie-rod end</li>
+<li>Drivers side, Lower ball joint</li>
+<li>Drivers side, Inner tie-rod end</li>
+<li>Drivers side, Pitman arm (at relay rod)</li>
+<li>Passengers side, Idler arm (bottom)</li>
+<li>Passengers side, Idler arm (top)</li>
+<li>Passengers side, Inner tie-rod end</li>
+<li>Passengers side, Lower ball joint</li>
+<li>Passengers side, Outer tie-rod end</li>
+<li>Passengers side, Upper ball joint</li>
+</ol>
+
+The bottom ball joint zerk is hard to see. It's on the side, facing
+backwards.
+
+This is for a 4WD I am not sure if 2WD is different.
+
+It is easy to miss the Pitman arm and the two on the idler arm
+assemblies. Their tucked up high and hard to see.
+
 
 <!--
 html boilerplate

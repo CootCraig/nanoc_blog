@@ -6,8 +6,22 @@ tags:
   - restore_headlights
 ---
 
+## clear coat spray
+
+<ul>
+  <li>Rust-Oleum Automotive 253366 11-Ounce Acrylic Lacquer Spray, Clear Gloss</li>
+  <li>USC Spraymax® 2k Glamour High Gloss Aerosol Clear Part # Usc-3680061</li>
+  <li>Krylon 51313 Satin Finish Crystal Clear Interior and Exterior Top Coat - 11 oz. Aerosol</li>
+  <li>Rust-Oleum 249117 Painter's Touch Multi Purpose Spray Paint, 12-Ounce, Clear</li>
+  <li>2K Glamour High Gloss Clear Coat, Aerosol, 11.8-oz, Pt# 3680061</li>
+  <li>Dupli-Color BCL0125 Clear Exact-Match Automotive Top Coat - 8 oz. Aerosol</li>
+</ul>
+
+
+### <a href="https://www.youtube.com/watch?v=HgNNMj0gGbA" target="_blank">4DIYers youtube</a> 4DIYers - DIY: Headlight Restoration using Clear Coat
+
+### <a href="http://www.instructables.com/id/How-to-Restore-Your-Headlights/" target="_blank">instructables</a>
 How to Restore Your Headlights by gmatta 
-<a href="http://www.instructables.com/id/How-to-Restore-Your-Headlights/" target="_blank">instructables</a>
 
 ## autogeekonline
 
@@ -317,5 +331,8 @@ product line, there are variations from product to product.
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
 -->
 

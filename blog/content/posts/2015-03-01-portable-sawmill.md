@@ -10,6 +10,14 @@ Matthias Wandel - Chainsaw milling experiment
 <a href="https://www.youtube.com/watch?v=EqciYYiwlrQ" target="_blank">youtube</a>
 
 
+Backwoods Patriot - Homesteading: Milling Lumber With The Timberjig Chainsaw Mill <a href="https://www.youtube.com/watch?v=fvlkV_FhuEY" target="_blank">youtube</a>
+
+Land Designs Unlimited LLC - Logosol Timberjig Review 3 - Chainsaw Milling Day <a href="https://www.youtube.com/watch?v=B5TMaozXB-c" target="_blank">youtube</a>
+
+Project of the day - Logosol Farmers M8 and Stihl MS391 <a href="https://www.youtube.com/watch?v=tjI8l9o9Nn0" target="_blank">youtube</a>
+
+
+
 How about a hand saw?
 
 http://www.traditionalwoodworker.com/One-Man-36-Crosscut-Log-Timber-Saw-Regular-Germany/productinfo/501-0900/
