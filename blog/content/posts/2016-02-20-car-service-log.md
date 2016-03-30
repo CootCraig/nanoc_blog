@@ -38,6 +38,8 @@ tags:
   <li>Spark Plugs</li>
   <li>Engine Air Filter</li>
   <li>Cabin Air Filter</li>
+  <li>Parts Replaced</li>
+  <li>Transmission Service</li>
 </ul>
 
 date, mileage, cost, category, Service Parts Notes, Other Notes

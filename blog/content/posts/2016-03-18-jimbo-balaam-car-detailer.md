@@ -9,6 +9,19 @@ tags:
   - jimbo_balaam
 ---
 
+#### <a href="http://www.autodetailingpodcast.com/" target="_blank">The Auto Detailing Podcast - Making You A Better Detailer</a>
+
+Jimbo sells information and consulting for professional detailers.
+He push Google adsense.
+There are some gems for me
+as I want to know the 
+money and time saving
+tips of the professionals.
+However, there is a lot of self promotion and Professional
+insider material for me to wade through.
+
+### <a href="https://www.youtube.com/watch?v=DTvRRui591c" target="_blank">youtube by Jimbo Balaam</a> Auto Detailing Tips: Paint Fillers, Why I love them and HD Speed test 
+
 ### <a href="https://www.youtube.com/watch?v=PWl9mIIzfho" target="_blank">youtube</a> COATINGS!!! The Good, Bad, and UGLY Truth About Ceramic Coatings
 
 #### older to newer

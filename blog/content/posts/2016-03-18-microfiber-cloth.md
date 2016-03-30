@@ -5,8 +5,7 @@ kind: article
 tags:
   - car_detailing
   - car_washing
-  - detailing_people
-  - jimbo_balaam
+  - microfiber
 ---
 
 ## Towels

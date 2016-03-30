@@ -50,6 +50,7 @@ tags:
 
 <ul>
   <li>Optimum Instant Detailer & Gloss Enhancer</li>
+  <li>Original Bike Spirits Spray Cleaner & Polish</li>
 </ul>
 
 ## Sealant or Buffing Wax
@@ -105,10 +106,28 @@ just-clayed finish all the time!
 ## Consumables Considered
 
 <ul>
-  <li> Foam Detergent
+  <li> General spray cleaner
     <ul>
+      <li>Meguiar's D10101 Detailer All Purpose Cleaner Gallon
+        <a href="http://www.amazon.com/Meguiars-D10101-Detailer-Purpose-Cleaner/dp/B0006SH4GE/" target="_blank">$20/gal</a>
+      </li>
+      <li>Meguiar's D10801 Super Degreaser
+        <a href="http://www.amazon.com/Meguiars-D10801-Super-Degreaser-Gallon/dp/B0006SH4HS/" target="_blank">$33/gal at Amazon</a>
+      </li>
+      <li>Optimum (PC2008G) Power Clean
+        <a href="http://www.amazon.com/Optimum-PC2008G-Power-Clean-Gallon/dp/B00BFUG6JS/" target="_blank">$36/gal at Amazon</a>
+      </li>
+    </ul>
+  </li>
+  <li> Foam Gun Detergent
+    <ul>
+      <li>Chemical Guys CWS_110 Honeydew Snow Foam
+        <a href="http://www.chemicalguys.com/Honeydew_Snow_Foam_Cleanser_1_Gal_p/cws_110.htm" target="_blank">chemicalguys.com $30/gal</a>
+      </li>
       <li>Chemical Guys CWS101 Maxi-Suds II Super Suds Car Wash Soap and Shampoo, Cherry Scent</li>
-      <li>Chemical Guys CWS11016 Honeydew Snow Foam</li>
+      <li>McKee's 37 Xtreme Foam Formula
+        <a href="http://www.autogeek.net/128ozdpxtfof.html" target="_blank">autogeek.net $43/gal</a>
+      </li>
     </ul>
   </li>
 
@@ -207,6 +226,19 @@ just-clayed finish all the time!
   </li>
 
   <li>clay bar
+    <ul>
+      <li> Pinnacle Ultra Poly Clay
+        <a href="http://www.autogeek.net/ultra-poly-detailing-clay.html" target="_blank">autogeek.net $30/8oz</a>
+          --
+        <a href="http://www.autogeek.net/piulpoclfcoi.html" target="_blank">$50/16oz</a>
+      </li>
+      <li> Griot's Garage 11153 Paint Cleaning Clay
+        <a href="http://www.amazon.com/Griots-Garage-11153-Paint-Cleaning/dp/B003POLA84/" target="_blank">$20/8oz</a>
+      </li>
+      <li> Griot's Garage 11049 Glass Cleaning Clay
+        <a href="http://www.amazon.com/Griots-Garage-11049-Glass-Cleaning/dp/B004UQQT0A/" target="_blank">Amazon $13/3.5oz</a>
+      </li>
+    </ul>
   </li>
 
   <li>Wheel Cleaner
@@ -232,6 +264,7 @@ just-clayed finish all the time!
 ## Tools Considered
 
 <ul>
+  <li>steam cleaner</li>
   <li>Porter Cable 7424XP</li>
   <li> BONAIRE Ultimate Water Blaster
     <ul>
@@ -404,7 +437,63 @@ wash and reuse such pads in the past but with no success. Virgin seems
 to be the way to go in order for it to flash clear or you'll be left
 going over it to remove streaks.
 
-<!--
+## Annual Wax Stripping Cleaner
+
+### <a href="http://www.autogeek.net/wax-remover.html" target="_blank">autogeek.net Car Wax Removers</a>
+
+#### Prepping vehicle for application of a wax or sealant:
+
+Don’t use dish soap to strip your wax! If you’re looking for a
+product to prep the paint and get it ready for a new coat of wax or
+sealant, you have a couple of options: non-abrasive polish or spray on
+wax remover. Leave the dish soap for the dishes and use one of the dozens
+of products available that will safely remove old waxes and sealants.
+
+#### Popular non-abrasive polishes include:
+
+<ul>
+  <li>McKee's 37 Coating Prep Polish
+    <a href="http://www.autogeek.net/coating-prep-polish.html" target="_blank">autogeek.net $20/16oz</a>
+  </li>
+  <li>Pinnacle Paintwork Cleansing Lotion 
+    <a href="http://www.autogeek.net/pinpainclean.html" target="_blank">autogeek.net $30/16oz</a>
+  </li>
+  <li>
+    P21S Gloss Enhancing Paintwork Cleanser 
+    <a href="http://www.amazon.com/P21S-12350B-Paintwork-Cleanser-Bottle/dp/B016XVDBT6/" target="_blank">amazon</a>
+      --
+    <a href="http://www.autogeek.net/p2paincleanl.html" target="_blank">autogeek.net $16/11.8oz</a>
+  </li>
+  <li>Wolfgang Paintwork Polish Enhancer</li>
+  <li>Duraglosss 1060 - Squeaky Clean Surface Prep 4oz</li>
+  <li> Dawn Ultra Dishwashing Liquid, Original Scent, Blue, 21.6 Ounce (Pack of 2)
+    <a href="http://www.amazon.com/Dawn-Ultra-Dishwashing-Liquid-Original/dp/B001XQ7LOS/" target="_blank">Amazon $12</a>
+      ---
+    <a href="http://www.amazon.com/Ultra-Dishwashing-Liquid-Original-Scent/dp/B00FEM23N6/" target="_blank">Amazon $13.20/56oz</a>
+  </li>
+</ul>
+
+#### Popular spray on wax removers include:
+
+<ul>
+  <li>Griot’s Garage Paint Prep <a href="http://www.amazon.com/Griots-Garage-11135-Paint-Prep/dp/B004UQQVJY/" target="_blank">amazon</a></li>
+  <li>CarPro Eraser Intense Oil & Polish Cleanser</li>
+  <li>Detailer’s Cleanse-All Exterior Cleaner</li>
+</ul>
+
+What’s the difference between non-abrasive polishes and spray on wax
+removers? A non-abrasive polish will remove previously applied waxes
+and sealants while also deep cleaning your paint, ridding it of below
+surface contaminants. A non-abrasive polish is designed to be applied
+by hand or machine. It is the preferred method for removing old waxes
+and sealants. A spray on wax remover will chemically strip the paint of
+all previously applied waxes and sealants. These are generally spray on,
+wipe off products. They will not remove below surface contaminants. If
+you're the type of person that finds yourself applying a different wax
+every chance you get, a spray on wax remover is for you.
+
+
+<!-- 
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
