@@ -18,8 +18,12 @@ tags:
 
 ## <a href="https://github.com/TracksApp/tracks/wiki/Tips-and-tricks" target="_blank">Tips and Tricks</a>
 
+### Free Hosted Tracks <a href="https://github.com/TracksApp/tracks/wiki/Hosted-Tracks" target="_blank">in tips and tricks</a>
 
-## Free Hosted Tracks <a href="https://tracks.tra.in/login" target="_blank">tracks.tra.in</a>
+<ul>
+  <li>tracks.tra.in</li>
+  <li>GTD.pm</li>
+</ul>
 
 ## sub projects
 
