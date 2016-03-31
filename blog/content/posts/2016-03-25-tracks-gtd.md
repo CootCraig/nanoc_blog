@@ -178,6 +178,30 @@ use on a mobile browser.
 
 # Using Tracks
 
+## Using Tags
+
+### From: Greg Sutcliffe 
+
+greg.sutcliffe@gmail.com
+
+#### Subject: Re: [Tracks-discuss] List of tags?
+
+<pre>
+> On 31 March 2016 at 02:54, Craig Anderson <craig@coot.net> wrote:
+> I'm thinking about how I will use tags.
+</pre>
+
+To give you some food-for-thought, I generally use them for:
+
+<ol>
+  <li>places (I have an Errands context, with actions tagged by location)</li>
+  <li>people (so I can pull up an 'agenda' for that person across all contexts)</li>
+  <li>subclassing (e.g. my Home context has many actions tagged 'quick')</li>
+</ol>
+
+Hope that helps your thoughts!
+Greg
+
 ## David Allen
 
 #### <a href="https://www.youtube.com/watch?v=P_c_vzvtONA" target="_blank">youtube</a> A.T. Anthony Gell interview with David Allan - Getting into the nitty gritty of implementing GTD (Getting Things Done)
