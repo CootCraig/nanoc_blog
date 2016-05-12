@@ -2,7 +2,10 @@
 title: "Project Box Survey"
 created_at: Sun Jan  5 09:54:37 MST 2014
 kind: article
-tags: [ 'chipamp' ]
+tags:
+  - chipamp
+  - diy_electronics
+  - electronics_enclosures
 ---
 
 ## ebay search terms
@@ -25,4 +28,21 @@ tags: [ 'chipamp' ]
 * [1444 CWW & 1434 Series - Aluminum Chassis & Bottom Plates with Walnut Side Panels](http://www.hammondmfg.com/dwg21CWW.htm)
 * [1444 & 1434 Series - Aluminum Chassis & Bottom Plates](http://www.hammondmfg.com/dwg21.htm)
 
+## landfallsystems
+
+<a href="https://landfallsystems.com/?content=products/single" target="_blank">single enclosure</a>
+
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->
 

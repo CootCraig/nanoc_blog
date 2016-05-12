@@ -9,9 +9,46 @@ tags:
 
 # Suppliers
 
+
+### <a href="http://www.sliversmill.com/index.html" target="_blank">slivers mill home page</a>
+
+Slivers Mill, a Forrest Saw Blades distributor, aims to be the one-stop
+shop for all of your saw blade needs. WE ARE THE LARGEST STOCKING
+DISTRIBUTOR OF FORREST SAW BLADES AND WILL SHIP MOST ITEMS WITHIN 24
+HOURS. We offer virtually all Forrest blades. Why? Because the quality
+and craftsmanship of Forrest Saw Blades are second to none.
+
+Forrest blades offer a superior cut that leaves a rip-cut saw edge as
+smooth as if it had been sanded, and a cross-cut edge that is almost
+mark-free. The blades run very quietly, and backside tearout in plywood
+is negligible.
+
+Each blade is virtually hand-made. The plate is hand-tensioned (up to 15
+minutes per blade), superior C-4 carbide teeth are hand-brazed to the
+plate, and the blade is straightened and restraightened multiple times
+throughout the process.
+
+Think of a Forest blade as a tool in your shop, not an accessory. It's
+been proven time and again. You'll save money in the long run by using
+high quality Forrest saw blades.
+
+### <a href="http://www.infinitytools.com/" target="_blank">home page</a> Infinity Tools
+
+We specialize in the highest quality carbide router bits, router bit
+sets, shaper cutters, circular saw blades, stacked dado blades, planer
+knives, jointer knives, carbide insert tooling and other woodworking
+accessories. Our online woodworking catalog is designed to make your
+shopping quick and easy. With award-winning products like our 8" Stacked
+Dado Set and 10" General Purpose table saw blade you're sure to find the
+tools you need to make your next project a success. We also feature same
+day shipping on most orders, a knowledgeable customer service staff,
+and a 100% quality guarantee.
+
+
 ### [toolstoday.com](http://www.toolstoday.com/) Tools Today Cutting Tools
 
 rhwsurplussales.com
+
 
 # Matthias Wandel
 
@@ -161,10 +198,26 @@ Makita 4351FCT Barrel Grip Jig Saw with L.E.D. Light
 
 #### [HarborFreight](http://www.harborfreight.com/14-in-24-amp-trim-router-61626.html) $30 Trim Router
 
+## Track Saw
+
+<a href="http://www.amazon.com/Triton-TTS1400-2-Inch-Plunge-Track/dp/B00GJ4VHR6/" target="_blank">$335 at amazon</a> Triton TTS1400 6-1/2-Inch Plunge Track Saw 1400W
+
+
+<a href="http://www.amazon.com/Makita-SP6000J1-2-Inch-Plunge-Circular/dp/B00CHN6L74/" target="_blank">$405 at amazon</a> Makita SP6000J1 6-1/2-Inch Plunge Circular Saw with Guide Rail
+
+https://www.youtube.com/watch?v=hxNkAYgpnzU
+Our Build - Tool Review - Makita SP6000J 165mm Plunge Cut Circular Saw
+
+<a href="http://www.amazon.com/Festool-TS-REQ-Track-Saw/dp/B00C2AKZCO/" target="_blank">$640 at amazon</a> Festool TS 55 REQ Track Saw
+
 
 ## Planer
 
 ### [lumberjocks](http://lumberjocks.com/reviews/3553) Review DeWalt DW 734 $399.00 on amazon
+
+DeWalt DW 734 Heavy-Duty 12-1/2" Thickness Planer with Three Knife Cutter-Head
+
+<a href="http://www.amazon.com/DEWALT-DW734-2-Inch-Benchtop-Planer/dp/B0000CCXU6/" target="_blank">$399 at Amazon</a> DEWALT DW734 15 Amp 12-1/2-Inch Benchtop Planer
 
 #### [holbren.com](http://www.holbren.com/byrd-shelix-head-for-dewalt-dw734_planer-bearings-included-and-installed.html) $447.00 Byrd Shelix head
 
@@ -353,9 +406,59 @@ tools; saw frames and blades; clamps and more.
 
 Olson Saw - spokeshave <a href="http://www.olsonsaw.net/spokeshave.html" target="_blank">product page</a>
 
+## Portable drill guide
+
+<a href="http://www.amazon.com/Wolfcraft-4525404-Attachment-4-Inch-8-Inch/dp/B000JCIMEA" target="_blank">$33 at amazon prime</a> Wolfcraft 4525404 Drill Guide Attachment for 1/4-Inch or 3/8-Inch Drills
+
+
+<img src="/assets/images/wolfcraft-drill-guide.jpg" width="500px">
+
+
+great for what it is By Lungchin on Apr 17, 2015
+
+look - this is not a drill press - and its 30+ bucks -
+
+and yes - tolerances of the slides are not exactly super tight - and the
+bushing of the chuck probably will wear out if used a lot - and handle of
+mine broke off when i tried to shift it a bit while i had it positioned
+with a middli torqued clamp
+
+BUT - i had to drill 5/8 holes for bolting 4x4s together in place for a
+play structure - there is NO way this would have worked out freehand -
+this things was great - clamp it in place - drill ... and holes aligned
+great, were level - and bolt fit through perfectly
+
+make sure you add a few drops of lubricant on bushing - teflon bike
+chain lube or similar works perfectly
+
+<a href="http://toolmonger.com/2008/06/10/accudrill-drill-guide/" target="_blank">toolmonger.com thread</a> Port-Align brand drill guide for over 40 years - Port-Align drill guide
+
+
+<a href="https://www.youtube.com/watch?v=QTXRQlp_Aqw" target="_blank">youtube</a> Highland Woodworking - Portable Drill Guide Product Tour
+
+<a href="http://www.generaltools.com/precision-drill-guide-with-3-8-in-chuck.html" target="_blank">generaltools.com drill guide</a>
+
+<a href="http://www.amazon.com/dp/B00004T82L" target="_blank">$35 at amazon prime</a> General Tools 36/37 Accu Precision Drill Guide
+
+Craftsman equivalent, #967173, is built better.
+
+<a href="http://www.craftsman.com/craftsman-drill-guide/p-00967173000P" target="_blank">$31 at craftsman.com</a> Craftsman Drill Guide - Description Item # 00967173000P Model # 67173
+
+
+
+<a href="http://www.amazon.com/Makita-5377MG-Magnesium-4-Inch-Hypoid/dp/B000N5UR5A/" target="_blank">$149 at amazon prime</a> Makita 5377MG Magnesium 7-1/4-Inch Hypoid Saw 
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->
 

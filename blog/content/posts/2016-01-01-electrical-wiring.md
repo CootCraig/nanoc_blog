@@ -6,6 +6,13 @@ tags:
   - electrical_wiring
 ---
 
+## Residential circuits
+
+<ul>
+  <li>115 volt 1-phase line</li>
+  <li>230 volt 1-phase line</li>
+</ul>
+
 ## Electric Wiring Books
 
 ### Practical Electricity and House Wiring: 1950
@@ -81,5 +88,12 @@ Author: Editors of Creative Publishing, Brevik Tharaldson
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->
 

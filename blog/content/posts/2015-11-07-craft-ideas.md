@@ -21,6 +21,10 @@ because that field probably isn't hiring
 
 <img src="/assets/images/rejoice-star.jpg" width="400px">
 
+
+Irish toast - There are good ships and there are wood ships, the ships that sail the
+sea, but the best ships are friendships and may they always be.
+
 # CNC cutter images
 
 <a href="http://jasondorie.com/page_cnc.html" target="_blank">Jason Dorie CNC Software</a>
@@ -73,8 +77,35 @@ https://www.inventables.com/projects/poker-card-box
 
 <img src="/assets/images/3d-wood-lake-geneva-contour-chart.png" width="800px">
 
+## magnets / buttons
+
+### vintage art glass gem magnet
+
+<a href="http://www.upcycledjunkie.com/blog/craigslist-youre-all-mine" target="_blank">upcycledjunkie.com article</a>
+
+I also got some bags of glass gems from a Dollar Tree yesterday. Which
+for those of you who don't know, everything in a Dollar Tree is actually
+a dollar. :D  They aren't good enough for nice pendants but I was able
+to make some very cute magnets with vintage pictures I got from the New
+York Public Library Digital Collection.
+
+<img src="/assets/images/vintage-art-magnets.jpg" width="650px">
+
+# Furniture
+
+## Danish Teak Lamp
+
+<img src="/assets/images/danish-floor-lamp-teak.jpg" width="500px">
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->

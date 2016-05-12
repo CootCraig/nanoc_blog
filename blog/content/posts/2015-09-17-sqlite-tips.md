@@ -29,6 +29,10 @@ CREATE TABLE sqlite_master (
 sqlite3 tracks.db 'PRAGMA foreign_key_list(projects)'
 </code></pre>
 
+<pre><code>
+sqlite3 tracks.db 'select distinct type from sqlite_master'
+</code></pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -30,6 +30,9 @@ PART 11 MOUNTING THE Dewalt DWE7480 TABLE SAW AND MITER TRACK BACKING
 PART 12: TABLE SAW MOUNTS FOR DeWALT DW744
 <a href="https://www.youtube.com/watch?v=8ExSvvXdXNw&index=13&list=PLB1ATCukiUGRpTw3dlQFSk8uOmIEP3BJ1" target="_blank">youtube</a>
 
+Bosch GTS1031 10-Inch Portable Jobsite Table Saw
+
+DEWALT DW745 10-Inch Compact Job-Site Table Saw with 20-Inch Max Rip Capacity - 120V
 
 ## pocket83
 

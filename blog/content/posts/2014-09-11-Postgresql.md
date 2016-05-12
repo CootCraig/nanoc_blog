@@ -9,6 +9,23 @@ tags:
   - sqltabs
 ---
 
+## Login as postgres using sudo
+
+<pre><code>
+sudo su - postgres
+postgres@ivie:~$ psql
+psql (9.4.6)
+Type "help" for help.
+
+postgres=# \du
+                             List of roles
+ Role name |                   Attributes                   | Member of 
+-----------+------------------------------------------------+-----------
+ postgres  | Superuser, Create role, Create DB, Replication | {}
+
+postgres=# 
+</code></pre>
+
 * [PostgreSQL packages for Debian and Ubuntu](https://wiki.postgresql.org/wiki/Apt)
 * [How to Install PostgreSQL 9.3 on Debian 7 Wheezy](http://www.pontikis.net/blog/postgresql-9-debian-7-wheezy)
 * [PostgreSQL 9.3.5 Documentation](http://www.postgresql.org/docs/9.3/static/index.html)
@@ -54,5 +71,12 @@ Rich SQL console for Postgresql
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->
 

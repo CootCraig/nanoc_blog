@@ -1,11 +1,14 @@
 ---
 title: "DIY Cabling"
-created_at: Sun Jan  5 10:54:37 MST 2014
+created_at: Sat Apr  9 10:38:22 MDT 2016
 kind: article
-tags: ['diy_cabling']
+tags:
+  - diy_cabling
+  - audio_cables
+  - diy_audio_cables
 ---
 
-## Shrink Wrap
+# Shrink Wrap
 <table>
 <tr>
   <th>Inch</th>
@@ -69,5 +72,26 @@ tags: ['diy_cabling']
 </tr>
 </table>
 
-## Cable sleeving
+# Cable sleeving
+
+# Audio cable
+
+### <a href="https://blog.adafruit.com/2016/04/11/trs-ts-rca-and-xlr-cable-connections-explained-musicmonday/" target="_blank">adafruit article and video</a> TRS, TS, RCA, and XLR Cable Connections Explained
+
+
+### <a href="https://www.youtube.com/watch?v=h_T_d18edcw" target="_blank">youtube video</a> NYUScienceOfMusic - Gear 101: Basic Audio Interconnections
+
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->
 

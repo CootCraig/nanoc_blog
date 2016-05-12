@@ -188,6 +188,18 @@ mind. Designed for the most demanding conditions a logger may face. The
 clutch, and wider clutch cover for better dispersal of wood chips. This
 saw also has the power and balance to take longer bar lengths.
 
+### <a href="http://turbosawmill.com/" target="_blank">home page</a> Turbo Sawmill - swing-blade
+
+
+### <a href="https://www.youtube.com/watch?v=KODnkHqjOpk" target="_blank">youtube</a> your home workshop - THE OTHER HOME MADE CHAINSAW MILL
+
+### <a href="https://www.youtube.com/watch?v=zTZ7FaxmXXs" target="_blank">youtube</a> Gabriel Kuate - Swing blade sawmill, best and strong and simple
+
+
+### <a href="https://www.youtube.com/watch?v=dFNpKC3JTVQ" target="_blank">youtube</a> Mike festiva - homemade bandsaw mill
+
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -2,10 +2,34 @@
 title: "Cable Making Skills"
 created_at: Tue Nov 19 02:00:00 MST 2013
 kind: article
-tags: [ 'led','diy']
+tags:
+  - wire
+  - cable
+  - audio
 ---
 
+# What to like
+
+<a href="http://www.markertek.com/product/72401ez-bk/gepco-72401ez-2-cond-24-ga-twisted-pair-audio-cable-black-per-foot" target="_blank">$0.17/ft at markertek</a> Gepco 72401EZ 2 Cond 24 Ga Twisted Pair Audio Cable - Black - Per Foot
+
+
+<a href="http://www.markertek.com/product/nf2d-b-2/neutrik-nf2d-b-2-rca-panel-mount-jack-w-colored-isolation-washer-red" target="_blank">$3.40 at markertek</a> Canare F-09 Narrow Profile RCA Plug
+
+<a href="http://www.markertek.com/product/f-12/canare-f-12-mini-phone-trs-audio-line-plug" target="_blank">$4.97 at markertek</a> Canare F-12 Mini Phone TRS Audio Line Plug
+
+<a href="http://www.markertek.com/product/nf2d-b-0/neutrik-nf2d-b-0-rca-panel-mount-jack-w-colored-isolation-washer-black" target="_blank">$4.22 at markertek</a> Neutrik NF2D-B-0 RCA Panel Mount Jack w/Colored Isolation Washer Black
+
+<a href="http://www.markertek.com/product/nf2d-b-2/neutrik-nf2d-b-2-rca-panel-mount-jack-w-colored-isolation-washer-red" target="_blank">$4.22 at markertek</a> Neutrik NF2D-B-2 RCA Panel Mount Jack w/Colored Isolation Washer - Red
+
+<a href="https://www.youtube.com/watch?v=2OCII1UqS5c" target="_blank">youtube</a> showmecables - 3.5mm Canare Stereo Connector - DIY Project to Repair Your Audio Cable
+
+
+<a href="https://www.youtube.com/watch?v=xONOLbupRV0" target="_blank">youtube</a> DIYChrisMike - DIY Mike iPod to Home Stereo Cable w/3.5mm to dual RCA plugs
+
+
 ## Videos
+
+
 
 * [TubeDepotTV - How To Build A Better Instrument Cable](https://www.youtube.com/watch?v=smg68qgJa-I)
 * [TubeDepotTV - How To Build a Better Speaker Cable](https://www.youtube.com/watch?v=V6ZecDs0GI4)
@@ -354,3 +378,16 @@ http://www.parts-express.com/neutrik-np2c-b-1-4-mono-plug-black-with-gold-plug--
 
 See TubeDepot, Markertek, PartsExpress, ...
 
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->

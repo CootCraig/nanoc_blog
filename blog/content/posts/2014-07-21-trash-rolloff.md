@@ -5,6 +5,11 @@ kind: article
 tags: [ 'handyman', 'trash_rolloff' ]
 ---
 
+<a href="/assets/pdf/rolloff-wci-20160404.pdf" target="_blank">wci contract April 4, 2016</a> 40 yard rolloff to clear garage pen
+
+<a href="http://dmh3.shift2right.net/esign/proposal/6076/81877419-BAD1-42C0-FA00-FF13627DCBEB?status=success" target="_blank">link after esign</a>
+The above pdf was on this link.
+
 ==================== from yellow pages
 C&C Disposal
 582-8940
@@ -17,6 +22,29 @@ A-Affordable Disposal
 
 ====================
 Waste Connections of Pueblo
+(719) 948-0047
+
+20,30,40 all have rear gate.
+$300 for first delivery. $250 for second.
+
+* 20 Yard Size: 22' x 7.5' x 3'5" $300/14 days
+* 30 Yard Size: 22' x 7.5' x 6' $300/14 days
+* 40 Yard Size: 22' x 7.5' x 8' $300/14 days
+
+
+30 Yard Size: 22' x 8' x 5'
+7.5
+6
+22
+
+$300 + $250
+
+40 yard
+
+7.5
+8
+22
+$300
 
 $300.00 10 days
 20 yards
@@ -113,3 +141,15 @@ none
 Sept. 8.
 
 
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->
