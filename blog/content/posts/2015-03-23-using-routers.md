@@ -100,3 +100,19 @@ plywood. Set includes 7/32", 15/32" and 23/32" and a wooden box.
 #### [lumberjocks forum](http://lumberjocks.com/projects/17505) Kent Shepherd version
 
 
+
+#### <a href="https://www.youtube.com/watch?v=rmyGkW16EpI" target="_blank">youtube</a> Jay Bates - Perfect Dados With A Router Dado Jig - 181
+
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->

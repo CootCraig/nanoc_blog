@@ -42,6 +42,7 @@ tags:
   <li>Wix 51042</li>
   <li>Wix 51522XP</li>
   <li>Wix 51522</li>
+  <li>Fram Extra Guard PH3506</li>
 </ul>
 
 ### Wix Oil Filters
@@ -71,6 +72,26 @@ tags:
 </ul>
 
 # Oil change
+
+## filters
+
+<a href="https://www.amazon.com/WIX-Filters-51042-Spin--Filter/dp/B000C9WL6U/" target="_blank">$9.42 at amazon prime</a>
+WIX Filters - 51042 oil filter
+
+## howto
+
+<a href="https://www.youtube.com/watch?v=ajW6d8RU-Q8" target="_blank">youtube</a>
+TheyMightBeRacing - 2005 Chevrolet Silverado 1500 Oil Change
+
+<a href="https://www.youtube.com/watch?v=FWQLJLjHfdk" target="_blank">youtube video</a>
+2CarPros - Oil Change & Filter Replacement 1999-2006 Chevrolet Tahoe, Suburban, Silverado
+
+<a href="https://www.youtube.com/watch?v=FatUpX-Y0bk" target="_blank">youtube video</a>
+Gregory's Garage - Oil Change 2007 Chevy Silverado 1500
+
+<a href="https://www.youtube.com/watch?v=magfQhsvXiU" target="_blank">youtube</a>
+rzrguy14 - How To Change Engine Oil! 2003-2007 Chevrolet Silverado 5.3L V8!
+
 
 How to Change the Oil on a Chevy Silverado <a href="http://www.silveradosierra.com/how-to-articles/how-to-change-oil-on-chevy-silverado-t3.html" target="_blank">silveradosierra.com/how-to-article</a>
 
@@ -248,4 +269,11 @@ assemblies. Their tucked up high and hard to see.
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->

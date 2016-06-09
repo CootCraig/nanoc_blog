@@ -10,6 +10,12 @@ tags:
 
 ## Local page <a href="http://localhost:3010/" target="_blank">here</a>
 
+Run like this.
+<pre>
+cd ~/dev/tracks
+bundle exec rails server -e production -p 3010
+</pre>
+
 ## Tracks Site <a href="http://www.getontracks.org/" target="_blank">here</a>
 
 ## <a href="https://groups.google.com/forum/#!forum/tracksapp" target="_blank">TracksApp Google Group</a>

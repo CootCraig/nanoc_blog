@@ -21,6 +21,41 @@ tags:
   <li>Gilmour Quick Connect <a href="http://gilmour.com/connectors/quick" target="_blank">Product Page</a></li>
 </ul>
 
+## Gardena quick connects
+
+2922 GARDENA Accessory Adapter American Thread
+
+
+
+## Claber quick connects
+
+8639 threaded accessory connector - male thread to male quick
+
+8495 waterstop hose end connector
+
+But no hose end without water stop
+
+## garrettwade Brass Quick-Change
+
+<pre>
+tap|(62K13.04 Hose End Connector)
+
+(62K13.03 Male Adapter)|hose|(62K13.04 Hose End Connector) 
+
+(62K13.03 Male Adapter)|tool
+</pre>
+<a href="http://www.garrettwade.com/solid-brass-quick-change-hose-fittings-gp.html" target="_blank">Garrett Wade hose fittings Page</a>
+
+62K13.03 Male Adapter (#4) $4.50 3/$11.50 -
+male thread to male quick release
+
+62K13.04 Hose End Connector (#3) $7.95 3/$18.65 -
+female thread to female quick release with auto shut off
+
+62K13.02 Tap End Connector (#2) $7.75 3/19.75 -
+female quick release to male thread
+
+
 ## Gardena Quick Connect
 
 ### Gardena Parts
@@ -217,4 +252,8 @@ html boilerplate
 <ul>
   <li></li>
 </ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->

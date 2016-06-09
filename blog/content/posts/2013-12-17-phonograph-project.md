@@ -175,3 +175,30 @@ To buy the disc doctor brushes; these can be found at many audio retailers that 
 
 http://www.mofi.com/product_p/mfslbrush.htm
 
+# MC cart
+
+
+<a href="" target="_blank"></a>
+
+## Denon 301II
+
+
+<a href="http://stores.ebay.com/safeandsoundcarandhomeaudio/" target="_blank">safeandsoundcarandhomeaudio ebay store</a>
+Safe & Sound Inc. is a DENON AUTHORIZED ON-LINE RETAILER.
+
+## pre <a href="http://www.loungeaudio.com/#!lcr-mr-iii/c1vla" target="_blank">loungeaudio.com LCRMKIII Phonograph Preamp</a>
+
+
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->

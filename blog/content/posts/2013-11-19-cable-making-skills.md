@@ -5,6 +5,8 @@ kind: article
 tags:
   - wire
   - cable
+  - diy_cable
+  - cable_making
   - audio
 ---
 
@@ -68,6 +70,15 @@ tags:
 * [Plus Sound Audio Wire](http://www.plussoundaudio.com/diy/wires.html)
 
 Seen on ebay - 5 feet stranded 30 AWG Silver Teflon Wire Yellow White
+
+## <a href="http://www.cableorganizer.com/index_hero.html" target="_blank">cableorganizer.com</a>
+
+### <a href="http://www.cableorganizer.com/audio-video-connectors/#rca" target="_blank">cableorganizer.com RCA Audio/Video Connectors</a>
+
+
+
+### <a href="https://www.computercablestore.com/" target="_blank">computercablestore.com</a>
+
 
 ### Hobby Engineering
 
@@ -377,6 +388,40 @@ http://www.parts-express.com/neutrik-np2c-b-1-4-mono-plug-black-with-gold-plug--
 
 
 See TubeDepot, Markertek, PartsExpress, ...
+
+
+# cable and connectors
+
+<a href="http://www.markertek.com/category/Audio-Connectors" target="_blank">markertek.com audio connectors</a>
+
+<a href="http://www.markertek.com/product/lv-77s-rd/canare-lv-77s-75-ohm-video-coaxial-cable-by-the-foot-red" target="_blank">markertek.com</a> Canare LV-77S 75 Ohm Video Coaxial Cable by the Foot - Red
+
+<a href="http://www.markertek.com/product/b8281f/belden-flexible-8281-cable" target="_blank">markertek.com</a>
+Belden Flexible 8281 Cable
+
+<a href="http://www.markertek.com/product/rcap-c77/canare-rcap-c77-rca-crimp-plug-fits-canare-lv-77s-and-belden-8281f" target="_blank">markertek.com</a>
+Canare RCAP-C77 RCA Crimp Plug fits Canare LV-77S and Belden 8281F
+
+<a href="http://www.markertek.com/product/sw3502abau/switchcraft-3502abau-longbody-rca-male-black-gold" target="_blank">markertek.com</a>
+Switchcraft 3502ABAU Longbody RCA Male Black/Gold
+
+<a href="http://www.markertek.com/product/sw3502rabau/switchcraft-3502rabau-right-angle-cable-mount-rca-plug-gold-pin-black-body" target="_blank">markertek.com</a>
+Switchcraft 3502RABAU Right Angle Cable Mount RCA Plug - Gold Pin / Black Body
+
+<a href="http://www.markertek.com/product/35hdbau/switchcraft-35hdbau-3-5mm-stereo-plug-with-black-handle-and-gold-plug" target="_blank">markertek.com</a>
+Switchcraft 35HDBAU 3.5mm Stereo Plug with Black Handle and Gold Plug
+
+
+## Todd Krieger on 75 ohm BNC
+
+#### <a href="http://db.audioasylum.com/mhtml/m.html?forum=digital&n=180940" target="_blank">audioasylum.com post</a>
+
+A 75-ohm BNC jack looks like this...... Note the absence of dielectric
+around the female pin.
+
+<a href="https://www.computercablestore.com/" target="_blank">computercablestore.com</a>
+
+<img src="/assets/images/0002313_24-port-fully-loaded-75-ohm-bnc-coaxial-patch-panel-2u.jpeg" width="400px">
 
 
 <!--

@@ -7,8 +7,13 @@ tags:
   - car_detailing
 ---
 
-## AutoGeekOnline forum
+### <a href="http://www.autogeekonline.net/forum/forum.php" target="_blank">AutoGeekOnline forum</a>
 
+#### <a href="http://www.autogeekonline.net/forum/ask-mike-phillips-your-detailing-questions/99631-how-remove-encrusted-tree-sap.html" target="_blank">autogeekonline.net/forum</a> Thread: How to remove encrusted tree sap.
+
+isopropyl alcohol
+
+#### <a href="http://www.autogeekonline.net/forum/auto-detailing-101/100994-has-anyone-removed-dried-tree-sap-severals-weeks-after-without-visible-signs-damage-clear-coat.html" target="_blank">autogeekonline.net/forum</a> Thread: Has anyone removed dried tree sap severals weeks after without visible signs of damage to clear coat?
 
 #### <a href="http://www.autogeekonline.net/forum/ask-mike-phillips-your-detailing-questions/76428-microfiber-towels-how-many.html#post1043612" target="_blank">Rmd - Re: Microfiber Towels - How many?</a>
 

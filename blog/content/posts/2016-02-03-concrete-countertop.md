@@ -19,6 +19,9 @@ HomeMadeModern - DIY Concrete Countertops
 <a href="https://www.youtube.com/watch?v=eyouJ9Kx1OQ" target="_blank">youtube</a>
 
 
+<a href="https://www.youtube.com/watch?v=9866dmfJxUU" target="_blank">youtube</a>
+Robin Lewis - Make Your Own Concrete Countertop, It's Easier Than You Think
+
 <!-- html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
