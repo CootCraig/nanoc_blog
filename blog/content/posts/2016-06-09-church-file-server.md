@@ -42,6 +42,8 @@ LONDON 20th April 2016: Canonical announced today it will release Ubuntu
 LXD pure-container hypervisor. This is the latest version of the world’s
 most widely used Linux platform across desktop, IoT and cloud computing.
 
+<a href="http://releases.ubuntu.com/16.04/ubuntu-16.04-server-amd64.iso" target="_blank">ubuntu.com 16.04 server iso</a>
+
 <a href="https://wiki.ubuntu.com/XenialXerus/ReleaseNotes" target="_blank">16.04 release notes</a>
 
 

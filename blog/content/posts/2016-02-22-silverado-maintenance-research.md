@@ -73,10 +73,15 @@ tags:
 
 # Oil change
 
+6 qt. oil
+
 ## filters
 
 <a href="https://www.amazon.com/WIX-Filters-51042-Spin--Filter/dp/B000C9WL6U/" target="_blank">$9.42 at amazon prime</a>
 WIX Filters - 51042 oil filter
+
+Fram Extra Guard PH3506 on
+Fri Jun 10 12:46:44 MDT 2016
 
 ## howto
 
@@ -92,9 +97,9 @@ Gregory's Garage - Oil Change 2007 Chevy Silverado 1500
 <a href="https://www.youtube.com/watch?v=magfQhsvXiU" target="_blank">youtube</a>
 rzrguy14 - How To Change Engine Oil! 2003-2007 Chevrolet Silverado 5.3L V8!
 
-
 How to Change the Oil on a Chevy Silverado <a href="http://www.silveradosierra.com/how-to-articles/how-to-change-oil-on-chevy-silverado-t3.html" target="_blank">silveradosierra.com/how-to-article</a>
 
+<a href="https://www.youtube.com/watch?v=gIr3kddc8H4" target="_blank">youtube</a> 1A Auto Parts - How To Do An Oil Change 2000-06 5.3L Chevy Suburban
 
 ### Fumoto drain valve
 
