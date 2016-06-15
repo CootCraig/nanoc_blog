@@ -4,6 +4,8 @@ created_at: Mon Feb 22 10:38:01 MST 2016
 kind: article
 tags:
   - silverado_pickup
+  - auto_maintenance
+  - silverado_maintenance
 ---
 
 * VIN 1gcek19tx2e233277
@@ -75,7 +77,21 @@ tags:
 
 6 qt. oil
 
-## filters
+
+### <a href="http://www.fumotousa.com/parts.php?partname=F107N&partnumber=34" target="_blank">Fumoto f107n drain valve w/nipple</a>
+
+
+F-HOSE
+3/8" ID X 3 FT VINYL HOSE
+Vinyl drain hose for FN, FS and FSW series valves with 3/8" nipple
+
+
+## oil filters
+
+<ul>
+  <li>Wix 51060XP</li>
+  <li>Wix 51036XP</li>
+</ul>
 
 <a href="https://www.amazon.com/WIX-Filters-51042-Spin--Filter/dp/B000C9WL6U/" target="_blank">$9.42 at amazon prime</a>
 WIX Filters - 51042 oil filter
@@ -269,6 +285,41 @@ This is for a 4WD I am not sure if 2WD is different.
 It is easy to miss the Pitman arm and the two on the idler arm
 assemblies. Their tucked up high and hard to see.
 
+
+# Cab air filter
+
+Wix 24805
+<a href="https://www.amazon.com/WIX-Filters-24805-Cabin-Panel/dp/B000C9WJ2Q/" target="_blank">$16.24 at amazon prime</a>
+
+
+<a href="http://www.silveradosierra.com/how-to-articles/how-to-cabin-air-filter-99-02-t8476.html" target="_blank">silveradosierra.com how to</a>
+How to Cabin Air Filter 99-02
+
+# Engine Air filter
+
+<a href="https://www.amazon.com/WIX-Filters-42488-Filter-Panel/dp/B000C9WK20/" target="_blank">$20.40 at amazon prime</a>
+my pick - Wix 42488 Air Filter
+
+<ul>
+  <li>Wix 42488 Air Filter - $20 at amazon prime</li>
+  <li>Wix 42487 Air Filter - $20 at amazon prime</li>
+  <li>
+        Fram CA8755A Extra Guard Flexible Panel Air Filter 
+        <a href="https://www.amazon.com/Fram-CA8755A-Extra-Flexible-Filter/dp/B000C31J9G/" target="_blank">$12.47 at amazon prime</a>
+  </li>
+  <li>K&N 33-2129 </li>
+  <li>Bosch 5499WS / F00E164808 Workshop Engine Air Filter </li>
+  <li>Purolator PA45314 PureONE Air Filter</li>
+  <li>Spectre Performance HPR8755 Air Filter </li>
+</ul>
+
+## K&N 33-2129  - 2016 Chevrolet Silverado 1500 5.3L V8 Air Filter
+
+<ul>
+  <li>Designed to increase horsepower & torque for the 2016 Chevrolet Silverado 1500 with the 5.3L engine.</li>
+  <li>Washable & Reusable</li>
+  <li>This K&N Silverado 1500 air filter lasts the lifetime of your vehicle.</li>
+</ul>
 
 <!--
 html boilerplate

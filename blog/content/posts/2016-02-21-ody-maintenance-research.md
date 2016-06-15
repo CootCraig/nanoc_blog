@@ -184,6 +184,21 @@ ebay search: 2004 Honda Odyssey timing belt water pump kit
 
 # Engine Oil
 
+## preferred oil filter
+
+<ul>
+  <li>WIX 57356xp filter</li>
+  <li>WIX 58129 Filter</li>
+</ul>
+
+## fumoto drain plug
+
+fumoto F106S
+M14-1.5 DRAIN VALVE W/SHORT NIPPLE
+
+fumoto ADL-106
+ADAPTER (LONG) FOR F-106 M14-1.5
+
 ## oil and filter change
 
 ExcelDriveVideo - 2000 Honda Odyssey; Oil Change How To Step by Step <a href="https://www.youtube.com/watch?v=lpiT7_w5NdA" target="_blank">youtube</a>
@@ -488,6 +503,14 @@ summer and did this procedure twice to swap out the old blue honda for
 the prestone coolant. Always good to measure how much coolant came out
 before discarding.
 
+
+# engine Air filter
+
+wix 46803
+
+# cabin air filter
+
+wix 24893
 
 
 <!--

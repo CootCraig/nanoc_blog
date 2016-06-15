@@ -97,6 +97,15 @@ York Public Library Digital Collection.
 
 <img src="/assets/images/danish-floor-lamp-teak.jpg" width="500px">
 
+# Rado Kirov
+
+## <a href="http://www.rado-kirov.com/" target="_blank">Rado Kirov site</a>
+
+### A liquid landscape
+
+<img src="/assets/images/rado-kirov-wall-art.png" width="600px">
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

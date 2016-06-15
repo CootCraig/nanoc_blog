@@ -6,6 +6,7 @@ tags:
   - woodworking
   - woodworking_tools
   - circular_saw
+  - diy_shims
 ---
 
 Kreg KMA2600 Square-Cut 
@@ -193,10 +194,10 @@ Steve Ramsey - Cutting plywood: how to break down sheet goods.
 <a href="https://www.youtube.com/watch?v=G7FkD0iFIwA" target="_blank">youtube</a>
 Jeff Patterson - Cutting Plywood and Sheet Goods with Kreg's Rip-Cut--by Home Repair Tutor
 
-<a href="https://www.youtube.com/watch?v=pAeWKBJpjUg" target="_blank">youtube</a>
+<a href="https://www.youtube.com/watch?v=pAeWKBJpjUg" target="_blank">kreg youtube</a>
 Kreg Tool Tip: Simple Ideas for Successful Cuts with the Rip-Cut™
 
-<a href="https://www.youtube.com/watch?v=vgCncJ0N0gs" target="_blank"></a>
+<a href="https://www.youtube.com/watch?v=vgCncJ0N0gs" target="_blank">kreg youtube</a>
 Kreg Tool - Quick Tip: Set Your Kreg Rip-Cut™ for Accurate Cuts
 
 <a href="https://www.youtube.com/watch?v=BtRDvc24dCE" target="_blank">youtube</a>
@@ -233,6 +234,13 @@ $10 - Oshlun SBW-055036 5-1/2-Inch 36 Tooth ATB Finishing and Trimming Saw Blade
 $8.80 - Oshlun SBW-054024 5-3/8-Inch 24 Tooth ATB General Purpose and Trimming Saw Blade with 20mm Arbor
 
 $14 - Freud D0518x 5-1/2-Inch x 18 Tooth
+
+## cut shims with circular saw
+
+
+<a href="https://www.youtube.com/watch?v=mD8n4wMG_Qw" target="_blank">youtube</a>
+themrhelperguy - How to make wood shims
+
 
 <!--
 html boilerplate

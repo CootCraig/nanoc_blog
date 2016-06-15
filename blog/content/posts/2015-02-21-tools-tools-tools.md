@@ -449,6 +449,19 @@ Craftsman equivalent, #967173, is built better.
 <a href="http://www.amazon.com/Makita-5377MG-Magnesium-4-Inch-Hypoid/dp/B000N5UR5A/" target="_blank">$149 at amazon prime</a> Makita 5377MG Magnesium 7-1/4-Inch Hypoid Saw 
 
 
+# Skil 100 power plane
+
+<a href="http://www.ebay.com/itm/SKIL-HEAVY-DUTY-MODEL-100-POWER-PLANE-5-5-Amps-115-V-L-/272267405375?hash=item3f6466e83f" target="_blank">ebay - SKIL HEAVY DUTY - MODEL 100 POWER PLANE</a>
+
+### SKIL Model 96 Power Plane
+
+Its similar the the legendary skil 100 surfboard planer same wide
+blades.. But this its 3.5 amp Super ligh its rare hard to find its made
+in japan!!!
+
+<a href="http://www.ebay.com/itm/SKIL-Model-96-Electric-Power-Plane-Planer-/282052714646" target="_blank">ebay skil 96</a>
+Sat Jun 11 14:38:50 MDT 2016
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

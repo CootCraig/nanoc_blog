@@ -44,6 +44,11 @@ most widely used Linux platform across desktop, IoT and cloud computing.
 
 <a href="http://releases.ubuntu.com/16.04/ubuntu-16.04-server-amd64.iso" target="_blank">ubuntu.com 16.04 server iso</a>
 
+<pre><code>
+md5sum
+23e97cd5d4145d4105fbf29878534049 ubuntu-16.04-server-amd64.iso
+</code></pre>
+
 <a href="https://wiki.ubuntu.com/XenialXerus/ReleaseNotes" target="_blank">16.04 release notes</a>
 
 
@@ -60,6 +65,24 @@ separate your services and move them around based on demand.
 
 The default virtualization technology supported in Ubuntu is KVM. KVM
 requires virtualization extensions built into Intel and AMD hardware.
+
+# install
+
+## Install Package tasks
+
+During the Server Edition installation you have the option of installing
+additional packages from the CD. The packages are grouped by the type
+of service they provide.
+
+<ul>
+  <li>OpenSSH server: Selects packages needed for an OpenSSH server.</li>
+  <li>Samba File server: This task sets up your system to be a Samba file server, which is especially suitable in networks with both Windows and Linux systems.</li>
+  <li>Virtual Machine host: Includes packages needed to run KVM virtual machines.</li>
+</ul>
+
+Later tasksel command can be used.
+
+# other
 
 #### <a href="https://help.ubuntu.com/lts/serverguide/virtualization.html" target="_blank">Virtualization</a>
 

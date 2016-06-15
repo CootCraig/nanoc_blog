@@ -5,8 +5,8 @@ kind: article
 tags:
   - woodworking
   - ron_paulk
+  - diy_shim
 ---
-
 
 
 EASY DADO WITH A MITER SAW <a href="https://www.youtube.com/watch?v=YynWuNeGuQY" target="_blank">youtube</a>
@@ -44,6 +44,10 @@ DEWALT DW745 10-Inch Compact Job-Site Table Saw with 20-Inch Max Rip Capacity - 
 ## Dave Gatton
 
 <a href="https://www.youtube.com/watch?v=G2UBAkrYqWI" target="_blank">Table Saw Fence</a>
+
+
+<a href="https://www.youtube.com/watch?v=dSAF_K_pl8w" target="_blank">youtube</a>
+Ron Paulk - TABLE SAW SHIM JIG: TOOL TIP#5
 
 ~~~~~~~~~~~~~~~~
 <a href="" target="_blank"></a>
