@@ -21,6 +21,10 @@ Ron Paulk - YES, YOU HAVE THE TIME TO GET ORGANIZED.
 
 # PAULK WORK BENCH II
 
+
+<a href="https://www.youtube.com/watch?v=A1F3y41Tn9A" target="_blank">youtube</a>
+Jay Bates shows how to use Harbor Freight inexpensive clamps
+
 Ron Paulk - PAULK WORK BENCH II
 <a href="https://www.youtube.com/watch?v=KnNi6Tpp-ac" target="_blank">youtube</a>
 

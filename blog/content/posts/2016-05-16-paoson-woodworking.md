@@ -14,6 +14,21 @@ tags:
 
 <a href="https://www.youtube.com/user/gpaoson" target="_blank">paoson youtube channel</a> https://www.youtube.com/user/gpaoson
 
+<a href="http://paoson.com/downloads/en/shop/39-3d-router.html" target="_blank">paoson.com - 3D Router Plans</a>
+
+
+<img src="/assets/images/3d-router-1.jpg" width="550px">
+
+<img src="/assets/images/3d-router-2.jpg" width="550px">
+
+<img src="/assets/images/3d-router-3.jpg" width="550px">
+
+<a href="https://www.youtube.com/watch?v=DcvD7Fm9xGo" target="_blank">youtube</a>
+Paoson WoodWorking - Homemade Adjustable Routing Template
+
+
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

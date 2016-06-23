@@ -32,7 +32,7 @@ tags:
   <li>Vehicle Acquired</li>
   <li>Oil Change</li>
   <li>New Tires</li>
-  <li>Tire Rotation</li>
+  <li>tire rotation</li>
   <li>Fuel Filter</li>
   <li>Oil and Filter Change</li>
   <li>Spark Plugs</li>
@@ -41,6 +41,7 @@ tags:
   <li>Parts Replaced</li>
   <li>wiper blades</li>
   <li>Transmission Service</li>
+  <li>misc. service</li>
 </ul>
 
 date, mileage, cost, category, Service Parts Notes, Other Notes
@@ -52,17 +53,34 @@ Honda 7500 mile or 1 year oil change interval
 Craig 4000 mile or 6 month oil change interval
 
 2016-02-25, 102113mi, $35.07, Oil and Filter Change, Wix 57356XP oil filter $10.60, Mobil 1 5w20 5qt $25.47, Other Notes
-change oil at 102113mi + 4000 = 106113 or Sept. 2017 (2016-08-25)
+2016-06-13, 104525, 0, misc. service, oil topped off, Other Notes
 </pre>
 
+### Next service items
+
+<pre>
+New tires fall of 2016
+change oil at 106113 = 102113 + 4000 or Sept. 2017 (2016-08-25)
+</pre>
 
 # Silverado
 
 <pre>
 Chevrolet oil change by on board computer or 3000 mi.
 Craig 4000 mile or 6 month oil change interval
+tire rotation - 5000 mi
 2016-01-14, 171162 mi, , Oil Change
+2016-01-14, 171156, 0, Tire Rotation, Discount Tire,
 2016-06-10, 176929 mi, $32, Oil Change, $28 for 6 qt oil $4.05 for oil filter, Mobil 1 oil; fram ph3506 oil filter
+2016-06-16, 177060, 0, tire rotation, Discount Tire, Other Notes
+
+
+</pre>
+
+### Next service items
+
+<pre>
+tire rotation 181156 mi = 176156 + 5000
 change oil at 176929 + 3000 = 179929 (because of fram filter, will use wix next time) or Jan. 2017 (2017-01-10)
 </pre>
 

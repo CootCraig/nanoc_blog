@@ -9,6 +9,11 @@ tags:
   - diy_shims
 ---
 
+# DW364
+
+
+<a href="/assets/pdf/dewalt-dw364-instruction-manual.pdf" target="_blank">Dewalt DW364 manual</a>
+
 Kreg KMA2600 Square-Cut 
 
 Kreg KHC-RAC Right Angle Clamp 

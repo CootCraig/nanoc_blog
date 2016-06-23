@@ -106,6 +106,12 @@ York Public Library Digital Collection.
 <img src="/assets/images/rado-kirov-wall-art.png" width="600px">
 
 
+# Free Motion Quilt Stippling
+
+<a href=""http://leahday.com/pages/stippling target="_blank">leahday.com article</a>
+Learn How to Free Motion Quilt Stippling
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

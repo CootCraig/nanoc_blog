@@ -7,6 +7,7 @@ tags:
   - toner_transfer_to_wood
 ---
 
+Start with Jay Bates
 
 <!--
 html boilerplate
