@@ -87,10 +87,6 @@ John Telfer outlines his project exploring the interrelationship of cymatic phen
 
 <a href="http://www.cymaticsource.com/audio/PsienceProject.mp3" target="_blank">Jeff Volk, interview with Jill Hanson</a>
 
-
-<a href="/assets/audio/PsienceProject.mp3" target="_blank">local copy</a>
-Jeff Volk, interview with Jill Hanson,
-
 <a href="https://www.youtube.com/watch?v=NDX38SLJoJ4" target="_blank">youtube</a>
 Mr2Tuff2 - Sound Waves Greatest Hits
 
