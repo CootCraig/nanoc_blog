@@ -139,14 +139,44 @@ sandpaper on bottom for friction.
 
 Very good, concise article.
 
+### U channel
+
+<a href="http://www.orangealuminum.com/index.php/bar-stock/channels.html?cut_length=146&fits=718" target="_blank">orangealuminum.com 6063-T5 channel</a>
+
+Ask for 9' 6" length to be under 10' for FedEx shipping.
+
+Price will be about $19 + $15 = $34 shipped
+
+
+<pre>
+Product Info
+ALLOY 	6063-T5
+CUT LENGTH 	3, 6, 8, and 12 Foot Cut Lengths
+TOLERANCE 	Standard System of Measurement Inch Material
+MET 	ASTM
+Channels: Clear Anodized
+FINISH 	Clear Anodized Finish
+CUT LENGTH 	6 Foot Cut Lengths. Inquire about 12 Foot Lengths.
+
+Width x Height 	Fits 	Sku 	Each
+ 
+1/16" Wall Thickness
+11/16" x 1/2" 	9/16" 	OA1801-12 	$18.42
+</pre>
+
+
 ### laminate for edge
-
-
 
 <a href="http://www.amazon.com/FastCap-FE-SP-15-16-50-WH-FastEdge-Edgebanding/dp/B0006NNK8U/" target="_blank">$18.21 - </a>
 FastCap FE.SP.15/16-50.WH 15/16 x 50' FastEdge PVC Edgebanding, White
 
 <a href="http://www.fastcap.com/estore/pc/fastedge-peel-and-stick-edgebanding.asp" target="_blank">fastedge product page</a>
+
+<a href="https://www.youtube.com/watch?v=Iiw1aiYBPoA" target="_blank">youtube</a>
+Ron Paulk - FastCap Edge Banding
+
+<a href="https://www.youtube.com/watch?v=ydUNw_EWt78" target="_blank">youtube</a>
+Fastcap demo -Applying Wood Fastedge - Edge Banding 
 
 
 ## Ryobi cordless circular saw

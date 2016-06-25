@@ -3,6 +3,7 @@ title: "Paoson Woodworking"
 created_at: Mon May 16 10:56:17 MDT 2016
 kind: article
 tags:
+  - paoson_woodworking
   - woodworking_people
   - woodworking
   - woodworking_tools
@@ -26,7 +27,9 @@ tags:
 <a href="https://www.youtube.com/watch?v=DcvD7Fm9xGo" target="_blank">youtube</a>
 Paoson WoodWorking - Homemade Adjustable Routing Template
 
+## 3d router
 
+<a href="https://www.youtube.com/watch?v=NG9IAndPcrw&list=PL-zsYqBu58GqP5ps6n9TgjUzQRI4Z3gHQ" target="_blank">youtube playlist</a>
 
 
 <!--

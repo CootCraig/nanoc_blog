@@ -7,6 +7,7 @@ tags:
   - woodworking_people
   - matthias_wandel
   - woodgears.ca
+  - pantorouter
 ---
 
 
@@ -22,6 +23,23 @@ tags:
 
 <a href="https://www.youtube.com/watch?v=IDGzf04W62A" target="_blank">youtube</a> Matthias Wandel - Plasma cutting pantograph
 
+
+# Pantorouter
+
+<a href="https://www.youtube.com/watch?v=8wZ1v4PIsYI" target="_blank">youtube</a>
+Matthias Wandel - How the pantorouter works
+
+
+# 3-D pantograph
+
+<a href="https://www.youtube.com/watch?v=iUGkroZus_Y" target="_blank">youtube</a>
+Matthias Wandel - 3D letter carving
+
+<a href="https://www.youtube.com/watch?v=vtm4u583YOQ" target="_blank">youtube</a>
+Matthias Wandel - Building the 3-D pantograph
+
+<a href="https://www.youtube.com/watch?v=2lKNGb9Hs08" target="_blank">youtube</a>
+Matthias Wandel - Inlay carving with a router pantograph
 
 
 <!--

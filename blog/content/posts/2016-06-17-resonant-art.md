@@ -91,8 +91,13 @@ John Telfer outlines his project exploring the interrelationship of cymatic phen
 Mr2Tuff2 - Sound Waves Greatest Hits
 
 
+## fps1000 camera
+
 <a href="http://www.gizmag.com/fps1000-affordable-slow-motion-camera/34161/" target="_blank">gizmag.com article on fps1000</a>
 FPS1000: The low cost, high speed slow-mo camera
+
+
+<a href="https://fps1000.backerkit.com/hosted_preorders" target="_blank">fps1000.backerkit.com</a>
 
 ## Ron Pellegrino
 
