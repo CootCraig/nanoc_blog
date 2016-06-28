@@ -159,6 +159,25 @@ of installation on filter after installing it for quick reference.
 * ACDelco - Fuel Filter - Part # GF652F - $16
 * K&N Engineering - Fuel Filter - Part # PF1000 - $12
 
+## Transmission Cooler
+
+4L60E - TRANSMISSION,AUTOMATIC 4 SPEED,4L60E,ELECTRONIC 4-SPD A/TRANS(M30)
+
+Tru-Cool # LPD4739, 40,000 GVW rating, 45,000 BTU rating.
+Get the one with cold weather bypass.
+
+<ul>
+  <li><a href="http://www.trucool.com/products/tru-cool-max" target="_blank">trucool.com product page</a></li>
+  <li><a href="http://www.transmissioncoolers.us/4739.html" target="_blank">$187.37 transmissioncoolers.us/4739</a></li>
+  <li><a href="https://www.amazon.com/Tru-Cool-LPD47391-Pressure-Transmission-Cooler/dp/B0060NKA1U/" target="_blank">Amazon $140</a></li>
+  <li>Code: 4739</li>
+  <li>Tru-Cool # LPD4739, 40,000 GVW rating, 45,000 BTU rating</li>
+  <li>8 1/2 x 22 3/4 x 1 1/4 inch</li>
+  <li>3/8 inverter flare (fittings are included for thread to hose barbs) Includes external thermal bypass for cold climates!</li>
+</ul>
+ 
+
+
 
 <!--
 html boilerplate

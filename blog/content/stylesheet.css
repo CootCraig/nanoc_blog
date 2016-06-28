@@ -99,3 +99,7 @@ a:hover {
 
   line-height: 20px;
 }
+
+.table-pad {
+  padding: 10px 10px 10px 10px;
+}

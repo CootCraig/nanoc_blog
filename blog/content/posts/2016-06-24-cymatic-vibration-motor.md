@@ -10,7 +10,7 @@ tags:
 Make a variable speed vibration motor
 using an arduino and a tinyESC v2
 
-## tinyESC v2 - Brushed Speed Controller
+## tinyESC v2 - Brushless Speed Controller
 
 <a href="https://www.sparkfun.com/products/13204" target="_blank">sparkfun page</a> tinyESC v2 - Brushed Speed Controller 
 
@@ -20,11 +20,91 @@ using an arduino and a tinyESC v2
 <a href="http://www.fingertechrobotics.com/proddetail.php?prod=ft-tinyESCv2" target="_blank">fingertechrobotics.com page</a>
 FingerTech tinyESC v2
 
+<table cellpadding="4" cellspacing="4" border="2">
+  <tr>
+    <th>R/C Stick</th>
+    <th>Arduino Pulse</th>
+    <th>Motor Output</th>
+    <th>LED status</th>
+  </tr>
+  <tr>
+    <td>Full Forward</td>
+    <td>2000µs</td>
+    <td>Full Forward</td>
+    <td>Solid Green</td>
+  </tr>
+  <tr>
+    <td>Forward</td>
+    <td>1510-2000µs</td>
+    <td>Forward</td>
+    <td>Flashing Green</td>
+  </tr>
+  <tr>
+    <td>Centered</td>
+    <td>1500µs (+/-10µs deadband)</td>
+    <td>Off</td>
+    <td>Either LED Could Flash</td>
+  </tr>
+  <tr>
+    <td>Backward</td>
+    <td>1000-1490µs</td>
+    <td>Backward</td>
+    <td>Flashing Red</td>
+  </tr>
+  <tr>
+    <td>Full Backward</td>
+    <td>1000µs</td>
+    <td>Full Backward</td>
+    <td>Solid Red</td>
+  </tr>
+  <tr>
+    <td>No R/C Signal</td>
+    <td>No Pulse Stream</td>
+    <td>Off (Failsafe)</td>
+    <td>Slow Blinking Red</td>
+  </tr>
+</table>
+
+
 <a href="http://www.fingertechrobotics.com/images/servo201012_tinyESC_review.pdf" target="_blank">Combat Zone Review by Thomas Kenney</a>
 
 
 <a href="https://www.youtube.com/watch?v=e2XQ4k7bWdU" target="_blank">SparkFun TinyESC demo</a>
 SparkFun 12-12-14 Product Showcase: Dial R for Resistance
+
+## Arduino ESC research
+
+
+<a name="SEng466-esc-cal"></a>
+
+### ESC Calibration & Programming
+
+Mechatronics Project Site for SEng466 at the University of Victoria
+
+<a href="http://robots.dacloughb.com/project-2/esc-calibration-programming/" target="_blank">ESC Calibration & Programming</a>
+
+The PWM signal read by the ESC is the same type as a servo signal, meaning
+the Servo library from Adruino can be used to calibrate and control the
+ESCs.  The ESC sets the speed of the motor depending on the ratio of high
+to low signals.  Calibration involves programming the ESC to understand
+the PWM waves corresponding to the stop and maximum speeds of the motor.
+
+The default signal range for most servo motors and ESCs is a high signal
+width between 1000 and 2000 microseconds over a repetition period of
+20 milliseconds (assuming a 50hz PWM signal).  For the quad copter,
+however, we want the range to be as wide as possible to allow for greater
+incremental control of the motor.  To this end, we calibrated the ESCs
+to read a signal width from 700 to 2000 microseconds with 700 being the
+stop speed and 2000 being the max speed.  We found that the ESC could
+not read a signal lower than 700 microseconds.
+
+Calibrating the Mystery ESCs was quite simple.  To enter programming mode,
+the maximum servo signal (2000 microseconds) is sent to the ESC, the ESC
+is powered on and waits for two seconds, then the minimum servo signal
+is sent (700 microseconds).  Once the ESC emits a series of confirmation
+beeps (special wave signals sent to the motor to emit beeping sounds),
+the ESC is calibrated.
+
 
 ### Arduino - Control ESC/Motor Tutorial
 
@@ -76,10 +156,164 @@ RC Basics - Understanding Electronic Speed Controllers (ESC)
 
 ## <a href="https://www.youtube.com/watch?v=tx3Y9VWOPjI" target="_blank">youtube</a> Maker Hangar: Episode 3 - Electric Speed Controllers
 
+# Brushless DC Motor Research
+
+## <a href="http://www.nmbtc.com/brushless-dc-motors/engineering/brushless_dc_motors_engineering/" target="_blank">BLDC Motor Introduction</a>
+
+The Brushless DC (BLDC) motor is the ideal choice for applications that
+require high reliability, high efficiency, and high power-to-volume
+ratio. Generally speaking, a BLDC motor is considered to be a high
+performance motor that is capable of providing large amounts of
+torque over a vast speed range. BLDC motors are a derivative of the
+most commonly used DC motor, the brushed DC motor, and they share
+the same torque and speed performance curve characteristics. The
+major difference between the two is the use of brushes. BLDC motors
+do not have brushes (hence the name “brushless DC”) and must be
+electronically commutated.
+
+BLDC Motor Advantages:
+
+<ul>
+  <li>High Speed Operation – A BLDC motor can operate at speeds above 10,000 rpm under loaded and unloaded conditions.</li>
+  <li>Responsiveness & Quick Acceleration – Inner rotor Brushless DC motors have low rotor inertia, allowing them to accelerate, decelerate, and reverse direction quickly.</li>
+  <li>High Power Density – BLDC motors have the highest running torque per cubic inch of any DC motor.</li>
+  <li>High Reliability – BLDC motors do not have brushes, meaning they are more reliable and have life expectancies of over 10,000 hours. This results in fewer instances of replacement or repair and less overall down time for your project.</li>
+</ul>
+
+## himodel.com store
+
+<a href="http://www.himodel.com/electric/EMAX_1200KV_Outrunner_Brushless_Motors_Type_CF2822.html" target="_blank">$6.83 - EMAX 1200KV Outrunner Brushless Motors Type CF2822</a>
+
+<img src="/assets/images/emax-1200kv-brushless-motor-cf2822.gif" width="400px">
+
+<pre>
+No. Of cells 2-3 Li-Poly
+RPM/V 1200 RMP/V
+zMax. efficiency 82%
+Max. efficiency current 7 -16 A (>75%)
+No load current / 10 V 0.9 A
+Current capacity 16 A/60 s
+Internal Resistance 150 mohm
+Stator Dimensions 22x10 mm
+Shaft diameter 3 mm
+Weight 39 g 
+</pre>
+
+## hobbyking.com Store
+
+<a href="http://www.hobbyking.com/hobbyking/store/__5428__AX_2306N_2000kv_brushless_Micro_Motor.html" target="_blank">AX 2306N 2000kv brushless Micro Motor</a>
+$6.47
+
+<img src="/assets/images/ax-2306n-brushless-motor.jpg" width="500px">
+
+<pre>
+AX-2306N-2000
+Micro brushless motor
+Comes with stick mount, as shown.
+
+Spec.
+Kv: 2000rpm/v
+Lipo Range: 2-3 cell
+Suggested prop: 5x3
+Best current range: 6~9A
+Weight: 37g
+
+Stator: 23 x 6mm
+
+Test Data.
+Battery: 11.5v
+Current: 7.3A
+Propeller: 5x3
+Thrust: 357g
+Speed: 19340rpm
+</pre>
+
+## hobbyexpress.com motor store
+
+
+<a href="http://www.hobbyexpress.com/erc_12a_brushless_programmable_esc_w_bec_1035805_prd1.htm" target="_blank">eRC 12A Brushless Programmable ESC w/BEC</a>
+
+<a href="http://www.hobbyexpress.com/erc_electronic_programmer_1035816_prd1.htm" target="_blank">eRC Electronic Programmer</a>
+
+
+### 280 Size Brushless Outrunner, 2000Kv
+
+<a href="http://www.hobbyexpress.com/280_size_brushless_outrunner_2000kv_1041027_prd1.htm" target="_blank">hobbyexpress.com product page</a>
+
+<img src="/assets/images/ercbl280-brushless-outrunner.jpg" width="400px">
+
+
+<pre>
+Technical Specifications:
+KV: 	2000 Kv
+Voltage Range: 	7.4V
+Max Amperage: 	12 Amps
+Weight: 	22g
+Propeller Size: 	8x3.8
+</pre>
+
+### .25 Size Brushless Outrunner, 850Kv
+
+<a href="http://www.hobbyexpress.com/25_size_brushless_outrunner_850kv_528693_prd1.htm" target="_blank">$35 at hobbyexpress.com</a>
+.25 Size Brushless Outrunner, 850Kv
+
+<img src="/assets/images/o25_size_brushless_outrunner_850kv.jpg" width="400px">
+
+Quality brushless outrunners at a budget price
+
+eRC Brushless ESC's from Hobby-Lobby37mm dia. x 40mm long excluding the
+19mm long, 5mm diameter shaft. 4mm gold plated connectors and collet prop
+adapter with 8mm shaft. Economically priced HIGH power brushless outrunner
+motors. There is a motor for almost any airplane from a parkflyer up to
+a.60 size glow model. Each motor comes complete with mounting hardware,
+collet prop adapter and gold plated electrical connections. The motor
+connections are pre-installed and their mating connectors included
+for your speed control. All motors are produced in a state-of-the-art
+factory with strict quality control assuring you a long motor life and
+excellent performance. Each motor comes with a 1-year warranty against
+manufacturer's defects.
+
+<pre>
+Technical Specifications:
+Motor Diameter: 	37mm
+Shaft Diameter: 	5mm
+KV: 	850 Kv
+Voltage Range: 	7.4V - 14.4V
+Max Amperage: 	40 Amps
+Weight: 	4.9 oz.
+Propeller Size: 	11x5
+</pre>
+
+# Sand Sieve Ideas
+
+
+# General Research
+
+<a href="http://www.electricaleasy.com/2014/01/speed-control-methods-of-dc-motor.html" target="_blank">electricaleasy.com article</a>
+Speed control methods of DC motor 
+
+<a href="https://www.precisionmicrodrives.com/vibration-motors" target="_blank">precisionmicrodrives.com/vibration-motors</a>
+
+<a href="https://www.precisionmicrodrives.com/vibration-motors/brushless-bldc-vibration-motors" target="_blank">precisionmicrodrives.com Brushless BLDC Vibration Motors</a>
+
+# tachometer
+
+# ServoCity
+
+<a href="https://www.servocity.com/html/sprockets___chain.html" target="_blank">sprockets and chain</a>
+
+<a href="https://www.servocity.com/html/pulleys___belts.html" target="_blank">Pulleys and Belts</a>
+
+<a href="https://www.servocity.com/html/aluminum_channel.html" target="_blank">Aluminum Channel</a>
+
+<a href="https://www.servocity.com/html/gears.html" target="_blank">gears</a>
+
+<a href="https://www.servocity.com/html/shafting___tubing.html" target="_blank">Shafting and Tubing</a>
 
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>

@@ -112,6 +112,13 @@ York Public Library Digital Collection.
 Learn How to Free Motion Quilt Stippling
 
 
+# Wooden jewelry display
+
+<a href="http://woodgears.ca/jewellery_rack/index.html" target="_blank">Wooden jewelry display</a>
+
+<img src="/assets/images/wandel-jewellry-rack.jpg" width="400px">
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

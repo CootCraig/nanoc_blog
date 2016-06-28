@@ -26,6 +26,13 @@ Building the standup desk
 <a href="https://www.youtube.com/watch?v=wGZPubkww-E" target="_blank">youtube</a>
 PAULK MITERSTAND 
 
+## Benchtop hole jigs
+
+<a href="https://www.youtube.com/watch?v=XTMx6kufGFc" target="_blank">Ron Paulk - TABLESAW TURNING</a>
+
+Ron demonstrates a simple jig to use a table saw to turn a dowel to a specific size.
+Published on Jun 27, 2016
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
