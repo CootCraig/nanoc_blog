@@ -311,9 +311,52 @@ tag login user@gmail.com password
 tag LIST "" "*"
 </PRE>
 
+# Packages
+
+<pre><code>
+apt-cache search freecad
+</code></pre>
+
+<pre><code>
+dpkg --get-selections
+</code></pre>
+
+To see all the files the package installed onto your system, do this:
+
+<pre><code>
+dpkg-query -L <package_name>
+</code></pre>
+
+To see the files a .deb file will install
+
+<pre><code>
+dpkg-deb -c <package_name.deb>
+</code></pre>
+
+To see the files contained in a package NOT installed, do this once (if you haven't installed apt-file already:
+
+<pre><code>
+sudo apt-get install apt-file
+sudo apt-file update
+</code></pre>
+
+then
+
+<pre><code>
+apt-file list <package_name>
+</code></pre>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->
-

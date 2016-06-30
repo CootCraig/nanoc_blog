@@ -41,6 +41,11 @@ Matthias Wandel - Building the 3-D pantograph
 <a href="https://www.youtube.com/watch?v=2lKNGb9Hs08" target="_blank">youtube</a>
 Matthias Wandel - Inlay carving with a router pantograph
 
+## Small Joined Boxes
+
+<a href="http://woodgears.ca/box/small.html" target="_blank">woodgears.ca article</a>
+<a href="https://www.youtube.com/watch?v=N149xC5DYl8" target="_blank">youtube</a>
+Making small box-joined boxes
 
 <!--
 html boilerplate

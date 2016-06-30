@@ -6,11 +6,14 @@ tags:
   - woodworking
   - woodworking_people
   - stumpy_nubs
+  - router_jigs
 ---
 
 
 Stumpy Nubs <a href="https://www.youtube.com/user/StumpyNubsWorkshop" target="_blank">youtube channel</a>
 
+<a href="https://www.youtube.com/watch?v=VgWTsISvPAI" target="_blank">youtube</a>
+SNW46- Build your own homemade WoodRat / Router Boss / Leigh Super FMT (part 1 of 2) 
 
 <!--
 html boilerplate

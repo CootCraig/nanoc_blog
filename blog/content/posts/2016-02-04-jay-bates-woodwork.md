@@ -11,6 +11,7 @@ tags:
   - pine
   - finishing_pine
   - finishing
+  - saw_horse
 ---
 
 
@@ -26,6 +27,12 @@ Jay Bates - Pocket Hole Sofa Table - 103
 
 <a href="https://www.youtube.com/watch?v=OqlQ-YB0NpA" target="_blank">youtube</a> 
 Jay Bates - The Best and Easiest Way to Finish Pine - 036
+
+<a href="http://jayscustomcreations.com/2013/04/saw-horses/" target="_blank">jayscustomcreations.com article</a>
+How To Build The Best Saw Horses
+
+<a href="https://www.youtube.com/watch?v=zxf6xMe_PKY" target="_blank">youtube</a>
+Jay Bates - Strong, Cheap, Stackable Sawhorses - 090
 
 
 <!--

@@ -33,6 +33,11 @@ How to Make Stackable Storage Trays
 <a href="http://www.ibuildit.ca/Workshop%20Projects/Shop%20Tricks/tricks-8.html" target="_blank">ibuildit.ca article</a>
 Making a Drawing Bow
 
+<a href="https://www.youtube.com/watch?v=3NRHS_tCx7M" target="_blank">youtube</a>
+John Heisz - Making Small Storage Boxes
+
+<a href="http://www.ibuildit.ca/Woodworking%20Projects/small-boxes-1.html" target="_blank">ibuildit.ca article</a>
+Small Wooden Storage Boxes
 
 <!--
 html boilerplate

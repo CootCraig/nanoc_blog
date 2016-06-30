@@ -296,7 +296,12 @@ Speed control methods of DC motor
 
 <a href="https://www.precisionmicrodrives.com/vibration-motors/brushless-bldc-vibration-motors" target="_blank">precisionmicrodrives.com Brushless BLDC Vibration Motors</a>
 
+<a href="http://www.instructables.com/id/Simple-Cheap-Motor-Controller/" target="_blank">instructables.com</a>
+Simple, Cheap Motor Controller by TeamJaeger
+
 # tachometer
+
+<a name="servocity"></a>
 
 # ServoCity
 
