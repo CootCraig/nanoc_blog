@@ -315,6 +315,18 @@ Simple, Cheap Motor Controller by TeamJaeger
 
 <a href="https://www.servocity.com/html/shafting___tubing.html" target="_blank">Shafting and Tubing</a>
 
+# Vibration sensor
+
+### <a href="https://www.sparkfun.com/products/9199" target="_blank">sparkfun Piezo Vibration Sensor</a>
+
+
+### <a href="https://www.sparkfun.com/products/9196" target="_blank">sparkfun Piezo Vibration Sensor - Large</a>
+
+### <a href="https://www.sparkfun.com/products/9332" target="_blank">SparkFun Single Axis Accelerometer</a>
+
+
+SparkFun Single Axis Accelerometer Breakout - ADXL193 (+/-250g)
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
