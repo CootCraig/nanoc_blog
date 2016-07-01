@@ -8,6 +8,7 @@ tags:
   - diy_cable
   - cable_making
   - audio
+  - rca_connector
 ---
 
 # What to like
@@ -391,6 +392,9 @@ See TubeDepot, Markertek, PartsExpress, ...
 
 
 # cable and connectors
+
+<a href="http://www.cableorganizer.com/gem-electronics/rca-compression-connectors.html" target="_blank">cableorganizer.com Gem Electronics RCA</a>
+Gem Electronics RCA Compression Seal Connectors
 
 <a href="http://www.markertek.com/category/Audio-Connectors" target="_blank">markertek.com audio connectors</a>
 
