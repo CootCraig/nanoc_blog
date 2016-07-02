@@ -39,7 +39,20 @@ The NoIR Camera has No InfraRed (NoIR) filter on the lens which makes it
 perfect for doing Infrared photography and taking pictures in low light
 (twilight) environments.
 
+# Arducam
 
+
+### <a href="https://github.com/ArduCAM" target="_blank">github</a>
+
+### <a name="http://www.arducam.com/camera-modules/5mp-ov5642/">5MP: OV5642</a>
+
+### <a href="http://www.arducam.com/8mp-sony-imx219-camera-raspberry-pi/" target="_blank">8MP Sony IMX219 Camera for Raspberry Pi</a>
+
+ArduCAM team just released a 8MP Raspberry Pi compatible camera based on the same Sony IMX219 image sensor. It’s capable of 3280 x 2464 pixel static images, and also supports 1080p30, 720p60 and 640x480p90 video. It attaches to Pi by the dedicated standard CSi interface.
+
+It is the supplementary for Raspberry Pi offical camera in order to fulfill the demands for different lens mount, field of view (FOV) and depth of the field (DOF) as well as the motorized IR cut filter for both daylight and night vision. Contact us for further customization.
+
+### <a href="http://www.arducam.com/lenses/" target="_blank">Arducam Lenses</a>
 
 
 <!--

@@ -159,7 +159,7 @@ of installation on filter after installing it for quick reference.
 * ACDelco - Fuel Filter - Part # GF652F - $16
 * K&N Engineering - Fuel Filter - Part # PF1000 - $12
 
-## Transmission Cooler
+# Transmission Cooler
 
 4L60E - TRANSMISSION,AUTOMATIC 4 SPEED,4L60E,ELECTRONIC 4-SPD A/TRANS(M30)
 
@@ -175,14 +175,46 @@ Get the one with cold weather bypass.
   <li>8 1/2 x 22 3/4 x 1 1/4 inch</li>
   <li>3/8 inverter flare (fittings are included for thread to hose barbs) Includes external thermal bypass for cold climates!</li>
 </ul>
- 
 
+## Lakewood Auto & Transmission 
 
+<a href="https://www.amazon.com/sp?marketplaceID=ATVPDKIKX0DER&seller=AIRZZ7YDFO57W" target="_blank">Amazon Vendor Page</a>
+Lakewood Auto & Transmission 
+
+<b>Customer Service Phone:</b> 253-582-5000
+
+## Oregon Performance Transmission
+
+<a href="https://www.amazon.com/sp?marketplaceid=atvpdkikx0der&seller=a13autdwr4ztg9" target="_blank">Amazon Vendor Page</a>
+Oregon Performance Transmission
+
+Oregon Performance Transmission has been offering automotive transmission
+parts and tools to the on-line community since 2001.
+
+Our company philosphy is simple:  to provide the highest quality
+transmission parts at the lowest prices.
+
+What began as a childhood interest in transmissions has grown to over a
+decade of providing customers with quality products at affordable prices.
+Whether you are looking for replacement parts or performance parts, we
+can help!  We have hundreds of products available and are always adding
+new items.
+
+<b>What is your return address?</b>
+Please ship all returns to P.O. Box 6137, Salem, Oregon, 97304.
+Please note UPS and FedEx will not ship to a Post Office Box address.
+You may ship your return via any United States Post Office.
 
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->
-
-
