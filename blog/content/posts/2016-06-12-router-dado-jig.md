@@ -17,6 +17,8 @@ Take ideas from Jay Bates
 
 and diyfaq.org.uk router board 
 
+<img src="/assets/images/jay-bates-dado-jig-scad-01.png" width="800px">
+
 ### <a href="http://wiki.diyfaq.org.uk/index.php/Routerboard" target="_blank">diyfaq.org.uk Routerboard</a>
 
 # raw research
