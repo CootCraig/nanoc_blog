@@ -60,3 +60,46 @@ sent to you, with your values filled in and Inputs for the Fabber for
 values that are tool and material specific. Email the zip file to the
 Fabber you've selected so that they can use it when cutting your parts.
 
+## Router Sled
+
+<a href="https://www.youtube.com/watch?v=s4QWXFqtsTQ" target="_blank">youtube like this</a>
+Ed Vickery - Super easy scarfing jig
+
+<a href="https://www.youtube.com/watch?v=pQ9-WgwnQiM" target="_blank">youtube</a>
+Mike Baker - Scarfing plywood bottom for 17x54 Drift Boat part one.
+
+<a href="https://www.youtube.com/watch?v=o3OvCKGI6L4" target="_blank">youtube</a>
+Scott Ashby - Economical Scarf Joint Sled (jig)
+using drawer slide
+
+<a href="https://www.youtube.com/watch?v=GNhlETbscUM" target="_blank">youtube</a>
+A Beginners Guide to Making Router Skis by Harrysin of RouterForums.com
+
+<a href="https://www.youtube.com/watch?v=8aWze4UM32U" target="_blank">youtube</a>
+Woodhaven Planing Sleds 
+
+<a href="https://www.youtube.com/watch?v=anu_F2I-_is" target="_blank">youtube</a>
+seumas2 - How to Router sled surfacer and planer.wmv
+
+<a href="https://www.youtube.com/watch?v=pq7TxqKzNvY" target="_blank">youtube</a>
+Klaus Silbernagl - Scarf Plywood with Router
+
+<a href="https://www.youtube.com/watch?v=2V6Sfd64-w0" target="_blank">youtube</a>
+Iandi Boats - Cutting a Scarf Joint Using a Router
+
+<a href="https://www.youtube.com/watch?v=VGx9_FOC3sM" target="_blank">youtube</a>
+asd67lkj - Using router skis demo1
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->

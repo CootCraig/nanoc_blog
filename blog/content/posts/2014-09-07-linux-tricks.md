@@ -18,6 +18,52 @@ Release:	7.6
 Codename:	wheezy
 </code></pre>
 
+# mkfs
+
+## mkfs for windows
+
+FAT32 is the oldest file system here. It was introduced all the way back
+in Windows 95 to replace the older FAT16 file system.
+
+NTFS is the modern file system Windows likes to use. When you install
+Windows, it formats your system drive with the NTFS file system. NTFS
+has file size and partition size limits that are so theoretically huge
+you won’t run up against them. NTFS first appeared in consumer versions
+of Windows with Windows XP.
+
+exFAT was introduced in 2006, and was added to older versions of Windows
+with updates to Windows XP and Windows Vista.  It’s a file system
+optimized for flash drives. It’s designed to be a lightweight file
+system like FAT32 without all NTFS’s extra features and overhead,
+but without FAT32’s limitations.  Like NTFS, exFAT has very large
+file size and partition size limits. This means you can store files
+that are larger than 4 GB apiece on a flash drive or SD card if it’s
+formatted with exFAT. exFAT is a strict upgrade over FAT32, and should
+be the best choice for external drives where you want a lightweight file
+system without FAT32’s file size limits.  exFAT is also more compatible
+than NTFS. While Mac OS X includes only read-only support for NTFS, Macs
+offer full read-write support for exFAT. exFAT drives can be accessed
+on Linux by installing the appropriate software.
+
+
+mkfs.ntfs
+
+
+<pre>
+sudo apt-get install exfat-utils exfat-fuse
+
+mkexfatfs - create an exFAT file system
+ -n volume-name
+</pre>
+
+<pre>
+mkntfs
+  --label label-name
+  -U, --with-uuid
+      Generate a random volume UUID.
+</pre>
+
+
 # groups
 
 ~~~~~~~~~~~~~

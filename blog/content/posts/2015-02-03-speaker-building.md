@@ -8,6 +8,41 @@ tags:
   - speaker_building
 ---
 
+# Forums
+
+<ul>
+<li>
+  <a href="http://audioroundtable.com/forum/index.php?t=thread&frm_id=33&" target="_blank">audioroundtable.com/forum</a>
+</li>
+<li>
+<a href="http://www.diyaudio.com/index.php" target="_blank">diyaudio.com</a>
+</li>
+<li>
+  <a href="http://www.madisound.com/diy-loudspeaker-forum/forum.php" target="_blank">madisound.com/diy-loudspeaker-forum</a>
+</li>
+
+<li>
+  <a href="http://techtalk.parts-express.com/forum" target="_blank">techtalk.parts-express.com/forum</a>
+</li>
+
+</ul>
+
+# Resources
+
+<ul>
+<li>
+  <a href="https://www.madisoundspeakerstore.com/links" target="_blank">madisoundspeakerstore - Links for Speaker Builders</a>
+</li>
+</ul>
+
+# Vendors
+
+<ul>
+  <li>parts-express.com</li>
+  <li>madisoundspeakerstore.com</li>
+  <li>simplyspeakers.com</li>
+</ul>
+
 # Designers of note
 
 ### [Wayne Parham - Pi Speakers](http://www.pispeakers.com/contents.html)
@@ -58,7 +93,10 @@ $150 each driver kit
 
 * [AskWoodMan - 10 or 64 plywood box - rabbet](https://www.youtube.com/watch?v=JJrp8vnarrU)
 
-#### [techtalk.parts-express - My 2 cents on Enclosure Joinery](http://techtalk.parts-express.com/showthread.php?220156-My-2-cents-on-Enclosure-Joinery)
+#### <a href="http://techtalk.parts-express.com/showthread.php?220156-My-2-cents-on-Enclosure-Joinery" target="_blank">techtalk.parts-express - My 2 cents on Enclosure Joinery</a>
+
+<img src="/assets/images/killersounz-lock-rabbit-joint.jpg" width="400px">
+
 
 Rockler Drawer Lock Router Bit
 
@@ -134,6 +172,26 @@ that can do justice to heavier rock genre.
 Specifications -
 Quarter-wave Resonator Cabinet (MLTL) -
 Dimensions: 43" x 11 1/2" x 12 3/4" 
+
+## Fostex FE206En 8" Full Range
+
+<a href="https://www.madisoundspeakerstore.com/approx-8-fullrange/fostex-fe206en-8-full-range/" target="_blank">$118 at madisound</a>
+Fostex FE206En 8" Full Range
+
+<a href="http://diyaudioprojects.com/Speakers/Fostex-FE206En-Back-Loaded-Horn-Speakers/" target="_blank">project at diyaudioprojects.com</a>
+Fostex FE206En in Back-Loaded Horn Speaker Cabinets
+- Mark Houston
+
+
+<a href="http://diyaudioprojects.com/Speakers/Fostex-FE206En-Double-Bass-Reflex-Speakers/" target="_blank">project at diyaudioprojects.com</a>
+Fostex FE206En in Double Bass-Reflex Speaker Enclosure
+- Mark Houston
+
+## Tang Band W8-2145 8"
+
+Tang Band W8-2145 8" Paper Cone Full Range Driver 8 Ohm
+
+<a href="http://www.parts-express.com/tang-band-w8-2145-8-paper-cone-full-range-driver-8-ohm--264-960" target="_blank">$95 at partsexpress</a>
 
 <!--
 html boilerplate

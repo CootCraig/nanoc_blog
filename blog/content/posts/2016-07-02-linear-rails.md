@@ -15,6 +15,11 @@ Patrick Hood-Daniel - Step 1 - Linear Slide Bearings for CNC Machine
 <a href="https://www.youtube.com/watch?v=AvSDdpxYVf8" target="_blank">youtube</a>
 MrFrabcabert - Homemade CNC rails
 
+<a href="https://www.youtube.com/watch?v=PoRKGFPmRn0" target="_blank">youtube</a>
+MrFrabcabert - Homemade CNC X axis explained
+
+
+
 <a href="https://www.youtube.com/watch?v=bGbWBDtzydw" target="_blank">youtube</a>
 krazatchu - Supported linear rail for CNC on the cheap...
 
@@ -58,6 +63,14 @@ $210 - 2 Set SBR20-1500mm 20 MM FULLY SUPPORTED LINEAR RAIL SHAFT ROD with 4 SBR
 <img src="/assets/images/25mm-sbr25-1600mm-linear-slide-rail-4sbr25uu-bearing-block-set.png" width="600px">
 
 <a href="http://stores.ebay.com/24x7buy?_trksid=p2047675.l2563" target="_blank">StarCNC kumakuma9 ebay store</a>
+
+# PBC Linear
+
+<a href="https://www.youtube.com/watch?v=TYcdgJDzNco" target="_blank">youtube</a>
+PBC Linear - Linear Learning Product Overview
+
+<a href="http://www.pbclinear.com/IVTAAN?tab=ProductOverview" target="_blank">ivtaan overview</a>
+
 
 <!--
 html boilerplate

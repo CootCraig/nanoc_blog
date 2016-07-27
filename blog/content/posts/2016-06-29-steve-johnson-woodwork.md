@@ -14,6 +14,8 @@ tags:
 <a href="https://www.youtube.com/watch?v=F8J92ituGXY" target="_blank">youtube</a>
 The Down to Earth Woodworker - Quick Cabinet Drawers 
 
+<a href="https://www.youtube.com/watch?v=ry60Df_H_qk" target="_blank">youtube</a>
+The Down to Earth Woodworker - Quick Kitchen Cabinet - Part 1
 
 
 <!--

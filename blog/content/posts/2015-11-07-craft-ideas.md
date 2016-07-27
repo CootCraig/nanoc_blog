@@ -25,6 +25,9 @@ because that field probably isn't hiring
 Irish toast - There are good ships and there are wood ships, the ships that sail the
 sea, but the best ships are friendships and may they always be.
 
+
+<img src="/assets/images/cooking-with-wine-four-glasses-plaque.png" width="400px">
+
 # CNC cutter images
 
 <a href="http://jasondorie.com/page_cnc.html" target="_blank">Jason Dorie CNC Software</a>
@@ -118,6 +121,17 @@ Learn How to Free Motion Quilt Stippling
 
 <img src="/assets/images/wandel-jewellry-rack.jpg" width="400px">
 
+# qlocktwo tribute
+
+## <a href="http://www.instructables.com/id/Wordclock/" target="_blank">Wordclock by wouterdevinck</a>
+
+<img src="/assets/images/qlocktwo-tribute-001.png" width="480px">
+
+# flash drives
+
+## From Adafruit story
+
+<img src="/assets/images/flash-drives-adafruit-story.jpg" width="600px">
 
 <!--
 html boilerplate

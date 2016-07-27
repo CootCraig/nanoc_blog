@@ -5,11 +5,22 @@ kind: article
 tags:
   - construction
   - gothic_arch_shed
+  - shed
+  - storage_shed
 ---
+
+# Excellent
 
 ## Jim Hensel
 
 <a href="https://www.youtube.com/watch?v=UMq8Ydb9X8M" target="_blank">Jim Hensel - 12' by 8' Gothic Arch Greenhouse</a>
+
+
+
+
+## <a href="https://www.youtube.com/watch?v=ifXOVvb6-q4" target="_blank">Frank Stephens - DIY GOTHIC ARCH</a>
+
+## <a href="http://www.by-the-sea.com/stimsonmarine/bowroof.html" target="_blank">stimsonmarine/bowroof</a>
 
 ## loveiswithus
 

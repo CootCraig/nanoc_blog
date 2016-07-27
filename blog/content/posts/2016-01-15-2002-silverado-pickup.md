@@ -205,6 +205,12 @@ Please ship all returns to P.O. Box 6137, Salem, Oregon, 97304.
 Please note UPS and FedEx will not ship to a Post Office Box address.
 You may ship your return via any United States Post Office.
 
+## Floor mats
+
+### <a href="http://www.weathertech.com/chevrolet/2002/silverado/floorliner-digitalfit/bodystyle/extended-cab/4x4-manual-floor-shifter/no/" target="_blank">Weathertech floor liner</a>
+
+Pueblo Topper Factory is dealer.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -7,6 +7,9 @@ tags:
   - wood_shop
 ---
 
+## <a href="Jim Hensel - DIY CNC Router" target="_blank">Jim Hensel - DIY CNC Router</a>
+
+
 ## Dave Gatton
 
 ### [playlist](https://www.youtube.com/playlist?list=PLy11Xbe5BExJDRoHchAf9VeHPDFy2UxiU) DIY CNC Router
@@ -105,3 +108,16 @@ http://www.liming.org/cnc/index.html
 #### [www.hobbycnc.com](http://www.hobbycnc.com/) Home page
 
 
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->

@@ -276,6 +276,10 @@ $14 - Freud D0518x 5-1/2-Inch x 18 Tooth
 <a href="https://www.youtube.com/watch?v=mD8n4wMG_Qw" target="_blank">youtube</a>
 themrhelperguy - How to make wood shims
 
+## DIY Creators - Build A Track Saw
+
+<a href="https://www.youtube.com/watch?v=kW_1AQ_Wm8E" target="_blank">youtube</a>
+DIY Creators - How To Build A Track Saw | Limited Tools Episode 001
 
 <!--
 html boilerplate

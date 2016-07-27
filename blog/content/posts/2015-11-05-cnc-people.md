@@ -16,11 +16,19 @@ tags:
 <a href="http://www.worldofwoodforum.com/vb/" target="_blank">World of Wood forum has a CNC woodworking section</a>
 
 
+<a href="https://www.youtube.com/watch?v=f4ptBpVOSuY" target="_blank">youtube</a>
+HomoFaciens - Homemade CNC machine v0.5 with materials from a DIY, build with low tech tools
 
-~~~~~~~~~~~~~
-html boiler plate
+
+<!--
+html boilerplate
 <a href="" target="_blank"></a>
-<img src="" width="100px">
-~~~~~~~~~~~~~
-
-
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->

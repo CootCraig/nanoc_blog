@@ -22,6 +22,9 @@ HomeMadeModern - DIY Concrete Countertops
 <a href="https://www.youtube.com/watch?v=9866dmfJxUU" target="_blank">youtube</a>
 Robin Lewis - Make Your Own Concrete Countertop, It's Easier Than You Think
 
+<a href="https://www.youtube.com/watch?v=5sgEEUSejlM" target="_blank">youtube</a>
+Modern Builds - DIY Modern Concrete Coffee Table | Modern Builds | EP. 33
+
 <!-- html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">

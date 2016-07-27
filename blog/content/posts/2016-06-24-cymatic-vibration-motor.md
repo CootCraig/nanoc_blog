@@ -7,6 +7,8 @@ tags:
   - vibration_motor
 ---
 
+# Brushless DC Motor
+
 Make a variable speed vibration motor
 using an arduino and a tinyESC v2
 
@@ -284,6 +286,56 @@ Weight: 	4.9 oz.
 Propeller Size: 	11x5
 </pre>
 
+# Brushed DC motor
+
+## Adafruit DRV8871
+
+Brushed DC motor driver
+
+<a href="https://www.adafruit.com/product/3190" target="_blank">adafruit product page</a>
+Adafruit DRV8871 DC Motor Driver Breakout Board - 3.6A Max
+$7.50 
+
+Crank up your robotics with powerful Adafruit DRV8871 motor driver
+breakout board. This motor driver has a lot of great specs that make
+it useful for a wide variety of mechatronics. In particular, the simple
+resistor-set current limiting and auto-magic PWM support make it super
+easy to use with just about any brushed DC motor.
+
+Check out the specs for the DRV8871:
+
+<ul>
+  <li>6.5V to 45V motor power voltage</li>
+  <li>Up to 5.5V logic level on IN pins</li>
+  <li>565mΩ Typical RDS(on) (high + low)</li>
+  <li>3.6A peak current</li>
+  <li>PWM control</li>
+  <li>Current limiting/regulation without an inline sense resistor</li>
+  <li>Undervoltage lockout</li>
+  <li>Overcurrent protection</li>
+  <li>Thermal shutdown</li>
+</ul>
+
+
+<a href="https://learn.adafruit.com/adafruit-drv8871-brushed-dc-motor-driver-breakout/overview" target="_blank">drv8871 usage</a>
+
+<a href="https://learn.adafruit.com/adafruit-motor-selection-guide/dc-motor-control" target="_blank">learn.adafruit.com article</a>
+Brushed DC Motor Control
+
+Simple Speed Control
+
+If all you need is speed control, you can drive a motor with a PWM pin
+and a simple transistor circuit. The PWM pin controls the transistor
+which switches the current to the motor. The higher the PWM duty cycle,
+the faster the motor will go.
+
+
+## Adafruit Motor shield kit
+
+<a href="https://www.adafruit.com/product/1438" target="_blank">Adafruit product page</a>
+Adafruit Motor/Stepper/Servo Shield for Arduino v2 Kit - v2.3
+
+
 # Sand Sieve Ideas
 
 
@@ -326,6 +378,17 @@ Simple, Cheap Motor Controller by TeamJaeger
 
 
 SparkFun Single Axis Accelerometer Breakout - ADXL193 (+/-250g)
+
+
+# RS Cymatics
+
+<a href="https://www.youtube.com/watch?v=yO3c0Uda4tg" target="_blank">youtube</a>
+RS Cymatics - Bubble Cymatics - A New Experiment 2014
+
+# The CymArtist
+
+<a href="http://www.thecymartist.com/home-eng" target="_blank">thecymartist.com/home-eng</a>
+
 
 <!--
 html boilerplate

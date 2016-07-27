@@ -54,6 +54,16 @@ It is the supplementary for Raspberry Pi offical camera in order to fulfill the 
 
 ### <a href="http://www.arducam.com/lenses/" target="_blank">Arducam Lenses</a>
 
+### <a href="http://www.arducam.com/arducam-mini-released/" target="_blank">ArduCAM Mini Released</a>
+
+### <a href="http://www.arducam.com/arducam-rev-c-plus-shield-released/" target="_blank">ArduCAM Rev.C+ Shield Released</a>
+
+### <a href="http://www.arducam.com/tag/raspberry-pi/" target="_blank">RaspCAM A Raspberry Pi Based Camera</a>
+
+### <a href="http://www.cnx-software.com/2016/07/18/arducam-has-designed-a-tiny-raspberry-pi-compatible-module/" target="_blank">ArduCAM has designed a Tiny Coin-Sized Raspberry Pi Compatible Module</a>
+
+### <a href="https://www.youtube.com/watch?v=VyeUDZ-FVpk" target="_blank">youtube - coin size raspberry pi</a>
+ 
 
 <!--
 html boilerplate

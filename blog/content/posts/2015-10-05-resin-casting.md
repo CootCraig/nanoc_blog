@@ -61,8 +61,29 @@ materials supplier for making parts, patterns, tools, or molds.
 
 By Michal Zalewski	March 21st, 2014 1:35 pm 
 
+# Machinable Wax
 
+<a href="http://www.machinablewax.net/" target="_blank">Freeman Supply</a>
+Welcome to the #1 manufacturer of Machinable Wax!
 
-~~~~~~~~~~~~~~~~~~
+Originally invented by Freeman, Machinable Wax is a unique medium
+for carving and/or machining precise shapes. This user-friendly,
+hard, synthetic wax machines faster than most other media while being
+self-releasing, self-lubricating, non-abrasive, and capable of producing
+very high qualities of finish, surface detail, and dimensional accuracy.
+
+1.5" X 12" X 12" Single Block for $44
+
+<!--
+html boilerplate
 <a href="" target="_blank"></a>
-~~~~~~~~~~~~~~~~~~
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->
