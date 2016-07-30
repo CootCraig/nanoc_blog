@@ -15,6 +15,7 @@ digital photography tutorials
 <a href="http://www.normankoren.com/sitemap.html" target="_blank">normankoren.com/</a>
 guide to the tutorials and articles
 
+# <a href="https://fstoppers.com/" target="_blank">fstoppers.com</a>
 
 <!--
 html boilerplate

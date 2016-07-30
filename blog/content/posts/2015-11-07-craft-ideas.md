@@ -133,6 +133,46 @@ Learn How to Free Motion Quilt Stippling
 
 <img src="/assets/images/flash-drives-adafruit-story.jpg" width="600px">
 
+## Paul Jenkins - Shoji LED Lamp
+
+<a href="https://www.youtube.com/watch?v=r38TLNoCoPg" target="_blank">youtube</a>
+Paul Jenkins - Shoji LED Lamp
+
+<img src="/assets/images/paul-jenkins-shoji-lamp.png" width="450px">
+
+## Lazy watchsmith - Decorative lamp
+
+<a href="https://www.youtube.com/watch?v=Zod2xtxPd0U" target="_blank">youtube</a>
+Lazy watchsmith - Decorative lamp / Lamppu
+
+<img src="/assets/images/lazy-watchsmith-lamp.png" width="450px">
+
+## DIY Perks - Spectrum Dock
+
+<a href="https://www.youtube.com/watch?v=j7ZwQa8vYnY" target="_blank">youtube</a>
+DIY Perks - Making the Ultimate DIY Headphone Stand (aka Spectrum Dock!)
+
+<img src="/assets/images/spectrum-dock-headphone-stand.png" width="350px">
+
+# geometric string art
+
+<img src="/assets/images/geometric-string-art.png" width="300px">
+
+# FrameOfMind Store
+
+<img src="/assets/images/frameofmind-tapestry.png" width="900px">
+
+# POV arduino
+
+<a href="https://learn.adafruit.com/bike-wheel-pov-display/overview" target="_blank">adafruit pov wheel</a>
+
+<img src="/assets/images/projects_Bike_Wheel_POV_Display_adafruit_01.jpg" width="700px">
+
+<a href="https://learn.adafruit.com/genesis-poi-dotstar-led-persistence-of-vision-poi" target="_blank">Genesis Poi: DotStar LED Persistence-of-Vision</a>
+
+<img src="/assets/images/adafruit-genesis-poi.jpg" width="500px">
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

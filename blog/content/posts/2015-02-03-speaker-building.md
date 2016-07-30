@@ -193,6 +193,11 @@ Tang Band W8-2145 8" Paper Cone Full Range Driver 8 Ohm
 
 <a href="http://www.parts-express.com/tang-band-w8-2145-8-paper-cone-full-range-driver-8-ohm--264-960" target="_blank">$95 at partsexpress</a>
 
+## Visaton BG13P 5"
+
+<a href="http://www.parts-express.com/visaton-bg13p-5-full-range-speaker-8-ohm--292-644" target="_blank">$14.21 at parts express</a>
+Visaton BG13P 5" Full Range Speaker 8 Ohm
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

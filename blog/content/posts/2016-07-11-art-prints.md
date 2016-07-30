@@ -202,6 +202,189 @@ and acid-free, crafted to resist deterioration for centuriesV
 <a href="http://www.prodpi.com/become-the-expert-soft-proofing-gamut-warnings/" target="_blank">prodpi.com article</a>
 Krystal Otis - Soft Proofing & Gamut Warnings
 
+## Artisan HD Colour
+
+<pre>
+8970 East Bahia Drive
+Scottsdale, AZ 85260
+877 948-0009
+</pre>
+
+
+<a href="https://artisanhd.com/product/hd-papers" target="_blank">artisanhd.com</a>
+
+## Peak Imaging
+
+UK company
+
+
+<a href="http://www.peak-imaging.com/htmls/fujiflex.htm" target="_blank">Peak Imaging Fujiflex</a>
+
+We now believe that Fujiflex Crystal Archive Paper and our Durst Theta
+printing equipment will bring you that partnership. This Super High Gloss
+paper shouts out those vibrant colours in a dynamic fashion previously
+only attributed to "cibachrome" printing.
+
+Right across the spectrum of bright whites to deep shadow areas, punchy
+contrasts and sharp detail, Fujiflex offers longer lasting, durable
+polyester based prints.
+
+Professional photographers across the world are lining their studios
+and galleries with large format Fujiflex prints because the display
+qualities are stunning.
+
+
+<table width="400" border="0" cellpadding="0" cellspacing="0" align="center">
+   <tbody><tr> 
+     <td colspan="2" bgcolor="e6e6e6" height="18"> 
+       <div align="center"><b class="BodyTextBold">From digital media</b></div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6" height="18">&nbsp;</td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6" height="18">&nbsp;</td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6" height="18"> 
+       <div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Print 
+         Size </b></font></div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6" height="18"> 
+       <div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>FujiFlex</b></font></div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6"> 
+       <div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>In 
+         Inches </b></font></div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6"> 
+       <div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Super 
+         High Gloss</b></font></div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6"> 
+       <div align="center"></div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6"> 
+       <div align="center"></div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="#FFFFFF"> 
+       <div align="center">6 x 4</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="#FFFFFF"> 
+       <div align="center">1.60</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182"> 
+       <div align="center">7.5 x 5</div>
+     </td>
+     <td class="BodyText" width="218"> 
+       <div align="center">2.20</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="#FFFFFF"> 
+       <div align="center">9 x 6</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="#FFFFFF"> 
+       <div align="center">2.50</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6"> 
+       <div align="center">10 x 8</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6"> 
+       <div align="center">4.50</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="#FFFFFF"> 
+       <div align="center">12 x 8</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="#FFFFFF"> 
+       <div align="center">5.50</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6"> 
+       <div align="center">12 x 10</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6"> 
+       <div align="center">7.00</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="#FFFFFF"> 
+       <div align="center">15 x 10</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="#FFFFFF"> 
+       <div align="center">9.90</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6"> 
+       <div align="center">16 x 12</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6"> 
+       <div align="center">12.40</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="#FFFFFF"> 
+       <div align="center">18 x 12</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="#FFFFFF"> 
+       <div align="center">13.80</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6"> 
+       <div align="center">20 x 16</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6"> 
+       <div align="center">19.80</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="#FFFFFF"> 
+       <div align="center">24 x 20</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="#FFFFFF"> 
+       <div align="center">26.40</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6"> 
+       <div align="center">30 x 20</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6"> 
+       <div align="center">34.50</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="#FFFFFF"> 
+       <div align="center">36 x 24</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="#FFFFFF"> 
+       <div align="center">44.00</div>
+     </td>
+   </tr>
+   <tr> 
+     <td class="BodyText" width="182" bgcolor="e6e6e6"> 
+       <div align="center">40 x 30</div>
+     </td>
+     <td class="BodyText" width="218" bgcolor="e6e6e6"> 
+       <div align="center">64.00</div>
+     </td>
+   </tr>
+ </tbody></table>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
