@@ -1,6 +1,7 @@
 ---
 title: "Zentangle"
 created_at: Fri Aug  5 08:18:29 MDT 2016
+kind: article
 tags:
   - zentangle
 ---
