@@ -102,6 +102,10 @@ slightly better at Pro DPI.
 20x30 - $18.86
   </li>
 
+  <li>
+24x36 - $20.86
+  </li>
+
 </ul>
 
 ## exprints.com
@@ -116,6 +120,15 @@ is made from 75% cotton and 25% high alpha cellulose, they are lightfast
 and acid-free, crafted to resist deterioration for centuriesV
 
 ### Panos Size Ranges & Pricing
+
+20x24 - $16.  each 16 inch for $4
+
+24 + (3 * 16) - 24x72 inch
+16 + (3 * 4) = $28
+
+24 + (2 * 16) 24x56
+16 + (2 * 4) = $24
+
 
 <a href="https://www.ezprints.com/prints-and-panos/panoramas.html" target="_blank">ezprints.com Panoramas</a>
 
@@ -384,6 +397,71 @@ qualities are stunning.
      </td>
    </tr>
  </tbody></table>
+
+## Tony & Chelsea Northrup
+
+<a href="https://www.youtube.com/watch?v=CXgFUZkUYOI" target="_blank">youtube</a>
+Tony & Chelsea Northrup - Print Services Comparison: Which Website Makes the Best Prints?
+
+<ul>
+  <li>1. mpix</li>
+  <li>2. whcc</li>
+  <li>3. pro dpi</li>
+  <li>4. bay photo</li>
+  <li>5. adorama pix</li>
+</ul>
+
+<ul>
+  <li>mpix for price/quality</li>
+  <li>bayphoto for most options</li>
+  <li>adorama for price</li>
+</ul>
+
+## fracture
+
+Your photos printed in vivid color, directly on glass
+
+<a href="https://www.fractureme.com/" target="_blank">fractureme.com</a>
+
+# Bayphoto
+
+<a href="https://www.bayphoto.com/wall-displays/acrylic/acrylic-prints/" target="_blank">bayphoto.com product page</a>
+Face Mounted Acrylic Prints
+
+Vivid, high detail prints mounted behind polished acrylic for maximum impact.
+
+<a href="https://www.bayphoto.com/prints/photographic-prints/" target="_blank">bayphoto.com product page</a>
+Photographic Prints
+
+### Papers
+
+<ul>
+  <li>Kodak ENDURA Lustre “E” Our default surface paper, featuring a fine grain pebble texture.</li>
+  <li>Kodak ENDURA Glossy “F” Professional photo paper with a glossy finish.</li>
+  <li>Kodak ENDURA Metallic Features a glossy finish and metallic appearance that creates images with exceptional visual interest and depth. Adds 20% to price of print.</li>
+  <li>Fuji Pearl Offers sharp detail and high intensity colors, perfect for competition and display prints. Adds 25% to price of print.</li>
+  <li>Fuji Deep Matte Professional paper with a deep matte non-reflective surface that feels velvety soft. Adds 25% to price of print.</li>
+</ul>
+
+### Example print prices
+
+<ul>
+  <li>8x32 	$14.50 </li>
+  <li>11x33  	$11.99 </li>
+  <li>12x20 	$6.25 </li>
+  <li>12x48 	$22.00 </li>
+  <li>16x64	$39.92 </li>
+  <li>20x60	$45.00 </li>
+</ul>
+
+Prints larger than 40" will be shipped in tubes. Add 20% to print price
+for Metallic Surface. Add 25% for Fuji Deep Matte or Fuji Pearl.
+
+## Ticknor Photography
+
+<a href="https://www.youtube.com/watch?v=Pd2LOeFO_88" target="_blank">youtube</a>
+Ticknor Photography - Photography Prints - Bigger is better - Kodak Professional Metallic paper
+
 
 <!--
 html boilerplate

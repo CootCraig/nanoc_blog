@@ -16,41 +16,37 @@ tags:
 
 ## <a href="http://gimp-savvy.com/BOOK/index.html?node44.html" target="_blank">Grokking the Gimp Online</a>
 
+http://gimp-savvy.com/BOOK/index.html?node27.html
+2.1 Layers and the Role They Play in Images 
 
-## <a href="https://www.youtube.com/watch?v=Uu7RlvYh9HI" target="_blank">youtube</a> Neon Halo
+http://gimp-savvy.com/BOOK/index.html?node28.html
+2.2 Channels and Their Relationship to Layers 
 
-mojoe60 - How To Make A Neon Halo With Gimp
+http://gimp-savvy.com/BOOK/index.html?node29.html
+2.4 Layer Export and Import 
+
+http://gimp-savvy.com/BOOK/index.html?node32.html
+2.6 Manipulating Layers 
+
+http://gimp-savvy.com/BOOK/index.html?node33.html
+2.7 Combining Layers 
+
+http://gimp-savvy.com/BOOK/index.html?node34.html
+2.8 Common Problems and Frequently Asked Questions
+
+http://gimp-savvy.com/BOOK/index.html?node35.html
+3. Selections
+
+http://gimp-savvy.com/BOOK/index.html?node36.html
+3.1 The Basic Selection Tools 
+
+http://gimp-savvy.com/BOOK/index.html?node37.html
+3.2 Combining Selections 
+
+http://gimp-savvy.com/BOOK/index.html?node38.html
+3.3 The Select Menu and Friends 
 
 
-### A walk through Grokking the Gimp Online
-
-<ul>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node27.html" target="_blank">2.1 Layers and the Role They Play in Images</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node28.html" target="_blank">2.2 Channels and Their Relationship to Layers</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node29.html" target="_blank">2.4 Layer Export and Import</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node32.html" target="_blank">2.6 Manipulating Layers</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node33.html" target="_blank">2.7 Combining Layers</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node34.html" target="_blank">2.8 Common Problems and Frequently Asked Questions</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node35.html" target="_blank">3. Selections</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node36.html" target="_blank">3.1 The Basic Selection Tools</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node37.html" target="_blank">3.2 Combining Selections</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node38.html" target="_blank">3.3 The Select Menu and Friends</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node39.html" target="_blank">3.4 The Paths Dialog</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node40.html" target="_blank">3.5 Using Selections Effectively</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node41.html" target="_blank">3.6 Common Problems and Frequently Asked Questions</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node42.html" target="_blank">4. Masks</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node43.html" target="_blank">4.1 Channel Masks</a></li>
-  <li><a href="http://gimp-savvy.com/BOOK/index.html?node47.html" target="_blank">4.5 Masks and Selections</a></li>
-</ul>
-
-## A walk through the gimp manual
-
-<ul>
-  <li><a href="http://docs.gimp.org/2.8/en/gimp-image-combining.html" target="_blank">Chapter 8. Combining Images</a></li>
-  <li><a href="http://docs.gimp.org/2.8/en/gimp-dialogs-structure.html" target="_blank">Chapter 15. Dialogs 2. Image Structure Related Dialogs</a></li>
-  <li><a href="http://docs.gimp.org/2.8/en/gimp-channel-dialog.html" target="_blank">2. Image Structure Related Dialogs - 2.2. Channels Dialog</a></li>
-  <li><a href="http://docs.gimp.org/2.8/en/gimp-dialogs-structure.html#gimp-layer-dialog" target="_blank">2. Image Structure Related Dialogs - 2.1. Layers Dialog</a></li>
-</ul>
 
 
 ## <a href="http://meetthegimp.org/" target="_blank">meetthegimp.org</a>
@@ -100,17 +96,6 @@ GIMP 2.8 Tutorials - Shows how to use GIMP 2.8 - John Philip Jones 18 videos
 #### <a href="https://www.youtube.com/watch?v=Jle81ofRLok" target="_blank">youtube</a> Kevin Legault - Layer Masking - GIMP 2 8 - Tutorial
 
 #### <a href="https://www.youtube.com/watch?v=um3WadICC60" target="_blank">youtube video</a> GIMP Tutorial - Use Channel Mask to Select Hair and Fur by VscorpianC 
-
-<pre>
-select -> save to channel
-
-channel mask named "selection mask copy"
-
-L-click layer to make active
-edit -> copy
-L-click channel mask
-edit -> paste into
-</pre>
 
 #### <a href="http://www.sas1946.com/main/index.php?topic=9790.0" target="_blank">sas1946.com forum</a> Topic: How to copypaste an alpha layer in GIMP?
 
@@ -234,17 +219,6 @@ LAB Lightness to black and white using GIMP 2.8
 
 <a href="https://www.youtube.com/watch?v=um3WadICC60" target="_blank">youtube video</a>
 GIMP Tutorial - Use Channel Mask to Select Hair and Fur by VscorpianC 
-
-
-<a href="https://www.youtube.com/watch?v=V4uhVvgHq5o&list=PLC8D4E4A83B04B284&index=10" target="_blank">youtube video</a>
-GIMP Tutorial - How to Add an Alpha Channel to Any Image by VscorpianC 
-
-<a href="https://www.youtube.com/watch?v=9ErchKGzsNc&list=PLC8D4E4A83B04B284&index=5" target="_blank">youtube video</a>
-GIMP Tutorial - Masking Tool How to Add a Layer Mask by VscorpianC 
-
-white is reveal.
-black is hide
-
 
 # ArgyllCMS
 

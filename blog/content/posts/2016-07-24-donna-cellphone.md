@@ -10,48 +10,16 @@ tags:
 
 # Nexus phones
 
-
-## Nexus One
-
-## Nexus S
-
-## Galaxy Nexus
-
-The Galaxy Nexus, manufactured by Samsung, was released in November 2011
-(GSM version, US released on Verizon December 15, 2011) to coincide
-with the release of Android 4.0 Ice Cream Sandwich. The device support
-was ended after 4.3 Jelly Bean and no longer receives updates from
-Google. This device is known in Brazil as Galaxy X due to a trademark
-on the "Nexus" brand.[9] It is also the last Nexus device to have a
-removable battery.
-
-## Nexus 4
-
-The Nexus 4 smartphone, also known as the LG Nexus 4 or LG Mako, was
-released in November 2012 and manufactured by LG. It was the first
-Android device that used Android's 4.2 Jelly Bean update version. Nexus
-4 is the first Nexus device to have wireless charging capabilities. It
-was updated to Android 4.3 in June 2013 and to Android 4.4 in November 2013. 
-It can run Android 5.1 as of April 2015.
-
-<ul>
-  <li>Display: True HD IPS Plus capacitive touchscreen, 16M colors, 768×1280 pixels, 4.7 inches (~318 ppi) with Corning Gorilla Glass 2</li>
-  <li>CPU: Quad-core 1.5 GHz Krait</li>
-  <li>Chipset: Qualcomm Snapdragon APQ8064</li>
-  <li>Internal Storage: 8 or 16 GB</li>
-  <li>2 GB RAM</li>
-  <li>GPU: Adreno 320</li>
-  <li>Camera: Primary 8 MP, 3264×2448 pixels, autofocus, LED flash, secondary 1.3 MP, Video 1080p@30fps</li>
-  <li>Battery: Non-removable Li-Po 2100 mAh battery, wireless charging</li>
-</ul>
-
-### ebay sightings
-
-$75 - LG Nexus 4 E960 - 16GB - EXCELLENT CONDITION Black (T-Mobile) Smartphone
-
-$70 - Unlocked LG E960 Google Nexus 4 - 16GB - (Good Condition)
-
 ## Nexus 5
+
+### case
+
+<a href="https://www.amazon.com/LG-Nexus-Case-Diztronic-Flexible/dp/B00FZ14E3S/" target="_blank">$9.88 at amazon prime</a>
+LG Nexus 5 Case - Diztronic Matte Back Flexible TPU Series - Black 
+
+<a href="https://www.amazon.com/Spigen%C2%AE-Japanese-Protector-Included-Graphics/dp/B00FJJ38HY/" target="_blank">$10 at amazon prime</a>
+Nexus 5 Case, Spigen® Google Nexus 5 Case 1 Premium Japanese Screen Protector Included for Nexus 5 - Black
+
 
 The Nexus 5 smartphone, again manufactured by LG, was scheduled for
 sale on October 31, 2013 for US$349 at the Google Play store. It is the
@@ -97,6 +65,47 @@ Android Authority - Nexus 5 - is it still worth it?
 <a href="https://www.youtube.com/watch?v=_FB6836-DEA" target="_blank"></a>
 Android Authority - Nexus 5 vs Nexus 4
 
+
+
+## Nexus One
+
+## Nexus S
+
+## Galaxy Nexus
+
+The Galaxy Nexus, manufactured by Samsung, was released in November 2011
+(GSM version, US released on Verizon December 15, 2011) to coincide
+with the release of Android 4.0 Ice Cream Sandwich. The device support
+was ended after 4.3 Jelly Bean and no longer receives updates from
+Google. This device is known in Brazil as Galaxy X due to a trademark
+on the "Nexus" brand.[9] It is also the last Nexus device to have a
+removable battery.
+
+## Nexus 4
+
+The Nexus 4 smartphone, also known as the LG Nexus 4 or LG Mako, was
+released in November 2012 and manufactured by LG. It was the first
+Android device that used Android's 4.2 Jelly Bean update version. Nexus
+4 is the first Nexus device to have wireless charging capabilities. It
+was updated to Android 4.3 in June 2013 and to Android 4.4 in November 2013. 
+It can run Android 5.1 as of April 2015.
+
+<ul>
+  <li>Display: True HD IPS Plus capacitive touchscreen, 16M colors, 768×1280 pixels, 4.7 inches (~318 ppi) with Corning Gorilla Glass 2</li>
+  <li>CPU: Quad-core 1.5 GHz Krait</li>
+  <li>Chipset: Qualcomm Snapdragon APQ8064</li>
+  <li>Internal Storage: 8 or 16 GB</li>
+  <li>2 GB RAM</li>
+  <li>GPU: Adreno 320</li>
+  <li>Camera: Primary 8 MP, 3264×2448 pixels, autofocus, LED flash, secondary 1.3 MP, Video 1080p@30fps</li>
+  <li>Battery: Non-removable Li-Po 2100 mAh battery, wireless charging</li>
+</ul>
+
+### ebay sightings
+
+$75 - LG Nexus 4 E960 - 16GB - EXCELLENT CONDITION Black (T-Mobile) Smartphone
+
+$70 - Unlocked LG E960 Google Nexus 4 - 16GB - (Good Condition)
 
 ## Nexus 6
 
