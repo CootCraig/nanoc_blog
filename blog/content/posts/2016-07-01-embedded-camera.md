@@ -9,6 +9,9 @@ tags:
   - embedded_camera
 ---
 
+## 8MP Sony IMX219 Camera
+
+
 ## Raspberry Pi camera module v2
 
 <a href="https://www.raspberrypi.org/products/camera-module-v2/" target="_blank">www.raspberrypi.org Raspberry Pi camera module v2</a>
@@ -64,6 +67,16 @@ It is the supplementary for Raspberry Pi offical camera in order to fulfill the 
 
 ### <a href="https://www.youtube.com/watch?v=VyeUDZ-FVpk" target="_blank">youtube - coin size raspberry pi</a>
  
+## OV5642 Camera Module
+
+<a href="https://www.amazon.com/Arducam-Module-Megapixels-Arduino-Mega2560/dp/B013JUKZ48" target="_blank">$43 at amazon prime</a>
+Arducam Mini Module Camera Shield 5 Megapixels OV5642 Camera Module for Arduino UNO Mega2560 Board 
+
+## 8MP Sony IMX219 Camera for Raspberry Pi
+
+8MP Sony IMX219 Camera for Raspberry Pi
+
+<img src="/assets/images/arducam-imx219-01.jpg" width="650px">
 
 <!--
 html boilerplate

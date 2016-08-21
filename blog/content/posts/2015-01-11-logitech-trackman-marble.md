@@ -7,6 +7,10 @@ tags:
   - trackman
 ---
 
+## trackball shell script
+
+~/dotfiles/bin/trackball.sh
+
 # Log
 
 ### [Marble mouse basic function from archlinux](https://wiki.archlinux.org/index.php/Logitech_Marble_Mouse)

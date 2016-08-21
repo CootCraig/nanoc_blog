@@ -172,6 +172,9 @@ DIY Perks - Making the Ultimate DIY Headphone Stand (aka Spectrum Dock!)
 
 <img src="/assets/images/adafruit-genesis-poi.jpg" width="500px">
 
+# Drawer organizer
+
+<img src="/assets/images/drawer-tray-adjustable-wood.jpg" width="560px">
 
 <!--
 html boilerplate

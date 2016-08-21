@@ -11,19 +11,14 @@ tags:
 
 # Model DBs
 
+## <a href="http://www.thingiverse.com/" target="_blank">thingiverse</a>
+
 # model searches
-
-## bar gauge hardware
-
-<a href="http://www.rockler.com/rockler-3-in-1-bar-gauge" target="_blank">Rockler 3-in-1 Bar Gauge</a>
-
-<a href="http://www.leevalley.com/US/wood/page.aspx?p=32585&cat=1" target="_blank">Veritas Bar Gauge Heads</a>
-
-
 
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>

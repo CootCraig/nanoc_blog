@@ -327,12 +327,12 @@ mount
 
 ### List jpg file names and create date
 
-~~~~~~~~~~~~~~
+<pre>
 List jpg file names and create date
 ls *JPG 
   |xargs identify -verbose 
-  |egrep 'Image:
-  |date:create' 
+  |egrep Image:
+  |date:create 
   | paste -sd ' \n' 
   >~/tmp/pics.txt
 
@@ -343,25 +343,13 @@ Image: DSC_0041.JPG     date:create: 2015-11-15T18:53:40-07:00
 Image: DSC_0042.JPG     date:create: 2015-11-15T18:54:42-07:00
 Image: DSC_0043.JPG     date:create: 2015-11-15T18:55:08-07:00
 Image: DSC_0044.JPG     date:create: 2015-11-15T18:55:32-07:00
-~~~~~~~~~~~~~~
-
-# imap
-
-
-<a href="https://delog.wordpress.com/2011/05/10/access-imap-server-from-the-command-line-using-openssl/" target="_blank">delog.wordpress.com article</a>
-
-
-<PRE>
-openssl s_client -crlf -connect imap.gmail.com:993
-tag login user@gmail.com password
-tag LIST "" "*"
-</PRE>
+</pre>
 
 # Packages
 
-<pre><code>
+<pre>
 apt-cache search freecad
-</code></pre>
+</pre>
 
 <pre><code>
 dpkg --get-selections
@@ -391,6 +379,35 @@ then
 <pre><code>
 apt-file list <package_name>
 </code></pre>
+
+## android ptp mtp
+
+### jmtpfs
+
+<pre>
+sudo apt-get install jmtpfs
+sudo mkdir /media/craig/mtp
+sudo chown craig:craig /media/craig/mtp
+  connect phone with usb
+jmtpfs /media/craig/mtp
+mount
+ ...
+jmtpfs on /media/craig/mtp type fuse.jmtpfs (rw,nosuid,nodev,relatime,user_id=1000,group_id=1000)
+
+sudo umount /media/craig/mtp
+</pre>
+
+# imap
+
+
+<a href="https://delog.wordpress.com/2011/05/10/access-imap-server-from-the-command-line-using-openssl/" target="_blank">delog.wordpress.com article</a>
+
+
+<pre>
+ openssl s_client -crlf -connect imap.gmail.com:993
+ tag login user@gmail.com password
+ tag LIST "" "*"
+</pre>
 
 
 <!--

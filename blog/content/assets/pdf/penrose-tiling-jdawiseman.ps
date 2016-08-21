@@ -1,0 +1,419 @@
+%!PS
+
+% Copyright Julian D. A. Wiseman 2010 and 2015
+% This version as of 21:30 Thursday 15th January 2015
+
+
+/Sqrt2 1.414213562373095048801688724209698078569671875376948073 def
+
+true  % true => A4, false => US Letter
+	{90000 127 div Sqrt2 sqrt 2 copy mul 3 1 roll div}
+	{792 612}
+ifelse  % A4
+/PageWidth exch def /PageHeight exch def
+
+/NumRecursionLoops 11 def
+
+/Margin 18 def
+/BoundLowerX Margin def
+/BoundLowerY BoundLowerX def
+/BoundUpperX PageWidth  BoundLowerX sub def
+/BoundUpperY PageHeight BoundLowerY sub def
+
+/Y0  PageHeight 0.5 mul  PageWidth 0.228 mul  add  def
+/Y1  PageHeight 0.5 mul  PageWidth 0.342 mul  sub  def
+/X0 Margin def  /X1 X0 def
+% March 2010 version used:
+% /X0 PageWidth 0.3225 mul def  /Y0 PageHeight 2 div def
+% /X1 PageWidth 0.6290 mul def  /Y1 PageHeight 2 div def
+
+
+/DeBugLevel 65535 def  % smaller numbers are smaller more-core routines.
+/PrinterEpsilon 0.002 def
+/OutputToLog {==} def
+
+/Sqrt5 2.236067977499789696409173668731276235440618359611525724 def
+/GoldenRatio 1.6180339887498948482045868343656381177203091798 def  % Sqrt5 1 add 2 div
+/GoldenRatioReciprocal 0.6180339887498948482045868343656381177203091798 def  % Sqrt5 1 sub 2 div
+/Cos72 0.30901699437494742410229341718281905886015458990288143106772431135263023 def  % Sqrt5 1 sub 4 div
+/Sin72 0.95105651629515357211643933337938214340569863412575022244730564443015317 def  % Sqrt5 5 add 8 div sqrt
+/Sin36 0.58778525229247312916870595463907276859765243764314599107227248075727847 def  % 5 Sqrt5 sub 8 div sqrt
+/Cos36 0.80901699437494742410229341718281905886015458990288143106772431135263023 def  % Sqrt5 1 add 4 div
+
+/ToString
+{
+	1 dict begin  dup type cvlit /Type exch def
+	1 {
+		Type /integertype  eq {11 string cvs exit} if
+		Type /realtype     eq {16 string cvs exit} if
+		Type /nametype     eq {dup length string cvs exit} if
+		Type /stringtype   eq {exit} if
+		Type /booleantype  eq {5 string cvs exit} if
+		Type /operatortype eq {127 string cvs exit} if
+		Type /marktype     eq {pop (mark) exit} if
+		Type /nulltype     eq {pop (null) exit} if
+		0 true ThingToDebugText  % fall-back
+	} repeat  end
+} bind def  % /ToString
+
+% mark string ... string  ConcatenateToMark  string
+/ConcatenateToMark
+{
+	4 dict begin
+	counttomark /ctm exch def  /n 0 def
+	ctm {ToString  dup length n add /n exch def  ctm 1 roll} repeat
+	/p 0 def  /s n 65535 2 copy gt {exch} if pop string def
+	ctm  -1  0
+	{
+		dup 0 gt
+		{
+			-1 roll   dup length p add  65532 le
+				{s exch p exch dup length p add /p exch def putinterval}
+				{s exch p exch 0 65532 p sub getinterval putinterval  s 65532 (...) putinterval  cleartomark  s  exit}
+			ifelse  % too long
+		} {pop pop s} ifelse
+	} for
+	end
+} bind def  % /ConcatenateToMark
+
+% Have array of rhombii, specified by pole and point opposite pole.
+% So array holds arrays of length 5: [/Fat|/Thin  PoleX PoleY  Non-poleX Non-poleY]
+% For /Fat, poles have angle 72 degrees (adjacent corners 108); for /Thin poles have angle 144 (adjacent corners 36).
+% Four procedures:
+% Array  PenroseRecursion  NewArray, which multiplies number of pieces by at least 4 and at most 5
+% Array PaintCodeFat PaintCodeThin xMin yMin xMax yMax  PenrosePaint, which makes paths and calls PaintCode... after each closepath
+% Array xMin yMin xMax yMax  PenroseArcStroke, which arc's and stroke's
+/PenroseArcStroke
+{
+	DeBugLevel 30 le {(+PenroseArcStroke) OutputToLog} if
+	13 dict begin
+	/yMax exch def  /xMax exch def
+	/yMin exch def  /xMin exch def
+	{
+		/i exch def
+		/PX i 1 get def
+		/PY i 2 get def
+		/NX i 3 get def
+		/NY i 4 get def
+		PX PY moveto
+		i 0 get /Fat eq
+		{
+			/aX  NX PX sub Cos36 mul  NY PY sub Sin36 mul sub  GoldenRatioReciprocal mul  PX add  def
+			/aY  NY PY sub Cos36 mul  NX PX sub Sin36 mul add  GoldenRatioReciprocal mul  PY add  def
+			/bX  NX PX sub Cos36 mul  NY PY sub Sin36 mul add  GoldenRatioReciprocal mul  PX add  def
+			/bY  NY PY sub Cos36 mul  NX PX sub Sin36 mul sub  GoldenRatioReciprocal mul  PY add  def
+		}
+		{
+			/aX  NX PX sub Cos72 mul  NY PY sub Sin72 mul sub  GoldenRatio mul  PX add  def
+			/aY  NY PY sub Cos72 mul  NX PX sub Sin72 mul add  GoldenRatio mul  PY add  def
+			/bX  NX PX sub Cos72 mul  NY PY sub Sin72 mul add  GoldenRatio mul  PX add  def
+			/bY  NY PY sub Cos72 mul  NX PX sub Sin72 mul sub  GoldenRatio mul  PY add  def
+		} ifelse  % ... /Fat eq
+		PX xMin gt  NX xMin gt  aX xMin gt  bX xMin gt  or or or
+		PX xMax lt  NX xMax lt  aX xMax lt  bX xMax lt  or or or
+		PY yMin gt  NY yMin gt  aY yMin gt  bY yMin gt  or or or
+		PY yMax lt  NY yMax lt  aY yMax lt  bY yMax lt  or or or  and and and
+		{
+			newpath bX bY
+			PX NX sub dup mul PY NY sub dup mul add sqrt  Sqrt5 1 i 0 get /Fat eq {sub} {add} ifelse 4 div  mul
+			NY PY sub NX PX sub atan dup  i 0 get /Fat eq {36 add exch 144 add} {72 add exch 108 add} ifelse
+			aX  aY  4 index  4 index 180 add  4 index 180 add  arc stroke  arc stroke
+		} if  % at least partly in bounds
+	} forall  % ArrayParam
+	end
+	DeBugLevel 30 le {(-PenroseArcStroke) OutputToLog} if
+} bind def  % /PenroseArcStroke
+
+/PenrosePaint
+{
+	DeBugLevel 30 le {(+PenrosePaint) OutputToLog} if
+	16 dict begin
+	/yMax exch def  /xMax exch def
+	/yMin exch def  /xMin exch def
+	/PaintCodeThin exch def
+	/PaintCodeFat exch def
+	{
+		/i exch def
+		/PX i 1 get def
+		/PY i 2 get def
+		/NX i 3 get def
+		/NY i 4 get def
+		PX PY moveto
+		i 0 get /Fat eq
+		{
+			/aX  NX PX sub Cos36 mul  NY PY sub Sin36 mul sub  GoldenRatioReciprocal mul  PX add  def
+			/aY  NY PY sub Cos36 mul  NX PX sub Sin36 mul add  GoldenRatioReciprocal mul  PY add  def
+			/bX  NX PX sub Cos36 mul  NY PY sub Sin36 mul add  GoldenRatioReciprocal mul  PX add  def
+			/bY  NY PY sub Cos36 mul  NX PX sub Sin36 mul sub  GoldenRatioReciprocal mul  PY add  def
+		}
+		{
+			/aX  NX PX sub Cos72 mul  NY PY sub Sin72 mul sub  GoldenRatio mul  PX add  def
+			/aY  NY PY sub Cos72 mul  NX PX sub Sin72 mul add  GoldenRatio mul  PY add  def
+			/bX  NX PX sub Cos72 mul  NY PY sub Sin72 mul add  GoldenRatio mul  PX add  def
+			/bY  NY PY sub Cos72 mul  NX PX sub Sin72 mul sub  GoldenRatio mul  PY add  def
+		} ifelse  % ... /Fat eq
+		PX xMin gt  NX xMin gt  aX xMin gt  bX xMin gt  or or or
+		PX xMax lt  NX xMax lt  aX xMax lt  bX xMax lt  or or or  and
+		PY yMin gt  NY yMin gt  aY yMin gt  bY yMin gt  or or or  and
+		PY yMax lt  NY yMax lt  aY yMax lt  bY yMax lt  or or or  and
+		{
+			PX PY moveto  aX aY lineto  NX NY lineto  bX bY lineto  closepath
+			i 0 get /Fat eq {PaintCodeFat} {PaintCodeThin} ifelse
+		} if  % at least partly in bounds
+	} forall  % ArrayParam
+	end
+	DeBugLevel 30 le {(-PenrosePaint) OutputToLog} if
+} bind def  % /PenrosePaint
+
+% Good => Unique and in bounds
+/PenroseInsertIfGood
+{
+	DeBugLevel 10 le {(+PenroseInsertIfGood) OutputToLog} if
+	% Keeps sorted by decreasing PY
+	% If some equal PYs: ... MaxMax MinMax...EqualPYs...MaxMin MinMin ...
+	% If none equal PYs: ... MaxMax=MaxMin MinMax=MinMin ...
+	NumRhombii 0 eq
+	{
+		[NewObesity NewPX NewPY NewNX NewNY]
+		/NumRhombii 1 store
+	}
+	{
+		NewObesity /Fat eq
+		{
+			/aX  NewNX NewPX sub Cos36 mul  NewNY NewPY sub Sin36 mul sub  GoldenRatioReciprocal mul  NewPX add  def
+			/aY  NewNY NewPY sub Cos36 mul  NewNX NewPX sub Sin36 mul add  GoldenRatioReciprocal mul  NewPY add  def
+			/bX  NewNX NewPX sub Cos36 mul  NewNY NewPY sub Sin36 mul add  GoldenRatioReciprocal mul  NewPX add  def
+			/bY  NewNY NewPY sub Cos36 mul  NewNX NewPX sub Sin36 mul sub  GoldenRatioReciprocal mul  NewPY add  def
+		}
+		{
+			/aX  NewNX NewPX sub Cos72 mul  NewNY NewPY sub Sin72 mul sub  GoldenRatio mul  NewPX add  def
+			/aY  NewNY NewPY sub Cos72 mul  NewNX NewPX sub Sin72 mul add  GoldenRatio mul  NewPY add  def
+			/bX  NewNX NewPX sub Cos72 mul  NewNY NewPY sub Sin72 mul add  GoldenRatio mul  NewPX add  def
+			/bY  NewNY NewPY sub Cos72 mul  NewNX NewPX sub Sin72 mul sub  GoldenRatio mul  NewPY add  def
+		} ifelse  % ... /Fat eq
+		NewPX BoundLowerX ge  NewNX BoundLowerX ge  aX BoundLowerX ge  bX BoundLowerX ge  or or or
+		NewPX BoundUpperX le  NewNX BoundUpperX le  aX BoundUpperX le  bX BoundUpperX le  or or or  and
+		NewPY BoundLowerY ge  NewNY BoundLowerY ge  aY BoundLowerY ge  bY BoundLowerY ge  or or or  and
+		NewPY BoundUpperY le  NewNY BoundUpperY le  aY BoundUpperY le  bY BoundUpperY le  or or or  and   % Any corner in bounds
+		{
+			/MinMax 0 def
+			/MaxMax NumRhombii 1 sub def
+			{
+				MaxMax MinMax sub 1 le {exit} if  % MaxMax too big; equal zone starts at MinMax
+				/Test MaxMax MinMax add 2 idiv def
+				Test index 2 get  NewPY PrinterEpsilon add  gt  {/MaxMax} {/MinMax} ifelse  Test def
+			} loop
+			/MinMin 0 def
+			/MaxMin MaxMax def
+			{
+				MaxMin MinMin sub 1 le {exit} if  % MinMin too small; equal zone ends at MaxMin
+				/Test MaxMin MinMin add 2 idiv def
+				Test index 2 get  NewPY PrinterEpsilon sub  gt  {/MaxMin} {/MinMin} ifelse  Test def
+			} loop
+			/IsUnique true def
+			/DesiredLocation MinMin def
+			MinMin  1  MaxMax
+			{
+				/j exch def
+				j index /Test exch def
+				Test 2 get NewPY le {/DesiredLocation j 1 add def} if
+				NewPY  Test 2 get  sub abs PrinterEpsilon le
+				{
+					NewNX  Test 3 get  sub abs PrinterEpsilon le
+					{
+						NewPX  Test 1 get  sub abs PrinterEpsilon le
+						{
+							NewNY  Test 4 get  sub abs PrinterEpsilon le
+							{
+								NewObesity  Test 0 get  eq
+								{
+									/IsUnique false def
+									exit
+								} if  % NewObesity
+							} if  % NewNY
+						} if  % NewPX
+					} if  % NewNX
+				} if  % NewPY
+			} for
+			IsUnique {[NewObesity NewPX NewPY NewNX NewNY] DesiredLocation 1 add 1 roll  /NumRhombii NumRhombii 1 add store} if
+		} if  % Any corner in bounds
+	} ifelse  % NumRhombii 0 eq
+	DeBugLevel 10 le {(-PenroseInsertIfGood) OutputToLog} if
+} bind def  % /PenroseInsertIfGood
+
+/PenroseRecursion
+{
+	DeBugLevel 30 le {(+PenroseRecursion) OutputToLog} if
+	17 dict begin
+	/NumRhombii 0 def
+	[
+		exch
+		{
+			/i exch def
+			/PX i 1 get def
+			/PY i 2 get def
+			/NX i 3 get def
+			/NY i 4 get def
+			i 0 get /Fat eq
+			{
+				/NewObesity /Fat def
+				/NewPX NX def
+				/NewPY NY def
+				/NewNX  GoldenRatioReciprocal PX mul 1 GoldenRatioReciprocal sub NX mul add  def
+				/NewNY  GoldenRatioReciprocal PY mul 1 GoldenRatioReciprocal sub NY mul add  def
+				PenroseInsertIfGood
+				/NewObesity /Fat def
+				/NewPX  NX PX sub Cos36 mul NY PY sub Sin36 mul sub GoldenRatioReciprocal mul PX add  def
+				/NewPY  NY PY sub Cos36 mul NX PX sub Sin36 mul add GoldenRatioReciprocal mul PY add  def
+				/NewNX PX def
+				/NewNY PY def
+				PenroseInsertIfGood
+				/NewObesity /Thin def
+				/NewNX  NewPX GoldenRatioReciprocal mul 1 GoldenRatioReciprocal sub NX mul add  def
+				/NewNY  NewPY GoldenRatioReciprocal mul 1 GoldenRatioReciprocal sub NY mul add  def
+				PenroseInsertIfGood
+				/NewObesity /Fat def
+				/NewPX  NX PX sub Cos36 mul NY PY sub Sin36 mul add GoldenRatioReciprocal mul PX add  def
+				/NewPY  NY PY sub Cos36 mul NX PX sub Sin36 mul sub GoldenRatioReciprocal mul PY add  def
+				/NewNX PX def
+				/NewNY PY def
+				PenroseInsertIfGood
+				/NewObesity /Thin def
+				/NewNX  NewPX GoldenRatioReciprocal mul 1 GoldenRatioReciprocal sub NX mul add  def
+				/NewNY  NewPY GoldenRatioReciprocal mul 1 GoldenRatioReciprocal sub NY mul add  def
+				PenroseInsertIfGood
+			}
+			{
+				/NewObesity /Fat def
+				/NewPX  NX PX sub Cos72 mul NY PY sub Sin72 mul sub GoldenRatio mul PX add  def
+				/NewPY  NY PY sub Cos72 mul NX PX sub Sin72 mul add GoldenRatio mul PY add  def
+				/NewNX PX def
+				/NewNY PY def
+				PenroseInsertIfGood
+				/NewObesity /Thin def
+				/NewNX  NewPX 1 GoldenRatioReciprocal sub mul GoldenRatioReciprocal NX mul add  def
+				/NewNY  NewPY 1 GoldenRatioReciprocal sub mul GoldenRatioReciprocal NY mul add  def
+				/NewPX NX def
+				/NewPY NY def
+				PenroseInsertIfGood
+				/NewObesity /Fat def
+				/NewPX  NX PX sub Cos72 mul NY PY sub Sin72 mul add GoldenRatio mul PX add  def
+				/NewPY  NY PY sub Cos72 mul NX PX sub Sin72 mul sub GoldenRatio mul PY add  def
+				/NewNX PX def
+				/NewNY PY def
+				PenroseInsertIfGood
+				/NewObesity /Thin def
+				/NewNX  NewPX 1 GoldenRatioReciprocal sub mul GoldenRatioReciprocal NX mul add  def
+				/NewNY  NewPY 1 GoldenRatioReciprocal sub mul GoldenRatioReciprocal NY mul add  def
+				/NewPX NX def
+				/NewPY NY def
+				PenroseInsertIfGood
+			} ifelse  % ... /Fat eq
+		} forall  % ArrayParam
+	]
+	end
+	DeBugLevel 30 le {(-PenroseRecursion) OutputToLog} if
+} bind def  % /PenroseRecursion
+
+/OrnamentForm
+<<
+	/FormType 1
+	/BBox [ 0 0 PageWidth PageHeight ]
+	/Matrix matrix identmatrix
+	/PaintProc
+	{
+		pop
+		0 0.6 0 setrgbcolor
+		/TimesNewRomanPS-BoldMT 9 selectfont
+		PageWidth Margin sub Margin 24 add moveto (Julian D. A. Wiseman) dup stringwidth pop neg 0 rmoveto show
+		PageWidth Margin sub Margin 13 add moveto (15th January 2015)    dup stringwidth pop neg 0 rmoveto show
+		PageWidth Margin sub Margin 02 add moveto (www.jdawiseman.com)   dup stringwidth pop neg 0 rmoveto show
+	}
+>> def
+
+mark
+	/Page 1
+	/View [/Fit]
+	/PageMode /UseThumbs
+/DOCVIEW pdfmark
+mark
+	/CreationDate (D:20100326)
+	/Title (Penrose Tiling in Rhombi)
+	/Author (Julian D. A. Wiseman)
+	/Subject (www.jdawiseman.com/papers/placemat/penrose_tiling.pdf)
+	/Keywords (Penrose tiling rhombi)
+	/Creator (PostScript coded by Julian D. A. Wiseman)
+/DOCINFO pdfmark
+
+(Fats+Thins=Total) =
+0  1  NumRecursionLoops
+{
+	0 eq {[ [/Thin X0 Y0 X1 Y1] ]} {PenroseRecursion} ifelse   dup
+	/NumFats 0 def  /NumThins 0 def  dup {0 get /Thin eq {/NumThins} {/NumFats} ifelse dup load 1 add def} forall
+	mark NumFats (+) NumThins (=) NumFats NumThins add ConcatenateToMark =
+
+	<< /PageSize [PageWidth PageHeight] /ImagingBBox null >>  setpagedevice
+
+	//false  % testing purposes
+	{
+		3 setlinewidth  0 0.6 0 setrgbcolor  1 setlinecap  1 setlinejoin  [] 0 setdash
+		BoundLowerX  BoundLowerY  BoundUpperX BoundLowerX sub  BoundUpperY BoundLowerY sub  rectstroke
+	} if  % testing purposes
+
+	% Divided into two forms, in the hope that the separation simplifies subsequent editing.
+	% In particular, it might simplify selecting all the fats or all the thins, for re-colouring.
+ 	dup
+ 	<<
+		% Fats
+		/FormType 1
+ 		/BBox [ -999 -999  999 999 ]
+ 		/Matrix matrix identmatrix
+ 		/PaintProc
+ 		{
+ 			pop
+ 			0.06 setlinewidth  0 setgray  1 setlinecap  1 setlinejoin  [] 0 setdash
+ 			{0 setgray stroke}  {newpath}  0 0 PageWidth PageHeight  PenrosePaint
+ 		}
+ 	>> execform
+ 	<<
+		% Thins
+ 		/FormType 1
+ 		/BBox [ -1  -1  PageWidth 1 add  PageHeight 1 add ]
+ 		/Matrix matrix identmatrix
+ 		/PaintProc
+ 		{
+ 			pop
+ 			0.06 setlinewidth  0 setgray  1 setlinecap  1 setlinejoin  [] 0 setdash
+ 			{newpath}  {gsave 0.8 setgray fill grestore 0 setgray stroke}  0 0 PageWidth PageHeight  PenrosePaint
+ 		}
+ 	>> execform
+
+	OrnamentForm execform
+	showpage
+
+
+	% Show as arcs
+	<< /PageSize [PageWidth PageHeight] /ImagingBBox null >>  setpagedevice
+
+	dup
+ 	<<
+		/FormType 1
+ 		/BBox [ -1  -1  PageWidth 1 add  PageHeight 1 add ]
+ 		/Matrix matrix identmatrix
+ 		/PaintProc
+ 		{
+ 			pop
+ 			0.24 setlinewidth  0 setgray  1 setlinecap  1 setlinejoin  [] 0 setdash
+ 			0 0 PageWidth PageHeight  PenroseArcStroke
+ 		}
+ 	>> execform
+
+	OrnamentForm execform
+	showpage
+
+} bind for
+pop
+
+count dup
+(count =      ) dup 8 5 getinterval 3 -1 roll exch cvs pop =
+0 ne {(+pstack) = pstack (-pstack) =} if

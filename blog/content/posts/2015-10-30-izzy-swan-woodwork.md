@@ -10,6 +10,8 @@ tags:
   - corner_clamp
   - diy_shim
   - diy_wedge
+  - router_jigs
+  - router_as_jointer
 ---
 
 <a href="https://www.youtube.com/watch?v=E7Qc2FNaLyU" target="_blank">Izzy's Track Guide</a>
@@ -26,6 +28,8 @@ izzy swan - How to make wood Corner Clamps!
 <a href="https://www.youtube.com/watch?v=dSAF_K_pl8w" target="_blank">youtube</a>
 izzy swan - Build A Simple Jig To Make Wood Shims/Wedges
 
+<a href="https://www.youtube.com/watch?v=ryaL6buKmyo" target="_blank">youtube</a>
+izzy swan - SIMPLE JIG! Turns Table Saw into a jointer! Flatten Stock!!!
 
 <!--
 html boilerplate

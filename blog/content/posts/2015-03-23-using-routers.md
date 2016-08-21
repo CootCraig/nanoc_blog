@@ -103,6 +103,19 @@ plywood. Set includes 7/32", 15/32" and 23/32" and a wooden box.
 
 #### <a href="https://www.youtube.com/watch?v=rmyGkW16EpI" target="_blank">youtube</a> Jay Bates - Perfect Dados With A Router Dado Jig - 181
 
+## Matthew Cremona
+
+<a href="https://www.youtube.com/watch?v=pnqP3qVjCLY" target="_blank">youtube</a>
+Matthew Cremona - Router Guide Bushings - Ask Matt #18
+
+Discusses offset. Centering cone
+
+
+<a href="https://www.youtube.com/watch?v=BDenJHzgXCw" target="_blank">youtube</a>
+Matthew Cremona - Plunge Cuts with a Standard Straight Bit - Quick Tip
+
+<a href="https://www.youtube.com/watch?v=J0SDvKHcL5M" target="_blank">youtube</a>
+Matthew Cremona - Flattening Boards with a Router Sled
 
 <!--
 html boilerplate

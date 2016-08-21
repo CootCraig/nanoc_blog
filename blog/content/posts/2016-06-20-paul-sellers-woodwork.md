@@ -7,6 +7,9 @@ tags:
   - woodworking
   - woodworking_tools
   - paul_sellers
+  - american_woodworker
+  - router_jigs
+  - router-planer
 ---
 
 # <a href="https://paulsellers.com/" target="_blank">Paul Sellers Site</a>
@@ -79,6 +82,13 @@ sized for making guitars, violins and cellos too.
 
 <a href="http://www.highlandwoodworking.com/essential-woodworking-hand-tools-paul-sellers.aspx" target="_blank">highlandwoodworking.com Essential hand tools available</a>
 
+<a href="https://www.youtube.com/watch?v=TpU5dZlW2pg" target="_blank">youtube</a>
+AmericanWoodworker - Joint and Thickness-Plane with a Router
+
+Here's a solution for stock that's impossible or unwise to mill using your
+jointer and planer, such as an end-grain cutting board. All you have to
+do is build a simple jig that lets you slide your router back and forth
+above the stock. It's just like having a CNC machine—without the CNC!
 
 <!--
 html boilerplate

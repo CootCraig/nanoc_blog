@@ -20,6 +20,7 @@ Waking Up with Sam Harris #26 —The Logic of Violence: A Conversation with Jock
 
 ## <a href="https://www.youtube.com/watch?v=W7LvxGfP7II" target="_blank">Tim Ferriss Show</a>
 
+## <a href="http://www.ace.mu.nu/" target="_blank">Ace of Spades HQ</a>
 
 
 

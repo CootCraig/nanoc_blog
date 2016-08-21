@@ -462,6 +462,31 @@ for Metallic Surface. Add 25% for Fuji Deep Matte or Fuji Pearl.
 <a href="https://www.youtube.com/watch?v=Pd2LOeFO_88" target="_blank">youtube</a>
 Ticknor Photography - Photography Prints - Bigger is better - Kodak Professional Metallic paper
 
+# Adorama
+
+## Adorama Metal Prints
+
+<a href="http://www.adoramapix.com/app/products/metal-prints/" target="_blank">adorama metal print page</a>
+
+<ul>
+  <li>5" x 7" $14.00</li>
+  <li>8" x 10" $29.00</li>
+  <li>8" x 12" $32.00</li>
+  <li>10" x 20" $49.00</li>
+  <li>11" x 14" $45.00</li>
+  <li>11" x 17" $49.00</li>
+  <li>12" x 18" $55.00</li>
+  <li>12" x 24" $69.00</li>
+  <li>16" x 20" $74.00</li>
+  <li>16" x 24" $89.00</li>
+  <li>20" x 24" $99.00</li>
+  <li>20" x 30" $139.00</li>
+  <li>20" x 40" $179.00</li>
+  <li>24" x 30" $165.00</li>
+  <li>24" x 36" $195.00</li>
+  <li>30" x 40" $249.00</li>
+</ul>
+
 
 <!--
 html boilerplate

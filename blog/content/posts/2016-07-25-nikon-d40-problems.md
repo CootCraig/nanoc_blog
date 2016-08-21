@@ -6,6 +6,31 @@ tags:
   - nikon_d40
 ---
 
+
+<pre>
+Fri Aug  5 14:30:31 MDT 2016
+
+Nikon AF-S 18-200 mm f/3.5-5.6 AF-S VR DX IF G ED Lens
+bought on ebay for $310.
+serial number
+US3191417
+
+Ship to
+Authorized Photo Service
+8125 River Drive, Suite 100
+Morton Grove, IL 60053 USA
+800-406-2046
+
+Nikon Repair Estimate #557481
+$295
+</pre>
+
+<a href="/assets/pdf/nikon-18-200-aps-repair-estimate.pdf" target="_blank">aps repair estimate</a>
+
+UPS shipping $17.92 with $310 insurance
+
+ribbon cable loose internally
+
 <a href="https://www.dpreview.com/forums/post/36312270" target="_blank">dpreview.com thread</a>
 Nikon D40 Autofocus problem 
 
