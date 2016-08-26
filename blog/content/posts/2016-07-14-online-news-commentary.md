@@ -13,7 +13,9 @@ tags:
   <li>zerohedge</li>
   <li><a href="https://www.youtube.com/watch?v=y60wDzZt8yg" target="_blank">Sky News Live</a></li>
   <li><a href="http://www.alt-market.com/" target="_blank">alt-market.com</a></li>
+  <li><a href="https://www.youtube.com/watch?v=wOSIanrxmNA" target="_blank">red ice</a></li>
 </ul>
+
 
 
 
