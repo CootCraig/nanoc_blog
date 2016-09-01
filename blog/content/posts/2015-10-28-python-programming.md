@@ -23,9 +23,18 @@ tags:
 
 ## <a href="http://www.pythonforbeginners.com/" target="_blank">Python for Beginners</a>
 
+## <a href="https://github.com/pyconsk/2016-slides/blob/master/Python_and_DTrace/DTrace%20-%20pyconSK.pdf" target="_blank">Dtrace and Python slides</a>
 
-~~~~~~~~~~~~~
+<!--
+html boilerplate
 <a href="" target="_blank"></a>
-<img src="" width="100px">
-~~~~~~~~~~~~~
-
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->

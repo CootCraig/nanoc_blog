@@ -55,4 +55,21 @@ ebay $115
 
 * [thinkwiki - ThinkPad History](http://www.thinkwiki.org/wiki/ThinkPad_History)
 
+# Thinkpad x220
 
+<a href="http://hackaday.com/2016/08/26/making-a-thinkpad-great-again/" target="_blank">hackaday.com article</a>
+Making A Thinkpad Great Again
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+-->
