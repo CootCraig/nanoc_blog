@@ -11,6 +11,23 @@ tags:
 
 ### <a href="http://www.treenshop.com/Treenshop/ArticlesPages/FiguresOfInterest_Article/The%20Octahedron.htm" target="_blank">treenshop.com article</a> Nice article on the regular octahedron by woodturner
 
+### Creative Learning - Hexagonal Closed Packed Structure 3D Animation
+
+<a href="https://www.youtube.com/watch?v=uKpr-9vmgsc" target="_blank">youtube</a>
+Creative Learning - Hexagonal Closed Packed Structure 3D Animation -
+abab close packing - hexagonal close packing
+
+
+### Oxford Academic - Understanding close packing
+
+<a href="https://www.youtube.com/watch?v=tgKC-awk6p4" target="_blank">youtube</a>
+Oxford Academic - Understanding close packing
+
+<ul>
+  <li>abca or cubic-close packing - 3rd layer over gaps from first 2</li>
+  <li>abab or hexagonal-close packing - 3rd laver over 1st layer spheres</li>
+</ul>
+
 ## <a href="http://www.math.ubc.ca/~cass/courses/m308/projects/cchang/webpages/octahedron.html" target="_blank">math.ubc.ca Octahedron</a>
 
 
@@ -90,6 +107,33 @@ If this is continued by placing tetrahedra on top of the octahedra to
 start the new layer, the result will be as symmetrical as possible, and
 the vertices of the polyhedra will be distributed in the same manner as
 spheres in a face-centered cubic packing.
+
+# wow.com/wiki
+
+## Close-packing of equal spheres <a href="http://www.wow.com/wiki/Close-packing" target="_blank">wow.com wiki</a>
+
+
+Miller indices
+
+## Tetrahedral-octahedral honeycomb <a href="http://www.wow.com/wiki/Gyrated_tetrahedral-octahedral_honeycomb" target="_blank">wow.com wiki</a>
+
+The tetrahedral-octahedral honeycomb, alternated cubic honeycomb is a
+space-filling tessellation (or honeycomb) in Euclidean 3-space. It is
+composed of alternating octahedra and tetrahedra in a ratio of 1:2.
+
+John Horton Conway calls this honeycomb a tetroctahedrille, and its
+dual dodecahedrille.
+
+<pre>
+The Symmetries of Things 1st Edition
+by John H. Conway (Author), Heidi Burgiel (Author), Chaim Goodman-Strauss (Author) 
+
+Hardcover: 448 pages
+Publisher: A K Peters/CRC Press; 1 edition (April 18, 2008)
+Language: English
+ISBN-10: 1568812205
+ISBN-13: 978-1568812205
+</pre>
 
 <!--
 html boilerplate
