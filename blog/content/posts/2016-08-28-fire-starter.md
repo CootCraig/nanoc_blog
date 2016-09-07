@@ -102,6 +102,17 @@ FireSteel Armageddon 5.0 - 3/8 x 5 inches
 <a href="https://www.amazon.com/bayite-Drilled-Ferrocerium-Starter-Survival/dp/B00S6F4RDC" target="_blank">$14 at Amazon Prime</a>
 bayite 1/2 Inch X 6 Inch Drilled Ferrocerium Rod Flint Fire Starter Steel Survival Kit with Toggle Lanyard Hole 15cm 
 
+# Butane lighter
+
+<a href="https://www.amazon.com/GStar®-TorchZilla-Windproof-Flames-Lighter/dp/B00MWCNE20" target="_blank">$6.85 at amazon prime</a>
+GStar® TorchZilla 
+
+<a href="https://www.amazon.com/Zenware-Refillable-Professional-Culinary-Soldering/dp/B01F7PQU88" target="_blank">$14 at amazon prime</a>
+Zenware Butane Culinary Torch
+
+<a href="https://www.amazon.com/Hug-Flight-Flamethrower-Professional-Self-Igniting/dp/B01DXVXAOK" target="_blank">$22 at amazon prime</a>
+Micro Butane Torch Hug Flight
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
