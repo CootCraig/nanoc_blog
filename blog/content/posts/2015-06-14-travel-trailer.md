@@ -7,6 +7,7 @@ tags:
 ---
 
 # Space Heater
+
 http://www.amazon.com/Camco-57331-Olympian-Wave-3-Catalytic/dp/B000BUV1RK/
 
 
@@ -32,6 +33,29 @@ installations.
 * Gas connection 3/8" SEA flare
 * Dimensions and weight: 11-3/4" H x 10-1/4" W x 3-1/2" D. 6 lbs.
 
+
+## Mr. Heater Little Buddy
+
+<a href="https://www.youtube.com/watch?v=AZsVX6mh8O4" target="_blank">Enigmatic Nomadics youtube</a>
+Enigmatic Nomadics - Staying Warm Living Off Grid Heater Comparisons 3 of 3
+
+## Tooluxe Butane
+
+<a href="https://www.amazon.com/Camping-Emergency-Butane-Coherent-Survival/dp/B007M2FWEI" target="_blank">$42 at Amazon</a>
+Camping Emergency Butane Heater Coherent Heat Source Survival Tools 
+
+Tooluxe Double Coherent Source Butane or Propane Ceramic Heater. Use
+standard butane gas cartridge for portability. Ceramic burner. Swivel
+body. Pressure sensing safety shut off device. Gas consumption
+100gm/hr. CE certificate. This needs to be erased - 1 pc external
+connector for butane with LPG for external gas source.
+
+## Oxygen CO alarms
+
+<a href="https://www.amazon.com/Kidde-Worry-Free-Monoxide-Digital-Display/dp/B00FHW7P40" target="_blank">Kidde C3010D $35 at amazon prime</a>
+
+Has highest CO reading display.
+Kidde C3010D Worry-Free Carbon Monoxide Alarm with Digital Display and 10 Year Sealed Battery 
 
 # doo doo
 
@@ -408,3 +432,18 @@ http://lakeshoreimages.com/fiberglass.html
 
 http://smalltrailerenthusiast.com/manufacturers-2/
 
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->
