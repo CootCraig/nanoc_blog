@@ -196,6 +196,32 @@ tags:
   </mstyle>
 </math>
 
+# Start
+
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+  <mstyle mathsize="1.6em">
+    <msup>
+      <mi>&ExponentialE;</mi>
+      <mrow>
+        <msub>
+          <mrow>
+            <mo>-</mo>
+            <mi>&DifferentialD;</mi>
+          </mrow>
+          <mn>1</mn>
+        </msub>
+        <mi>t</mi>
+      </mrow>
+    </msup>
+  </mstyle>
+</math>
+
+
+## <a href="https://en.wikipedia.org/wiki/Damping" target="_blank">wikipedia Damping</a>
+
+Underdamped - The system oscillates (at reduced frequency compared to
+the undamped case) with the amplitude gradually decreasing to zero.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

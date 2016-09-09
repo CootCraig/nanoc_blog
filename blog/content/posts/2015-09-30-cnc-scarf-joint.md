@@ -78,6 +78,9 @@ A Beginners Guide to Making Router Skis by Harrysin of RouterForums.com
 <a href="https://www.youtube.com/watch?v=8aWze4UM32U" target="_blank">youtube</a>
 Woodhaven Planing Sleds 
 
+<a href="https://www.youtube.com/watch?v=LKPcAajMuSw" target="_blank"></a>
+Woodhaven Scarfing Sled
+
 <a href="https://www.youtube.com/watch?v=anu_F2I-_is" target="_blank">youtube</a>
 seumas2 - How to Router sled surfacer and planer.wmv
 
@@ -89,6 +92,9 @@ Iandi Boats - Cutting a Scarf Joint Using a Router
 
 <a href="https://www.youtube.com/watch?v=VGx9_FOC3sM" target="_blank">youtube</a>
 asd67lkj - Using router skis demo1
+
+<a href="https://www.youtube.com/watch?v=adrJqSxtTbA" target="_blank">youtube</a>
+Tony George - The Wheeling WoodWorker : Scarf Joint Sled
 
 <!--
 html boilerplate

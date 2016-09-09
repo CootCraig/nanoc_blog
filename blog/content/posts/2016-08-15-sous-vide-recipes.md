@@ -141,6 +141,21 @@ desired). Cook until the second side is browned and the cheese is melted,
 
 <a href="https://www.chefsteps.com/activities/sous-vide-burgers" target="_blank">chefsteps.com article</a>
 
+## eggs
+
+
+### <a href="https://www.chefsteps.com/activities/75-c-egg" target="_blank">chefsteps.com 75C egg</a>
+
+We cook a 57 g egg (extra large) at a high temperature (167 °F / 75 °C)
+for a short amount of time (13 minutes), rather than at equilibrium
+temp for longer, to create a firm egg white that's very similar to a
+traditionally poached egg. We find that cooking the eggs at a lower temp
+for longer leaves us with overly runny whites; not our preferred texture.
+
+### <a href="http://www.lafujimama.com/2013/07/sous-vide-perfect-eggs/" target="_blank">La Fuji Mama Eggs</a>
+
+The Secret to Cooking Perfect Eggs
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

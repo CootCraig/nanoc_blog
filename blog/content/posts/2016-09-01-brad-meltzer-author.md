@@ -5,6 +5,7 @@ kind: article
 tags:
   - author
   - brad_meltzer_author
+  - books
 ---
 
 Beecher White Books
