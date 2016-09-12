@@ -196,23 +196,42 @@ tags:
   </mstyle>
 </math>
 
-# Start
+# Amplitude Decay
 
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
   <mstyle mathsize="1.6em">
+
     <msup>
-      <mi>&ExponentialE;</mi>
+      <mi>e</mi>
       <mrow>
         <msub>
           <mrow>
             <mo>-</mo>
-            <mi>&DifferentialD;</mi>
+            <mi>d</mi>
           </mrow>
           <mn>1</mn>
         </msub>
         <mi>t</mi>
       </mrow>
     </msup>
+
+    <mo>=</mo>
+
+    <mfrac>
+      <mn>1</mn>
+      <msup>
+        <mi>e</mi>
+        <mrow>
+          <msub>
+            <mrow>
+              <mi>d</mi>
+            </mrow>
+            <mn>1</mn>
+          </msub>
+          <mi>t</mi>
+        </mrow>
+      </msup>
+    </mfrac>
   </mstyle>
 </math>
 

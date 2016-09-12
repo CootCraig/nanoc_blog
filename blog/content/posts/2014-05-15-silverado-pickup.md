@@ -16,6 +16,8 @@ Trim Level 	Ext. Cab Short Bed 4WD
 
 VIN 1GCEK19TX2E233277
 
+# Battery
+
 # Touch up paint
 
 <ul>

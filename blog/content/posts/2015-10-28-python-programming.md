@@ -6,6 +6,27 @@ tags:
   - python
 ---
 
+# pyenv pyenv-virtualenv
+
+<a href="https://spin.atomicobject.com/2015/01/02/python-environment-mgmt/" target="_blank">spin.atomicobject.com article</a>
+Python Environment Management for Rubyists – a Guide 
+
+For quite some time, Python has had the ability to isolate the module
+dependencies for a project using a utility called virtualenv. Virtualenv
+allows you to source a shell script to activate a particular Python
+environment, with isolated packages and a specific Python version,
+which I found pretty awesome. Virtualenv does not, however, provide any
+facilities for managing installed Pythons.
+
+Thankfully, an enterprising developer forked rbenv to create pyenv, which
+works very similarly to rbenv. When combined with pyenv-virtualenv,
+it allows you to automatically activate a Python virtualenv on a
+per-project basis.
+
+
+<a href="https://github.com/yyuu/pyenv" target="_blank">pyenv</a>
+
+<a href="https://github.com/yyuu/pyenv-virtualenv" target="_blank">pyenv-virtualenv</a>
 
 # Python libraries
 
