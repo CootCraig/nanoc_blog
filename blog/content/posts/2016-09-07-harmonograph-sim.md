@@ -241,6 +241,33 @@ tags:
 Underdamped - The system oscillates (at reduced frequency compared to
 the undamped case) with the amplitude gradually decreasing to zero.
 
+### Exponential damping
+
+<pre>
+f = exp(-(0.0001) * x)
+f.plot(x,1,40000)
+</pre>
+
+<img src="/assets/images/sage-exp-plot-2016-09-12.png" width="500px">
+
+### sine plot
+
+<pre>
+f = 10 * sin(0.01 * x)
+f.plot(x,1,10000)
+</pre>
+
+<img src="/assets/images/sage-sin-plot-2016-09-12.png" width="500px">
+
+### Damped sine plot
+
+<pre>
+f = 10 * exp(-(0.0001) * x) * sin(0.01 * x)
+f.plot(x,1,10000)
+</pre>
+
+<img src="/assets/images/sage-damped-sin-plot-2016-09-12.png" width="500px">
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

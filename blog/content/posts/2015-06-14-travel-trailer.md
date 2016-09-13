@@ -39,6 +39,17 @@ installations.
 <a href="https://www.youtube.com/watch?v=AZsVX6mh8O4" target="_blank">Enigmatic Nomadics youtube</a>
 Enigmatic Nomadics - Staying Warm Living Off Grid Heater Comparisons 3 of 3
 
+<a href="https://www.amazon.com/gp/product/B001CFRF7I" target="_blank">$60 at amazon prime</a>
+Mr. Heater F215100 MH4B Little Buddy 3800-BTU Indoor Safe Propane Heater, Medium 
+
+20# bottle adapter
+
+<a href="https://www.amazon.com/Mr-Heater-Portable-Heaters-F273699/dp/B000HE8P2O" target="_blank">$9.25 at amazon prime</a>
+Mr. Heater Fuel Filter for Portable Buddy and Big Buddy Heaters #F273699 
+
+<a href="https://www.walmart.com/ip/Mr-Heater-F276124-5-Propane-Hose-Assembly/21800050" target="_blank">$13 at walmart page</a>
+Enerco - Mr Heater F276124 5' Propane Hose Assembly 
+
 ## Tooluxe Butane
 
 <a href="https://www.amazon.com/Camping-Emergency-Butane-Coherent-Survival/dp/B007M2FWEI" target="_blank">$42 at Amazon</a>

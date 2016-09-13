@@ -1,12 +1,72 @@
 ---
-title: "Paddleboard Bag"
+title: "Paddleboard"
 created_at: Fri Aug 19 22:05:39 MDT 2016
 kind: article
 tags:
   - paddling
   - paddleboard_cover
   - paddleboard_bag
+  - paddleboard_plugs
+  - paddleboard_carrier
 ---
+
+# carrer accesories
+
+
+<a href="https://www.amazon.com/Seattle-Sports-Quick-Loops/dp/B00CHFH1V2" target="_blank">$15 at amazon prime</a>
+Seattle Sports Quick Loops 
+
+The perfect vehicle accessory for boaters with newer cars that have no
+place to attach front tie down straps. These Quick Loops provide an
+under-hood anchor point to keep the nose of a boat pointing forward
+without drilling, bolting, or otherwise altering a vehicle to safely
+carry a boat. Pair.
+
+<a href="https://www.amazon.com/Sherpak-078000-Hood-Loops-Pair/dp/B0024ALDMS" target="_blank">$7 at amazon</a>
+Sherpak Hood Loops (Pair) 
+
+Ideal for vehicles with plastic bumpers that have no metal underneath,
+these innovative loops install on the quarter panel bolts under the hood
+to provide a tie-down attachment.
+
+<a href="https://www.amazon.com/SportRack-9-Feet-Universal-Down-Straps/dp/B00BCLL1HM" target="_blank">$7 at amazon</a>
+SportRack 9-Feet Universal Tie Down Straps 
+
+<a href="https://www.amazon.com/Jungle-Straps-Lashing-Roof-top-Carriers/dp/B0184GD3N2" target="_blank">$12 at amazon prime</a>
+Jungle Straps 2 Pack of 8' Lashing Straps with Buckle Good for Roof-top Tie Downs with Kayaks, Canoes, Carriers and Other Roof Mounted Luggage (8' x 1") $14 for 13 foot.
+
+# cam strap
+
+<ul>
+  <li>cam strap</li>
+  <li>cam buckle strap</li>
+  <li>tiedown strap</li>
+  <li>tie-down strap</li>
+  <li>lashing strap</li>
+</ul>
+
+<a href="https://www.amazon.com/Keeper-85243-Lashing-Strap-Pack/dp/B004PL4H0O" target="_blank">$8 at amazon prime</a>
+Keeper 85243 8' x 1" Lashing Strap, 2 Pack
+
+2 pack.
+Typically used to secure canoes and kayaks
+8 feet long and 1 inch wide
+200 lb. working load limit
+600 lb. break strength
+
+<a href="https://www.amazon.com/Boncas-16-foot---1-inch-Lashing-Tie-down/dp/B01IOZXTDM" target="_blank">$11 at amazon prime</a>
+Boncas Sturdy 16-foot-by-1-inch Tie Down Strap Lashing Strap Cargo Tie-down Strap Padded Cam Lock Buckle, 2 Pack 
+
+<a href="https://www.amazon.com/SportRack-15-Feet-Universal-Down-Straps/dp/B00BCLL29O" target="_blank">$10 at amazon prime</a>
+SportRack 15-Feet Universal Tie Down Straps - pair?
+
+# Transport tutors
+
+<a href="https://www.youtube.com/watch?v=OWwLT2wfZNI" target="_blank">youtube</a>
+Performance Locker - How to transport Stand Up Paddleboards on your car
+
+<a href="https://www.youtube.com/watch?v=lNt16J8xIGk" target="_blank">youtube</a>
+Badfish SUP - How To Tie Down A SUP Board On Your Vehicle
 
 <a href="https://www.storeyourboard.com/sup-sock-paddleboard-cover-up-to-14/" target="_blank">storeyourboard.com product</a>
 SUP Sock | Paddleboard 
@@ -31,6 +91,41 @@ BIC Sport HD Stand Up Paddle Board (SUP) Board Bag
   <li>12’6 Touring Bag (sku: 31780) for he following boards: 12’6 Wing, 12’6 Tracers & World Series, 12’6 Biscayne (earth)</li>
   <li>14' Touring Bag (sku: 100560) is suitable for the 14’ & the 14’ Nova Scotia (earth)</li>
 </ul>
+
+# Paddleboard inserts
+
+<ul>
+  <li>leash plug</li>
+</ul>
+
+## ConnexSUP <a href="http://supthinktank.com/connexsup/" target="_blank">site</a>
+
+<a href="http://static1.squarespace.com/static/511d7829e4b059b15e211838/t/56e993ca859fd02c9c923cb0/1458148304012/TT+LINE+SHEET.pdf" target="_blank">product pdf</a>
+
+<a href="https://www.youtube.com/watch?v=91a2l3Inrz0" target="_blank">youtube</a>
+Boardworks Surf - CONNEX SUP deck tie down system
+
+Nice survey of attachments.
+
+<a href="http://www.supconnect.com/sup-gear/connexsup-the-perfect-place-to-start-on-your-next-sup-adventure" target="_blank">supconnect.com article</a>
+ConnexSUP: The Perfect Place To Start On Your Next SUP Adventure
+
+<a href="http://www.ridingbumps.com/2014/12/10/water-bottle-gps-and-gopro-carrying-solutions-for-prone-paddleboarders/" target="_blank">ridingbumps.com article</a>
+Water bottle, GPS, and GoPro carrying solutions for Prone Paddleboarders
+
+<a href="http://shop.fiberglasssupply.com/Surf_Sail_components-ConnexSUP_Inserts.html" target="_blank">fiberglasssupply.com page</a>
+ConnexSUP Inserts
+
+ConnexSUP Inserts were developed to make mounting the wide variety
+of accessories, gear, and equipment to your SUP easier and more
+versatile. The ConnexSUP mounting plugs feature a plug body that is
+glassed into the board and a variety of inserts that then fit into this
+plug. The master plug comes with the leash cup/tie down style insert. Also
+available are an FCS style insert for mounting a GoPro Camera into and
+an insert with a 1/4"-20 threaded brass insert for mounting accessories
+such as fishing rod holders, phone/gps mounts, camera arms etc.
+
+# fin key
 
 <!--
 html boilerplate
