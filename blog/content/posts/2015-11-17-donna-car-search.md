@@ -109,6 +109,9 @@ Seat Armour <a href="http://www.bernardiparts.com/Seat-Armour__SA100HONX.aspx" t
 Honda Roof Rack (Odyssey 1999-2004) Seat Armour <a href="http://www.bernardiparts.com/Honda-Roof-Rack-Odyssey-1999-2004__08L02-S0X-101.aspx" target="_blank">bernardiparts product page</a>
 
 Complete Roof Rack for LX <a href="https://www.handa-accessories.com/odyext02.html" target="_blank">order page</a>
+$227.94
+
+<img src="/assets/images/handa-2004-odyssey-roof-rack.png" width="650px">
 
 $310 for 2 - Yakima 54 Inch Track with Plusnuts <a href="http://www.rackattack.com/base-roof-rack-systems/permanent-custom-mount-roof-rack-systems/yakima-54-inch-track-with-plusnuts/" target="_blank">rackattack product page</a>
 

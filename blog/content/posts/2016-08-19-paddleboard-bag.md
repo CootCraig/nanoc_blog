@@ -10,6 +10,15 @@ tags:
   - paddleboard_carrier
 ---
 
+# Board bag
+
+<a href="http://store.bicsport.com/sup/equipments/board-bags/sup-board-bag-10-6-hd.html" target="_blank">$150 at store.bicsport.com</a>
+Sup Board Bag 10'6" Hd
+$149.95 Ref. 31744 
+
+<a href="https://www.amazon.com/BIC-Sport-Paddleboard-10-Feet-32-Inch/dp/B009VYHVUS/" target="_blank">10-6 $150 at amazon</a>
+BIC Sport HD Stand Up Paddle Board (SUP) Board Bag 
+
 # carrer accesories
 
 
@@ -110,6 +119,13 @@ Nice survey of attachments.
 <a href="http://www.supconnect.com/sup-gear/connexsup-the-perfect-place-to-start-on-your-next-sup-adventure" target="_blank">supconnect.com article</a>
 ConnexSUP: The Perfect Place To Start On Your Next SUP Adventure
 
+<a href="https://www.youtube.com/watch?v=-rTeBqwKB6M" target="_blank">youtube</a>
+supconnect - ConnexSup Install Update
+
+<a href="https://www.youtube.com/watch?v=gckq0MnkzbQ" target="_blank">youtube</a>
+Fiberglass Supply - Connex SUP 1/4"-20 Threaded Brass Insert
+
+
 <a href="http://www.ridingbumps.com/2014/12/10/water-bottle-gps-and-gopro-carrying-solutions-for-prone-paddleboarders/" target="_blank">ridingbumps.com article</a>
 Water bottle, GPS, and GoPro carrying solutions for Prone Paddleboarders
 
@@ -125,7 +141,22 @@ available are an FCS style insert for mounting a GoPro Camera into and
 an insert with a 1/4"-20 threaded brass insert for mounting accessories
 such as fishing rod holders, phone/gps mounts, camera arms etc.
 
+<a href="https://www.youtube.com/watch?v=3ba8o2HBXRQ" target="_blank">youtube</a>
+Bounce SUP: LiftSUP Handle and ConnexSUP Plugs
+
+# plug placements
+
+
+Look at <a href="http://www.bicsport.com/sup/boards/product/id-126-wing-white.html" target="_blank">bic sport 12-6 wing</a>
+and <a href="http://www.bicsport.com/sup/boards/product/id-126-c-tec-tracer-x-29.html" target="_blank">12'6 C-TEC TRACER x 29"</a>
+
 # fin key
+
+<a href="https://www.amazon.com/Stand-paddle-board-cover-boards/dp/B009D4SR2M" target="_blank">$100 at amazon prime</a>
+SUP Stand up paddle board UV cover for 9'6"-11' boards by kore dry
+
+<a href="http://www.victorykoredry.com/board-covers.html" target="_blank">victorykoredry.com/board-covers</a>
+KoreDry UV Board Covers
 
 <!--
 html boilerplate

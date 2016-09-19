@@ -56,7 +56,8 @@ Wranglerstar - Fiskars X27 Axe VS Traditional Splitting Maul
 <a href="https://www.youtube.com/watch?v=eE5c9cUlyTE" target="_blank">youtube</a>
 Wranglerstar - Who Builds Best Axe Under $50 - You'll Be Surprised 1of2
 
-
+<a href="https://www.youtube.com/watch?v=5tusreUDXUM" target="_blank">youtube</a>
+Wranglerstar - Lost Skill Every Guy Should Master
 
 <!--
 html boilerplate

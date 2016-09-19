@@ -39,6 +39,9 @@ John Heisz - Making Small Storage Boxes
 <a href="http://www.ibuildit.ca/Woodworking%20Projects/small-boxes-1.html" target="_blank">ibuildit.ca article</a>
 Small Wooden Storage Boxes
 
+<a href="http://www.ibuildit.ca/Woodworking%20Projects/camera-box.html" target="_blank">ibuildit.ca article</a>
+How To Make A Box With Butterfly Lids
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
