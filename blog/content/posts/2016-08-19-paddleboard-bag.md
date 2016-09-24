@@ -158,6 +158,81 @@ SUP Stand up paddle board UV cover for 9'6"-11' boards by kore dry
 <a href="http://www.victorykoredry.com/board-covers.html" target="_blank">victorykoredry.com/board-covers</a>
 KoreDry UV Board Covers
 
+# CBC 10-6
+
+<a href="http://keepersportsproducts.com/products/big-5-106-cbc-sup/" target="_blank">CBC/keepersports product page</a>
+Big 5 10’6 CBC SUP - California Board Company
+
+<ul>
+  <li>Size 126″ x 31″ x 5.25″</li>
+  <li>Core Waterproof EPS</li>
+  <li>Material HD/PE slick bottom HD IXPE/XPE deck with graphic</li>
+  <li>Features Roof rack, camera mount, surf leash, 3 fins and aluminum paddle</li>
+  <li>Series Big 5 CBC Foam SUP</li>
+  <li>Item #067</li>
+</ul>
+
+## HD IXPE/XPE deck
+
+### xpe foam
+
+XLPE is chemically crosslinked PE foam. It is produced in continuous
+rolls resulting  in a foam  product with uniform, closed cells and smooth
+skins on both sides. It is light weight, flexible and soft to touch,
+yet strong, tough,  resilient and resistant to moisture, many chemicals
+and temperature extremes.
+
+Compared with non-crosslinked polyethylene foam, it typically offers
+superior thermal stability and insulating properties plus improved
+dimensional consistency and stability over a wide range of fabrication
+methods and end-user’s conditions.
+
+XLPE foams are used as insulation and sound absorbing materials in a
+host of container’s  designs.
+
+It is easy to work in fabricating and thermoforming. XLPE foams are
+right at home in the building and construction industry where thermal
+insulation, moisture resistance, sound and vibration are critical. Indoor
+or outdoor XLPE foams build success.
+
+XLPE foams also used in backpack padding, luggage and similar application
+are benefiting from a wide array of beautiful colors and variable
+densities.
+
+
+#### <a href="https://www.morevafoam.com/Categories/xpe-foam" target="_blank">morevafoam.com</a> Crosslinked Polyethylene Foam (XPE)
+
+Crosslinked Polyethylene Foam (XPE) is chemically crosslinked PE foam
+produced in continuous rolls resulting in a foam product with uniform,
+closed cells and smooth skins both sides. It is lightweight, flexible and
+soft to touch, yet strong, tough, resilient and resistant to moisture,
+many chemicals and high temperature.
+
+### eps foam
+
+#### What is Expanded Polystyrene (EPS) foam?
+
+The word Styrofoam™ is often used to describe expanded polystyrene
+(EPS) foam; however, ‘Styrofoam’ is actually a trademarked term
+for closed-cell extruded polystyrene foam made for thermal insulation
+and craft applications. EPS foam is the correct term for any form of
+expanded polystyrene.
+
+Expanded Polystyrene insulation is a lightweight, rigid, closed cell
+insulation. EPS is available in several compressive strengths to withstand
+load and back-fill forces. This closed-cell structure provides minimal
+water absorption and low vapor permanence.
+
+#### <a href="http://www.prosurfing.com/articles/epsfoamsurfboards.html" target="_blank">prosurfing.com article</a>
+
+EPS Epoxy Foam Core Surfboards… Are they the future?
+
+EPS surfboards are glassed using epoxy resin and are lighter, stronger,
+more buoyant, and have better heat resistant characteristics than
+traditional boards.  I tend to destroy polyurethane surfboards but I
+really like the flex pattern and feel under my feet.
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

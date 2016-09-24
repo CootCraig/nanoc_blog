@@ -512,15 +512,154 @@ wix 46803
 
 wix 24893
 
+# tires
+
+## replace tires 2016-09-19
+
+225/60r16
+
+
+### tirerack research
+
+#### General AltiMAX RT43
+
+review General AltiMAX RT43
+
+325.76 + (4 * 14.58) = 384.08 - $96 each for tires
+
+
+General AltiMAX RT43 - Grand Touring All-Season
+
+#### Kumho Ecsta LX Platinum Grand Touring All-Season
+
+review Kumho Ecsta LX Platinum tire
+
+297 + (4 * 14.60) = $356 - $89 per tire
+
+
+#### Sumitomo HTR Z II
+
+review Sumitomo HTR Z II
+
+Set of 4: 273.00 + 58.32 shipping  - $83 each
+
+#### Bridgestone Potenza RE97 AS 
+
+2.9 out of 5
+
+### discount tire
+
+
+#### General AltiMAX RT43
+
+$84. each not in stock. specal order
+
+<a href="https://www.youtube.com/watch?v=2y-Y15t1DZ4" target="_blank">youtube</a>
+Everyday CarLife - General Altimax RT43 Review
+
+<a href="https://www.youtube.com/watch?v=BdtRIhbzcPM" target="_blank">youtube</a>
+Tire Rack - Standard Touring All-Season Tires That Strike the Perfect Balance
+
+General AltiMAX RT43 recommended in Comparison of:
+
+<ul>
+  <li>Firestone Precision Touring</li>
+  <li>General AltiMAX RT43</li>
+  <li>Hankook Optimo H727</li>
+  <li>Sumitomo Touring LS T</li>
+</ul>
+
+<a href="" target="_blank">youtube</a>
+Tire Rack - Standard Touring All-Season Tires That Strike the Perfect Balance -- Winter Update
+
+Comparison of:
+
+<ul>
+  <li>Hankook Optimo H727 rated 1</li>
+  <li>General AltiMAX RT43 rated 2</li>
+  <li>Firestone Precision Touring</li>
+  <li>Sumitomo Touring LS T</li>
+</ul>
+
+<a href="https://www.youtube.com/watch?v=AiJP9FXq7kA" target="_blank">youtube</a>
+CARiD - Altimax RT43 from General Tires
+
+<a href="https://www.youtube.com/watch?v=yy0wx42B2PI" target="_blank">youtube</a>
+General Altimax RT43 Tire Review | SimpleTire.com 5 star rating
+
+<a href="https://www.youtube.com/watch?v=BUwoSCVlleQ" target="_blank">youtube</a>
+General Tire - The AltiMAX RT43 Touring All-Season Tire 
+
+#### Yokohama YK580 
+
+$114 each for tires
+
+review Yokohama YK580 
+
+#### Goodyear Assurance UltraTour 
+
+review Goodyear Assurance UltraTour 
+
+#### Bridgestone Potenza RE97 AS 
+
+review Bridgestone Potenza RE97 AS 
+
+#### Falken Pro G4 A/S 
+
+review Falken Pro G4 A/S 
+found no reviews
+
+$103 each for tires
+
+#### Goodyear Assurance Fuel Max 
+
+review Goodyear Assurance Fuel Max 
+
+$105 each for tires
+
+#### Road Hugger GT Eco 
+
+discount tire private brand.
+
+review Road Hugger GT Eco 
+
+$97 each for tires.
+
+#### Arizonian Silver Edition III 
+
+discount tire brand.
+
+review Arizonian Silver Edition III 
+
+$90 each for tires
+
+
+<a href="https://www.youtube.com/watch?v=CkYjPphCFmM" target="_blank">youtube</a>
+Discount Tire - Arizonian Silver Edition III - All Season Tire - Discount Tire
+
+
+#### Falken Sincera SN-828
+
+search review Falken SN-828
+
+$78 each for tires.  $392.00 for 4 mounted.  $415.83 with tax
+
+The Falken SN-828 is a T speed rated touring tire designed for a wide
+range of vehicles in sizes 13 inch to 16 inch. All-season traction,
+positive handling and a quiet ride help deliver solid value.
 
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
-<h3></h3>
-<PRE>
-</PRE>
-<p>
-</p>
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
-

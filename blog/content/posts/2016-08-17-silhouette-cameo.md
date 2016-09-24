@@ -114,6 +114,25 @@ pure python, ontop of the libusb backend.
 
 The protocol is called GPGL (Graphtec Plotter Graphics Language)
 
+# email sew inspired
+
+### Fri Sep 23 13:04:39 MDT 2016
+
+email bounces
+
+<pre>
+to: esewinpsired@gmail.com
+subject: Silhouette Cameo at library
+
+I learned of your meetings at the library from Derrick and that you may be the only folks using the Cameo.  I am hoping to use the Silhouette Cameo for paper crafting and would like to see how you are using it.
+
+Would it be appropriate to come to one of your library meetings?  I have the next one as Sept. 28, 6-8:30
+
+Thanks,
+Craig Anderson
+719-320-6799
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

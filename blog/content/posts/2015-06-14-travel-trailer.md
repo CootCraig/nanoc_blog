@@ -6,6 +6,27 @@ tags:
   - travel_trailer
 ---
 
+# front mirror
+
+## CL082 4" x 8" Clamp-on
+
+<a href="http://www.ksource.org/UniversalProduct.asp?Lavel=3&Category=Stick-On+and+Clamp-On+Mirrors&ID=69&ProductNo=CL082" target="_blank">ksource.org page</a>
+CL082 4" x 8" Clamp-on
+
+<a href="https://www.amazon.com/gp/product/B000E4B8C6" target="_blank">$9.56 at amazon prime</a>
+Fit System CL082 Clamp-on Spot Mirror 
+
+measured size is 4 3/4 x8 1/4"
+
+<img src="/assets/images/clamp-on-mirror-cl082.jpg" width="500px">
+
+## CIPA M37 UTV Side View Mirror
+
+<a href="https://www.amazon.com/CIPA-Mirror-Black-Rollcage-diameters/dp/B000J4645M" target="_blank">$10 at amazon prime</a>
+CIPA M37 UTV Side View Mirror (Black) fits Rollcage diameters from 1-3/4" to 2" - Driver Side 
+
+8 x 7 x 2.5 inches 
+
 # Space Heater
 
 http://www.amazon.com/Camco-57331-Olympian-Wave-3-Catalytic/dp/B000BUV1RK/
@@ -446,6 +467,11 @@ https://tinycamper.wordpress.com/casita-decorating-mods/
 http://lakeshoreimages.com/fiberglass.html
 
 http://smalltrailerenthusiast.com/manufacturers-2/
+
+# Storage
+
+<a href="http://rvlife.com/rv-organizing-tips/" target="_blank">rvlife.com article</a>
+Real World Organizing Tips for Your RV By Rene Agredano - The Full Timing Nomad
 
 <!--
 html boilerplate
