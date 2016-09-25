@@ -369,6 +369,37 @@ Quote ============================================
 > the extra cost of cloth and resin - despite what you might read or view.
 </pre>
 
+### Stephen Pirsch - Sat Sep 24 19:00:00 MDT 2016
+
+Stephen,
+
+I'm planning to start the build during a quiet time over the colder
+months.  There is lots of study and research to do before then.
+
+I've started drafting top and side profiles based on your small wave design 12.
+
+http://surfersteve.com/images/small-wave-designs-12.jpg
+
+I'm tweaking design 12 for these dimensions: 7'6 - 30" - 5"1/4
+
+When they're ready I'll send you the profiles I come up with and some thoughts on
+construction.
+
+One of my buddies here in Pueblo says he would like to build a similar board, It would
+be great to have a local partner on this.  He has been watching the river surfers on the
+Arkansas River Whitewater play park downtown and wants to join in.
+
+Sincerely,
+Craig Anderson
+
+> Stephen Pirsch <swpirsch@gmail.com>
+> 
+> 25psi - that will allow "normal" cloth amounts.  Since you will be doing
+> a SUP, use the equivalent of 3 - 6oz, layers of E cloth, with an EVA
+> pad (all on the deck patch area), otherwise you will get heel dents -
+> the rest can be the equivalent of a single 6oz layer.
+> 
+> It is great how you researched the psi numbers - good job Craig!
 
 <!--
 html boilerplate
