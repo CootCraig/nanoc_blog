@@ -44,6 +44,13 @@ convert
   ~/dev/nanoc_blog/blog/content/assets/images/surfersteve-design-12.eps
 </pre>
 
+### Working on board top view with Inkscape
+
+Mon Sep 26 09:10:39 MDT 2016
+
+<img src="/assets/images/smwave-board-top-view-2016-09-26.png" width="800px">
+ 
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

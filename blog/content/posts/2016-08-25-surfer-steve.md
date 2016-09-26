@@ -401,6 +401,16 @@ Craig Anderson
 > 
 > It is great how you researched the psi numbers - good job Craig!
 
+### Stephen Pirsch - Sun Sep 25 19:35:00 MDT 2016
+
+Okey dokey Craig.  Let me know if you need any help.
+
+Incidentally, the rocker note recommends the bottom rocker image for
+Figure 12.  For a river board consider the top rocker image, or at least
+put 1/2" of rocker from the nose side of the fin base to the tail tip.
+River boards need to fit in to relatively tight, curvy spaces.
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
