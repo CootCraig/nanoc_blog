@@ -462,6 +462,78 @@ in japan!!!
 <a href="http://www.ebay.com/itm/SKIL-Model-96-Electric-Power-Plane-Planer-/282052714646" target="_blank">ebay skil 96</a>
 Sat Jun 11 14:38:50 MDT 2016
 
+# Plastic Tarp Clip
+
+## <a href="http://www.homaxproducts.com/sundries/outdoor-products/cinchtite-tarp-clip-4-pack" target="_blank">Homax CinchTite Tarp Clip, 4 Pack</a>
+
+Homax Tarp Clips are the ultimate locking tarp clip. The extremely
+powerful locking jaws grip materials up to ¼” thick without damage
+or leaving holes. Tie down tarps, plastic sheeting, tents, awnings
+and more. The slide-lock enables the clip to be repositioned and
+reused. To release the material, you simply press a button. Durable
+nylon construction. Weather-proof and crack-resistant.
+
+## <a href="http://www.homaxproducts.com/sundries/outdoor-products/cinchtite-tarp-zipper-door" target="_blank">CinchTite Tarp Zipper Door</a>
+
+Create an instant door with Homax CinchTite 7-Ft. Peel 'N Stick Tarp
+Zipper Door. It’s a self-adhesive zipper that attaches to tarps and
+plastic sheeting. In only minutes, you can quickly create an enclosed
+and accessible work area. The reinforced zipper is strong, durable and
+provides a barrier to dust. Eliminates uncovering and provides outside
+storage. This is a must-have item for construction, remodeling, boats,
+RVs, camping, firewood, work areas, green houses and much more. Opens
+from either side for easy access. 7-feet long.
+
+## <a href="http://easyklip.com/" target="_blank">EasyKlip</a>
+
+The world’s strongest tarp clip. Anyplace you need a grommet-free
+fastener, whether for a car cover, fabric canopy or plastic banner,
+here’s no clip stronger or more versatile than the indispensible
+EasyKlip. All around the home, on your boat or RV, and anytime you head
+outdoors – EasyKlip® makes hundreds of jobs easier.
+
+EasyKlip® BannaBungee
+
+## <a href="http://easyklip.com/mini_klip.php" target="_blank">EasyKlip Mini</a>
+
+
+## <a href="https://www.amazon.com/TEKTON-6268-Tarp-Clips-4-Piece/dp/B00A50NB24" target="_blank">TEKTON 6268 Tarp Clips</a>
+
+4 for $7.70 at amazon add on
+
+### C. Nelson review
+
+INSTALLATION TIP: This is the fourth type of these clips I have used
+and these are BY FAR the best I have used. However, the only way they
+finally worked was when I installed them I folded the tarp and put small
+piece of wooden dowel inside the fold and put the clip over the fold
+and then tightened.
+
+I used to have to re-secure my tarp every few weeks but since I got these
+and installed them with the wooden dowels I have not had to touch them
+and it's been a couple of months.
+
+## Kotap Ball Bungee
+
+<a href="https://www.amazon.com/Kotap-BB-6B-Bungee-6-Inch-25-Piece/dp/B00DPLM5YU" target="_blank">$8 for 25 at amazon</a>
+Kotap BB-6B Ball Bungee, 6-Inch, Black, 25-Piece
+
+
+<a href="https://www.youtube.com/watch?v=VsShmirA2A4" target="_blank">youtube</a>
+CanopiesAnd Tarps - How To Install Ball Bungee Ties On A Tarp Or Canopy
+
+### <a href="http://www.canopiesandtarps.com/" target="_blank">canopiesandtarps.com/</a>
+
+<a href="https://www.youtube.com/watch?v=-B8kIDjEtow" target="_blank">youtube</a>
+Vagabond Vivant - Gear : Ball Bungees
+
+Get long one and cut if needed shorter.
+
+# Tarp
+
+<a href="https://www.amazon.com/Heavy-Duty-White-10-mil-312201/dp/B0010Z0D4W" target="_blank">Dry Top Tarps at Amazon</a>
+10' x 20' Dry Top Heavy Duty White Full Size 10-mil Poly Tarp item #310207 
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

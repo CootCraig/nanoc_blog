@@ -54,6 +54,10 @@ non-fiction books
   <li>History Decoded: The Ten Greatest Mysteries of History Revealed (2013)</li>
 </ul>
 
+# Books Read
+
+The House of Secrets
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

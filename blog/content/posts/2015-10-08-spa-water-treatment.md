@@ -1367,11 +1367,291 @@ $53
 * Can be removed out of the T fitting and installed in existing T fitting on your spa with ½" threads
 * For ¾" threads see the 6560-860 Flow Switch
 
+# Replace UltraJet by Vico
 
 
-~~~~~~~~~~~~~~~~
+## ULTRA JET® PUMP PARTS
+
+<a href="http://www.spapumpsandmore.com/ULTRA_JET_PUMP_PARTS_ULTRA_JET_PARTS_s/115.htm" target="_blank">spapumpsandmore.com</a>
+ULTRA JET® PUMP PARTS  - ULTRA JET® PARTS
+
+Need help, give us what info you can, a photo, email us info@spapumpsandmore.com
+
+## ULTRA JET® REPLACEMENT PUMPS
+
+<a href="http://www.spapumpsandmore.com/ULTRA_JET_Replacement_Pumps_s/124.htm" target="_blank">spapumpsandmore.com</a>
+ULTRA JET® REPLACEMENT PUMPS
+
+These are original Ultra Jet® components assembled on new
+A.O. Smith/Century, U.S. Motors, or General Electric motors, and are
+replacement pumps compatible with Balboa Water Group® Ultra Jet® Pumps
+
+Don't see the pump you need? We have many models to choose from in
+stock, email us please info@spapumpsandmore.com and we'll find your
+model for you.
+
+## spapartsonline.com Spa Pumps & Motors
+
+888-267-8583
+
+<a href="http://www.spapartsonline.com/category_s/1827.htm?searching=Y&sort=13&cat=1827&show=10&page=1" target="_blank">spapartsonline.com</a> Spa Pumps & Motors
+
+## spaandpoolsource.com/vicospapumps
+
+<a href="http://www.spaandpoolsource.com/vicospapumps.aspx" target="_blank">spaandpoolsource.com/vicospapumps</a>
+
+http://www.spaandpoolsource.com/6500-217-Ultra-Jet-spa-pump.aspx
 <a href="" target="_blank"></a>
-<img src="" width="100px">
-~~~~~~~~~~~~~~~~
+
+### Vico Ultima Pump 6500-217
+
+http://www.spaandpoolsource.com/6500-217-Ultra-Jet-spa-pump.aspx
+<a href="" target="_blank">spaandpoolsource.com</a> 6500-217-Ultra-Jet
+
+<pre>
+Manufacturer: Vico
+Manufacturer Part No: 6500-217
+Sale Price: $335.85
+</pre>
+
+Vico Ultima Pump by Balboa Water Group: 2 Horsepower, 2 Speed, 230 volts,  2 inch side discharge
+
+8.8 Amps High Speed, 2.6 Amps Low Speed
+
+Sundance part number: 6500-217. Used on 1994 1/2 - 1996 Sundance Spas.Comes complete with wet end and motor. No power cord.
+
+## Spa and Pool Source order
+
+<pre>
+Spa and Pool Source
+Phone Order Assistance: 1-916-782-0880
+Email: sales@spaandpoolsource.com
+
+1998 Marguis Reward spa
+
+ultrajet 5KCR39UN3790X
+
+ultrajet by vico
+MOD 5KCR39UN3790X
+V 230V
+RPM 3450 / 1725
+A 6.9/2.6
+
+3.1 inch OD threads.
+</pre>
 
 
+#### <a href="http://www.spapumpsandmore.com/DJ210258220_replacement_Pump_p/dj210258220.htm" target="_blank">spapumpsandmore.com</a>
+
+DJ210258220 replacement Spa Pump 2 speed 2"SD/CS 230V 5.8A 1.0 HP 5.8 Amp Marquis 
+
+$265.10
+
+http://www.spapumpsandmore.com/help.asp
+
+(800) 584-2717 M-F 7-3 PST
+
+DJ210258220 replacement Spa Pump 2 speed 2"SD/CS 230V 5.8A now 6.5 to 8.0 amp DJ
+ 	
+DJ210258220 replacement Spa Pump 2 speed 2"SD/CS 230V 5.8A 1.0 HP 5.8
+Amp Marquis Spas and others, now 6.5 to 8.0 amps. threaded connections,
+3.1" OD threads, exactly as shown here.
+
+These are new Dura JetTM pump components assembled on new high quality US
+Motors or AO Smith/Century motors, and are replacement pumps compatible
+with Balboa Water Group® Dura JetTM Pumps.
+
+### Email - Mon Oct 17 14:45:52 MDT 2016
+
+To: sales@spaandpoolsource.com
+
+1998 Marguis Reward spa
+http://www.spaandpoolsource.com/6500-217-Ultra-Jet-spa-pump.aspx
+
+Cannot read the Vico model number.
+
+The motor has this text:
+
+MOD 5KCR39UN3790BX 
+230V
+RPM 3450 / 1725
+
+Which would appear to be this motor. Pipe fittings are about 2 1/2 inch.
+
+2 Speed 230V 06.7A 48Fr 5.5" Diam. GE Motor 5KCR39UN3790BX 
+
+I would like to get some pre sales support to make sure I am getting a correct replacement.
+
+Craig Anderson
+719-320-6799
+
+info@spapumpsandmore.com
+
+http://www.spapumpsandmore.com/help.asp
+(800) 584-2717 M-F 7-3 PST
+
+http://www.spapumpsandmore.com/DURA_JET_Spa_Pump_Replacements_s/203.htm
+
+Dura JetTM Spa Pump Replacements
+
+DJ Series Hot Tub / Spa Pumps - there are many older pumps now
+discontinued but easily replaced with these listed spa pump replacement
+with same shape, size, and threaded connections.
+
+These are new Ultra Jet® spa pump replacements assembled on new high
+quality U.S. Motors or AO Smith/Century motors, and are spa replacement
+pumps compatible with Balboa Water Group® Ultra Jet® Pumps.
+
+### Email to info@spapumpsandmore.com
+
+to: info@spapumpsandmore.com
+subject: 1998 Marquis replacement pump
+
+Photos in Album at
+https://goo.gl/photos/ZFvyLnMuy4Ru523m8
+
+1998 Marquis Reward spa
+
+Text on pump:
+...................
+ultrajet by vico
+MOD 5KCR39UN3790X
+V 230V
+RPM 3450 / 1725
+A 6.9/2.6
+...................
+
+3.1 inch OD threads.
+
+Craig Anderson
+719-320-6799
+
+#### response
+
+<a href="http://www.spapumpsandmore.com/Spa_Pump_PUULS220258220G_1014224_PUULSC220258220_p/puuls220258220g.htm" target="_blank">spapumpsandmore.com - PUULSC220258220 $289</a>
+
+to: info@spapumpsandmore.com
+subject: shock mounts Re: 1998 Marquis replacement pump
+
+> oh very clear, good job it is this one right here:
+>
+> Spa Pump PUULS220258220G ...
+>
+> thanks,
+>
+> Frank R.
+
+Thank you, I will order this shortly.
+
+I need to replace the 4 mount shock bolts. Do you have shock washers of bolt assemblies?
+
+### Need anti vibration rubber mounts
+
+rubber motor vibration mount
+
+motor vibration grommet
+
+motor rubber washer
+
+<a href="https://www.amazon.com/LiftMaster-Garage-Opener-Vibration-Isolator/dp/B0051H7JEC" target="_blank">$12 for 2 at amazon</a>
+LiftMaster - Garage Door Opener Vibration Isolator Kit 89LM 
+
+<a href="https://www.amazon.com/JW-Winco-451-1-25-19-5-16-55-Cylindrical/dp/B00DNF75WU" target="_blank">$10.44 for 2 at amazon prime</a>
+JW Winco 451.1-25-19-5/16-55 Series GN 451.1 Rubber Cylindrical Vibration Isolation Mount with 2 Threaded Studs, Inch Size, 1" Diameter, 0.75" Height, 5/16-18 Thread 
+
+#### Response
+
+> I need to replace the 4 mount shock bolts. Do you have shock washers or bolt assemblies?
+
+If you go on our website and look you will see a thing called motor pad
+
+##### <a href="http://www.spapumpsandmore.com/Waterway_pump_mounting_pad_p/motorpad.htm" target="_blank">spapumpsandmore.com motor mount pad</a>
+
+Pump/Motor mounting pad for 48 frame motors and most 56 frame motors, by Waterway Plastics
+
+This motor mounting pad fits under any 48 frame pumps, and under most
+56 frame motors and pumps with industry standard bases. Pad cushions
+the motor to reduce noise and vibration transmission to the mounting
+surface. Measures 6-1/4 x 3-7/8 x 1/2", designed to fit typical industry
+standard base on 48 and 56 frame motors which measure 4x6.5" and have
+3x5" bolt pattern. Range for the bolt pattern would be about 3" x 4-1/8"
+to 5-1/2". Molded of a soft, flexible PVC compound for heat and water
+resistance. Includes 4 soft 'washers' to isolate mounting screws from
+touching the motor base. Recommended for all whirlpool bath tubs, and
+hot tub applications. For Waterway pump motors, for pump motors, and
+many others. Used by many bathtubs for vibration and sound deadening,
+but works well on all pump modelsV
+
+Frame on existing pump is 6.5x4 plate, 3x5 bolts.
+
+#### Order
+
+<pre>
+Description:	OrderID 31204
+Invoice Number 	31204
+Customer ID 	28179
+Total: 		$320.99 (USD)
+
+Date/Time:	18-Oct-2016 8:51:47 PDT
+Transaction ID:	40006733788
+Payment Method:	Visa xxxx0128
+Transaction Type:	Purchase
+Auth Code:	04443D
+
+spapumpsandmore.com
+Laguna Hills, CA 92653
+info@spapumpsandmore.com
+</pre>
+
+<pre>
+MotorPad	Pump/Motor mounting pad for 48 frame motors and most 56 frame motors, by Waterway Plastics
+	1	$5.90	$5.90
+PUULS220258220G	PUULSC220258220 PUULS220258220G PUULS220258220H 2" SD/CS 1014224 1014225 6.5-8.0A 230V 2-spd 1014246 PUULSC220258220, PUULSC220258220GR
+	1	$289.15	$289.15
+ 
+Subtotal: 	$295.05
+Tax: 	$0.00
+Shipping Cost: 	$25.94
+Grand Total: 	$320.99
+</pre>
+
+### insulation back on spa
+
+Owens Corning FOAMULAR 250 (xps would like 1" sheets)
+
+Dow STYROFOAM Brand Square Edge Insulation (xps) Extruded polystyrene closed-cell foam 25psi
+
+<a href="https://www.lowes.com/pd/Expanded-Polystyrene-Foam-Board-Insulation-Common-1-in-x-4-ft-x-8-ft-Actual-0-937-in-x-3-875-ft-x-7-875-ft/3365576" target="_blank">lowes.com 1" x 4' x 8' EPS</a>
+
+#### Polyshield at Lowes
+
+$11.45 for
+Expanded Polystyrene Foam Board Insulation (Common: 1-in x 4-ft x 8-ft; Actual: 0.937-in x 3.875-ft x 7.875-ft) 
+
+<a href="http://www.cellofoam.com/Polyshield.htm" target="_blank">cellofoam.com Polyshield EPS</a>
+
+<a href="http://www.progressivefoam.com/wp-content/uploads/EPS-IA-Bulletin-95-03-EPS-Moisture.pdf" target="_blank">EPS and moisture pdf</a>
+
+### Pipe wrap
+
+See frost king pipe wrap at Lowes
+
+<a href="https://www.lowes.com/pd/Frost-King-1-in-Fiberglass-Plumbing-Pipe-Wrap-Insulation/3131255" target="_blank">lowes.com fiberglass pipe wrap</a>
+Frost King 1-in Fiberglass Plumbing Pipe Wrap Insulation 
+3" wide 1" thick 25' long $5.98
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

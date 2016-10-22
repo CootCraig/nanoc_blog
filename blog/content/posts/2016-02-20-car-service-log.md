@@ -73,6 +73,7 @@ tire rotation - 5000 mi
 2016-01-14, 171156, 0, Tire Rotation, Discount Tire,
 2016-06-10, 176929 mi, $32, Oil Change, $28 for 6 qt oil $4.05 for oil filter, Mobil 1 oil; fram ph3506 oil filter
 2016-06-16, 177060, 0, tire rotation, Discount Tire, Other Notes
+2016-09-28, 179932 mi, $32, Oil Change, $35 for 6 qt oil $4.00 for oil filter, Mobil 1 oil; ACDELCO PF46 oil filter
 
 
 </pre>
@@ -80,8 +81,8 @@ tire rotation - 5000 mi
 ### Next service items
 
 <pre>
-tire rotation 181156 mi = 176156 + 5000
-change oil at 176929 + 3000 = 179929 (because of fram filter, will use wix next time) or Jan. 2017 (2017-01-10)
+tire rotation 181156 mi = 176156 + 5000 (Trip to MN for Mom passing and Hegvik reunion delayed)
+change oil 182932 --- 179932 + 3000 = 182932
 </pre>
 
 # supplies

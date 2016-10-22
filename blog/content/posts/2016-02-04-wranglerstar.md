@@ -6,6 +6,7 @@ tags:
   - woodworking
   - woodworking_people
   - wranglerstar
+  - wood_mizer_sawmill
 ---
 
 <a href="http://www.wranglermart.com/" target="_blank">wranglermart.com</a>
@@ -58,6 +59,9 @@ Wranglerstar - Who Builds Best Axe Under $50 - You'll Be Surprised 1of2
 
 <a href="https://www.youtube.com/watch?v=5tusreUDXUM" target="_blank">youtube</a>
 Wranglerstar - Lost Skill Every Guy Should Master
+
+<a href="https://www.youtube.com/watch?v=XfWCWOpqx8w" target="_blank">youtbe</a>
+Wood Mizer Sawmill - How To Talk Your Wife Into Buying A Wood Mizer 
 
 <!--
 html boilerplate

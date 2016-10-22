@@ -5,8 +5,210 @@ kind: article
 tags:
   - cellphone
   - donna_cellphone
-  - google_cellphone
+  - wireless_carriers
+  - verizon_wireless
 ---
+
+# carriers
+
+<ul>
+  <li>verizon wireless 143m</li>
+  <li>at&t mobility 132m</li>
+  <li>t-mobile us 67m</li>
+</ul>
+
+# verizon phones
+
+
+Ordered this Verizon phone with prepaid plan - Tue Oct 11 09:05:48 MDT 2016
+
+<pre>
+$45 prepaid (2GB high speed)
+Moto G Play Droid in Black - $84.99
+$45 Smartphone Plan 2GB (at high speed4) - $45 / month
+Waived activation fee
+Due today: $136.95
+Due monthly: $45.00
+</pre>
+
+
+## Moto G Play Droid 
+
+$85
+
+<ul>
+  <li>Network CDMA 850 1900 MHz LTE B2 4 5 13</li>
+  <li>8MP camera</li>
+  <li>Size 5.7H x 2.8W x .3D</li>
+  <li>Screen 	5.5, HD 720 (720x1280)</li>
+  <li>Battery 2800 mAh (non-removable)</li>
+  <li>Operating System 	Android™ 6.0.1, Marshmallow</li>
+  <li>Storage 16 GB</li>
+  <li>Expandible Memory Supports microSD card</li>
+  <li>1.2 GHz Qualcomm® Snapdragon™ 410 quad-core processor with 450 MHz Adreno 306 GPU</li>
+</ul>
+
+
+### <a href="https://www.motorola.com/us/products/moto-g-play" target="_blank">Moto unlocked univeral version</a>
+
+### <a href="http://www.droid-life.com/2015/08/11/moto-g-3rd-gen-review/" target="_blank">droid-life.com review</a>
+
+Moto G (3rd Gen) Review
+
+But there is something different about the new Moto G. Not only is it
+the 3rd version of Motorola’s most successful phone of all time, but
+it’s also impossible to ignore. This is a sub-$200 phone that bests
+many $400 and above phones in performance, battery life, and style.
+
+With it's ...  2470mAh battery, this phone just goes and goes and goes
+
+Holding this phone reminds me a lot of the original Moto X in that its
+curves melt into your palm, all areas of the screen are reachable with
+one handed use, and it isn’t so thin that it becomes difficult to
+hold. There is a slight texture to the (replaceable) back side, along
+with a somewhat sticky phone frame that both help it from slipping around
+in your hand. The power and volume button places are in their proper
+spots and not at all confusing. And the camera housing, with dimple,
+and flash add some much needed flair.
+
+Overall, this phone is refreshing in that it’s not an oversized
+behemoth, but it’s just big enough that it feels like a 2015 phone.
+
+This isn’t the best camera you will find in a phone, but it might be
+the best you will find in a $200 phone. Motorola, a company that almost
+always disappoints in the camera department, appears to be figuring things
+out. Not only did they express a major desire and focus for putting out
+the best smartphone camera around in the new Moto X Pure Edition, they
+seem to have spent some quality time with the Moto G’s shooter as well.
+
+You are looking at shots taken with a 13MP f/2.0 camera that includes
+pretty quick auto focus, 1080p video, slow motion shooting, burst mode,
+and auto HDR.
+
+As has been the case since dating back to the original Moto X, Motorola is
+continuing to push a “pure” Android experience that is accompanied by
+their own suite of Moto software on the Moto G (3rd gen). Everything here
+is as Google would want it, but then Motorola adds on pure awesomeness,
+like Moto Display, Actions, and Assist. We’ve talked on countless
+occasions about how Moto Display is one of the few game-changing software
+add-ons introduced in years, so we won’t bore you with that here. Just
+know that it’s as good as ever, even with the LCD display in the Moto G.
+
+The phone comes loaded with Google’s launcher, the stock dialer and
+app drawer, familiar notification and quick settings shade, and system
+settings are in the right place. If you know Android, at least the
+stock kind, everything is where you expect it to be. Because of that,
+and because Motorola has become increasingly good at tightening up
+performance, the software experience is one of the best (if not the)
+in the business even on a mid-range phone like this.
+
+I don’t really know what else to say, other than, this is how Android
+is supposed to be. This is the proper way to improve upon Google’s
+mobile operating system.
+
+
+### <a href="https://www.cnet.com/products/motorola-moto-g-late-2015/" target="_blank">cnet.com review</a>
+
+Moto G (late 2015) review
+
+The Good The new Moto G has improved design, water resistance and a
+stepped-up camera. The design and hand feel are great, and the battery
+lasts more than a full day.
+
+When I think of what I want in an everyday phone, I think of battery
+life, camera, how it feels, and how durable it is. And yeah,
+how the screen looks. That's what pretty great about Motorola's
+latest update to its midrange budget smartphone, the Moto G: it's a
+do-pretty-much-everything-you-need, 5-inch Android smartphone...that
+costs less than half of your average premium handset.
+
+It's the lines and curves of the G that make it feel special. Yes, it's a
+plastic design, but the way it all comes together feels satisfying. Sure,
+the frame is plastic. But from a distance (and even in the hand), it
+feels nicer than older G models. I used to love the 2013 Moto X for its
+curved design that fit neatly in my palm. The new Moto G has that feel,
+but with a slightly larger screen and body. In a lot of ways, it also
+reminds me of the Nexus 5 .
+
+Even though it has a 5-inch screen, this phone feels hand- and
+pocket-friendly. It's a good medium-size phone by today's gargantuan
+standards. The front edge-to-edge Gorilla Glass looks sharp, too. I did,
+however, already ding a plastic corner a bit.
+
+The 720p display looks bright and crisp -- you probably won't notice that
+it isn't higher-res, because at 294 pixels per inch, this still feels HD
+(pixel count is much lower than on the 1080p HD Alcatel Idol 3). And
+for a budget phone, the colors and clarity look great (the only issue:
+turning to landscape mode when you have sunglasses on creates huge
+polarization). The front-facing speakers are pretty loud, too,
+
+Almost feels like a Nexus phone.
+
+
+### <a href="http://www.droid-life.com/2016/09/15/verizon-adds-moto-g-play-prepaid-lineup-just-85/#more-191458" target="_blank">droid-life.com</a>
+
+Sep 15, 2016 - Verizon Adds Moto G Play to Prepaid Lineup for Just $85
+
+To recap, the Moto G Play features a 5-inch HD (720p) display, 1.2GHz
+Snapdragon 410 quad-core processor, 2GB RAM, 16GB storage with SD card
+support, 8MP rear camera (f/2.2), front 5MP camera, 2800mAh battery,
+water repellent nano-coating, and Android 6.0.1. It’s actually not a
+terrible phone on paper, especially at the price.
+
+# LTE or GSM
+
+<a href="https://en.wikipedia.org/wiki/List_of_United_States_wireless_communications_service_providers" target="_blank">wikipedia.org</a>
+List of United States wireless communications service providers
+
+### <a href="https://en.wikipedia.org/wiki/LTE_%28telecommunication%29" target="_blank">wikipedia.org</a>
+LTE (telecommunication)
+
+It is based on the GSM/EDGE and UMTS/HSPA network technologies
+
+## Galaxy J3 (2016) 
+
+$100
+
+## LG K4 LTE 
+
+$120
+
+## HTC Desire® 526 
+
+$120
+
+## HTC Desire® 530 
+
+$144
+
+# unlocked GSM
+
+## HTC Desire 610 8GB Unlocked GSM 4G LTE
+
+$100 on amazon
+
+
+# LG Nexus 5 boot fail
+
+Donna's phone has this problem - Sat Oct  8 19:27:35 MDT 2016
+
+
+<a href="https://www.youtube.com/watch?v=8g4gXoSNh3Y" target="_blank">youtube</a>
+Avatar5414 - NEXUS 5 REPEATEDLY SHUTS ON AND OFF (FIXED)
+
+<a href="https://www.youtube.com/watch?v=doPuXkQTGbc" target="_blank">youtube</a>
+Weekend Agenda - LG Nexus 5 Boot Loop Fix - Power Button Repair
+
+<a href="https://www.youtube.com/watch?v=eHLXoMy9sVQ" target="_blank">youtube</a>
+John Fleggas - Nexus 5 Board Level Power Button Replacement - Muse - Supremacy
+
+## hard reset
+
+<a href="https://www.youtube.com/watch?v=HL2H6FOJNUU" target="_blank">youtube</a>
+porkercon - Google LG Nexus 5 Hard Reset Factory Wipe D820
+
+<a href="https://www.youtube.com/watch?v=BmqArORw9Ng" target="_blank">youtube</a>
+CellularProz - How To Reset LG Nexus 5 - Hard Reset and Soft Reset
 
 # Nexus phones
 

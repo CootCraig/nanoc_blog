@@ -6,6 +6,27 @@ tags:
   - cellphone
   - gammu
 ---
+
+# My phones
+
+## ZTE z223
+
+GSM Flip phone
+
+<pre>
+dmesg
+[251213.948887] usb 3-3: new high-speed USB device number 8 using xhci_hcd
+[251214.079801] usb 3-3: New USB device found, idVendor=19d2, idProduct=0083
+[251214.079805] usb 3-3: New USB device strings: Mfr=3, Product=2, SerialNumber=4
+[251214.079808] usb 3-3: Product: ZTE CDMA Technologies MSM
+[251214.079809] usb 3-3: Manufacturer: ZTE,Incorporated
+[251214.079811] usb 3-3: SerialNumber: 1234567890ABCDEF
+[251214.082172] usb-storage 3-3:1.0: USB Mass Storage device detected
+[251214.082392] scsi9 : usb-storage 3-3:1.0
+[251215.083031] scsi 9:0:0:0: CD-ROM            ZTE      USB SCSI CD-ROM  2.31 PQ: 0 ANSI: 2
+[251215.083427] scsi 9:0:0:0: Attached scsi generic sg5 type 5
+</pre>
+
 # 2015-05-25 slider GSM phone gammu
 
 google search example:
@@ -499,3 +520,18 @@ Able to see folders, but not other interactions on t404g.
 
 ![Ubuntu sees phone folders on bluetooth](/assets/images/t404g_bluetooth_filders.png)
 
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

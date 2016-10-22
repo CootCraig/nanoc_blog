@@ -8,9 +8,83 @@ tags:
   - blackberry
 ---
 
-* RIM Blackberry 8520 Curve
-* http://forums.crackberry.com/blackberry-curve-85xx-f143/
+Hey look at the Nokia E71 sometime.
 
+Hey look at the Nokia 6760 slide sometime.
+
+monaco book leather case blackberry curve
+
+<ul>
+  <li>RIM Blackberry 8520 Curve</li>
+  <li>http://forums.crackberry.com/blackberry-curve-85xx-f143/</li>
+</ul>
+
+<pre>
+IMEI
+358427.03.318206.7
+358427033182067
+
+AT&T SIM
+iccid
+8901 4104 2790 1928 6574
+89014104279019286574
+</pre>
+
+
+Order New Service 888.333.6651
+
+
+$30 Monthly plan ($25 with AutoPay) and $30 GoPhone Refill Card
+
+## <a href="http://www.gsmarena.com/blackberry_curve_8520-2889.php" target="_blank">gsmarena.com/blackberry_curve_8520</a>
+
+<ul>
+  <li>Network 	Technology 	GSM</li>
+  <li>Launch 	Announced 	2009, July. Released 2009, August</li>
+  <li>Body 	Dimensions 	109 x 60 x 13.9 mm (4.29 x 2.36 x 0.55 in)</li>
+  <li>Weight 	106 g (3.74 oz)</li>
+  <li>Keyboard 	QWERTY</li>
+  <li>SIM 	Mini-SIM</li>
+  <li>Optical trackpad</li>
+  <li>Display 	Type 	TFT, 65K colors</li>
+  <li>Size 	2.46 inches (~28.7% screen-to-body ratio)</li>
+  <li>Resolution 	320 x 240 pixels (~163 ppi pixel density)</li>
+  <li>Platform 	OS 	BlackBerry OS 5.0</li>
+  <li>CPU 	512 MHz</li>
+  <li>Memory 	Card slot 	microSD, up to 32 GB (dedicated slot)</li>
+  <li>Internal 	256 MB</li>
+  <li>Camera 	Primary 	2 MP Video 	320p</li>
+  <li>Sound 	Alert types 	Vibration; MP3, WAV ringtones</li>
+  <li>Loudspeaker 	Yes</li>
+  <li>3.5mm jack 	Yes - Dedicated music keys</li>
+  <li>Comms 	WLAN 	Wi-Fi 802.11b/g</li>
+  <li>Bluetooth 	v2.0, A2DP</li>
+  <li>GPS 	No</li>
+  <li>Radio 	No</li>
+  <li>USB 	microUSB</li>
+  <li>Features 	Messaging 	SMS (threaded view), MMS, Email, IM</li>
+  <li>Browser 	HTML</li>
+  <li>Java 	Yes</li>
+  <li>MP3/eAAC+/WMA/WAV player</li>
+  <li>MP4/H.264/WMV player</li>
+  <li>Organizer</li>
+  <li>Voice memo/dial</li>
+  <li>Predictive text input</li>
+  <li>Battery 	  	Removable Li-Ion 1150 mAh battery</li>
+  <li>Stand-by 	Up to 408 h</li>
+  <li>Talk time 	Up to 4 h 30 min</li>
+</ul>
+
+
+## <a href="http://crackberry.com/blackberry-curve-8520-review?_ga=1.193269741.1166603814.1476380489" target="_blank">crackberry.com review</a>
+
+BlackBerry Curve 8520 Review - First Impressions
+
+### Network 	
+<ul>
+  <li>Quad-Band: 850 / 900 / 1800 / 1900MHz GSM/GPRS networks</li>
+  <li>Quad-Band: 850/ 900 / 1800 / 1900 MHz EDGE networks</li>
+</ul>
 
 ### BlackBerry® Device Software v5.0:
 
@@ -20,6 +94,29 @@ tags:
 
 https://swdownloads.blackberry.com/Downloads/entry.do?code=CCDF3864E2FA9089F9ECA4FC7A48EA0A
 
+
+# AT&T Wireless
+
+<ul>
+  <li>$30 Monthly, $25 with AutoPay</li>
+  <li>Unlimited Talk & Text</li>
+  <li>Use Wi-Fi for data (where available)</li>
+  <li>or purchase a 30-day data usage package for $5 per 100MB.</li>
+</ul>
+
+<a href="https://www.att.com/shop/wireless/byop.html" target="_blank">att byop</a>
+
+<pre>
+IMEI
+358427.03.318206.7
+358427033182067
+</pre>
+
+Your Device BlackBerry® Curve (TM) 8520 - Congratulations. Your device is compatible. 
+
+<a href="https://www.att.com/shop/wireless/plans/planconfigurator.html?tab=gophone&plan=basic" target="_blank">Go Phone Page</a>
+
+<a href="https://www.att.com/cellphones/prepaidphones/sim-card-kit-phone-prepaid.html#sku=sku7420309" target="_blank">SIM Order</a>
 
 
 # Desktop Software
@@ -95,4 +192,20 @@ dmesg when Blackberry plugged in
 [1120424.246302] sd 9:0:0:0: Attached scsi generic sg6 type 0
 [1120424.247530] sd 9:0:0:0: [sdf] Attached SCSI removable disk
 ~~~~~~~~~~~~~~
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->
 

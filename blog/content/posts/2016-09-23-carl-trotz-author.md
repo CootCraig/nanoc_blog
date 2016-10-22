@@ -15,6 +15,11 @@ Carl Trotz blog
 <a href="https://www.amazon.com/Last-Freemen-Carl-Trotz/dp/1532860072" target="_blank">amazon.com book</a>
 The Last of the Freemen by Carl Trotz
 
+<pre>
+ISBN-10: 1532860072
+ISBN-13: 978-1532860072
+</pre>
+
 # Fallout Trail
 
 

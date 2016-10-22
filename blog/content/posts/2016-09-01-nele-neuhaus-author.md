@@ -18,6 +18,16 @@ Bad Wolf: A Novel (Pia Kirchhoff and Oliver von Bodenstein) Paperback – Decemb
 <a href="https://www.amazon.com/Ice-Queen-Kirchhoff-Oliver-Bodenstein/dp/1250081300" target="_blank">amazon</a>
 The Ice Queen: A Novel (Pia Kirchhoff and Oliver von Bodenstein) Paperback – December 29, 2015
 
+# Books Read
+
+Wed Sep 28 15:11:02 MDT 2016
+
+Snow White Must Die
+
+Bad Wolf
+
+Ice Queen
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
