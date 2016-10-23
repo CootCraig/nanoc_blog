@@ -33,11 +33,10 @@ $32 at amazon prime.
 Currently on Cricket. $60/month.  $40 - Donna android. $25 Craig voice/text only.  $5 2 line discount.
 
 <pre>
-purchased ZTE Z223 at amazon ($18.50).
-purchased nokia 6760 slide at ebay ($17)
-on Fri Oct 14 12:28:14 MDT 2016
-LG Rumor Reflex from ebay $33 on Sat Oct 15 10:09:20 MDT 2016
-purchased Samsung t-mobile Gravity 3 T479 $24 on Fri Oct 21 10:41:10 MDT 2016
+purchased ZTE Z223 at amazon ($18.50). (t-mobile) flip phone
+purchased nokia 6760 slide at ebay ($17) (t-mobile) on Fri Oct 14 12:28:14 MDT 2016
+purchased Samsung (t-mobile) Gravity 3 T479 $24 on Fri Oct 21 10:41:10 MDT 2016
+LG Rumor Reflex (sprint) from ebay $33 on Sat Oct 15 10:09:20 MDT 2016
 </pre>
 
 Can it be used on ATT? Hope so

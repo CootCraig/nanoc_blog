@@ -1545,6 +1545,43 @@ Thank you, I will order this shortly.
 
 I need to replace the 4 mount shock bolts. Do you have shock washers of bolt assemblies?
 
+#### <a href="http://www.spapumpsandmore.com/Spa_Pump_PUULS220258220G_1014224_PUULSC220258220_p/puuls220258220g.htm" target="_blank">spapumpsandmore.com - PUULSC220258220 $289</a>
+
+ 	
+Spa Pump PUULSC220258220 PUULS220258220G 1014246 6.5 to 8.0 Amp 230V
+2-spd 48Fr 5.6" Motor 3.1" Threaded Connections, 2" SD/CS, side discharge,
+center suction, popular pump for Cal Spas, and many others. replacement
+for PUULS220258220H PUULSC220258220GR PUULSC220258220 1014224 1014225
+1014246. Standard motor is an AO Smith 6.5- 8.0 amp motor and the old
+original GE motor was usually 6.7 amps, the 5kcr39un3790x .
+
+These are new Ultra Jet® pump components assembled on new high quality
+U.S. Motors or AO Smith/Century motors, and are replacement pumps
+compatible with Balboa Water Group® Ultra Jet® Pumps.
+
+<a href="http://www.spapumpsandmore.com/spa_pump_union_connector_2_inch_size_p/un-p20.htm" target="_blank">Pump Union 2"S</a>
+
+Pump Union 2"S fits all spa and bath pumps with industry standard 2
+inch pipe and MBT 3.1" threads for Waterway Pumps, UNP20 UN-P20 sold
+individually
+
+UN-P20 Pump union includes one nut, one 2"S tailpiece, and
+one O-ring. Industry standard for pumps connecting to 2 inch PVC
+plumbing. Threads measure approximately 3 to 3-1/8" diameter. Pipe slip
+socket measures 2-3/8" inside diameter. This pump coupling is primarily
+used on medium to large spa pumps, and not often used on bath pumps,
+pump union for Ultra Jet® pumps, Aqua-flo pumps. Waterway Pump Union,
+Waterway Plastics. UNP20, sold individually, this is industry standard for
+all pumps with 3.1" threaded connections having standard buttress threads,
+and for industry standard 2" pvc pipe size with is 2-3/8" diameter.
+
+
+
+<a href="http://www.spapumpsandmore.com/ww_805_0230_p/ww8050230.htm" target="_blank">Pump Union O-Ring for 2 inch $3.20 - each</a>
+
+Pump Union O-Ring for 2 inch PVC Pipe Size Waterway pump unions. Pack
+of 1. WW 805-0230 2-3/4" OD UPULOR 230
+
 ### Need anti vibration rubber mounts
 
 rubber motor vibration mount
