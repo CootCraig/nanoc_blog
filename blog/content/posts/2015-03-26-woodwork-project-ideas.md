@@ -14,9 +14,13 @@ tags:
 
 <img src="/assets/images/7ft-wooden-chest.jpg" width="700px">
 
+## Ply Bench
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
@@ -25,4 +29,6 @@ html boilerplate
 </pre>
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

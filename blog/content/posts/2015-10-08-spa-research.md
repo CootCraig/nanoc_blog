@@ -1,5 +1,5 @@
 ---
-title: "Spa Water Treatment"
+title: "Spa Research"
 created_at: Thu Oct  8 09:31:12 MDT 2015
 kind: article
 tags:
@@ -1561,6 +1561,7 @@ compatible with Balboa Water Group® Ultra Jet® Pumps.
 
 <a href="http://www.spapumpsandmore.com/spa_pump_union_connector_2_inch_size_p/un-p20.htm" target="_blank">Pump Union 2"S</a>
 
+
 Pump Union 2"S fits all spa and bath pumps with industry standard 2
 inch pipe and MBT 3.1" threads for Waterway Pumps, UNP20 UN-P20 sold
 individually
@@ -1652,6 +1653,15 @@ Shipping Cost: 	$25.94
 Grand Total: 	$320.99
 </pre>
 
+### Wiring for spa jet pump
+
+<pre>
+red wire - high speed - 1 on pump
+white wire - comm. - 5 on pump
+black wire - low speed - 6 on pump
+green wire - ground - chassis lug on pump
+</pre>
+
 ### insulation back on spa
 
 Owens Corning FOAMULAR 250 (xps would like 1" sheets)
@@ -1676,6 +1686,64 @@ See frost king pipe wrap at Lowes
 <a href="https://www.lowes.com/pd/Frost-King-1-in-Fiberglass-Plumbing-Pipe-Wrap-Insulation/3131255" target="_blank">lowes.com fiberglass pipe wrap</a>
 Frost King 1-in Fiberglass Plumbing Pipe Wrap Insulation 
 3" wide 1" thick 25' long $5.98
+
+# order
+
+<pre>
+previous order number is 31204, placed 10/18/2016 at 08:51AM
+
+Thank you for placing your order. Your order number is 31295. 
+
+Description:	OrderID 31295
+Invoice Number 	31295
+Customer ID 	28262
+	
+Billing Information
+Craig Anderson
+8 Sedum Court
+Pueblo, CO 81001
+US
+craig@coot.net
+719-320-6799 	Shipping Information
+Total: 		$327.89 (USD)
+
+Date/Time:	24-Oct-2016 13:28:51 PDT
+Transaction ID:	40025118203
+Payment Method:	Visa xxxx0128
+Transaction Type:	Purchase
+Auth Code:	05543D
+
+spapumpsandmore.com
+Laguna Hills, CA 92653
+US
+info@spapumpsandmore.com
+
+WW8050230	Pump Union O-Ring for 2 inch PVC Pipe Size Waterway pump unions. Pack of 1. WW 805-0230 2-3/4" OD UPULOR 230
+	4	$3.20	$12.80
+PUULS220258220G	PUULSC220258220 PUULS220258220G PUULS220258220H 2" SD/CS 1014224 1014225 6.5-8.0A 230V 2-spd 1014246 PUULSC220258220, PUULSC220258220GR
+	1	$289.15	$289.15
+ 
+ 	Subtotal: 	$301.95
+ 	Tax: 	$0.00
+ 	Shipping Cost: 	$25.94
+ 	Grand Total: 	$327.89
+
+</pre>
+
+## email
+
+Mon Oct 31 09:17:58 MDT 2016
+
+to: info@spapumpsandmore.com
+subject: missing motor pad
+
+Your order number is 31295, placed 10/24/2016 at 01:28PM.
+CustomerID# 28262
+
+I opened up the package for this order and found the motor and o-rings but not the motor pad.  Was it shipped in a separate package?
+
+## Water treatment 2016-11-19
+
 
 <!--
 html boilerplate

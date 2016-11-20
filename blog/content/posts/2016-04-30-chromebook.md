@@ -35,8 +35,23 @@ search: intel celeron 3205U gt1
 
 Intel HD Graphics Broadwell GT1 using the i915 kernel driver 
 
+### ASUS C201 C201PA-DS02 11.6 Inch Chromebook
 
-
+<a href="https://www.amazon.com/ASUS-C201-C201PA-DS02-Chromebook-Rockchip/dp/B00VUV0MG0" target="_blank">$179 at amazon prime</a> ASUS C201 C201PA-DS02 11.6 Inch Chromebook (Rockchip, 4 GB, 16GB SSD, Navy Blue) 
+<ul>
+  <li>4GB RAM</li>
+  <li>Display 11.6" 16:9 HD (1366x768) </li>
+  <li>Storage 16GB eMMC </li>
+  <li>card reader (Micro SD Micro SDXC Micro SDHC )</li>
+  <li>HD Web Camera</li>
+  <li>Integrated 802.11 a/b/g/n/ac</li>
+  <li>Built-in Bluetooth™ V4.0</li>
+  <li>1 x COMBO audio jack</li>
+  <li>2 x USB 2.0 port(s)</li>
+  <li>1 x micro HDMI</li>
+  <li>1X AC adapter plug</li>
+  <li>1 x micro SD card</li>
+</ul>
 
 <!--
 html boilerplate

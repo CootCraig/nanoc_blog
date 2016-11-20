@@ -66,3 +66,4 @@ test -z "/usr/local/share/doc/moc" || /bin/mkdir -p "/usr/local/share/doc/moc"
 ~~~~~~~~~~~~~~~~
 
 ### Using DeadBeef now
+

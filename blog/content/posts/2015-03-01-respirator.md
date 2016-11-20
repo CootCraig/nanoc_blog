@@ -7,13 +7,63 @@ tags:
   - respirator
 ---
 
+# My equipment
+
+<ul>
+  <li>3M Half Facepiece Reusable Respirator 6200/07025(AAD) Medium</li>
+  <li>
+    <a href="https://www.amazon.com/3M-Organic-Vapor-Cartridge-1-Pair/dp/B000XBKLLE" target="_blank">$9.90/pair at amazon</a>
+    3M 6001 Organic Vapor Cartridge 
+  </li>
+  <li>
+    <a href="https://www.amazon.com/3M-5P71-6-Particulate-Replacement-Filter/dp/B00004Z4DZ" target="_blank">3 pair $3.90/pair amazon prime</a>
+    3M 5P71-6 Particulate Replacement Filter
+  </li>
+  <li>
+    <a href="https://www.amazon.com/dp/B0009XYN7O" target="_blank">$6.62/pair for 2 pairs at amazon prime</a>
+    3M 2091PA1-A Particulate Filter P100, 2 pair per pack 
+  </li>
+  <li>
+    <a href="https://www.amazon.com/Tekk-Particulate-Nuisance-Organic-Release/dp/B007STCT00" target="_blank">2 pair for $6.40/pair at amazon</a>
+    2097PA1-A 3M Tekk P100 Particulate Filter with Nuisance Level Organic Vapor Release 
+  </li>
+  <li>
+    <a href="https://www.amazon.com/3M-2097-Particulate-Filter-Organic/dp/B00328IAO0" target="_blank">2 pair for $6/pair at amazon</a>
+    3M 2097 P100 Particulate Filter with Organic Vapor Relief
+  </li>
+</ul>
+
+### look into
+
+<ul>
+  <li>
+    <a href="https://www.amazon.com/3M-Advanced-Particulate-Respiratory-Protection/dp/B009POHG2M" target="_blank">$7.80/pair at amazon</a>
+    3M Advanced Particulate Filter 2291, P100
+  </li>
+  <li>
+    <a href="https://www.amazon.com/3M-Advanced-Particulate-Respiratory-Protection/dp/B01DCNQ7F8" target="_blank">$8.65/pair at amazon</a>
+    3M Advanced Particulate Filter 2297, P100, with Nuisance Level Organic Vapor Relief
+  </li>
+</ul>
+
+
+<a href="http://www.3m.com/3M/en_US/company-us/all-3m-products/~/All-3M-Products/Safety/Worker-Health-Safety/Personal-Protective-Equipment/Reusable-Respirators/?N=5002385+8709322+8711017+8711405+8720539+8720550+3294857497&rt=r3" target="_blank">Reusable Respirators from 3M</a>
+
+<pre>
+$8.65/pair at amazon
+Part Number 	051131171720
+Item Weight 	1.1 ounces
+Product Dimensions 	7 x 6 x 2 inches
+Item model number 	2297-P100 
+</pre>
+
+
 ### 3M 7500 7502 Series Professional Half Facepiece Respirator
 
 $27.00 at Amazon
 
 * 3m 2091
 * 3m 2097 particulate filter
-* 3m 6001 organic vapor filter
 
 
 3M™ P100 Particulate Filters fit 3M™ 6000 Series and 7500 Series facepieces.
@@ -92,3 +142,18 @@ MSA Safety Works 817664 Toxic Dust Respirator
 
 3M 7162 Full-Facepiece Spray Paint Respirator
 
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

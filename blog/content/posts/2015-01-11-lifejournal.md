@@ -5,6 +5,7 @@ kind: article
 tags:
   - bible
   - bible_reading_plan
+  - mcheyne_bible_calendar
 ---
 
 #### Robert Murray M’Cheyne [plan](http://www.edginet.org/mcheyne/year_classic_single_letter.pdf)
@@ -64,10 +65,27 @@ years. I usually follow this scheme.
 Read the New Testament and Psalms twice and the Old Testament once.
 Duration: One or two years
 
-### [M'Cheyne Printables Download: Website](http://www.edginet.org/mcheyne/printables.html)
+<a href="http://www.edginet.org/mcheyne/printables.html" target="_blank">M'Cheyne Printables Download: Website</a>
 
 Those with good eyesight can download it formatted in tiny print on to
 a single sheet of paper in US Letter size.
 
-* [1 year classic single letter](http://www.edginet.org/mcheyne/year_classic_single_letter.pdf)
+<a href="http://www.edginet.org/mcheyne/year_classic_single_letter.pdf" target="_blank">1 year classic single letter</a>
 
+<a href="http://edginet.org/mcheyne/calendar.php" target="_blank">mcheyne/calendar.php</a>
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

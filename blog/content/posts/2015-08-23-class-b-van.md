@@ -175,9 +175,22 @@ Where did I go and am I quitting YouTube?
 <a href="https://www.youtube.com/watch?v=atuYOVMmaUk" target="_blank">youtube</a>
 2004 Dodge Sprinter Van pre DIY Conversion
 
-~~~~~~~~~~~~~~~~
+# Bayward Boondocker <a href="https://www.youtube.com/channel/UCHhSQIHkaqsoxrRAwJvXWkA" target="_blank">youtube</a>
+
+<a href="https://www.youtube.com/watch?v=GqelrAZjcdc&list=PLtfh93QoPHLuunELnHMSh1S8jpghAKepn" target="_blank">Stealth Cargo Van BUILD Series</a>
+
+<!--
 html boilerplate
 <a href="" target="_blank"></a>
-<img src="" width="100px">
-~~~~~~~~~~~~~~~~
-
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

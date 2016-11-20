@@ -9,6 +9,11 @@ tags:
 
 # Plaques
 
+
+### Shalom plaque
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Shalom.png" width="600px">
+
 <img src="/assets/images/crafts-plaque-inthishousewedo.jpg" width="400px">
 
 <img src="/assets/images/sign-shop-with-husband.jpg" width="400px">

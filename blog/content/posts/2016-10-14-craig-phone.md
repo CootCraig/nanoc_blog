@@ -8,6 +8,60 @@ tags:
   - nokia_6760_slide
 ---
 
+
+### <a href="https://support.t-mobile.com/servlet/JiveServlet/downloadBody/9031-102-2-31727/Samsung%20Gravity%203.pdf" target="_blank">t-mobile.com</a> Samsung Gravity 3 user manual
+
+### <a href="/assets/pdf/samsung-gravity-3-user-manual.pdf" target="_blank">local copy</a> Samsung Gravity 3 user manual
+
+# t-mobile unlock
+
+for Samsung (t-mobile) Gravity 3 T479
+
+<pre>
+imei 
+354664044053325
+</pre>
+
+<a href="http://www.cellunlocker.net/order-code-step-2.php" target="_blank">$25 at cellunlocker.net</a>
+
+<pre>
+[OrderID::1778155] www.cellunlocker.net - Here is your Receipt
+
+Your IMEI Number you provided us is:
+354664044053325
+Phone Information
+Make 	Samsung
+Model 	T479 Gravity 3
+Locked To 	U.S.A. - T-Mobile USA
+Processing Time 	1-90 min (1am-6pm EST Monday to Saturday)
+</pre>
+
+Based on the IMEI # and the information you have provided us your unlock code is:
+
+<pre>
+NETWORK=14959415 PROVIDER=70238323 SUBPROVIDER=34103586 DEFREEZE=72696964 EXTRA=00000000
+
+NETWORK=14959415
+PROVIDER=70238323
+SUBPROVIDER=34103586
+DEFREEZE=72696964
+EXTRA=00000000
+</pre>
+
+<pre>
+1 try with network failed Tue Oct 25 13:16:40 MDT 2016
+factory reset
+
+Tue Oct 25 13:17:28 MDT 2016
+Network lock:
+this worked. on cricket.
+</pre>
+
+
+<a href="http://email.mx.cellunlocker.net/c/eJxljk0KgzAYBU-jO0O-n0RdZFEKvYfGaEJtEjRij19Ll4VZDczjTWbs5dBzHQxK0CBRgWLJvcCWgQQSaBLEHd25kxXL11tYt65HXJN9uk1EV2pvQME8YqdgapUdJhpZasR5Jq0RWFG9Gl9KruhW4ePiPM-_mUtnn6JrfjLEpQlxL9thS0hxF9nnejN2G8Jy_bAplW_1AW3RO44" target="_blank">Now follow the link for Instructions here</a>
+
+<a href="http://www.cellunlocker.net/samsung-unlocking-instructions.php" target="_blank">Samsung Unlock Instructions</a>
+
 # Pick another GSM slider
 
 Samsung Gravity 3 T479 
@@ -36,6 +90,7 @@ Currently on Cricket. $60/month.  $40 - Donna android. $25 Craig voice/text only
 purchased ZTE Z223 at amazon ($18.50). (t-mobile) flip phone
 purchased nokia 6760 slide at ebay ($17) (t-mobile) on Fri Oct 14 12:28:14 MDT 2016
 purchased Samsung (t-mobile) Gravity 3 T479 $24 on Fri Oct 21 10:41:10 MDT 2016
+LG True B460 from Cricket
 LG Rumor Reflex (sprint) from ebay $33 on Sat Oct 15 10:09:20 MDT 2016
 </pre>
 
@@ -86,6 +141,7 @@ a number. That said, Smart Dial is even more badly missed.
 ##### Key features
 
 <ul>
+  <li>Released 2009, October</li>
   <li>Quad-band GSM support and 3G with HSDPA</li>
   <li>2.4" 16M-color TFT display of 320 x 240 pixel resolution</li>
   <li>Full QWERTY keyboard</li>

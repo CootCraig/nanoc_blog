@@ -24,6 +24,17 @@ Waking Up with Sam Harris #26 —The Logic of Violence: A Conversation with Jock
 
 ## <a href="http://www.theburningplatform.com/" target="_blank">The Burning Platform</a>
 
+## <a href="http://voxday.blogspot.ca/" target="_blank">voxday.blogspot</a>
+
+## <a href="https://www.youtube.com/channel/UCC3L8QaxqEGUiBC252GHy3w" target="_blank">youtube - Stefan Molyneux</a>
+
+## <a href="https://www.youtube.com/user/TheAlexJonesChannel" target="_blank">youtube - The Alex Jones Channel</a>
+
+## <a href="https://www.youtube.com/channel/UC6TJdRrZR_WacbxJWiRZ5_g" target="_blank">Davis M J Aurini - youtube</a>
+
+## <a href="http://stonecoldtruth.com/" target="_blank">Roger Stone - Stone Cold Truth</a>
+
+## <a href="http://www.letterstohannah.net/" target="_blank">Letters to Hannah</a>
 
 ## Aaron Clarey
 
