@@ -18,19 +18,19 @@ PMHurley@aol.com
 pastorben@firstprespueblo.org
 donna.hegvik@gmail.com
 
-subject: "Life's Journey with the bible" class
+subject: revised: "Life's Journey with the Bible" class
 
 Let us meet and encourage each other to a life in conversation with God supported by regular Bible reading.
 
-We will be following a bible reading plan developed by Robert Murry M'Cheyne and published in 1844.
+We will be following a Bible reading plan developed by Robert Murry M'Cheyne and published in 1844.
 
-I keep a journal where I copy scripture, meditations on scripture, notes on my walk with God and what is going on in my life.  I encourage you to do the same.
+A useful tool is to keep a journal where you copy scripture, meditations on scripture, notes on your walk with God and what is going on in your life.  We will talk about doing this.
 
 The reading plan is available at an online site published by Ben Edgington:
 
 http://www.edginet.org/index.php?tab=mcheyne
 
-I print out and use this pdf of the plan:
+Here is a pdf of the plan:
 
 http://www.edginet.org/mcheyne/year_classic_single_letter.pdf
 
@@ -41,10 +41,12 @@ http://www.edginet.org/mcheyne/calendar.php
 D.A. Carson has published the M'Cheyne plan with some commentary in his books: For the Love of God; vols one and two.
 
 QUOTE
-This book is for Christians who want to read the Bible, who want to read all the bible.
+This book is for Christians who want to read the Bible, who want to read all the Bible.
 
 One of M'Cheyne's abiding concerns was to encourage his people, and himself, to read the Bible.
 UNQUOTE
+
+Another resource is the book "Hearing God in Conversation" by Samuel C. Williamson.  This contains help and affirmation in this endeavor.
 
 Your friend in the way of Jesus,
 Craig Anderson
