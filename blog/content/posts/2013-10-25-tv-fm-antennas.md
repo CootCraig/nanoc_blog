@@ -1004,3 +1004,78 @@ The North American broadcast television frequencies are on designated television
 </tr>
 </tbody></table>
 
+# Research
+
+<a href="http://www.innovantennas.com/antennas-a-accesories/on-line-shop/view/productdetails/virtuemart_product_id/450/virtuemart_category_id/75.html" target="_blank">innovantennas.com/antennas-a-accesories</a>
+9 element 88-108MHz High Performance Log Periodic
+
+The FMDX-9 is one of 3 brand new Log periodic designs by InnovAntennas.
+
+
+<a href="http://www.force12inc.com/products/fm-broadcast-yagi-beam-antenna-88-108-mhz-8-element-op-des.html" target="_blank">www.force12inc.com/products</a>
+FM Radio Yagi Antenna | 8 Element 88 to 108 MHz Beam | G0KSC Design | Force 12 FMDX 8
+
+Enter the InnovAntennas FM broadcast band OP-DES Yagi! With the
+InnovAntennas OP-DES Yagi for broadcast applications, even weak (DX)
+stations can be received with ease, no matter where within the 20 MHz
+spread (that this antenna has) they fall.
+
+<h4>
+  <a href="http://www.force12inc.com/products/fm-broadcast-yagi-beam-antenna-88-108-mhz-14-element-op-des.html" target="_blank">force12inc.com/products/fm-broadcast</a>
+</h4>
+
+$380
+InnovAntennas
+FM Radio Yagi Antenna | 14 Element 88 to 108 MHz Beam | G0KSC Design | Force 12 FMDX 14
+
+<pre>
+Typical Gain: 11.30 dBi
+Typical F/B: 26 dB
+Gain at 10 m (33 ft) Above Ground: 17.62 dBi
+Power Rating: 3 kW
+Feed Impedance: 75 Ohm
+Boom Length: 5.6 m / 18 feet 5 inches
+</pre>
+
+<img src="/assets/images/InnovAntennas-fm-yagi-14-elements.png" width="900px">
+
+<a href="http://www.starkelectronic.com/fmpage.htm" target="_blank">www.starkelectronic.com/fmpage</a>
+
+<a href="http://www.wtfda.org/mikestvfmdx/" target="_blank">Mike's TV and FM DX Page</a>
+
+<a href="http://fmdx.usclargo.com/" target="_blank">The New Mike's TV and FM DX Page</a>
+
+
+<a href="https://www.summitsource.com/Fracarro-BLV6F-VHF-HI-High-Gain-Wideband-YAGI-Directional-Antenna-P14194.aspx" target="_blank">www.summitsource.com/Fracarro-BLV6F</a>
+Fracarro BLV6F VHF-HI High Gain Wideband YAGI Directional Antenna
+
+Item #: 	ANLV6F
+Part #: 	BLV6F
+Our Price: 	$64.95 
+
+## dxfm - Girard M. Westerberg
+
+<h4>
+  <a href="http://www.dxfm.com/" target="_blank">dxfm web site</a>
+</h4>
+
+Uses 2
+Antenna Performance APS-13.
+13 element, 17' 3" boom.
+Plus an Andy Bolin FM Phaser box.
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

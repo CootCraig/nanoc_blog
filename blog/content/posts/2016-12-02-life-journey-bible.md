@@ -13,12 +13,16 @@ tags:
 
 Fri Dec  2 06:51:28 MST 2016
 
+<!--
 gGanger23@gmail.com
 PMHurley@aol.com
 pastorben@firstprespueblo.org
 donna.hegvik@gmail.com
+-->
 
-subject: revised: "Life's Journey with the Bible" class
+Sun Dec  4 06:55:31 MST 2016
+
+Life's Journey with the Bible
 
 Let us meet and encourage each other to a life in conversation with God supported by regular Bible reading.
 
@@ -48,8 +52,8 @@ UNQUOTE
 
 Another resource is the book "Hearing God in Conversation" by Samuel C. Williamson.  This contains help and affirmation in this endeavor.
 
-Your friend in the way of Jesus,
-Craig Anderson
+Sincerely,
+Craig Anderson - craig@coot.net
 
 <!--
 html boilerplate
