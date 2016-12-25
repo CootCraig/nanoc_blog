@@ -23,6 +23,12 @@ donna.hegvik@gmail.com
 Sun Dec  4 06:55:31 MST 2016
 
 Life's Journey with the Bible
+Sunday's starting January 8, 2017 at 9:45AM
+
+First Presbyterian Church
+220 W. 10th Street
+Pueblo, CO
+719-542-7322
 
 Let us meet and encourage each other to a life in conversation with God supported by regular Bible reading.
 

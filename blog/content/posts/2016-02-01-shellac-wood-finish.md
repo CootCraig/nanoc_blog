@@ -70,8 +70,29 @@ furniture, small craft, and wood instruments because it is ..
 
 Shellac Flakes mixed in Denatured Alcohol
 
+# Shellac Shack
 
-<!-- html boilerplate
+<h4>
+  <a href="http://www.shellacshack.com/colors.html" target="_blank">shellacshack.com - Comparison of Shellac Colors</a>
+</h4>
+
+<h3>
+  <a href="http://www.woodcentral.com/bparticles/shellac.shtml" target="_blank">woodcentral.com/bparticles</a>
+  Choosing And Applying a Traditional Shellac Finish by Jeff Jewitt 
+</h3>
+
+<!--
+html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

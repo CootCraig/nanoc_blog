@@ -7,6 +7,30 @@ tags:
   - radios
 ---
 
+<h4>
+  <a href="http://www.audioasylum.com/forums/tuner/messages/1/16094.html" target="_blank">audioasylum.com/forums/tuner</a>
+  Need a second tuner posted by aarocks on September 5, 2016 at 05:39:09:
+</h4>
+
+Posted by mr.bear (A) on October 15, 2016 at 20:00:07
+
+In Reply to: Need a second tuner posted by aarocks on September 5,
+2016 at 05:39:09:
+
+You might want to look at a Yamaha T-70, available for a bargain price
+some as low as $30-40. I picked up a Schiit headphone amp at a hock-shop
+and enjoy superlative FM performance and great headphone sound for
+under $100.
+
+I heard it from an actual eyewitness that WFMT classical in Chicago,
+around 1980 when they became the first FM station to be re-broadcast
+nationally via satellite, used this tuner to receive their off-the-air
+signal to feed to their satellite uplink. Whatever...
+
+It is a nice sounding tuner in stock form: good octave-to-octave balance,
+great depth to the image-- an extension of their Yamaha "natural sound"
+philosophy, if that interests you.
+
 <h3>
   <a href=" http://www.audioasylum.com/forums/tuner/messages/1/15643.html" target="_blank">audioasylum.com/forums/tuner</a>
   Need good sounding am fm portable
