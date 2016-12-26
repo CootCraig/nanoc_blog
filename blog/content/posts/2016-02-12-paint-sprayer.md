@@ -8,6 +8,11 @@ tags:
   - paint_sprayer
 ---
 
+<h4>
+  <a href="http://www.popularwoodworking.com/article/hvlp-spray-tip" target="_blank">popularwoodworking.com/article</a>
+  HVLP Spray Tip By: Glen D. Huey | May 13, 2010
+</h4>
+
 # Earlex
 
 <a href="http://www.earlex.com/" target="_blank">earlex site</a>
@@ -391,13 +396,11 @@ Chicago Electric Power Tools - item# 44677
 <a href="https://www.youtube.com/watch?v=BTaB38UJZeM" target="_blank">rockler video at youtube</a> The Rockler HVLP Spray System 
 
 
-<a href="https://www.youtube.com/watch?v=51cRM-iPw3E" target="_blank">youtube</a> blazingnailgun - Mixing Paint for HVLP Sprayers
 
 fuji mini mite 4 - $760
 
 floetrol
 
-<a href="https://www.youtube.com/watch?v=rB48XTSa-QQ" target="_blank">youtube</a> blazingnailgun - Fuji Mini Mite HVLP Paint Sprayer Review Pt 1
 
 
 HomeRight Finish Max Pro HVLP Sprayer Model # C800850.M (at home depot)
@@ -405,9 +408,120 @@ HomeRight Finish Max Pro HVLP Sprayer Model # C800850.M (at home depot)
 
 <a href="http://lumberjocks.com/StumpyNubs/blog/36566" target="_blank">StumpyNubs article an lumberjocks</a> we look at the Harbor Freight HVLP spray gun, then the Earlex 5500 Spray Station, and finally the Graco cordless sprayer
 
+<h2>HVLP demos</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=V7mZbA3nkc0" target="_blank">jay bates youtube</a>
+  Intro to Spraying Finishes With a HVLP Spray Gun - 241
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=kiOylCZjNEI" target="_blank">The Wood Whisperer youtube</a>
+  155 - How to use Waterborne Finish & HVLP
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=lehXSNzqlpE" target="_blank">The Wood Whisperer youtube</a>
+  45 - Review of Earlex SprayStation 5000 HVLP Turbine
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=g1010VeiW0s" target="_blank">Stumpy Nubs on youtube</a>
+  Spraying w/ Harbor Freight, Earlex 5500, Graco TrueCoat Pro Cordless-Stumpy Nubs Woodworking 36
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/playlist?list=PLZdoAe4y5jQ7IxS-4mHOQBpBapv_U2oNi" target="_blank">EarlexLimited on youtube</a>
+  HV5500 SprayStation series
+</h4>
+
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=NotMhXx4gPY" target="_blank">PaintersInstitute on youtube</a>
+  How to Use a HVLP Spray-Gun
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=cO9Z6E4qCdQ" target="_blank">Redneck Restoration Show on youtube</a>
+  A Great, Inexpensive HVLP Spray Gun To Start Spraying Furniture With.
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=QQennFe5kN8" target="_blank">Keith's Woodwork on youtube</a>
+  HVLP Spray Lacquer - Everything you need to know
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=zYBIdm2waxk" target="_blank">Tom Stringham on youtube</a>
+  HVLP Spray Gun Basics- How To setup
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=xlvx8jHf9k0" target="_blank">Daniel Thomas on youtube</a>
+  Spraying latex paint with a HVLP paint gun.
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=51cRM-iPw3E" target="_blank">youtube</a> blazingnailgun - Mixing Paint for HVLP Sprayers
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=rB48XTSa-QQ" target="_blank">youtube</a> blazingnailgun - Fuji Mini Mite HVLP Paint Sprayer Review Pt 1
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=USLSD8b_unk" target="_blank">EarlexMR on youtube</a>
+  HV5500 Thinning - Latex Paints
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=JtrGp2SZ2uM" target="_blank">DarbinNotes on youtube</a>
+  HVLP Spraying Polyurethane on Outdoor Projects
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=b3AqJjC_aFQ" target="_blank">DarbinNotes on youtube</a>
+  Shop Update - HVLP Sprayers and Latex Paint
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=WEH6218fvl8" target="_blank">WoodWorkers Guild Of America on youtube</a>
+  Benefits of an HVLP Spray Gun | Woodworkers Guild of America
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=1vv_k6gz8r4" target="_blank">briancnc on youtube</a>
+  Tool Reviews: Fuji Mini-Mite 4 HVLP Spray System
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=6jE-TQO8bfs" target="_blank">Mitch Peacock - WOmadeOD on youtube</a>
+  HVLP Review - Apollo vs FujiSpray
+</h4>
+
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=miQnjeFQO8M" target="_blank">RICKAFIX on youtube</a>
+  KITCHEN CABINET FUJI HVLP PAINTING PART 1
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=xlvx8jHf9k0&list=PLoIV0gLQ9HDTMj2DNSYgEAt9phCSl433d" target="_blank">Jim Miller on youtube</a>
+  hvlp latex video list
+</h4>
 
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

@@ -180,7 +180,135 @@ ISBN 10: 1600850928 ISBN 13: 9781600850929
   <a href="http://www.rockler.com/finishing/wood-stain" target="_blank">Rockler Wood Stains</a>
 </h3>
 
+<h4>
+  <a href="http://www.rockler.com/gel-stain-general-finishes-colonial-maple" target="_blank">rockler - Gel Stain - General Finishes - Colonial Maple</a>
+</h4>
 
+<h4>
+  <a href="http://www.rockler.com/general-finishes-arm-r-seal-urethane-topcoat-satin" target="_blank">rockler - General Finishes Arm-R-Seal Urethane Topcoat-Satin</a>
+</h4>
+
+<h3>
+  <a href="http://www.highlandwoodworking.com/wood-finishing-supplies.aspx" target="_blank">highlandwoodworking.com - Wood Finishing Supplies</a>
+</h3>
+
+<h4>
+  <a href="http://www.highlandwoodworking.com/woodworking-tips-library.aspx#woodfinishing" target="_blank">highlandwoodworking.com/woodworking-tips-library</a>
+  Wood Finishing and Wood Sanding
+</h4>
+
+<h4>
+  Understanding Wood Finishing. Author, Bob Flexner
+</h4>
+
+<pre>
+Understanding Wood Finishing: How to Select and Apply the Right Finish
+Bob Flexner
+Published by Rodale Pr
+ISBN 10: 0875967345 ISBN 13: 9780875967349
+</pre>
+
+<h4>
+Reversible vs. Non-Reversible Finishing
+by Alan Noel
+Professional Wood Finisher 
+</h4>
+
+When I first started my shop some thirty plus years ago, I realized in
+short order the need to understand which finishing materials would work
+together and which would not. A good friend and mentor at the time was
+very kind in that he freely shared his knowledge with me, even though
+I was his competition. The following tips should help to clear the air:
+
+<ol>
+  <li>There are two basic types of finishing systems, reversible and non-reversible.</li>
+  <li>Reversible finishes are LACQUER and SHELLAC. OIL-based and WATER-based finishes are non-reversible.</li>
+  <li>Lacquer finishes are basically "finger nail polish." Each successive coat melts into the previous coat thereby creating one "homogeneous" coat when dry.</li>
+  <li>Shellac works exactly the same way as lacquer. Each coat melts into the previous coat creating a homogeneous finish.</li>
+  <li>All oil based finishes or ANY finish that is thinned with "mineral sprits," are non-reversible. This means that each coat will not melt into the previous coat.</li>
+  <li>Water based finishes are the same as oil based in that they are non-reversible.</li>
+  <li>To make all of these finishing systems work together simply sand the finish to be recoated with 320 or 400 grit sand paper. This will create fine scratches or "ruts" for the next coat to cling to.</li>
+  <li>Be sure to sand all areas and remove the sanding dust with a tack cloth before re-coating.</li>
+</ol>
+
+This is a very simplistic explanation but one that will always work
+without getting into the chemistry of these materials.
+
+As always, practice on scraps first.
+
+<h2>
+Harbor Freight HVLP Spray Gun
+</h2>
+
+HVLP Spray Gun Kit Chicago Electric Power Tools - item#44677 
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=pCzblO0f8P8" target="_blank">The Wood Whisperer on youtube</a>
+  107 - Oil-Based Finish Basics
+</h3>
+
+Boiled linseed oil or tung oil
+
+Boiled linseed oil - amber.  tung oil - more clear
+
+<h2><a href="http://homesteadfinishingproducts.com/" target="_blank">Homestead Finishing Products</a></h2>
+
+<h4>
+  <a href="http://stores.ebay.com/Homestead-Finishing-Products/Books-Videos-/_i.html?_fsub=3863883012&_sid=1148844982&_trksid=p4634.c0.m322" target="_blank">eBay Stores > Homestead Finishing Products > Books & Videos</a>
+</h4>
+
+<h4>
+  <a href="http://homesteadfinishingproducts.com/products-we-offer/books-video/" target="_blank">homesteadfinishingproducts.com/products-we-offer - Books & Video</a>
+</h4>
+
+<h4>
+<a href="http://homesteadfinishingproducts.com/" target="_blank">Homestead Finishing Products</a>
+</h4>
+
+Homestead Finishing Products was started in 1994 by Jeff Jewitt and his
+wife, Susan Jewitt. Prior to that time, Jeff and Susan had operated a full
+time furniture restoration and refinishing business. Homestead Finishing
+Products and the refinishing business were run side by side until 2004, at
+which time Jeff and Susan devoted their efforts exclusively to Homestead
+Finishing Products. What began as a very small catalog business later
+developed to a full-time manufacturing and finishing retail business. We
+are the originator and manufacturer of TransTint® Dyes, which are
+sold world-wide for furniture applications as well as other diverse
+applications such as musical instruments, aerospace, and flooring.
+
+In addition to running Homestead Finishing Products and refinishing
+furniture, Jeff Jewitt finds time to write and consult on a variety of
+topics. A frequent contributor for over twenty years to Fine Woodworking
+Magazine (Taunton Press), he has also written numerous articles for
+Woodshop News, American Woodworker, Wood Magazine, Woodcraft Magazine and
+Popular Woodworking Magazine. He has appeared 3 times on Scott Phillips
+“The American Woodshop” television series and has won numerous awards
+for his books and videos.
+
+<h4>
+  <a href="http://www.joewoodworker.com/transtints.htm" target="_blank">joewoodworker.com/transtints</a>
+  Using TransTint® Liquid Dyes 
+</h4>
+
+<h4>
+  <a href="http://www.joewoodworker.com/transtints-colors.htm" target="_blank">joewoodworker.com/transtints-colors.htm</a>
+  TransTint Dye colors by HomeStead Finishing shown below on curly maple 
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=k5ygOsqYsOY&t=23s" target="_blank">youtube video</a>
+  The Wood Whisperer on youtube - 142 - Understanding and Using Dyes
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=iS2BkzKBgnc&list=PLYdpm7CC0KkLTX6Qbe5-E1Tw5u1tEQio3" target="_blank">KF7IJZ on youtube - Woodworking</a>
+  playlist - Woodworking
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=mKairfMzc6Q&t=110s" target="_blank">Steve Ramsey on youtube</a>
+  The Only 3 Sandpapers You Really Need | SANDING BASICS
+</h4>
 
 <!--
 html boilerplate

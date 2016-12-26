@@ -17,6 +17,11 @@ The Wood Whisperer <a href="https://www.youtube.com/user/TheWoodWhisperer" targe
 <a href="https://www.youtube.com/watch?v=qtkBZHLJyD0" target="_blank">youtube</a>
 The Wood Whisperer - 174 - Flattening Workbenches and Wide Boards With A Router
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=XtkIuWcW3cE" target="_blank">The Wood Whisperer on youtube</a>
+  161 - Sanding Efficiency
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -29,4 +34,6 @@ html boilerplate
 </pre>
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
