@@ -47,9 +47,38 @@ Matthias Wandel - Inlay carving with a router pantograph
 <a href="https://www.youtube.com/watch?v=N149xC5DYl8" target="_blank">youtube</a>
 Making small box-joined boxes
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=rwb78H7oCTc" target="_blank">Matthias Wandel youtube</a>
+  Pat Hawley bending ukulele sides
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=zn9nxsV6fxE" target="_blank">Matthias Wandel youtube</a>
+  Making a small hand plane
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=TekhIAwHB3M" target="_blank">Matthias Wandel youtube</a>
+  Pat Hawley Thickness sander
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=9osTTcVz5c0" target="_blank">Matthias Wandel youtube</a>
+  DeWalt DW735 planer vs. a cheap one (review)
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
-

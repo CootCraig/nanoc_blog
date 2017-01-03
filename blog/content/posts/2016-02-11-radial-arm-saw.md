@@ -186,9 +186,40 @@ I picked one up for $110 off CL a year ago and spent a little time cleaning it u
 
 I understand the powershops aren't too bad either: http://vintagemachinery.org/photoindex/detail.aspx?id=11730
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=IcGy2Esy74o" target="_blank">frank howarth youtube</a>
+  Radial Arm Saw 3
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=nIVAXp_G4B0" target="_blank">enduringcharm youtube</a>
+  Radial Arm Saw: Worth Owning?
+</h4>
+
+Stack cutting with dado blade.
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=QBLhvQ6eP04" target="_blank">Jim Howard youtube</a>
+  How to use a Radial Arm Saw
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=pBwsgtRMYYE" target="_blank">Kenneth Finnegan youtube</a>
+  Intro to Radial Arm Saw
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
-

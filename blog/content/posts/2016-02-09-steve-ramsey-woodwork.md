@@ -23,6 +23,40 @@ Steve Ramsey <a href="https://www.youtube.com/user/stevinmarin" target="_blank">
   list - WOODWORKING BASICS
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=9rgfrHyJ6i0" target="_blank">Steve Ramsey youtube</a>
+  Need Wide Boards? How to make panels by edge joining lumber | STEP IT UP Woodworking
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=y7gLvEYoBu0" target="_blank">Steve Ramsey youtube</a>
+  What Kind of Wood Should You Build With? | WOODWORKING BASICS
+</h4>
+
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Esvb64fUQ10" target="_blank">Steve Ramsey youtube</a>
+  What You Need to Know About Glue | WOODWORKING BASICS
+</h4>
+
+titebod II - poured into gluebot.
+dollar store silicone basting brush
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Tb_BODVUi3g" target="_blank">Steve Ramsey youtube</a>
+  Why I Don't Use Titebond III | MORE MINUTES
+</h4>
+
+<h5>
+  <a href="https://www.amazon.com/FastCap-Glu-Bot-Glue-Bottle-Ounces/dp/B0006IUW8G" target="_blank">$7.90 at amazon prime</a>
+  FastCap Glu-Bot Glue Bottle (16 Ounces)
+</h5>
+
+<h5>
+  <a href="https://www.amazon.com/Franklin-International-5006-Titebond-Premium/dp/B0000223UQ" target="_blank">$18 at amazon prime</a>
+  Franklin International 5006 Titebond II Premium Wood Glue - Gallon
+</h5>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

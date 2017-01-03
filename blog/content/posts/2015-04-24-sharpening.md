@@ -62,4 +62,23 @@ or
 
 [franklinartglass.com](http://www.franklinartglass.com/shop/item.aspx/clear-1-4-plate-float-glass-10-x14-or-12-x12/1163/) Clear 1/4" Plate/Float Glass 10"x14" or 12"x12" - $4.95 
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=s4G0Iym_moA" target="_blank">Zed Outdoors youtube</a>
+  Mora Knife Sharpening And Maintenance - Ben Orford Tutorial
+</h4>
 
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

@@ -42,6 +42,11 @@ Small Wooden Storage Boxes
 <a href="http://www.ibuildit.ca/Woodworking%20Projects/camera-box.html" target="_blank">ibuildit.ca article</a>
 How To Make A Box With Butterfly Lids
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=ZxYL5FU7HU0" target="_blank">John Heisz youtube</a>
+  How To Make The Advanced Box Joint Jig (from MDF)
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

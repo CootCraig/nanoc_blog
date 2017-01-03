@@ -101,10 +101,22 @@ Using a top mounted bearing on bit
 
 <img src="/assets/images/router-board-diyfaq-4.png" width="560px">
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=sKVo-rLv-W8" target="_blank">Jay Bates youtube</a>
+  Strong, Quick, Drawer Construction - 126
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=2TKri71F8Nw" target="_blank">Jay Bates youtube</a>
+  2X10 Stopped Dado Bookcases - 209
+</h4>
+
+Rustic Pine Briwax
 
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
@@ -113,4 +125,6 @@ html boilerplate
 </pre>
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

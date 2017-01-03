@@ -310,6 +310,33 @@ for his books and videos.
   The Only 3 Sandpapers You Really Need | SANDING BASICS
 </h4>
 
+<h4>
+  <a href="https://www.amazon.com/Briwax-Rustic-Pine/dp/B0035YLT1M" target="_blank">$20.27 at amazon</a>
+  Rustic Pine Briwax
+</h4>
+
+<h4>
+  <a href="https://briwax.com/product/briwax-original/" target="_blank">briwax.com original</a>
+</h4>
+
+Known as “The World’s Premier Finishing Wax“. Briwax is a
+blend of beeswax and carnauba wax, two of the finest waxes known to
+man. Briwax is designed to protect raw wood and can be applied to
+virtually any existing finish. Use Briwax on all woods, untreated
+leather, marble, concrete, metal and painted surfaces. To ensure
+desired results always test on inconspicuous area first. - See more at:
+https://briwax.com/product/briwax-original/#sthash.JjQxzK5E.dpuf
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=qLFQQRnqREQ" target="_blank">Jay Bates 2 youtube</a>
+  Vlog #20 - More Briwax Awesomesauce
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=y1nEf3qSYUo" target="_blank">Jay Bates 2 youtube</a>
+  Vlog #17 - Wood + Steel Wool + Vinegar + Briwax = Awesomesauce
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

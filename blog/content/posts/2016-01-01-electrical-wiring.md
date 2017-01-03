@@ -84,6 +84,11 @@ Author: Redwood Kardon
 Title: Black & DeckerComplete Guide to Wiring: Upgrade Your Main Service Panel - Discover the Latest Wiring Products - Complies with 2008 NEC (Black & Decker Complete Guide)
 Author: Editors of Creative Publishing, Brevik Tharaldson
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=-AlsjIbu7Sc" target="_blank">Construction Coach youtube</a>
+  Home Electrical 101 - What you need to know now!
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

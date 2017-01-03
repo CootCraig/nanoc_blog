@@ -21,6 +21,11 @@ Woodomain - Jeremy Broun - Build a collapsible wooden micro catamaran (overview)
 <a href="https://www.youtube.com/watch?v=VYY828hIZM0" target="_blank">youtube</a>
 Woodomain - Jeremy Broun - Why I never use a ruler - Woodworking with Jeremy Broun
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=0W_jFQuIwF4" target="_blank">Woodomain - Jeremy Broun - youtube</a>
+  What Can You Do With a Gluegun
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -33,4 +38,6 @@ html boilerplate
 </pre>
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
