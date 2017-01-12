@@ -1,0 +1,44 @@
+%!PS-Adobe-3.0
+%%Pages: 1
+%%EndComments
+%%BeginProlog
+/inch { 72 mul } def
+/pagewidth 8.5 inch def
+/pageheight 11.0 inch def
+/slantlength pageheight 2 mul def
+/linevstep 0.25 inch def
+/linegray 0.75 def
+/diagstep 0.6 inch def
+/slantangle 20 def
+%%EndProlog
+%%Page: one 1
+
+gsave
+  [ 3 ] 0 setdash
+  linegray setgray
+  0 linevstep pageheight {
+    0 exch moveto
+    pagewidth 0 rlineto
+    stroke
+  } for
+grestore
+
+gsave
+  [ 5 2 ] 0 setdash
+  linegray setgray
+  pagewidth neg diagstep pagewidth 2.5 mul {
+    gsave
+      neg 0 translate
+      0 0 moveto
+      gsave
+        slantangle neg rotate
+        0 slantlength lineto
+        stroke
+      grestore
+    grestore
+  } for
+grestore
+
+showpage
+%%EOF
+
