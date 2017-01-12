@@ -7,6 +7,11 @@ tags:
   - circle_jig
 ---
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=DSEDscnR4sg" target="_blank">NelsonStudios youtube</a>
+  Router Circle Cutter -Use Any Router
+</h4>
+
 ## Like the John Heisz design
 
 
@@ -98,3 +103,18 @@ smaller the job the better for this Mini-T-Track
 
 ### [orangealuminum.com](http://www.orangealuminum.com/t-slot-framing-systems-and-tracks/t-track.html) 1/4-20 T-Track
 
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

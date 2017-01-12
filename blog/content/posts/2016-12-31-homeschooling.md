@@ -79,6 +79,17 @@ the wonderful joys of homeschooling.
   <a href="http://homeschoolreviews.christianbook.com/page/homeschool/handwriting/handwriting-comparison-chart?event=Homeschool|1004158" target="_blank">Handwriting Comparison Chart</a>
 </h3>
 
+<h3>
+  <a href="http://www.federationforchildren.org/about-us/" target="_blank">federationforchildren.org/about-us</a>
+  American Federation for Children
+</h3>
+
+<h4>
+  <a href="http://www.nytimes.com/2016/11/23/us/politics/donald-trump-transition.html" target="_blank">nytimes.com/2016/11/23</a>
+  In Betsy DeVos for Education, Trump Taps Into Michigan Royalty
+  By VANESSA FRIEDMAN, MAGGIE HABERMAN and ALAN RAPPEPORT - NOV. 23, 2016 
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -650,6 +650,33 @@ These books, 5 copybooks and a theory book (available separately or
 as a set), may be used to introduce cursive writing to second or third
 graders or to improve the handwriting of older students or adults.
 
+<h4>
+  <a href="https://www.zaner-bloser.com/index.php" target="_blank">Zaner-Bloser Website</a>
+</h4>
+
+<h4>
+  <a href="http://www.nha-handwriting.org.uk/NHA/media/Public/Downloads/CONTINUOUS-CURSIVE-HANDWRITING-CURE-OR-CURSE-27-7-15.pdf" target="_blank">NHA continuos cursive: cure or curse?</a>
+<h4>
+
+<h4>
+  <a href="https://www.vletter.com/help/font-faq/history-of-handwriting.html" target="_blank">vletter.com/help/font-faq</a>
+  History of Handwriting
+</h4>
+
+<h4>
+  <a href="http://desktoppub.about.com/od/typeclassification/ss/Cursive-Handwriting.htm" target="_blank">desktoppub.about.com</a>
+  Cursive Handwriting in the US
+  By Jacci Howard Bear
+  Desktop Publishing Expert
+</h4>
+
+<h1>Zaner-Bloser</h1>
+
+<h3>
+  <a href="http://www.donnayoung.org/penmanship/zb-cursive-handwriting-worksheets.htm" target="_blank">donnayoung.org/penmanship</a>
+  ZB Cursive Handwriting Lessons
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

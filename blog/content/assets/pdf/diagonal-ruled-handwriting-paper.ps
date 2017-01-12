@@ -1,31 +1,67 @@
 %!PS-Adobe-3.0
 %%Pages: 1
 %%EndComments
+
 %%BeginProlog
+
 /inch { 72 mul } def
 /pagewidth 8.5 inch def
 /pageheight 11.0 inch def
+
+% line size set
+/small_letter_height 0.11 inch def
+/caps_height small_letter_height 3 mul def
+/line_spacing small_letter_height 5 mul def
+
+% line size set
+/small_letter_height 0.075 inch def
+/caps_height small_letter_height 2.8 mul def
+/line_spacing small_letter_height 3.8 mul def
+
 /slantlength pageheight 2 mul def
 /linevstep 0.25 inch def
-/linegray 0.75 def
+/diagonal_line_gray 0.75 def
+/diagonal_line_style {
+  [ 2 1 ] 0 setdash
+  diagonal_line_gray setgray
+} def
+
 /diagstep 0.6 inch def
-/slantangle 20 def
+/slantangle 18 def
+
+/small_letter_line_gray 0.75 def
+/small_letter_line_style { 
+  small_letter_line_gray setgray
+} def
+/cap_top_line_gray 0.5 def
+/cap_top_line_style { 
+  cap_top_line_gray setgray
+  [ 3 ] 0 setdash
+} def
+
 %%EndProlog
+
 %%Page: one 1
 
 gsave
-  [ 3 ] 0 setdash
-  linegray setgray
-  0 linevstep pageheight {
-    0 exch moveto
-    pagewidth 0 rlineto
-    stroke
+  0 line_spacing pageheight {
+    gsave
+      0 exch translate
+      gsave
+        small_letter_line_style
+        0 0 moveto pagewidth 0 rlineto stroke
+        0 small_letter_height moveto pagewidth 0 rlineto stroke
+      grestore
+      gsave
+        cap_top_line_style
+        0 caps_height moveto pagewidth 0 rlineto stroke
+      grestore
+    grestore
   } for
 grestore
 
 gsave
-  [ 5 2 ] 0 setdash
-  linegray setgray
+  diagonal_line_style
   pagewidth neg diagstep pagewidth 2.5 mul {
     gsave
       neg 0 translate

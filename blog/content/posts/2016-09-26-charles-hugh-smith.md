@@ -10,6 +10,32 @@ tags:
   - author
 ---
 
+<h2>
+  <a href="http://charleshughsmith.blogspot.com/" target="_blank">charleshughsmith.blogspot.com</a>
+</h2>
+
+<h2>
+<a href="http://www.oftwominds.com/essentials.html" target="_blank">Of Two Minds Essentials</a>
+</h2>
+
+An Of Two Minds Essentialsm is a sharply focused discussion of one of the
+core issues of our era. While each is a stand-alone book, the Essentialssm
+shed light on the new socio-economic era we are entering. The Essentials
+are compact (less than 30,000 words) and affordable (less than $4 for
+ebooks and less than $9 for print editions).
+
+<h3>Books</h3>
+
+<ul>
+  <li> <a href="https://www.amazon.com/gp/product/B01ELXQZGE" target="_blank">Why Our Status Quo Failed and Is Beyond Reform</a> </li>
+  <li> <a href="https://www.amazon.com/gp/product/1517160960" target="_blank">A Radically Beneficial World: Automation, Technology and Creating Jobs for All: The Future Belongs to Work That Is Meaningful</a> </li>
+  <li> <a href="https://www.amazon.com/gp/product/1497533406" target="_blank">Get a Job, Build a Real Career and Defy a Bewildering Economy</a> </li>
+  <li> <a href="https://www.amazon.com/gp/product/1491222212" target="_blank">The Nearly Free University and the Emerging Economy: The Revolution in Higher Education</a> </li>
+  <li> <a href="https://www.amazon.com/gp/product/1468065084" target="_blank">Resistance, Revolution, Liberation: A Model for Positive Change</a> </li>
+  <li> <a href="https://www.amazon.com/gp/product/1480219886" target="_blank">Why Things Are Falling Apart and What We Can Do About It</a> </li>
+  <li> <a href="https://www.amazon.com/gp/product/1461098882" target="_blank">An Unconventional Guide to Investing in Troubled Times</a> </li>
+  <li> <a href="https://www.amazon.com/Survival-Structuring-Prosperity-Yourself-Nation/dp/1449563449" target="_blank">Survival+: Structuring Prosperity for Yourself and the Nation</a> </li>
+</ul>
 
 <a href="http://www.oftwominds.com/CLIME-project.html" target="_blank">The CLIME Project</a>
 
