@@ -70,6 +70,16 @@ ISBN-10: 1449563449
 ISBN-13: 978-1449563448
 </pre>
 
+<h4>
+  <a href="http://www.oftwominds.com/blogjan17/collapse-Left1-17.html" target="_blank">oftwominds.com/blogjan17</a>
+  January 23, 2017 - The Collapse of the Left
+</h4>
+
+<h4>
+  <a href="http://charleshughsmith.blogspot.com/2017/01/the-protected-privileged-establishment.html" target="_blank">charleshughsmith.blogspot.com</a>
+  Monday, January 23, 2017 - The Protected, Privileged Establishment vs. The Working Class 
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

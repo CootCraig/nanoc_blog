@@ -8,6 +8,67 @@ tags:
   - nokia_6760_slide
 ---
 
+<h2>CDMA for Ting - Mon Jan 23 12:15:58 MST 2017</h2>
+
+sprint or boost.
+must be off contract,
+but does not need to be unlocked.
+
+<ul>
+  <li>HTC PC93100 Arrive Sprint Cell Phone QWERTY</li>
+  <li>HTC EVO Shift 4G PG06100 Sprint Phone</li>
+  <li>HTC XV6875 Touch Pro 2 Sprint Cell Phone</li>
+  <li>Kyocera Verve Qwerty Slider Phone S3150 boost</li>
+  <li>LG Rumor Reflex LN272 Camera QWERTY Bluetooth Video Slider SPRINT Cell Phone</li>
+  <li>LG Rumor Touch LN510 Camera QWERTY CDMA Bluetooth Slider SPRINT Cell Phone</li>
+  <li>Samsung SPH-M350 Seek Sprint</li>
+  <li>Samsung Transform Ultra - boost</li>
+  <li>Samsung Trender SPH-M380 - bad review of keyboard</li>
+  <li>Samsung RANT SPH-M540 - (Sprint) Camera QWERTY Bluetooth Slider Cell Phone</li>
+  <li>Samsung SPH-M910 Intercept Sprint Cell Phone CDMA</li>
+  <li>Sanyo Incognito SCP-6760 Boost Mobile Color Cell Phone qwerty keypad bluetooth</li>
+</ul>
+
+<h2>LG Rumor Reflex LN272</h2>
+
+<pre>
+meid a0000034786aea
+
+LG Rumor Reflex LN272
+Release date: Mar 11, 2012
+cnet likes
+good battery life
+microSD
+Data Transmission 	EVDO Rev. 0
+Bluetooth 	Version: 3.0
+</pre>
+
+<pre>
+Delivery-date: Tue, 24 Jan 2017 05:43:19 -0700
+
+Date: Tue, 24 Jan 2017 12:42:34 +0000
+From: Ting <help@ting.com>
+To: Craig Anderson <craig@coot.net>
+Your Device and Subscription Settings
+
+Here are some important details related to your device and
+service that may come in handy later:
+
+Mobile Phone Number: 719-320-6799
+MSID: 000007196710064
+Serial Number: 268435461207891690
+MSL #: 176550
+</pre>
+
+<h2>LG Rumor Touch LN510</h2>
+
+<pre>
+released 2010
+no wifi
+pcmag likes keyboard
+pcmag 4/5 rating
+EV-DO Rev. 0, which also gives it access to Sprint's 3G services
+</pre>
 
 ### <a href="https://support.t-mobile.com/servlet/JiveServlet/downloadBody/9031-102-2-31727/Samsung%20Gravity%203.pdf" target="_blank">t-mobile.com</a> Samsung Gravity 3 user manual
 

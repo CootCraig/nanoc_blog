@@ -77,6 +77,79 @@ Alpha-Phonics A Primer for Beginning Readers by Samuel L Blumenfeld
   Samuel Blumenfeld- Making Americans Illiterate Disc 3
 </h4>
 
+<h2>Duke Pesta</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=-OIwNWq93n8&list=PLMNj_r5bccUw2EG0j2Fe70fBIi_U6NNZ9" target="_blank">Stefan Molyneux youtube</a>
+  Dr. Duke Pesta and Stefan Molyneux
+</h3>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=x-eUnj1ATMc" target="_blank">Stefan Molyneux youtube</a>
+  The Catholic Church Built Western Civilization | Duke Pesta and Stefan Molyneux
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=XhdvRx_lmkg&t=2425s" target="_blank">Stefan Molyneux youtube</a>
+  The Dangers of Common Core | Dr. Duke Pesta and Stefan Molyneux
+</h4>
+
+<h2>Stefan Molyneux</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=NIejieCEfzA&t=777s" target="_blank">Stefan Molyneux youtube</a>
+  The Truth About School: Another Brick in the Wall!  
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=ty1AXMuY1uY" target="_blank">Stefan Molyneux youtube</a>
+  Natural Education, Homeschooling And the Rebirth of Liberty!
+<h4>
+
+<h4>
+<a href="" target="_blank">Stefan Molyneux youtube</a>
+School Is A Prison!' - Dr Peter Gray Interviewed on Freedomain Radio -
+fdrurl.com/gray
+</h4>
+
+<h2>
+Peter Gray Ph.D.
+</h2>
+
+<h3>
+  <a href="https://www.psychologytoday.com/blog/freedom-learn" target="_blank">Peter Gray Ph.D. blog at psychologytoday.com</a>
+</h3>
+
+<h3>
+  <a href="http://alternativestoschool.com/" target="_blank">alternativestoschool.com</a>
+</h3>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Bg-GEzM7iTk" target="_blank">TEDx Talks youtube</a>
+  The decline of play | Peter Gray | TEDxNavesink
+</h4>
+
+<h4>
+  <a href="http://reason.com/reasontv/2017/01/23/thales-academy-north-carolina-bob-luddy" target="_blank">reasontv/2017/01/23</a>
+  A Libertarian Builds Low-Cost Private Schools for the Masses by
+  Jim Epstein | January 23, 2017
+</h4>
+
+Don't waste time arguing about public education, says Thales founder Bob Luddy. Head for the exits.
+
+<h4>
+  <a href="http://www.thalesacademy.org/" target="_blank">Thales Academy Home Page</a>
+</h4>
+
+<h2>
+  <a href="http://www.improve-education.org/" target="_blank">improve-education.org</a>
+  Bruce Deitrick Price
+</h2>
+
+<h3>
+  <a href="http://educationimproved.blogspot.com/" target="_blank">Bruce Deitrick Price blog</a>
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

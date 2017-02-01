@@ -1,10 +1,16 @@
 ---
-title: "Web Reads 001"
-created_at: Sun Dec  4 06:46:51 MST 2016
+title: "Scrap Wood City"
+created_at: Tue Jan 31 04:09:55 MST 2017
 kind: article
 tags:
-  - web_reads
+  - scrap_wood_city
+  - woodworking_people
 ---
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=rteeOlqLUcQ" target="_blank">scrap wood city youtube</a>
+  How to make a beehive - Part A
+</h4>
 
 <!--
 html boilerplate

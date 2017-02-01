@@ -44,6 +44,11 @@ Jay Bates - Strong, Cheap, Stackable Sawhorses - 090
   Tool Talk #10: My DW735 Planer
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=gUrfzc4hai0&t=14s" target="_blank">Jay Bates youtube</a>
+  A Shooting Board - Why You Should Make One - 264
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

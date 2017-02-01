@@ -7,6 +7,26 @@ tags:
   - education
 ---
 
+<h1> Heroes </h1>
+
+<ul>
+  <li>
+    <h2>
+      Dr. Duke Pesta
+    </h2>
+  </li>
+  <li>
+    <h2>
+      Charlotte Iserbyt
+    </h2>
+  </li>
+  <li>
+    <h2>
+      Samuel Blumenfeld
+    </h2>
+  </li>
+<ul>
+
 <h1>Charlotte Mason Teaching</h1>
 
 <h2>
@@ -88,6 +108,40 @@ the wonderful joys of homeschooling.
   <a href="http://www.nytimes.com/2016/11/23/us/politics/donald-trump-transition.html" target="_blank">nytimes.com/2016/11/23</a>
   In Betsy DeVos for Education, Trump Taps Into Michigan Royalty
   By VANESSA FRIEDMAN, MAGGIE HABERMAN and ALAN RAPPEPORT - NOV. 23, 2016 
+</h4>
+
+<h2>
+  <a href="http://chec.org/" target="_blank">Christian Home Educators of Colorado (CHEC)</a>
+</h2>
+
+<h4>
+  <a href="https://fpeusa.org/about/fpa-staff" target="_blank">Freedom Project Academy</a>
+  Dr. Duke Pesta - ACADEMIC DIRECTOR
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Si-kx5-MKSE" target="_blank">VisionLiberty youtube</a>
+  Brilliant anti-Common Core Speech by Dr. Duke Pesta
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=wyRr6nBEnz4" target="_blank">Costa Mesa Brief youtube</a>
+  Duke Pesta on Common Core – Six Years Later
+</h4>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=XhdvRx_lmkg" target="_blank">Stefan Molyneux youtube</a>
+  The Dangers of Common Core | Dr. Duke Pesta and Stefan Molyneux
+</h3>
+
+Government schools not public schools.
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/Horace_Mann" target="_blank">Horace Mann at wikipedia</a>
+</h4>
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/John_Dewey" target="_blank">John Dewey at wikipedia</a>
 </h4>
 
 <!--

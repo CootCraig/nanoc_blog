@@ -58,13 +58,18 @@ tags:
   Harbor Freight Must-Haves
 </h4>
 
-<h3>
+<h2>
 Harbor Freight Air Compressor
-</h3>
+</h2>
 
 <h4>
   <a href="http://www.harborfreight.com/21-gal-25-hp-125-psi-cast-iron-vertical-air-compressor-61454.html" target="_blank">$180 list at harbor freight</a>
   21 gal. 2.5 HP 125 PSI Cast Iron Vertical Air Compressor - Central Pneumatic
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Rk_p1tVT2Ek" target="_blank">ghostses youtube</a>
+  Great overview. Part 1-3 Harbor Freight 21 Gal. Air Compressor Review Item 61454
 </h4>
 
 <h4>
@@ -94,11 +99,6 @@ Harbor Freight Air Compressor
 </h4>
 
 <h4>
-  <a href="https://www.youtube.com/watch?v=Rk_p1tVT2Ek" target="_blank">ghostses youtube</a>
-  Part 1-3 Harbor Freight 21 Gal. Air Compressor Review Item 61454
-</h4>
-
-<h4>
   <a href="https://www.youtube.com/watch?v=J5zAeP3t08o" target="_blank">snarlingrabiddog5150 youtube</a>
   Harbor Freight Air Compressor Update 21 Gallon - Still Running Strong!
 </h4>
@@ -111,6 +111,11 @@ Harbor Freight Air Compressor
 <h4>
   <a href="https://www.youtube.com/watch?v=lju--QC1hjw" target="_blank">Ozzstar video</a>
   Air Compressor Dump Valve/Pressure Switch Replacement -- Central Pneumatic - Model 47065
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=nVHNJFcnJj8&t=19s" target="_blank">Chandler Dickinson youtube</a>
+  Harbor Freight 21 Gallon Vertical Compressor Review Unboxing - Assembly and Initial Review
 </h4>
 
 <h4>

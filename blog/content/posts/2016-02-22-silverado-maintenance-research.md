@@ -89,15 +89,27 @@ Vinyl drain hose for FN, FS and FSW series valves with 3/8" nipple
 ## oil filters
 
 <ul>
-  <li>Wix 51060XP</li>
-  <li>Wix 51036XP</li>
+<li><h4>
+  <a href="https://www.amazon.com/WIX-Filters-51042XP-Spin-Filter/dp/B00C5T9ZV4" target="_blank">$12.55 at amazon</a>
+  WIX Filters - 51042XP Xp Spin-On
+</h4></li>
+
+<li><h4>
+  <a href="https://www.amazon.com/Fram-PH3506-Extra-Passenger-Filter/dp/B0009IQZ1Q" target="_blank">$5.48 at amazon</a>
+  Fram PH3506 Extra Guard Passenger Car Spin-On Oil Filter 
+</h4></li>
+
+<li><h4>
+  <a href="https://www.amazon.com/gp/product/B000C9WL6U" target="_blank">$9.45 at amazon</a>
+  WIX Filters - 51042 Spin-On Lube Filter
+</h4></li>
+
 </ul>
 
-<a href="https://www.amazon.com/WIX-Filters-51042-Spin--Filter/dp/B000C9WL6U/" target="_blank">$9.42 at amazon prime</a>
-WIX Filters - 51042 oil filter
-
-Fram Extra Guard PH3506 on
-Fri Jun 10 12:46:44 MDT 2016
+<ul>
+  <li>Fram Extra Guard PH3506 on Fri Jun 10 12:46:44 MDT 2016</li>
+  <li>WIX Filters - 51042 Spin-On Lube Filter January 23, 2017</li>
+</ul>
 
 ## howto
 

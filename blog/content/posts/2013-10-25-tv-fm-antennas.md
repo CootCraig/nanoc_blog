@@ -1064,6 +1064,42 @@ Antenna Performance APS-13.
 13 element, 17' 3" boom.
 Plus an Andy Bolin FM Phaser box.
 
+<h1>
+Antenna Mast
+</h1>
+
+<h2>
+  <a href="http://www.tmastco.com/main/page_products_mast_sections.html" target="_blank">tmastco.com 10 section kit</a>
+</h2>
+
+Military surplus aluminum masting tubes. Each tube is 48 inches long by
+1.785 inch outside diameter (inside diameter 1.57 inch), wall - 0.11 inch,
+and weigh 2.7 lbs each. The last 3.25 inches is a smaller diameter (1.55
+inch OD, 1.33 inch ID) that then fits into the next mast section. This
+1.55 inch diameter piece is 6 inches long and is used as an inner sleeve
+that forms a strong joint. The outer tube has been slightly crimped all
+the way around at two points to firmly hold the 6 inch piece in place
+(see close-up picture below). The tubes originally came with a heavy coat
+of dark green paint. They now have some evidence of rub marks, scratches,
+nicks, and a few minor dents (see picture above and example: tubes-1)
+due to bouncing around inside those military vehicles. The pieces slide
+together easily with close tolerances. This is high-grade aluminum,
+not the softer type used in some amateur antenna elements and booms.
+
+Ten (10) of these stacked together forms a vertical mast of 37 feet. With
+a pivoting base assembly (see Accessories) and proper guying, one person
+can raise 37 feet easily. With more help and additional guying, greater
+heights are possible. An instruction/information manual is provided with
+each box of 10 sections on how to install a 37 ft. mast. With a Radio
+Shack 3 foot roof tripod (#15-517), a small VHF/UHF/WLAN vertical or yagi
+can be raised 16 to 24 feet without guying - just right for getting above
+the roof line from the outside deck/patio. For permanent installations,
+the tube sections can be easily locked together by drilling and inserting
+several machine screws per joint. Or, for temporary installations, 1/4
+inch diameter bolt/washer/nut hardware can be used to hold everything
+together, then easily disassembled and packed-away.  The screws/bolts
+also help to make the complete mast assembly more rigid.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

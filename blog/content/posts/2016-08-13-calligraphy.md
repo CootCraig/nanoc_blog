@@ -122,6 +122,37 @@ younger self, diaries for publication, etc.
   Improving Your Cursive Handwriting
 </h4>
 
+<h4>
+<a href="http://www.iampeth.com/lesson/roundhand/roundhand-or-engrossers-script" target="_blank">iampeth.com/lesson/roundhand</a>
+Roundhand or Engrosser's Script by Earl A. Lupfer
+</h4>
+
+Roundhand has been in use for a number of centuries and today the bulk of
+the engrossing business is done in this style. No one who is skillful in
+this art heeds to be without profitable employment. It is therefore not
+necessary to speak further of its merits and value. You need this style
+if you intend to do pen work or if you wish to be a teacher of penmanship.
+
+<h4>
+  <a href="http://www.zanerian.com/BairdLessons.html" target="_blank">zanerian.com/BairdLessons</a>
+  Lessons in Engraver’s Script By WA Baird
+</h4>
+
+<h4>
+  <a href="http://www.zanerian.com/HovisIns.html" target="_blank">zanerian.com/HovisIns</a>
+  Lessons from OE Hovis
+</h4>
+
+<h4>
+  <a href="http://www.zanerian.com/Lessons.html" target="_blank">zanerian.com/Lessons</a>
+  Script Lessons Online
+</h4>
+
+<h4>
+  <a href="https://jakerainis.com/blog/elegant-script-spencerian-and-copperplate-roundhand/" target="_blank">jakerainis.com/blog</a>
+  Elegant Script: Spencerian and Copperplate Roundhand - March 3, 2016
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

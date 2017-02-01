@@ -60,6 +60,35 @@ Charles Mingus - The Clown 1957 (Full Album)
 <a href="https://www.youtube.com/watch?v=8Z0aFAIvlc4" target="_blank">Nicolás Ippolito - youtube</a>
 Charles Mingus - Mingus at Antibes (1960) [FULL ALBUM]
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=re1jbIDJv48" target="_blank">Thebestdream I had youtube</a>
+  Leslie West - The Great Fatsby 1975 (full album)
+</h4>
+
+Search: Leslie West Felix Pappalardi
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/Climbing!" target="_blank">wikipedia article</a>
+  Climbing! is the official debut studio album by American blues rock band Mountain - 1970
+</h4>
+
+Climbing!, also known as Mountain Climbing!, is the official debut
+studio album by American blues rock band Mountain. Released on March
+7, 1970, the album featured the 'classic' Mountain lineup of Leslie
+West (guitar, vocals), Felix Pappalardi (bass, piano) and Corky Laing
+(drums, percussion), and followed the West solo album Mountain featuring
+Pappalardi and drummer Norman Smart, released in 1969 and often credited
+to the band.
+
+<h4>
+  <a href="https://www.amazon.com/Twin-Peaks-Mountain/dp/B0012GMWT8" target="_blank">amazon music cd</a>
+  Twin Peaks - Mountain
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Nantucket-Sleighride-Mountain/dp/B0045DO7ZW" target="_blank">amazon music cd</a>
+  Nantucket Sleighride - Mountain
+</h4>
 
 <!--
 html boilerplate

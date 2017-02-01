@@ -179,6 +179,15 @@ Where did I go and am I quitting YouTube?
 
 <a href="https://www.youtube.com/watch?v=GqelrAZjcdc&list=PLtfh93QoPHLuunELnHMSh1S8jpghAKepn" target="_blank">Stealth Cargo Van BUILD Series</a>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=3D8639Te2nk" target="_blank">CheapRVliving youtube</a>
+  How to Shower and Stay CLEAN when living in a car, van or RV
+</h4>
+
+Dr. Bonners soap t3 oil. Germ-x. anti-bacterial wipes (likes Wal-Mart)
+
+ivation shower pump
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
