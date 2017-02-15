@@ -133,6 +133,62 @@ Harbor Freight Air Compressor
   Repairing a Compressor Pressure Switch
 </h4>
 
+<h2>Air Impact Wrench</h2>
+
+<h3>
+  <a href="http://www.harborfreight.com/12-in-Professional-Air-Impact-Wrench-68424.html" target="_blank">harborfreight.com</a>
+  1/2 in. Professional Air Impact Wrench - Central Pneumatic Earthquake - item#68424 
+</h3>
+
+With 20% coupon 0.8 * 85 = $68
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=AbMzv_SzrMo" target="_blank">Paul Roberts youtube</a>
+  Harbor Freight "Earthquake" Impact Driver vs Campbell Hausfeld
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=qHBPx-qBKnw" target="_blank">doublewide6 youtube</a>
+  Harbor Freight EarthQuake 68424 Test
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=jKc3D89m_dU" target="_blank">dial2fast youtube</a>
+  Harbor Freight Earthquake Air Tools: 1/2" Impact, 3/8" Impact, 3/8" Ratchet
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=j1x3mLLQZ4k" target="_blank">Patrick Burke youtube</a>
+  Harbor Freight Central Pneumatic Earthquake 1/2 inch and 3/8 inch Impact Wrenches
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=f48egSo8DH4" target="_blank">HillbillyMatt ExtremeDIY youtube</a>
+  Impact Wrenches: Buyers Guide
+</h4>
+
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=FSD9eqa16sY" target="_blank">seejanedrill youtube</a>
+  A Beginner's Guide to Using an Impact Wrench and Torque Sticks
+</h4>
+
+<h4>
+  <a href="http://www.harborfreight.com/10-piece-12-in-torque-limiting-extension-bar-set-69870.html" target="_blank">harborfreight.com</a>
+  10 Piece 1/2 In. Torque Limiting Extension Bar Set - $55 -
+  item#69870 
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=glWZIuJWaWg" target="_blank">dial2fast youtube</a>
+  1/2" Torque Limiting Extension Bar Set - Torque Sticks
+</h4>
+
+<h4>
+  <a href="http://www.harborfreight.com/1-2-half-inch-drive-click-type-torque-wrench-239.html" target="_blank">harborfreight.com</a>
+  1/2 in. Drive Click Type Torque Wrench - 20 to 150 ft-lb - $20
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

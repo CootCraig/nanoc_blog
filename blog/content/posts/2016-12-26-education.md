@@ -150,6 +150,11 @@ Don't waste time arguing about public education, says Thales founder Bob Luddy. 
   <a href="http://educationimproved.blogspot.com/" target="_blank">Bruce Deitrick Price blog</a>
 </h3>
 
+<h4>
+  <a href="http://www.chalkbeat.org/posts/co/2017/01/31/meet-the-colorado-republicans-who-want-to-reclaim-their-partys-education-reform-agenda/" target="_blank">chalkbeat.org/posts/co/2017/01/31</a>
+  Meet the Colorado Republicans who want to reclaim their party’s education reform agenda By Nicholas Garcia
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

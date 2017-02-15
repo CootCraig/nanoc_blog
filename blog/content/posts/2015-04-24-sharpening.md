@@ -67,6 +67,11 @@ or
   Mora Knife Sharpening And Maintenance - Ben Orford Tutorial
 </h4>
 
+<h2>
+  <a href="https://secure.edgemaker.com/Default.aspx" target="_blank">Edgemaker Company Site</a>
+</h2>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

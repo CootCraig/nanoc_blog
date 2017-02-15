@@ -13,6 +13,8 @@ Lock / Secured
 
 Toggle with [Temp Up] followed by [Soak]
 
+FLd - water filter reminder at 30 days
+
 # Marquis Spa Model
 
 I have Marquis Spa that came with our house, pre 2000 I think. How can

@@ -428,9 +428,86 @@ around the female pin.
 <img src="/assets/images/0002313_24-port-fully-loaded-75-ohm-bnc-coaxial-patch-panel-2u.jpeg" width="400px">
 
 
+<h1>DSL / Phone</h1>
+
+<h2>
+  <a href="http://cablesupply.com/content/47-telephone-connections-and-rj11" target="_blank">cablesupply.com/content</a>
+  Telephone Connection and RJ11 Wiring
+</h2>
+
+<img src="/assets/images/rj11-wiring-cablesupply.png" width="800px">
+
+<h3>
+Tip and Ring
+</h3>
+
+Tip and ring is a term still used today and can still be seen today but
+originated in the early days of telephony. Back when phone networks
+started there was a human being operator instead of a machine. The
+operator would receive a call from someone within the network they were
+directly connected to then connect that call to a different network. The
+operator had two plugs to connect the phone cable called the tip and the
+ring, much like how there are two connections on a modern day RJ11, the
+tip was the grounding cable and the ring carried the voltage. Today we
+have routers and switches that do the job of the original human operator.
+
+<h3>
+RJ11 Jack Wiring
+</h3>
+
+The 6 wires in a RJ11 connector are divided into 3 pairs: the first is
+striped blue and white, the second is orange and white, and the third pair
+is green and white. The combination of these wires usually carries data or
+voice. A single-phone line uses only one pair of wires. A two-telephone
+line uses two pairs, and the third pair of wires could be used for a
+third line. Most dial-up computer modems are typically plugged into a
+RJ11 jack, whether for Internet connection or a local area network. RJ11
+jacks are typically used for fax, modem, and telephone. A RJ11 plug can
+also be plugged into a RJ45 jack.
+
+<h2>
+  <a href="http://www.lanshack.com/wire_phone_jack.aspx" target="_blank">lanshack.com/wire_phone_jack</a>
+  How to Wire a Phone Jack (Voice or Telephone RJ-11 thru RJ-14)
+</h2>
+
+<h2>
+  <a href="http://superuser.com/questions/402867/what-is-the-order-of-colors-for-an-rj11-cable" target="_blank">superuser.com/questions/402867</a>
+  What is the order of colors for an RJ11 cable
+</h2>
+
+<img src="/assets/images/rj11-wire-colors-superuser.png" width="500px">
+
+
+The correct order is Black, Red, Green, Yellow. It's important to remember
+that RJ11 has 6 pins, and you are using the middle four.
+
+<h2>
+  <a href="http://www.wikihow.com/Wire-a-Phone-Jack" target="_blank">wikihow.com/Wire-a-Phone-Jack</a>
+  How to Wire a Phone Jack
+</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=qVgXvel8zlc" target="_blank">Ask the Builder youtube</a>
+  How to Install A Phone Jack
+</h4>
+
+<h2>
+  <a href="http://www.cableorganizer.com/ideal-industries/telemaster-telephone-tool.htm" target="_blank">cableorganizer.com/ideal-industries/telemaster</a>
+  Ideal Telemaster 30-496
+</h2>
+
+<h4>
+  <a href="/assets/pdf/30-496_instructions.pdf" target="_blank">Ideal Telemaster 30-496 Instructions - local</a>
+</h4>
+
+<h4>
+  <a href="/assets/pdf/modular_plugs_wiring_configuration.pdf" target="_blank">Wiring for Modular Plugs - local</a>
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
@@ -439,4 +516,6 @@ html boilerplate
 </pre>
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

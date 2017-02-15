@@ -103,6 +103,13 @@ Bacchetta Corsa 650, (US), M, Black $1600
 
 <h1>Online Dealers</h1>
 
+<pre>
+Recumbent Brothers Cycles
+15180 Russell Dr,
+Peyton, CO 80831
+(719) 683-2713
+</pre>
+
 <h2>
   <a href="http://www.backcountryrecumbentcycles.com/" target="_blank">Backcountry Recumbent Cycles</a>
 </h2>
@@ -251,6 +258,332 @@ Craig Anderson
   <a href="http://www.getbent.org/RANS%20V2%20Review.htm" target="_blank">getbent.org review article</a>
   RANS V2 Till Death do us part?  By Jose A. Hernandez
 </h4>
+
+<h1>Odometer</h1>
+
+<pre>
+20 inch front wheel.
+Measured 3 revolutions at 182 1/2 inch.
+So 1 revolution at 60.83 inch.
+182.5 inch = 4635.5 mm
+1545 mm per revolution
+</pre>
+
+<h2>
+  Sigma Sport BC5.12 Function Bicycle Computer 
+</h2>
+
+<h4>
+  <a href="http://www.sigmasport.com/en/images/pdf/SIGMA_BC512_BC812_BC812ats_Manual_international.pdf" target="_blank">Online Manual for Sigma Sport BC5.12</a>
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Sigma-Sport-BC5-12-Bicycle-Computer/dp/B009ZN61D8" target="_blank">$18 at amazon</a>
+  Sigma Sport BC5.12
+</h4>
+
+<h4>
+  <a href="http://www.sigmasport.com/en/produkte/fahrrad-computer/topline-2012/wired/bc512" target="_blank">Sigma Sport Product Page</a>
+  Sigma Sport BC5.12
+<h4>
+
+<h4>Accessories on BC5.12 product page</h4>
+
+<pre>
+Universal bracket 2032 Art.-Nr. 00426
+Magnet kit Art.-Nr. 00390
+Cable for universal bracket Art.-Nr. 00424
+Universal bracket 2032 with cable Art.-Nr. 00428
+</pre>
+
+<h4>
+  <a href="https://www.velogear.com.au/bicycle-accessories/computers/computer-parts/sigma-universal-bracket-cable-00424.html" target="_blank">velogear.com.au/bicycle-accessories</a>
+  Sigma Universal Bracket Cable - 00424
+<h4>
+
+<h4>
+  <a href="http://www.sigmasportstore.com/product-p/00425.htm" target="_blank">sigmasportstore.com/product-p/00425</a>
+  CADENCE WIRE FOR UNIVERSAL BRACKET Price: $7.99 
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=gddPpOSGHrQ" target="_blank">SigmaSportUSA youtube</a>
+  Universal Wiring Harness - SigmaSportUSA 
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=QMdAXH6RMQE" target="_blank">SIGMA SPORT youtube</a>
+  SIGMA SPORT // BC 5.12 // Installation video (EN)
+</h4>
+
+<h4>
+  <a href="http://www.sigmasportstore.com/product-p/00428.htm" target="_blank">sigmasportstore.com/product-p/00428</a>
+  UNIVERSAL WIRE MOUNT-120 cm - Price: $12.99 
+</h4>
+
+Compatible models include BC 5.12 -
+Ordered this.
+
+<h2>
+CatEye Velo 7 Bicycle Computer CC-VL520 - Wired 
+</h2>
+
+<h4>
+  <a href="https://www.amazon.com/CatEye-Velo-Bicycle-Computer-CC-VL520/dp/B007YV1GM4" target="_blank">$20 on amazon</a>
+  CatEye Velo 7 Bicycle Computer CC-VL520 - Wired 
+</h4>
+
+
+<h1>Lights</h1>
+
+<h3>Articles</h3>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=120198" target="_blank">bentrideronline.com/messageboard</a>
+  Preferred headlight? 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=54415&highlight=flashlight+clamp" target="_blank">bentrideronline.com/messageboard</a>
+  lights behind or in front of fairing? 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=62145&highlight=flashlight+clamp" target="_blank">bentrideronline.com/messageboard</a>
+  Head light suggestions? 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=90632&highlight=flashlight+clamp" target="_blank">bentrideronline.com/messageboard</a>
+  Cateye HL-EL540 versus PlanetBike Blaze 2 Watt? 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?p=1162322&highlight=flashlight+clamp#post1162322" target="_blank">bentrideronline.com/messageboard</a>
+  Circus-bike approach to Conspicuity? 
+</h4>
+
+<h4>
+  <a href="https://www.roadid.com/c/HighViz" target="_blank">roadid.com/c/HighViz</a>
+  RoadID High Visibility
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=89531&highlight=flashlight+clamp" target="_blank">bentrideronline.com/messageboard</a>
+  $0.87 for light mounts 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=86996&highlight=flashlight+clamp" target="_blank">bentrideronline.com/messageboard</a>
+  Lighting Investment Poll; What's your life worth? 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=75805&highlight=flashlight+clamp" target="_blank">bentrideronline.com/messageboard</a>
+  Fenix TK21 (Another headlight thread) 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=66776&highlight=flashlight+clamp" target="_blank">bentrideronline.com/messageboard</a>
+  Which lights? 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?t=65263&highlight=flashlight+clamp" target="_blank">bentrideronline.com/messageboard</a>
+  Best headlight for night riding 
+</h4>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?p=1419551#poststop" target="_blank">bentrideronline.com/messageboard</a>
+  Tail lights for Daylight 
+</h4>
+
+<h2>Headlight Products</h2>
+
+<h3>Cygolite Metro Series</h3>
+
+<h4>
+  <a href="https://www.amazon.com/Cygolite-Metro-550-USB-Light/dp/B00LXTORC4" target="_blank">$43 at amazon</a>
+  Cygolite Metro 550 USB headlight 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Cygolite-Metro-850-Rechargeable-Light/dp/B01IO12B30" target="_blank">$60 at amazon</a>
+  Cygolite Metro 850 USB Rechargeable Bike Light
+</h4>
+
+<h3>Cygolite Expilion Series</h3>
+
+<h4>
+  <a href="https://www.amazon.com/Cygolite-Expilion-720-USB-Light/dp/B00LXTP2FA" target="_blank">$86 at amazon</a>
+  Cygolite Expilion 720 USB Light 
+</h4>
+
+<h3>Planet Bike headlights</h3>
+
+<h4>
+  <a href="https://www.amazon.com/gp/product/B00D9K0IQE" target="_blank">$20 at amazon</a>
+  Planet Bike Blaze 2 Watt Micro Headlight 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Philips-SafeRide-Silver-Battery-Driven/dp/B00620Z97G" target="_blank">$172 at amazon</a>
+  Philips BF48L20BBLX1 SafeRide Black LED Battery Driven BikeLight 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Light-Motion-Urban-800-Bike/dp/B00KAPC57G" target="_blank">$100 at amazon</a>
+  Light & Motion Urban 800 Lumen Bicycle Headlight
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/CatEye-Econom-Force-HL-EL-540-G/dp/B005LATOC4" target="_blank">$50 at amazon</a>
+  CatEye Econom Force HL-EL 540-G Front bike light black - 2 AA batteries
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Dash-Pro-450-Rechargeable-Headlight/dp/B013FIYLTE" target="_blank">$44 at amazon</a>
+  CygoLite Dash Pro 450 lm USB Rechargeable Bicycle Headlight
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/MagicShine-mountain-resistant-Rechargeable-Convenient/dp/B015HBGDDE" target="_blank">$60 at amazon</a>
+  MagicShine MJ-900 Front Bike Light | 1200 Lumens CREE LED | Rechargeable Li-ion Battery Pack
+</h4>
+
+<h2>Taillight rear light</h2>
+
+How about: 3 CatEye Omni 5 ($14 each)
+and 1 CatEye TL-LD1100 ($35)
+
+<h4>
+  <a href="https://www.amazon.com/CatEye-Bicycle-Safety-Light-TL-LD155-R/dp/B008QVXQ1K" target="_blank">$14 at amazon</a>
+  CatEye Omni 5 Bicycle Rear Safety Light TL-LD155-R 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Light-Motion-Vis-180-Tail/dp/B00YIPEXOW" target="_blank">$80 at amazon</a>
+  Light and Motion Vis 180 Bike Tail Light 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/gp/product/B013FIVU0C" target="_blank">$48 at amazon</a>
+  CygoLite Hotshot Pro 80 lm USB Rechargeable Bicycle Tail Light 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Cygolite-Expilion-720-USB-Light/dp/B00LXTP2FA" target="_blank">$86 at amazon</a>
+  Cygolite Expilion 720 USB Light 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/SyndeRay-Lightweight-Aluminium-Flashlight-Holder/dp/B01MEFMOP0" target="_blank">$19 at amazon</a>
+  SyndeRay Lightweight Aluminium Alloy Bike Flashlight Mount Holder Clip 
+</h4>
+
+
+<h4>
+  <a href="https://www.amazon.com/Blitzu-Rechargeable-Intensity-Accessories-Flashlight/dp/B015IEJ0GC" target="_blank">$18 at amazon</a>
+  Blitzu Ultra Bright Bike Light Blitzu Cyborg 168T USB Rechargeable Bicycle Tail Light
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Docooler®-Handlebar-Extension-Extender-Speedometer/dp/B01DSW311G" target="_blank">$17 at amazon</a>
+  Docooler® GUB 31.8MM Double Handlebar Extension Mount
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Serfas-CP-R4-Thunderbolt-Headlight-Taillight/dp/B00OPHF0XG" target="_blank">$43 at amazon</a>
+  Serfas CP-R4 90/35 Lumen Thunderbolt Headlight/Taillight Combo 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Serfas-Ultrabright-Rechargeable-Headlight-Black/dp/B004G954W0" target="_blank">$13 at amazon</a>
+  Serfas USB Ultrabright Rechargeable Headlight
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/gp/product/B00MQPEW10" target="_blank">$35 at amazon</a>
+  Cateye Bike Bicycle Light Rear Light Led Taillight Lamp Flashlight TL-LD1100 Red 
+</h4>
+
+<h2>flashlight mount</h2>
+
+<h4>
+  <a href="https://www.amazon.com/gp/product/B00K6B6OGC" target="_blank">$18 at amazon</a>
+  FOME Quick-release Bike Mount ALB-10 
+</h4>
+
+<h2>Flashlights to mount</h2>
+
+<h4>
+  <a href="https://www.amazon.com/gp/product/B00NQNZWIS" target="_blank">$35 at amazon</a>
+  Nitecore MT2A 345 Lumens LED Flashlight w/ Bonus Premium Holster - Use 2x AA Batteries 
+</h4>
+
+<h2>Dynamos</h2>
+
+<h4>
+  <a href="http://www.peterwhitecycles.com/lightingsystems.htm" target="_blank">peterwhitecycles.com/lightingsystems</a>
+  Lighting Systems
+<h4>
+
+<h4>
+  <a href="http://www.peterwhitecycles.com/schmidt.php" target="_blank">peterwhitecycles.com/schmidt</a>
+  Schmidt's Original Nabendynamo
+</h4>
+
+The Schmidt Dynamo front hub or SON (Schmidt's Original Nabendynamo)
+is extremely reliable and has almost no drag. Made by Wilfried Schmidt
+Maschinenbau in Tübingen, Germany, the hub is quiet and is designed to
+give at least 50,000 kilometers of trouble free riding between servicings.
+The hub powers many different six volt headlights including Schmidt's
+own E6 halogen models, the Schmidt Edelux and Edelux II LED headlight,
+both halogen and LED headlamps (as well as taillights) made by Busch &
+Müller in Meinerzhagen, Germany, Supernova lights from Germany, and
+Spanninga lights from France.
+
+When your bicycle can make its own light, it becomes a reliable means
+of transportation, not just a toy or play thing for an afternoon's
+entertainment or exercise. With an automobile, you take its lights for
+granted. You get in the car, turn on a switch, and drive on down the road
+with the light you need. With the SON, you can take quality lighting on
+your bicycle for granted, just as you do in a car, making your bicycle
+just as convenient to use for everyday transportation as an automobile,
+but without the environmental degradation. Who knows, you may even decide
+that you no longer require an automobile.
+
+<h1>Stores</h1>
+
+<ul>
+  <li>
+    <a href="http://t-cycle.com/" target="_blank">TerraCycle</a>
+  </li>
+</ul>
+
+<h1>Flags</h1>
+
+<h3>Articles</h3>
+
+<h4>
+  <a href="http://www.bentrideronline.com/messageboard/showthread.php?p=1445171" target="_blank">bentrideronline.com/messageboard</a>
+  Flag questions: technical and opinion 
+</h4>
+
+<h3>Products</h3>
+
+<h4>
+  <a href="http://cycledifferent.lightspeedwebstore.com/cyclelights-led-flare-pole-4ft-disco/dp/7403" target="_blank">cycledifferent.lightspeedwebstore</a>
+  CycleLights LED Flare Pole, 4ft, Disco 210000009698 $40.00 
+</h4>
+
+<h1>Rans Velocity Owners</h1>
+
+<h2>
+  <a href="http://www.bentrideronline.com/messageboard/member.php?u=475" target="_blank">rcummings at bentrideronline</a>
+</h2>
+
+<h1>Odomoeter</h1>
 
 <!--
 html boilerplate
