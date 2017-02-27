@@ -63,6 +63,21 @@ Wranglerstar - Lost Skill Every Guy Should Master
 <a href="https://www.youtube.com/watch?v=XfWCWOpqx8w" target="_blank">youtbe</a>
 Wood Mizer Sawmill - How To Talk Your Wife Into Buying A Wood Mizer 
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=TqE-2cPZdL4" target="_blank">Wranglerstar youtube</a>
+  Irwin $20 vise - The #1 Tool Every Man Must Have!!
+</h3>
+
+<h4>
+  <a href="https://www.amazon.com/Irwin-Tools-226361-IRWIN-Woodworkers/dp/B0001LQY4E" target="_blank">$20 at amazon</a>
+  IRWIN Woodworker's Vise, 6 1/2", 226361 
+</h4>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=4YGjWbqRWx8" target="_blank">Wranglerstar youtube</a>
+  BEST Tool Organizer Ever!!
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -55,6 +55,15 @@ or
 
 ## Source for glass or stone
 
+Thrift store scanners?
+
+Home Depot smooth bathroom tiles
+
+<h4>
+  <a href="http://www.homedepot.com/p/Merola-Tile-Park-Slope-Subway-Glossy-White-3-in-x-6-in-Ceramic-Bullnose-Wall-Trim-Tile-WXRPSWBN/206815944" target="_blank">$0.98 each at home depot</a>
+  Merola Tile - Park Slope Subway Glossy White 3 in. x 6 in. Ceramic Bullnose Wall Trim Tile
+</h4>
+
 ### franklinartglass.com
 
 [franklinartglass.com](http://www.franklinartglass.com/shop/item.aspx/clear-1-4-plate-float-glass-12-1-2-x18/1162/) Clear 1/4" Plate/Float Glass 12-1/2"x18" - $7.72 
@@ -71,6 +80,24 @@ or
   <a href="https://secure.edgemaker.com/Default.aspx" target="_blank">Edgemaker Company Site</a>
 </h2>
 
+<h3>
+  <a href="http://www.instructables.com/id/DIY-Knife-sharpening-kit/?ALLSTEPS" target="_blank">instructables.com/id/DIY-Knife-sharpening-kit</a>
+  DIY Knife sharpening kit by Quad89 in kitchen
+</h3>
+
+<h3>
+Stefan Wolf youtube
+</h3>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=toTkLufv8tA" target="_blank">Stefan Wolf youtube</a>
+  Kitchen knife sharpening with a sandpaper
+</h4>
+
+<h4>
+  <a href="https://diyprojects.com/diy-knife-sharpening-kit/" target="_blank">diyprojects.com article</a>
+  DIY Knife Sharpening Kit
+</h4>
 
 <!--
 html boilerplate

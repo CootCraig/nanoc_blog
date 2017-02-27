@@ -63,6 +63,16 @@ Harbor Freight Air Compressor
 </h2>
 
 <h4>
+  <a href="https://www.amazon.com/gp/product/B0008GLW9Y" target="_blank">$17.30 at amazon</a>
+  DEWALT D55001 Synthetic Compressor Oil, 1 Quart 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Coilhose-Pneumatics-TYP-2500CS-Typhoon-4-Inch/dp/B001F731MG" target="_blank">$17.48 at amazon</a>
+  Coilhose Pneumatics TYP-2500CS Typhoon High Volume Blow Gun, 1/4-Inch NPT with High Flow Tip 
+</h4>
+
+<h4>
   <a href="http://www.harborfreight.com/21-gal-25-hp-125-psi-cast-iron-vertical-air-compressor-61454.html" target="_blank">$180 list at harbor freight</a>
   21 gal. 2.5 HP 125 PSI Cast Iron Vertical Air Compressor - Central Pneumatic
 </h4>
@@ -136,11 +146,9 @@ Harbor Freight Air Compressor
 <h2>Air Impact Wrench</h2>
 
 <h3>
-  <a href="http://www.harborfreight.com/12-in-Professional-Air-Impact-Wrench-68424.html" target="_blank">harborfreight.com</a>
-  1/2 in. Professional Air Impact Wrench - Central Pneumatic Earthquake - item#68424 
+  <a href="http://www.harborfreight.com/12-in-Professional-Air-Impact-Wrench-68424.html" target="_blank">$89.99 at harborfreight.com</a>
+  1/2 in. Professional Air Impact Wrench - Central Pneumatic Earthquake #68424 
 </h3>
-
-With 20% coupon 0.8 * 85 = $68
 
 <h4>
   <a href="https://www.youtube.com/watch?v=AbMzv_SzrMo" target="_blank">Paul Roberts youtube</a>
@@ -167,7 +175,6 @@ With 20% coupon 0.8 * 85 = $68
   Impact Wrenches: Buyers Guide
 </h4>
 
-
 <h4>
   <a href="https://www.youtube.com/watch?v=FSD9eqa16sY" target="_blank">seejanedrill youtube</a>
   A Beginner's Guide to Using an Impact Wrench and Torque Sticks
@@ -176,18 +183,97 @@ With 20% coupon 0.8 * 85 = $68
 <h4>
   <a href="http://www.harborfreight.com/10-piece-12-in-torque-limiting-extension-bar-set-69870.html" target="_blank">harborfreight.com</a>
   10 Piece 1/2 In. Torque Limiting Extension Bar Set - $55 -
-  item#69870 
+  Pittsburgh #69870 
 </h4>
+
+150
+140
+130
+120
+110
+100
+90
+80
+75
+65
 
 <h4>
   <a href="https://www.youtube.com/watch?v=glWZIuJWaWg" target="_blank">dial2fast youtube</a>
   1/2" Torque Limiting Extension Bar Set - Torque Sticks
 </h4>
 
+Harbor Freight SKU 69870 
+
 <h4>
   <a href="http://www.harborfreight.com/1-2-half-inch-drive-click-type-torque-wrench-239.html" target="_blank">harborfreight.com</a>
   1/2 in. Drive Click Type Torque Wrench - 20 to 150 ft-lb - $20
+  Pittsburgh #239 
 </h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=RZR92kNpoRQ" target="_blank">Tool Teardowns youtube</a>
+  Harbor Freight torque wrench 8-year review and accuracy test
+</h4>
+
+Store at lowest setting.
+
+<h4>
+  <a href="http://www.harborfreight.com/13-Pc-12-in-Drive-SAE-Impact-Deep-Wall-Socket-Set-69280.html" target="_blank">$24.99 at harbor freight</a>
+  13 Pc 1/2 in. Drive SAE Impact Deep Wall Socket Set Pittsburgh #69280 
+</h4>
+
+7/16 in., 1/2 in., 9/16 in., 5/8 in., 11/16 in., 3/4 in., 13/16 in., 7/8 in., 15/16 in., 1 in., 1-1/16 in., 1-1/8 in., 1-1/4 in.
+
+<h4>
+  <a href="http://www.harborfreight.com/13-pc-12-in-drive-metric-impact-deep-wall-socket-set-69332.html" target="_blank">$24.99 at harbor freight</a>
+  13 Pc 1/2 in. Drive Metric Impact Deep Wall Socket Set 
+</h4>
+
+10mm, 13mm, 14mm, 15mm, 17mm, 18mm, 19mm, 21mm, 22mm, 24mm, 27mm, 30mm, 32mm
+
+<pre>
+  $89.99 1/2 in. Air Impact Wrench - Earthquake #68424 
+  $55 10 Piece 1/2 In. Torque stick Set #69870 (can use 20% off?)
+  $19.99 Pittsburgh 13 piece 1/2" drive impact socket set
+  $20 1/2 in. Click Type Torque Wrench Pittsburgh #239 
+</pre>
+
+<h4>
+  <a href="http://www.harborfreight.com/12-in-drive-digital-torque-adapter-68283.html" target="_blank">$29.99 at harbor freight</a>
+  1/2 in. Drive Digital Torque Adapter Pittsburgh Professional #68283 
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=2ih17t9u6fA" target="_blank">dial2fast youtube</a>
+  1/2" Digital Torque Adapter - Turn Ratchet Into Torque Wrench - Full Review
+</h4>
+
+<h2> Coupler fittings </h2>
+
+<h4>
+  <a href="https://www.amazon.com/EPAuto-Industrial-4-Inch-Coupler-Pieces/dp/B01DJPBMT0" target="_blank">$12.87 at amazon</a>
+  EPAuto Industrial Type D 1/4-Inch Coupler and Plug Kit, 7 Pieces 
+</h4>
+
+<h2>Go with Milton</h2>
+
+<h4>
+  <a href="https://www.amazon.com/dp/B005IUEC2O" target="_blank">$13.85 at amazon</a>
+  Milton S-210 1/4" NPT M Style Coupler and Plug Kit - 12 Piece 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Milton-S-716-MNPT-Style-Coupler/dp/B000COS0PQ" target="_blank">$3.99 at amazon</a>
+  Milton S-716 1/4" MNPT M Style Coupler 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Milton-S-761-FNPT-Style-High/dp/B003V5NQ2U" target="_blank">$2.30 for 2 at amazon</a>
+  Milton S-761 1/4" FNPT V Style High Flow Plug - Pack of 2 
+</h4>
+
+search:
+milton 1/4 v style
 
 <!--
 html boilerplate

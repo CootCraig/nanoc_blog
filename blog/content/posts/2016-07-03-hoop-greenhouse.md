@@ -75,7 +75,7 @@ The "Do-It-Yourself" Hoop Bender
 Designed for bending 1 3/8" 18 17 & 16 gage fence tubing, can also bend
 any steel tubing less than 1 3/8"o.d.
 
-## Ground Anchor
+<h2> Ground Anchor </h2>
 
 <a href="https://www.amazon.com/Ground-Anchor-System-50016-Piece/dp/B000AMQC46/" target="_blank">$26 at amazon prime</a>
 Ground Anchor System IS 50016 6 Piece kit With Drive Rod 
@@ -83,6 +83,42 @@ Ground Anchor System IS 50016 6 Piece kit With Drive Rod
 <a href="http://www.homedepot.com/p/6-Piece-Ground-Anchor-Kit-IS-50016/202197240" target="_blank">$44 at Home Depot</a>
 6-Piece Ground Anchor Kit
 
+<h3>
+  <a href="https://americanearthanchors.com/" target="_blank">American Earth Anchors</a>
+</h3>
+
+<h4>
+  <a href="https://americanearthanchors.com/products/cable-anchors-arrowhead-bullet/" target="_blank">American Earth Anchors</a>
+  Arrowhead & Bullet Cabled Anchors article
+</h4>
+
+<h4>
+  <a href="https://americanea.americommerce.com/store/c/31-Steel-Arrowheads.aspx" target="_blank">Steel Arrowheads at American Earth Anchors</a>
+</h4>
+
+<h3>
+  <a href="http://milspecanchors.com/" target="_blank">milspecanchors.com</a>
+</h3>
+
+<h4>
+  <a href="http://milspecanchors.com/1-2-x-30-w-4-helix-four-anchor-set-storage-building-or-all-purpose-with-hd-attaching-cable-and-clamps/" target="_blank">$25 at milspecanchors.com</a>
+  1/2" x 30" w/4'' Helix Four Anchor Set- Storage Building or All Purpose with HD Attaching cable and clamps
+</h4>
+
+<h4>
+  <a href="http://milspecanchors.com/storage-building-anchor-kit-heavy-duty-or-all-purpose-use/" target="_blank">$30 at milspecanchors.com</a>
+  Storage Building Anchor Kit HEAVY DUTY
+</h4>
+
+<h4>
+  <a href="http://milspecanchors.com/4-earth-anchor-4-anchor-set-w-3-16-cable-assembly-with-drive-rod/" target="_blank">$35 at milspecanchors.com</a>
+  4" Earth Anchor (4 Anchor Set) W/3/16" Cable Assembly "WITH DRIVE ROD"
+</h4>
+
+<h4>
+  <a href="http://milspecanchors.com/25-4-ground-anchors-contractor-bulk-set/" target="_blank">$190 at milspecanchors.com</a>
+  (25) - 4'' Ground Anchors Contractor Bulk Set
+</h4>
 
 <!--
 html boilerplate

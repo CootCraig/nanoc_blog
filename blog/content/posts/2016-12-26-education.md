@@ -11,6 +11,65 @@ tags:
 </h2>
 
 <h4>
+  <a href="http://www.deliberatedumbingdown.com/pages/back_to_basics_reform.html" target="_blank">pdf - Back to Basics Reform Charlotte Iserbyt</a>
+</h4>
+
+<pre>
+Due to an increase in requests for my 1985 booklet Back to Basics
+Reform Or...OBE *Skinnerian International Curriculum? (48 pages),
+which is now out-of-print, the author has decided to make the booklet
+available free on this website. This will enable the reader to
+understand how the long-planned controversial restructuring of
+education from academics to workforce training, necessary for the
+planned global economy and United States participation in a socialist
+world government, was finalized between 1980 and the present time, and
+to take action to put a stop to education restructuring.
+
+Although the 150-year history of this unconstitutional agenda is
+documented in the deliberate dumbing down of america...A Chronological
+Paper Trail, 1999, Back to Basics Reform Or...... lets the reader
+peek into the laboratory of the change agents at the U.S. Department of
+Education in the early eighties, when and where the author worked as a
+Senior Policy Advisor, with access to confidential planning. The
+author was fired for leaking a very important document to the press.
+However, since she knew she would get fired for doing so, she managed
+to remove all the incriminating documents from her office prior to
+leaking the one most important document. Much of the information
+gleaned from these purloined documents is found in "Back to Basics
+Reform Or...".
+</pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=mDkyeYUUSyM" target="_blank">The Alex Jones Channel youtube</a>
+  Charlotte Iserbyt on The Perils of Common Core
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=yQZQ1HfQNbU" target="_blank">Charlotte Iserbyt youtube</a>
+  The Traitors Decreed Choice, Vouchers and Charter Schools
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=XYtvUS_01rk" target="_blank">Charlotte Iserbyt youtube</a>
+  Charlotte Interviews Anita Hoge May 6th 2014
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Jc_G5GmigkY" target="_blank">Charlotte Iserbyt youtube</a>
+  Anita Hoge - The End Game of Assessment
+</h4>
+
+<h4>
+  <a name="http://americandeception.com/index.php?page=home">americandeception.com</a>
+  site by son of Iserbyt
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Mr-aEtJVVdk" target="_blank">Spiritology 101 youtube</a>
+  Charlotte Iserbyt - The Secret History of Western Education (Full Documentary)
+</h4>
+
+<h4>
   <a href="http://www.deliberatedumbingdown.com/MomsPDFs/DDDoA.sml.pdf" target="_blank">pdf - the deliberate dumbing down of america</a>
 </h4>
 
@@ -25,6 +84,15 @@ tags:
 <h2>
   <a href="https://www.youtube.com/channel/UC4bwuk4V32BHqX4yXx2zDXQ" target="_blank">Charlotte Iserbyt youtube channel</a>
 </h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=cbDClJ7wv70" target="_blank">Tin Ship Productions youtube</a>
+  Charlotte Iserbyt - Charter School Trojan Horse
+</h4>
+
+<pre>
+Unesco controls common core
+</pre>
 
 <h1>Samuel Blumenfeld</h1>
 
@@ -154,6 +222,64 @@ Don't waste time arguing about public education, says Thales founder Bob Luddy. 
   <a href="http://www.chalkbeat.org/posts/co/2017/01/31/meet-the-colorado-republicans-who-want-to-reclaim-their-partys-education-reform-agenda/" target="_blank">chalkbeat.org/posts/co/2017/01/31</a>
   Meet the Colorado Republicans who want to reclaim their party’s education reform agenda By Nicholas Garcia
 </h4>
+
+<h1>John Taylor Gatto</h1>
+
+<h2>
+  <a href="http://www.johntaylorgatto.com/" target="_blank">John Taylor Gatto website</a>
+</h2>
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/John_Taylor_Gatto" target="_blank">John Taylor Gatto - wikipedia</a>
+</h4>
+
+John Taylor Gatto (born December 15, 1935) is an American author and
+former school teacher who taught in the classroom for nearly 30 years. He
+devoted much of his energy to his teaching career, then, following his
+resignation, authored several books on modern education, criticizing its
+ideology, history, and consequences. He is best known for the underground
+classic Dumbing Us Down: the Hidden Curriculum of Compulsory Schooling,
+and The Underground History of American Education: A Schoolteacher’s
+Intimate Investigation Into the Problem of Modern Schooling, which is
+sometimes considered to be his magnum opus.
+
+He was named New York City Teacher of the Year in 1989, 1990, and 1991,
+and New York State Teacher of the Year in 1991.
+
+<h2>Training for Change Agents - Ronald G. Havelock</h2>
+
+<pre>
+Training for Change Agents : A Guide to Training Programs in Education and Other Fields
+Ronald G. Havelock and Mary C. Havelock
+ISBN 10: 0879441267 / ISBN 13: 9780879441265 
+</pre>
+
+<h1>Thomas Friedman</h1>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Xww6-KEBPTE" target="_blank">Academic Partnerships youtube</a>
+  Thomas Friedman | Globalization of Higher Education
+</h4>
+
+<h1>Common Core</h1>
+
+<h4>
+  <a href="https://whatiscommoncore.wordpress.com/tag/unesco/" target="_blank">whatiscommoncore.wordpress.com page</a>
+  Source-Focused Analysis of Common Core Starts Here: An Updated Syllabus 
+</h4>
+
+<pre>
+Chester Finn
+
+Frederick Hess is director of education policy studies at AEI.
+Chester Finn is president of the Thomas B. Fordham Foundation. 
+
+poison 1 - 13m
+choice with charter schools with unelected boards
+
+poison 2
+
+</pre>
 
 <!--
 html boilerplate

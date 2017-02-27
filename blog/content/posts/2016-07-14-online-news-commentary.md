@@ -23,6 +23,30 @@ tags:
   <li>
     <a href="http://www.tfmetalsreport.com/featured" target="_blank">List of past guests featured on the TF Metals Report Podcast</a>
   </li>
+  <li>
+    <a href="http://victuruslibertas.com/" target="_blank">victuruslibertas.com</a>
+  </li>
+  <li>
+    <a href="https://www.theburningplatform.com/" target="_blank">The Burning Platform</a>
+  </li>
+  <li>
+    <a href="https://www.lewrockwell.com/" target="_blank">LewRockwell.com ANTI-STATE•ANTI-WAR•PRO-MARKET</a>
+  </li>
+  <li>
+    <a href="https://mises.org/" target="_blank">Mises Institute Online</a>
+  </li>
+  <li>
+    <a href="http://www.unz.com/" target="_blank">The Unz Review: An Alternative Media Selection</a>
+  </li>
+  <li>
+    <a href="http://www.judicialwatch.org/" target="_blank">Judicial Watch</a>
+  </li>
+  <li>
+    <a href="http://www.stubbornthings.org/" target="_blank">Stubborn Things - The best of Culture,Politics,Entertainment</a>
+  </li>
+  <li>
+    <a href="https://www.peakprosperity.com/" target="_blank">Chris Martenson - PeakProsperity</a>
+  </li>
 </ul>
 
 <!--

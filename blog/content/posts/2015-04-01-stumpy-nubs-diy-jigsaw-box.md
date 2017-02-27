@@ -35,6 +35,28 @@ This can do light duty band saw work.
   Homemade box/finger joint jig with an incremental positioner (Incra I-box style)
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=FBaqN2bjCx8" target="_blank">Stumpy Nubs youtube</a>
+  Scary sharp: The best sandpaper, etc for tool sharpening woodworking planes, chisels, etc.
+</h4>
+
+Silicon carbide cuts faster, Aluminum oxide lasts longer.
+Sandpaper for metal is best bet.
+
+Likes Rockler plate glass sharpening system.
+
+<h4>
+  <a href="https://www.amazon.com/Rockler-Plate-Glass-Sharpening-System/dp/B001DT164Q" target="_blank">$40 at amazon</a>
+  Rockler Fine Plate Glass Sharpening System 
+</h4>
+
+Black wet or dry sandpaper used in auto body work.
+Silicon carbide.
+
+Aluminum oxide.
+
+Dan Harold1 - Old document scanners and copiers may be a good source of flat tempered glass.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -510,6 +510,21 @@ HomeRight Finish Max Pro HVLP Sprayer Model # C800850.M (at home depot)
   hvlp latex video list
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=MTkIPY1Pvpw" target="_blank">Steve Ramsey youtube</a>
+  Spraying Lacquer with HVLP | Step it Up
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=V7mZbA3nkc0&t=206s" target="_blank">Jay Bates youtube</a>
+  Intro to Spraying Finishes With a HVLP Spray Gun - 241
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=N4dqJ1HxE3o" target="_blank">Toasty Bros youtube</a>
+  2 Pc Professional Automotive HVLP Air Spray Gun Kit Review
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
