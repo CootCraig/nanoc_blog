@@ -120,6 +120,16 @@ borrowing outpaces growth of economy
   Resistance Creates Strength | Vox Day and Stefan Molyneux
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=GKczW14EO_w" target="_blank">Stefan Molyneux youtube</a>
+  ALWAYS BE NICE?!? FAIL.
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=h7OIgeQscik" target="_blank">Stefan Molyneux youtube</a>
+  An Honest Conversation With a Heroin Addict
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

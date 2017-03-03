@@ -47,6 +47,9 @@ tags:
   <li>
     <a href="https://www.peakprosperity.com/" target="_blank">Chris Martenson - PeakProsperity</a>
   </li>
+  <li>
+    <a href="http://takimag.com/#axzz4a5t1yymm" target="_blank">Taki's Magazine</a>
+  </li>
 </ul>
 
 <!--

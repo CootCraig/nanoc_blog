@@ -88,6 +88,15 @@ Ground Anchor System IS 50016 6 Piece kit With Drive Rod
 </h3>
 
 <h4>
+  <a href=""https://americanearthanchors.com/products/ground-anchors-penetrators/ target="_blank">americanearthanchors.com - 6 at $20.70 each</a>
+  (PE18) 18-inch Penetrator with 1-inch hex head - $122
+</h4>
+
+<h4>
+  <a href="https://americanearthanchors.com/products/ground-anchors-penetrators/" target="_blank">American Earth Anchors - Penetrator Screw</a>
+</h4>
+
+<h4>
   <a href="https://americanearthanchors.com/products/cable-anchors-arrowhead-bullet/" target="_blank">American Earth Anchors</a>
   Arrowhead & Bullet Cabled Anchors article
 </h4>
