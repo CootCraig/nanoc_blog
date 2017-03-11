@@ -525,6 +525,36 @@ HomeRight Finish Max Pro HVLP Sprayer Model # C800850.M (at home depot)
   2 Pc Professional Automotive HVLP Air Spray Gun Kit Review
 </h4>
 
+<pre>
+Central Pneumatic® - item#94572 
+</pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=oEjVuveOjTo" target="_blank">Regalian Ox youtube</a>
+  Harbor Freight 2 Piece Automotive Spray Gun Set Review
+</h4>
+
+<h3>
+  <a href="http://www.harborfreight.com/20-oz-professional-hvlp-gravity-feed-air-spray-gun-68843.html" target="_blank">$54.99 at Harbor Freight</a>
+  20 oz. Professional HVLP Gravity Feed Air Spray Gun Central Pneumatic - item#68843 
+</h3>
+
+<h4>
+  <a href="" target="_blank">Antonio Rosa youtube</a>
+  Harbor Freight Professional 68843 vs purple HVLP paint spray gun
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=IYjymqg06iI" target="_blank">DECIPLESgarage youtube</a>
+  HARBOR FREIGHT HVLP GUN (NEW) | MODEL 68843
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=KEtPaJtu_SI&t=60s" target="_blank">DECIPLESgarage youtube</a>
+  (NEW) HARBOR FREIGHT HVLP SPRAY GUN 68843 TEST & REVIEW
+</h4>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

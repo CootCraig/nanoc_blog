@@ -49,6 +49,39 @@ Fiio X3 24Bit/192K Lossless Mastering Quality Music Player w/ Sandisk 64GB Exter
 
 ### <a href="http://www.soundvisionreview.com/gear-gadgets/accessories/ibasso-dx50-review/" target="_blank">soundvisionreview.com - iBasso DX50 Review</a>
 
+<h2>
+  <a href="http://en.cayin.cn/products_info?itemid=105" target="_blank">Cayin N3 at Cayin</a>
+</h2>
+
+Bin Liang, CEO of Zhu Spark Electronic Equipment Co., Ltd., parent
+company of Cayin, said “We have packed our class leading digital
+audio technologies into a very compact package. The new DAP is designed
+around the AK4490EN DAC chipset from AKM. It will support all common
+digital music format upto 24Bits/192kHz or native decode DSD up to
+11.2Mhz (DSD256). The N3 can work as a USB-DAC to achieve high quality,
+high resolution audio from your desktop computer or laptop, and it can
+also serve as digital transport to external DAC, outputting PCM and DoP
+bit-stream through our unique dual digital output (Coaxial and USB-Audio)
+via USB Type-C connection.”
+
+The N3 is Cayin's new entry-level DAP. It's packed with an AKM4490 DAC,
+which is one of my favorite DACs right now. Compared to the N5 (which
+is one of my go-to DAPs), the N3 is 40% smaller and 50% lighter. It's
+rated for 12 hours continuous playback, so the N3 is set to make it
+through long days of listening to your favorite music. The N3 supports
+all common digital music formats up to 24Bits/192kHz, natively decodes
+DSD up to DSD256, and outputs PCM and DoP to external DACs through a
+unique dual digital output (Coaxial and USB-Audio via USB Type-C). With
+Bluetooth v4.0 and apt-X, the N3 can go wireless with latest Bluetooth
+speakers and headphones, making the most versatile Cayin N series DAP
+yet. In short, I think it's going to be quite the versatile piece of
+audio kit to have around!
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=UKvP-_b4WJ0" target="_blank">Nikolaus Matheis youtube</a>
+  Cayin N3 Walkthrough
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

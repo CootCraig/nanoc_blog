@@ -275,6 +275,84 @@ Store at lowest setting.
 search:
 milton 1/4 v style
 
+<h3>
+  <a href="http://www.harborfreight.com/18-gauge-2-in-1-air-nailerstapler-68019.html" target="_blank">product at harborfreight.com</a>
+  18 Gauge 2-in-1 Air Nailer/Stapler Central Pneumatic - item# 68019 
+</h3>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=-8mEeswIt5I" target="_blank">Black & Tan Productions youtube</a>
+  Central Pneumatic 18 Gauge Nailer Stapler 68019 Review w Memphis J
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=UEfkUWvdCOg" target="_blank">G.I. Bro youtube</a>
+  Harbor Freight 18 Gauge 2-in-1 Air Nailer/Stapler tutorial and review 68019
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=iu_McgZ9gDM" target="_blank">Mark Alexander youtube</a>
+  Harbor Freight air nailer / stapler
+</h4>
+
+<h2>
+  <a href="http://www.harborfreight.com/heavy-duty-variable-speed-rotary-tool-kit-31-pc-60713.html" target="_blank">product at harborfreight.com</a>
+  Heavy Duty Variable Speed Rotary Tool Kit 31 Pc - Chicago Electric Power Tools - item# 60713, 68696
+</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=FrB0VRBUyzI" target="_blank">Scroll Saw & Woodworking Videos youtube</a>
+  How To Unboxing Chicago Electric 60713 Rotary Tool Dremel
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=mKR7z_NwezE" target="_blank">AICreviews youtube</a>
+  harbor freight Chicago Electric rotary tool review
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=BmJgWNPRZPI" target="_blank">TheToolReview youtube</a>
+  Harbor Freight Rotary Tool
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=7jZslUln7Qw&t=36s" target="_blank">The Lone Woodman youtube</a>
+  Dremel vs Harbor Freight Rotary Tool
+</h4>
+
+This is why you shouldn't buy the Harbor Freight Rotary Tool.
+Compared to Dremel 4000
+
+<h2>Buy List</h2>
+
+<pre>
+10 piece 1/2 in. torque limiting extension bar set pittsburgh automotive - item#69870 - $54.99
+rain check given on March 9, 2017
+
+18 Gauge 2-in-1 Air Nailer/Stapler Central Pneumatic - item# 68019 
+purchased on March 9, 2017
+
+13 pc 1/2 in. drive sae impact deep wall socket set pittsburgh - item#69280 - $24.99
+
+1/2 in. drive click type torque wrench pittsburgh - item#239 - $19.99
+
+13 pc 1/2 in. drive metric impact deep wall socket set pittsburgh - item#69332 - $24.99
+
+2 pc. professional automotive hvlp air spray gun kit central pneumatic® - item# 60289 61472 94572 - $49.99
+
+20 oz. professional hvlp gravity feed air spray gun central pneumatic - item#68843 - $54.99
+
+23 gauge pin air nailer central pneumatic - item# 60664 68022 60241 - $24.99
+
+16 Gauge Finish Air Nailer 68023 69575 - list $57.99
+
+23 Gauge Pin Air Nailer 60664 68022 60241 - list $25
+
+16/18 gauge 3-in-1 air nailer/stapler central pneumatic - item# 68057 - $89.99
+
+Pick a regulator
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

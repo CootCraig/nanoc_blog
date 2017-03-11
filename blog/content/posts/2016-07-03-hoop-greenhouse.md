@@ -15,6 +15,19 @@ tags:
 <a href="https://www.youtube.com/watch?v=FPjko9DDhcU" target="_blank">youtube</a>
 Bigelow Brook Farm (Web4Deb) - What Type of Greenhouse Should You Build?
 
+<h4>
+  <a href="http://www.uvm.edu/sustainableagriculture/Documents/HighTunnels_SelectingStructure.pdf" target="_blank">uvm.edu/sustainableagriculture/Documents</a>
+  High Tunnels - Selecting Your Structure
+</h4>
+
+<h3>
+  <a href="http://doorgarden.com/2008/10/27/50-dollar-hoop-house-green-house/" target="_blank">doorgarden.com/2008/10/27</a>
+  How to build My 50 Dollar Greenhouse by david laferney
+</h3>
+
+<h4>
+  <a href="http://doorgarden.com/2008/11/10/building-greenhouse-doors/#simpler-door" target="_blank">Simpler Door by david laferney</a>
+</h4>
 
 ## Build My Own Greenhouse Gothic
 
@@ -88,9 +101,26 @@ Ground Anchor System IS 50016 6 Piece kit With Drive Rod
 </h3>
 
 <h4>
-  <a href=""https://americanearthanchors.com/products/ground-anchors-penetrators/ target="_blank">americanearthanchors.com - 6 at $20.70 each</a>
+  <a href="https://americanea.americommerce.com/PE18-anchor-18-inch-Penetrator-with-1-inch-hex-head.htm" target="_blank">americanearthanchors.com - 6 at $20.70 each</a>
   (PE18) 18-inch Penetrator with 1-inch hex head - $122
 </h4>
+
+<pre>
+1" or 26mm socket
+Socket top is 7/8" high
+flange diameter 2"
+neck diameter 1"
+flight diameter 1 3/4"
+
+Penetrator 90° bracket $13.75 each at qty. 6
+Item #: PE-L90
+
+Tie-off cable for Penetrators with a 2" flange. $5.04 each at qty 6
+Item #: PE-TC
+
+Penetrator bracket for securing 2" or smaller pipe.  $15.35 each at qty 6
+Item #: PE-2P
+</pre>
 
 <h4>
   <a href="https://americanearthanchors.com/products/ground-anchors-penetrators/" target="_blank">American Earth Anchors - Penetrator Screw</a>
