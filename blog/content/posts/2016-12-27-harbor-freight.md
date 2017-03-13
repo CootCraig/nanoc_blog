@@ -332,25 +332,29 @@ rain check given on March 9, 2017
 18 Gauge 2-in-1 Air Nailer/Stapler Central Pneumatic - item# 68019 
 purchased on March 9, 2017
 
+20 oz. professional hvlp gravity feed air spray gun central pneumatic - item#68843 - $54.99
+purchased
+
+23 gauge pin air nailer central pneumatic - item# 60664 68022 60241 - $24.99
+
+16 Gauge Finish Air Nailer 68023 69575 - list $57.99
+
 13 pc 1/2 in. drive sae impact deep wall socket set pittsburgh - item#69280 - $24.99
 
 1/2 in. drive click type torque wrench pittsburgh - item#239 - $19.99
 
 13 pc 1/2 in. drive metric impact deep wall socket set pittsburgh - item#69332 - $24.99
 
-2 pc. professional automotive hvlp air spray gun kit central pneumatic® - item# 60289 61472 94572 - $49.99
-
-20 oz. professional hvlp gravity feed air spray gun central pneumatic - item#68843 - $54.99
-
 23 gauge pin air nailer central pneumatic - item# 60664 68022 60241 - $24.99
 
-16 Gauge Finish Air Nailer 68023 69575 - list $57.99
+Pick a regulator
+Pick an air filter
 
-23 Gauge Pin Air Nailer 60664 68022 60241 - list $25
+Maybe not
+
+2 pc. professional automotive hvlp air spray gun kit central pneumatic® - item# 60289 61472 94572 - $49.99
 
 16/18 gauge 3-in-1 air nailer/stapler central pneumatic - item# 68057 - $89.99
-
-Pick a regulator
 </pre>
 
 <!--
