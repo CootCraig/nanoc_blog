@@ -8,10 +8,21 @@ tags:
 
 Electric HVLP Spray Gun Kit - item# 44677 
 
+<pre>
+tips: 1.0mm, 1.5mm, 1.8mm
+</pre>
+
 <h4>
   <a href="http://www.harborfreight.com/high-volume-low-pressure-spray-gun-kit-44677.html" target="_blank">$120 at Harbor Freight</a>
   HVLP Spray Gun Kit 
 </h4>
+
+<h4>
+  <a href="http://www.spraygunindustry.com/Information2/Viscosity.html" target="_blank">spraygunindustry.com article</a>
+  Viscosity Chart
+</h4>
+
+<img src="/assets/images/viscosity-chart-cup-timing.png" width="800px">
 
 <h3>
   <a href="https://www.youtube.com/watch?v=ztxcsNTzNFc" target="_blank">Ask the Builder - youtube</a> 

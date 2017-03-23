@@ -323,6 +323,44 @@ milton 1/4 v style
 This is why you shouldn't buy the Harbor Freight Rotary Tool.
 Compared to Dremel 4000
 
+<h2>Compressed Air Tank</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=flEDKxpzMUo" target="_blank">J Fugal youtube</a>
+  Harbor Freight Portable Air Tank Valve Solution and Improvement
+</h4>
+
+<pre>
+On tank:
+1/2 inch iron pipe to 1/4 inch reducer
+1/4" MNPT Hex Nipple and tee
+  or
+Tee with male thread - MettleAir 106-B-1PK 1/4" NPT Male Center Tee T Branch Brass Pipe Union Fitting 
+1/4" MNPT Plug 
+1/4" MNPT Coupler 
+
+Tank fill adapter:
+1/4" FNPT Full Port Brass Ball Valve
+2 - 1/4" MNPT Plug 
+</pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=CTt9e-xv49M" target="_blank">Hex Gadgets youtube</a>
+  Harbor Freight Central Pneumatic 11 Gallon Air Compressor Tank - Water Removing/Maintenace
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Yq4ScHVPXl0" target="_blank">Jay Summet youtube</a>
+  Upgrading a harbor freight / Northern Industrial 5 Gallon portable air tank
+</h4>
+
+<pre>
+1/4 inch npt tee
+1/4 inch male to male
+1/4 inch full port ball valve
+
+</pre>
+
 <h2>Buy List</h2>
 
 <pre>
@@ -335,9 +373,20 @@ purchased on March 9, 2017
 20 oz. professional hvlp gravity feed air spray gun central pneumatic - item#68843 - $54.99
 purchased
 
-23 gauge pin air nailer central pneumatic - item# 60664 68022 60241 - $24.99
+2 pc. professional automotive hvlp air spray gun kit central pneumatic® - item# 60289 61472 94572 - $49.99
+purchased
+
+1/2 in. drive click type torque wrench pittsburgh - item 239 62431 - $19.99
+
+5 gal. Portable Air Tank - item 69716 65594 - $29.99
+
+11 gal. Portable Air Tank - item 65595 69717 - $39.99
 
 16 Gauge Finish Air Nailer 68023 69575 - list $57.99
+
+20 fl. oz. HVLP Gravity Feed Air Spray Gun - Item # 47016 67181 - $14.39
+
+23 gauge pin air nailer central pneumatic - item# 60664 68022 60241 - $24.99
 
 13 pc 1/2 in. drive sae impact deep wall socket set pittsburgh - item#69280 - $24.99
 
@@ -347,12 +396,18 @@ purchased
 
 23 gauge pin air nailer central pneumatic - item# 60664 68022 60241 - $24.99
 
+Gravity Feed Spray Gun Stand item# 34958 - $12.99
+
+7 Function Digital Multimeter
+
+14 Function Professional Digital Multimeter with Sound Level and Luminosity Item # 98674 - $59.99
+
+Air Spray Gun Disposable Paint Cups 5 Pk - Central Pneumatic - item# 97098 
+
 Pick a regulator
 Pick an air filter
 
 Maybe not
-
-2 pc. professional automotive hvlp air spray gun kit central pneumatic® - item# 60289 61472 94572 - $49.99
 
 16/18 gauge 3-in-1 air nailer/stapler central pneumatic - item# 68057 - $89.99
 </pre>

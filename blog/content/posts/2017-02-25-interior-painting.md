@@ -6,6 +6,28 @@ tags:
   - interior_painting
 ---
 
+<h2>Pueblo Stores</h2>
+
+<pre>
+Sherwin-Williams Paint Store: pueblo #7246
+3205 n elizabeth
+pueblo, co, 81008-1190
+(719) 544-7812 
+</pre>
+
+
+
+<pre>
+PPG
+Address:
+G4 Coatings, 524 N Santa Fe, Pueblo, CO 81006
+Phone: 719-543-4743
+Business Hours:
+Monday - Friday   -    8:00am - 5:00pm
+Saturday:   -   9:00am - 12:00pm
+Sunday: Closed
+<pre>
+
 <h3>
   <a href="http://www.kilz.com/products/primer/kilz-hide-all" target="_blank">kilz.com/products/primer</a>
   Kilz Hide-All
@@ -90,12 +112,27 @@ frogtape yellow for wallpaper
 3M 2020 1" and 1.5"
 </pre>
 
-<h1>Mold Stains</h1>
+<h4>
+  <a href="https://www.youtube.com/watch?v=_oIct2J6mjU" target="_blank">Home Improvement How To's youtube</a>
+  Harmony Interior Paint By Sherwin Williams. Harmony Paint No Voc No Odor
+</h4>
 
 <h4>
-<a href="" target="_blank"></a>
-
+  <a href="https://www.youtube.com/watch?v=4kKDmaA2wxw" target="_blank">Home Improvement How To's youtube</a>
+  What Is The Best Paint Sheen To Use: Flat, Satin, or Semigloss?
 </h4>
+
+<pre>
+don't like gloss
+
+Ceiling - flat - SW eminence - no glare on ceiling
+wall - satin (perhaps SW emerald?)
+trim - semi-gloss - SW solo
+
+</pre>
+
+<h1>Mold Stains</h1>
+
 
 Mold Armor Mold Remover and Disinfectant fg 552
 Aisle 06, Bay 020

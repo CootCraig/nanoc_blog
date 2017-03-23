@@ -23,9 +23,19 @@ guide for the stonework. The forms are filled with stone and concrete,
 then "slipped" up the walls to form the subsequent levels. Slipforming
 makes stone work easy even for the novice.
 
+<h2>
+  <a href="https://www.youtube.com/user/TheMrBanjocat/videos" target="_blank">Mike Haduck, Mason - youtube</a>
+</h2>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
 -->
-

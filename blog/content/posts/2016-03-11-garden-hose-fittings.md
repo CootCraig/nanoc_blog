@@ -35,7 +35,15 @@ tags:
 
 But no hose end without water stop
 
-## garrettwade Brass Quick-Change
+<h2>
+garrettwade Brass Quick-Change
+</h2>
+
+<pre>
+Using #1 and #3
+</pre>
+
+<img src="/assets/images/brass-hose-fittings-garrettwade.png" width="700px">
 
 <pre>
 tap|(62K13.04 Hose End Connector)
@@ -44,6 +52,7 @@ tap|(62K13.04 Hose End Connector)
 
 (62K13.03 Male Adapter)|tool
 </pre>
+
 <a href="http://www.garrettwade.com/solid-brass-quick-change-hose-fittings-gp.html" target="_blank">Garrett Wade hose fittings Page</a>
 
 62K13.03 Male Adapter (#4) $4.50 3/$11.50 -
@@ -55,6 +64,27 @@ female thread to female quick release with auto shut off
 62K13.02 Tap End Connector (#2) $7.75 3/19.75 -
 female quick release to male thread
 
+<h3>Description from Garrett Wade</h3>
+
+Solid machined brass fittings are infinitely superior in durability to
+plastic-hardly more expensive, they're simply a better value. These
+convert standard screw-on fittings to quick-connect, allowing rapid
+changing of accessories and rapid movement of the hose from faucet
+to faucet.
+
+The Female adaptor (#1) screws directly to the tap. The tap-end connector
+(#2) screws into the tap end of the hose and snaps into (#1).
+
+The Hose-end connector (#3) screws to the male threaded end of the
+hose. (Ours also has an automatic water-stop valve in it, which closes
+instantly when disconnected.) Finally, the male adaptor (#4) screws into
+the nozzle or other spray device and is then snapped in (#3), completing
+the assembly from tap to nozzle.
+
+The Quick Connect Set includes one each of (#1), (#2), (#3), & (#4). Get
+additional female adaptors (#1) and extra male adaptors (#4) to equip
+more taps and more spraying accessories with a quick connect function
+using the same hose.
 
 ## Gardena Quick Connect
 

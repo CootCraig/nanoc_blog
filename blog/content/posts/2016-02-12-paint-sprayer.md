@@ -520,13 +520,16 @@ HomeRight Finish Max Pro HVLP Sprayer Model # C800850.M (at home depot)
   Intro to Spraying Finishes With a HVLP Spray Gun - 241
 </h4>
 
-<h4>
+<h3>
   <a href="https://www.youtube.com/watch?v=N4dqJ1HxE3o" target="_blank">Toasty Bros youtube</a>
   2 Pc Professional Automotive HVLP Air Spray Gun Kit Review
-</h4>
+</h3>
+
+Good information.
 
 <pre>
-Central Pneumatic® - item#94572 
+2 pc. professional automotive hvlp air spray gun kit central pneumatic
+item# 60289 61472 94572 - $49.99
 </pre>
 
 <h4>
@@ -540,7 +543,7 @@ Central Pneumatic® - item#94572
 </h3>
 
 <h4>
-  <a href="" target="_blank">Antonio Rosa youtube</a>
+  <a href="https://www.youtube.com/watch?v=-wDi_yYw7dc&t=405s" target="_blank">Antonio Rosa youtube</a>
   Harbor Freight Professional 68843 vs purple HVLP paint spray gun
 </h4>
 
@@ -549,11 +552,296 @@ Central Pneumatic® - item#94572
   HARBOR FREIGHT HVLP GUN (NEW) | MODEL 68843
 </h4>
 
+<pre>
+16 min. - breakdown
+
+</pre>
+
 <h4>
   <a href="https://www.youtube.com/watch?v=KEtPaJtu_SI&t=60s" target="_blank">DECIPLESgarage youtube</a>
   (NEW) HARBOR FREIGHT HVLP SPRAY GUN 68843 TEST & REVIEW
 </h4>
 
+<h3>
+  <a href="http://www.harborfreight.com/20-oz-high-volume-low-pressure-gravity-feed-spray-gun-47016.html" target="_blank">$14.39 at harbor freight</a>
+  20 fl. oz. HVLP Gravity Feed Air Spray Gun - Item # 47016 67181
+</h3>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=aNIsHCkZ5xA" target="_blank">Ratchets And Wrenches youtube</a>
+  Harbor Freight HVLP Spray Gun Review - Also Cleaning and Setup Instructions
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=A6OwAYxE2x0" target="_blank">jster1963 youtube</a>
+  Harbor Freight HVLP Spray Gun Review (Central Pneumatic #47016)
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=eHI9qAUWDXQ" target="_blank">DisciplesGarage youtube</a>
+  Harbor Freight HVLP Spray Gun Modification | CHEAPEST Purple HVLP
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=cO9Z6E4qCdQ&t=67s" target="_blank">Redneck Restoration Show youtube</a>
+  A Great, Inexpensive HVLP Spray Gun To Start Spraying Furniture With.
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=eI8dBkvcgM4" target="_blank">Redneck Restoration Show youtube</a>
+  HVLP Spray Gun "Air Regulator" Great Gadget For Spraying Finishes.
+</h4>
+
+Follow up information for the "Great, Inexpensive HVLP Spray Gun"
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=RzJUsHxhUSk" target="_blank">Redneck Restoration Show youtube</a>
+  Lacquer Finish Problems With Over-Spray When Spaying Furniture
+</h4>
+
+<h2>HF purple gun Item # 47016 67181 - $14.39</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Qs1pRuLTckE" target="_blank">2stroketurbo youtube</a>
+  Modify your Harbor Freight Purple Gun to shoot primers
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=aNIsHCkZ5xA&t=116s" target="_blank">Ratchets And Wrenches youtube</a>
+  Harbor Freight HVLP Spray Gun Review - Also Cleaning and Setup Instructions
+</h4>
+
+<pre>
+3m 20s - cleaning
+</pre>
+
+
+<h4>
+  <a href="https://www.youtube.com/watch?annotation_id=annotation_3148083705&feature=iv&src_vid=1PiYhGLlQsU&v=eHI9qAUWDXQ" target="_blank">DisciplesGarage youtube</a>
+  Harbor Freight HVLP Spray Gun Modification | CHEAPEST Purple HVLP
+</h4>
+
+<h2>
+  <a href="http://www.harborfreight.com/professional-automotive-hvlp-spray-gun-kit-94572.html" target="_blank">product at harbor freight</a>
+  2 Pc. Professional Automotive HVLP Air Spray Gun Kit 94572 61472 60239 - $49.99
+</h2>
+
+<h2>TCP Global - same as HF 68843</h2>
+
+<h4>
+  <a href="https://www.amazon.com/TCP-Global-Professional-Primer-metal-Regulator/dp/B001NOU92G" target="_blank">$43 at amazon</a>
+  TCP Global Brand Professional New 2.5mm Hvlp Spray Gun-auto Paint Primer-metal Flake with Air Regulator 
+</h4>
+
+<pre>
+FLUID TIP NOZZLE SET TCP global G6600 HVLP Spray Gun
+tcp global g6600 nozzle set
+Optional items available for Model G6600 Series Full Size Spray Guns:
+  Needle, Nozzle and Air Cap Sets in sizes 1.3, 1.4, 1.5, 1.8, 2.0 and 2.5mm
+  Complete Model G6600 Spray Gun Rebuild and Repair Kit
+</pre>
+
+<pre>
+1.3 FLUID TIP NOZZLE SET-TCPglobal G6600 HVLP Spray Gun
+1.4 FLUID TIP NOZZLE SET-TCPglobal G6600 HVLP Spray Gun
+1.5 FLUID TIP NOZZLE SET-TCPglobal G6600 HVLP Spray Gun
+1.8 FLUID TIP NOZZLE SET-TCPglobal G6600 HVLP Spray Gun
+2.0 FLUID TIP NOZZLE SET-TCPglobal G6600 HVLP Spray Gun
+2.5 FLUID TIP NOZZLE SET-TCPglobal G6600 HVLP Spray Gun
+</pre>
+
+<h4>
+  <a href="http://www.ebay.com/itm/2-5-FLUID-TIP-NOZZLE-SET-TCPglobal-G6600-HVLP-Spray-Gun-/141843426156?rmvSB=true" target="_blank">$19 on ebay</a>
+  2.5 FLUID TIP NOZZLE SET-TCPglobal G6600 HVLP Spray Gun
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=5KAg7sq9V60" target="_blank">DIY Dan youtube</a>
+  Spraying Latex with HVLP (TCP G6600-25)
+</h4>
+
+Using the TCP Global® Brand Professional 2.5mm Hvlp Spray Gun (TCP
+G6600-25) to spray semi gloss latex paint for the entry door. I used
+Floetrol so the paint flowed a little better but I didn't need to add any
+water. I would highly recommend the 3M PPS system as it made clean up
+a breeze. I did remove the filter from the gun and the PPS cup because
+I strained the paint prior to using it. I had no problem with lack of
+paint at the tip and sprayed at 40PSI. If you want to use the PPS system
+with this gun you need the 3M Number 2 adapter. Before you go this route
+make sure your compressor can deliver enough CFM for this gun.
+
+If you want to use the PPS system with this gun you need the 3M Number 2 adapter.
+
+<h1>Fluid Sets</h1>
+
+<h2>americanairless on ebay</h2>
+
+<h4>
+  <a href="http://www.ebay.com/usr/americanairless?_trksid=p2047675.l2559" target="_blank">americanairless on ebay</a>
+</h4>
+
+<pre>
+Wed Mar 15 11:04:39 MDT 2017
+I am looking for different size fluid sets for
+20 oz. Professional HVLP Gravity Feed Air Spray Gun Central Pneumatic - item#68843
+HF says it takes a Graco fluid set.
+The gun came with a nozzle marked 1.4mm and a needle marked 8661314.
+
+Do you know if you have compatible fluid sets?
+</pre>
+
+<h2>HF 68843</h2>
+
+20 oz. Professional HVLP Gravity Feed Air Spray Gun Central Pneumatic - item# 68843 
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=USLSD8b_unk&t=87s" target="_blank">EarlexMR youtube</a>
+  HV5500 Thinning - Latex Paints
+</h4>
+
+Uses Viscocity cup.
+Demonstrate stirring with paint sticl.
+
+<h1>Viscosity Cup</h1>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=6gWRCkM_Yfo&t=173s" target="_blank">Ron Budman youtube</a>
+  How to Thin Water Borne Paint for Spraying, Measuring Viscosity
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=vMWZh-nL1RA" target="_blank">The Gunman youtube</a>
+  How to use a Viscosity Cup
+</h4>
+
+<pre>
+Earlex sg243
+Earlex sg244
+</pre>
+
+<h1>Stand</h1>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=aM-TSodvg6Q" target="_blank">ghostses youtube</a>
+  Harbor Freight HVLP Spray Gun Stand Review Item 34958
+</h4>
+
+<h1>Cleaning<h1>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Pvd3NqWT6c8" target="_blank">DIY Auto Body and Paint youtube</a>
+  DIY Tip - How To Clean A Paint Spray Gun By Hand With Only 2 oz. of Thinner
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=aNIsHCkZ5xA" target="_blank">Ratchets And Wrenches youtube</a>
+  Harbor Freight HVLP Spray Gun Review - Also Cleaning and Setup Instructions
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=_fh72tOUenU" target="_blank">The Gunman youtube</a>
+  How to Clean a Spray Gun "Properly"
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=aNIsHCkZ5xA&t=167s" target="_blank">Ratchets And Wrenches youtube</a>
+  Harbor Freight HVLP Spray Gun Review - Also Cleaning and Setup Instructions
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=WqDwTv4pbC8" target="_blank">Brad Angove youtube</a>
+  How to clean your paint gun
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=yZtzM0LPc_M" target="_blank">Matt Lane youtube</a>
+  How to Clean Your HVLP Spray Gun
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=oG2nsV-4UkE" target="_blank">customspraymods youtube</a>
+  How to clean your spray gun
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=pTA5Zl0Gp5Y" target="_blank">WoodWorkers Guild Of America youtube</a>
+  Woodworking Tips: Finishing - How to Clean a Spray Gun
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=d9fRH7UQPYU" target="_blank">autobodybasics youtube</a>
+  Spray Gun Cleaning Part 1
+</h4>
+
+<h1>3M PPS - Paint Preparation System</h1>
+
+<h4>
+  <a href="http://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-PPS-Adapter?N=5002385+3293219713&rt=rud" target="_blank">3M™ PPS™ Adapter</a>
+</h4>
+
+<h4>
+  <a href="http://3mcollision.com/3m-pps-adapter-2-16003.html" target="_blank">3M™ PPS™ Adapter 2, 16003</a>
+</h4>
+
+<pre>
+3M PPS Adapter 2 16003
+
+Part Number: 16003
+UPC: 00051131160033
+Stock Number: 60980107357
+<pre>
+
+<h4>
+<a href="https://www.amazon.com/3M-16003-PPS-Adapter-2/dp/B000N9RWTK" target="_blank">$18 at amazon</a>
+3M 16003 PPS Adapter 2
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Hprw8qGUhn8" target="_blank">3M Collision Repair Solutions youtube</a>
+  3M PPS Starter Kit HD
+</h4>
+
+<h4>
+  <a href="http://www.tcpglobal.com/MMM-16580.html#.WMtkbrOvDRY" target="_blank">tcpglobal.com/MMM-16580</a>
+  3M Accuspray Spray Gun System with PPS 16580 - Item #: MMM 16580 
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=UdczL1DjLYQ" target="_blank">Redneck Garage youtube</a>
+  3M PPS Paint Cup System Review
+</h4>
+
+<h3>
+  <a href="http://www.ebay.com/usr/autocolorwarehouse?_trksid=p2047675.l2559" target="_blank">ebay.com/usr/autocolorwarehouse</a>
+</h3>
+
+<pre>
+On ebay sells
+3m PPS adapters,
+on ebay for $37 + 7.99 shipping - 3M PPS Starter Kit Standard Size Hard Cup plus 10 Lids and Liners
+</pre>
+
+This kit includes 1 hard cup in standard size (22 ounces/650ml), 10 lids
+(200 micron), 10 liners, and 4 plugs.  Compare to similar kits with only
+6 liners that cost more.  We also sell pps adapters to fit your gun.
+
+<h2>Harbor Freight Disposable cups</h2>
+
+<h4>
+  <a href="http://www.harborfreight.com/5-piece-air-spray-gun-disposable-paint-cups-97098.html" target="_blank">$6.99 at harbor freight</a>
+  Air Spray Gun Disposable Paint Cups 5 Pk - Central Pneumatic - item# 97098 
+</h4>
+
+<h2>pressure regulator</h2>
+
+<h4>
+  <a href="https://www.amazon.com/16573-Accuspray-Flow-Control-Valve/dp/B0054S5LKM" target="_blank">$24.48 at amazon</a>
+  3M 16573 Accuspray Air Flow Control Valve 
+</h4>
+
+Sharpe 2210 Air Adjusting Regulator Valve 
+
+DeVilbiss HAV511 Air Adjusting Valve with Gauge 
 
 <!--
 html boilerplate

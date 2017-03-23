@@ -305,10 +305,27 @@ for his books and videos.
   playlist - Woodworking
 </h4>
 
-<h4>
+<h3>
   <a href="https://www.youtube.com/watch?v=mKairfMzc6Q&t=110s" target="_blank">Steve Ramsey on youtube</a>
   The Only 3 Sandpapers You Really Need | SANDING BASICS
-</h4>
+</h3>
+
+<pre>
+80 grit: 30%
+120 grit: 50%
+220 grit: 20%
+
+1m - 80 grit: shaping. round over sharp edges. stripping paint. remove scratches.
+1m 35s - 120 grit: the workhorse
+2m 50s - 220 grit: finishing. before oil finishes. not with lacquer or polyurethane.
+                   not usuially used on bare wood.
+2m 55s - protective finish will give silky smooth feel.
+3m 30s - 220 between polyurethane coats. lacquer doen't need sanding between coats.
+         220 before final coat.
+4m 20s - folding for hand sanding.
+
+6m 30s - Bench top sanders
+</pre>
 
 <h4>
   <a href="https://www.amazon.com/Briwax-Rustic-Pine/dp/B0035YLT1M" target="_blank">$20.27 at amazon</a>
@@ -336,6 +353,11 @@ https://briwax.com/product/briwax-original/#sthash.JjQxzK5E.dpuf
   <a href="https://www.youtube.com/watch?v=y1nEf3qSYUo" target="_blank">Jay Bates 2 youtube</a>
   Vlog #17 - Wood + Steel Wool + Vinegar + Briwax = Awesomesauce
 </h4>
+
+<h2>
+  <a href="http://www.popularwoodworking.com/techniques/rules_for_sanding_wood" target="_blank">popularwoodworking.com/techniques article</a>
+  Rules for Sanding Wood By: Bob Flexner
+</h2>
 
 <!--
 html boilerplate

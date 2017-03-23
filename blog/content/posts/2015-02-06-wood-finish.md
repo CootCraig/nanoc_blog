@@ -59,10 +59,94 @@ Makita BO3710 Finishing Sander (1/3 sheet?)
 
 PORTER-CABLE 330 Speed-Bloc 1.2 Amp 1/4 Sheet Sander
 
+<h1>Polyurethane</h1>
+
+<pre>
+General Finishes QTHM High Performance Water Based Topcoat, 1 quart, Flat 
+General Finishes QTHS High Performance Water Based Topcoat, 1 quart, Satin 
+General Finishes Water Based High Performance Polyurethane Top Coat Semi-Gloss Quart
+General Finishes Water Based High Performance Polyurethane Top Coat Gloss Quart 
+</pre>
+
+<h1>Lacquer</h1>
+
+<pre>
+Minwax 154000000 Lacquer Sanding Sealer, Quart
+Minwax 657000000 Water-Based Sanding Sealer, Quart 
+
+
+clear, satin, gloss
+Rust-Oleum 63041 Watco Lacquer Finish, Quart, Clear Gloss 
+Minwax 155000000 Clear Brushing Lacque, Quart, Gloss 
+</pre>
+
+<h3>
+  <a href="http://www.solowoodworker.com/wood/lacquer.html" target="_blank">solowoodworker.com/wood article</a>
+  Furniture finishing techniques Lacquer
+</h3>
+
+<h2>lacquer Sanding Sealer</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=Ji5C-LRXCxI" target="_blank">WoodWorkers Guild Of America youtube</a>
+  Woodworking Tips: Finishing - Why Use a Sanding Sealer
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=3L9INQ3liuc" target="_blank">Brad Angove youtube</a>
+  How to Spray Brushing Lacquer
+</h3>
+
+<pre>
+60ml acetone
+40ml watco lacquer
+20ml lacquer thinner
+
+1.5mm nozzle
+</pre>
+
+Hey guys! I’m Brad, and I make how-to videos. I do custom painting
+projects, guitar painting, airbrushing, spray can painting, wood working,
+and a variety of other finishing work and tutorials. Please subscribe
+and check out my channel for more!
+
+This video shows a method for thinning and spraying watch brushing
+lacquer. In many cases, nitrocellulose lacquer and other solvent based
+spray finishes are becoming difficult to find. This is a functional
+substitute, which will help those who do not like to work with water-based
+lacquers.
+
+<h1>Top Coats</h1>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=7KwKyB_IOb0" target="_blank">WoodWorkers Guild Of America youtube</a>
+  Woodworking Tips: Finishing - Top Coat Overview
+</h3>
+
+<pre>
+oil.
+shellac.
+lacquer.
+varnish.
+</pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=VJ8P6Ia1eBc" target="_blank">Redneck Restoration Show youtube</a>
+  Water, Oil Or Lacquer Based Finshes? What To Use When Refinishing.
+</h4>
 
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
-

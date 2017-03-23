@@ -71,6 +71,11 @@ engage, pull sleeve back to remove. Perfect for high volume, low pressure
 applications. V style couplers have a 1/4" basic flow size and a maximum
 pressure of 300 PSI.
 
+<h4>
+  <a href="http://www.miltonindustries.com/1-4-mnpt-hex-nipple.html" target="_blank">product at miltonindustries.com</a>
+  1/4" MNPT Hex Nipple - 1/4" male national thread pipe - Male hex nipple fitting - Made of brass - Part #: S-646, 646, 646BK
+</h4>
+
 <h3>Stores</h3>
 
 <h4>
@@ -93,6 +98,11 @@ now. A little spendier initial investment but worth it to only do it
 once. I recommend getting more of all your fittings than you think you
 will need to allow you room to plumb other projects that come up down
 the road without having to wait for shipping!
+
+<h4>
+  <a href="http://www.miltonindustries.com/1-4-fnpt-full-port-brass-ball-valve.html" target="_blank">product at miltonindustries.com</a>
+  1/4" FNPT Full Port Brass Ball Valve - Part #: 1094-4, S-1094-4
+</h4>
 
 <h1>Pneumatic tool oil</h1>
 

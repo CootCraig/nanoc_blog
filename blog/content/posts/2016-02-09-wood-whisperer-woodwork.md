@@ -22,6 +22,18 @@ The Wood Whisperer - 174 - Flattening Workbenches and Wide Boards With A Router
   161 - Sanding Efficiency
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=kiOylCZjNEI" target="_blank">The Wood Whisperer youtube</a>
+  155 - How to use Waterborne Finish & HVLP
+</h4>
+
+<pre>
+General Finishes QTHS High Performance Water Based Topcoat, 1 quart, Satin 
+1.5mm tip
+
+perhaps BLO first to show grain
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -70,6 +70,14 @@ chlor. 0.75 - Add 1.5oz bleach - Mon Nov 28 21:33:32 MST 2016
 Add 1.0oz bleach - Wed Nov 30 02:56:07 MST 2016
 </pre>
 
+<h3>MA for pH</h3>
+<pre>
+Mon Mar 13 15:37:05 MDT 2017
+
+pH 8.2 -> 7.4
+added 2 oz MA by weight
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
