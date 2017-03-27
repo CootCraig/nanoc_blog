@@ -8,6 +8,8 @@ tags:
   - woodworking_tools
   - niki_lumberjock
   - hold_down_clamp
+  - pinch_rod
+  - bar_gauge
 ---
 
 <a href="http://lumberjocks.com/topics/1381" target="_blank">niki lumberjocks.com topic</a>

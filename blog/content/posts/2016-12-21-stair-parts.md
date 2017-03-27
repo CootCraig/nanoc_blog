@@ -6,6 +6,39 @@ tags:
   - stair_parts
   - stair_balusters
 ---
+<h1>8 Sedum stair repair</h1>
+
+<h2>Newel attachment</h2>
+
+K3010 Fas-n-fast (Blind post anchoring system) will not work.
+Tread carpet will not allow rotating the newel post.
+
+<h4>
+  <a href="http://www.rockler.com/sure-tite-newel-post-fastener" target="_blank">rockler.com product page</a>
+  Sure-Tite Newel Post Fastener - Sure-Tite 101-MO 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Sure-Tite-trade-Newel-Post-Fastener/dp/B004SMFF5G" target="_blank">$19.95 at amazon</a>
+  Sure-Tite Newel Post Fastener - Sure-Tite 101-MO 
+</h4>
+
+<h4>
+  <a href="http://www.buystairparts.com/ProductDetail-asp/p/hardware-series-3006--newel-mounting-plate-kit/f/newel-mounting/c/hardware/id/1408/family/72/cat/32/" target="_blank">buystairparts.com/ProductDetail</a>
+  HARDWARE SERIES 3006 - NEWEL MOUNTING PLATE KIT 
+</h4>
+
+<h4>
+  <a href="http://www.ljsmith.net/products.aspx?category=&type=9&product=12" target="_blank">ljsmith.net/products</a>
+  LJ-3070 — Threadlock™ Newel Post Fastener
+</h4>
+
+<h4>
+  <a href="http://www.stair-treads.com/3-1-2-in-newel-post-fastener-kit-l-bracket-kit.html" target="_blank">stair-treads.com product page</a>
+  Newel Post Fastener Kit (J-Bracket Kit)
+</h4>
+
+4js post mounting system
 
 <ul>
   <li>baluster or spindle</li>
