@@ -38,7 +38,24 @@ Tread carpet will not allow rotating the newel post.
   Newel Post Fastener Kit (J-Bracket Kit)
 </h4>
 
-4js post mounting system
+4Js Newel Post Fastener
+
+<pre>
+Conifer Products, Inc.
+attn: Molding Exchange
+373 27 1/2 Road
+Grand Junction, CO 81501
+
+hemlock
+soft maple
+poplar
+alder
+</pre>
+
+<h4>
+  <a href="http://walzcraft.com/cappuccino-snw-8-82640/" target="_blank">walzcraft.com product page</a>
+  Cappuccino (SNW) Stain on Alder Wood
+</h4>
 
 <ul>
   <li>baluster or spindle</li>

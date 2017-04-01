@@ -113,6 +113,36 @@ Using a top mounted bearing on bit
 
 Rustic Pine Briwax
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=oDE3JhYC8XA" target="_blank">Stumpy Nubs youtube</a>
+  Rout perfect dados with this fully adjustable jig you can make yourself!
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=kQmm_B0rCOQ" target="_blank">Jeremy Schmidt youtube</a>
+  Perfect dados – NO JIGS & NO MATH!
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=IsdeeQBLm2E" target="_blank">enduringcharm youtube</a>
+  Simple Router Jig For Perfect Dadoes
+<h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=9gnsthXtrtc" target="_blank">WoodWorkWeb youtube</a>
+  Make the Ultimate Router Jig for Dados & Slots
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=BUXxObqZ9DI&t=301s" target="_blank">Nick Ferry youtube</a>
+  Perfect Dados & Grooves - Simple Router Jig (ep68)
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=-5q7l6ztZ6I" target="_blank">RC Creative youtube</a>
+  A Guide for Cutting Dados with a Hand Held Router
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

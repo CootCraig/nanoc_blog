@@ -45,6 +45,21 @@ Make fingers 0.005 - 0.007 inch smaller than kerf.
   Building a simple box joint jig // ILTMS LIVE - 4/13/16
 </h4>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=AiPzFNsuN2k" target="_blank">Steve Ramsey youtube</a>
+  Make this Box Joint Jig in Minutes! | STEP IT UP
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=RC9tdzAUVq8" target="_blank">WOOD magazine youtube</a>
+  Make a Simple Box Joint Jig from Scrap Wood -- WOOD magazine
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=RC9tdzAUVq8" target="_blank">Jay Bates youtube</a>
+  Table Saw Box Joint Jig - 229
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

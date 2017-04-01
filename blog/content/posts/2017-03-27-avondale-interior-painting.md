@@ -49,6 +49,30 @@ tags:
 
 <img src="/assets/images/avondale-interior/DSC_3018.JPG" width="700px">
 
+<h1>Paint colors</h1>
+
+<pre>
+Benjamin Moore Affinity Collection
+
+Living Room
+wall - AF-55 - Sonnet - lrv 70
+ceiling border - af-95 - Hush - lrv 57
+trim - af-5 - Frostline - lrv 86
+ceiling - af-15 - Steam - lrv 84
+
+af-10 - Gardenia - lrv 85
+af-5 - Frostline - lrv 86
+af-95 - Hush - lrv 57
+af-305 - ylang ylang - lrv 80
+af-20 - Mascarpone - lrv 89
+
+oc-17 - white dove
+oc-92 - mannequin cream
+2152-70 - mayonnaise
+1830 - morning light
+919 - buttermilk
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

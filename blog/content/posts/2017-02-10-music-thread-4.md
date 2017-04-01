@@ -205,6 +205,16 @@ Stan Getz & Charlie Byrd - Jazz Samba (Album)
   Universe - Universe 1971 (FULL ALBUM) [Hard | Blues Rock]
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=N3svWrrxBUg" target="_blank">Thebestdream I had youtube</a>
+  The Steve Miller Band - Sailor 1968* (full album)
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=KWow5qb2yUE" target="_blank">Thebestdream I had youtube</a>
+  Stone the Crows - Ode to John Law 1970 (full album)
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

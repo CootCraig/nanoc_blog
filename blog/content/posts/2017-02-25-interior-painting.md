@@ -140,6 +140,24 @@ Aisle 06, Bay 020
 Mold Armor
 32 oz. Mold Remover and Disinfectant Pro-Strength
 
+<h1>Benjamin Moore</h1>
+
+<h3>
+  <a href="https://www.benjaminmoore.com/en-us/color-overview/find-your-color/color-collections" target="_blank">Choose a Collection</a>
+</h3>
+
+<h4>
+  <a href="http://www2.benjaminmoore.com/en-us/for-your-home/personal-color-viewer" target="_blank">benjaminmoore.com - Personal Color Viewer</a>
+<h4>
+
+<h4>
+  <a href="https://www.benjaminmoore.com/en-us/color-overview/find-your-color/color-collections/af/affinity-color-collection" target="_blank">benjaminmoore.com Affinity Color Collection</a>
+</h4>
+
+<h4>
+  <a href="https://www.benjaminmoore.com/en-us/color-overview/find-your-color/color-collections/HC/historical-colors" target="_blank">benjaminmoore.com Historical Colors Collection</a>
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
