@@ -15,6 +15,11 @@ Stumpy Nubs <a href="https://www.youtube.com/user/StumpyNubsWorkshop" target="_b
 <a href="https://www.youtube.com/watch?v=VgWTsISvPAI" target="_blank">youtube</a>
 SNW46- Build your own homemade WoodRat / Router Boss / Leigh Super FMT (part 1 of 2) 
 
+<h4>
+  <a href="https://www.amazon.com/Homemade-Workshop-Build-Woodworking-Machines/dp/1440341664" target="_blank">book $18 at amazon</a>
+  The Homemade Workshop: Build Your Own Woodworking Machines and Jigs
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

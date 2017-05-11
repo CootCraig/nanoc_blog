@@ -211,6 +211,53 @@ You may ship your return via any United States Post Office.
 
 Pueblo Topper Factory is dealer.
 
+<h1>Leer Cap Front Window</h1>
+
+<h1>Tailgate Cap</h1>
+
+<h2>bushwacker tailgate cap</h2>
+
+search:
+bushwacker tailgate cap
+
+search:
+bushwacker tailgate cap 48505
+
+search:
+bushwacker tailgate cap 49505
+
+<h3>
+  <a href="http://www.bushwacker.com/search-results/make-model-year/2002-chevrolet-silverado-1500/type/tailgate_cap" target="_blank">bushwacker.com/search-results</a>
+  Chevrolet / GMC Diamondback Ultimate TailGate Cap - OE Matte Black
+
+
+</h3>
+
+<ul>
+  <li>
+    <a href="http://www.bushwacker.com/tailgate-caps/chevrolet-gmc-smoothback-ultimate-tailgate-cap-oe-matte-black-48505" target="_blank">Part #: 48505</a>
+    Smooth top
+    <a href="http://www.jegs.com/i/Bushwacker-Body-Gear/148/48505/10002/-1" target="_blank">$40 at jegs.com</a> ---
+    <a href="https://www.amazon.com/Bushwacker-48505-Chevrolet-Smoothback-Ultimate/dp/B004HYLXLK" target="_blank">$39 at amazon</a>
+  </li>
+
+  <li>
+    <a href="http://www.bushwacker.com/tailgate-caps/chevrolet-gmc-diamondback-ultimate-tailgate-cap-oe-matte-black-49505" target="_blank">Part #: 49505</a>
+    Diamond pattern top
+    <a href="http://www.jegs.com/i/Bushwacker-Body-Gear/148/49505/10002/-1" target="_blank">$40 at jegs.com</a> ---
+    <a href="https://www.amazon.com/Bushwacker-49505-Chevrolet-Diamondback-Ultimate/dp/B004HYSIU4" target="_blank">$41 at amazon</a>
+  </li>
+</ul>
+
+
+<h2>Wade 72-01161</h2>
+
+<h4>
+  <a href="http://www.jegs.com/i/Wade/922/01161/10002/-1" target="_blank">$20 at jegs.com</a>
+  Wade 01161 - Tailgate Cap 1999-2006 Silverado/Sierra Pickup -
+  $35 at Topper Factory
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

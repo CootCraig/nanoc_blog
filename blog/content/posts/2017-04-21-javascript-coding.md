@@ -1,0 +1,38 @@
+---
+title: "JavaScript Coding"
+created_at: Fri Apr 21 11:42:24 MDT 2017
+kind: article
+tags:
+  - javascript
+---
+
+<h1>Links</h1>
+
+<h3>
+  <a href="https://medium.com/javascript-scene" target="_blank">medium.com/javascript-scene</a>
+<h3>
+
+<h4>
+  <a href="https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75" target="_blank">medium.com/javascript-scene article</a>
+  Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions by Eric Elliott
+</h4>
+
+<h2>
+  <a href="https://www.sitepoint.com/javascript/" target="_blank">sitepoint.com/javascript</a>
+</h2>
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

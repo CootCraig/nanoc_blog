@@ -35,6 +35,28 @@ Bar Gauge (or simply - Checking diagonals)
 
 <img src="/assets/images/bar-gauge-nice-simple.jpg" width="500px">
 
+<pre>
+The “bars” are made of 1/4” thick pine.
+The “fences” are made of 1/8” pine but plywood is ok
+The round edges are cut from curtain rail but a dowel or broomstick will do.
+</pre>
+
+I made the fences so I can hold the bars with one hand and clamp with
+the other hand.
+
+I made the round edges after I got tired to clean the glue squeeze-out
+from the “Schpitz” (German for apex) of the bars.
+
+<h4>
+  <a href="https://www.craftsy.com/blog/2015/01/accurate-woodworking/" target="_blank">craftsy.com/blog</a>
+  How to Use Pinch Rods for More Accurate Woodworking By Rob Porcaro
+</h4>
+
+<h4>
+  <a href="https://blog.lostartpress.com/2013/04/03/make-pinch-rods-with-home-center-materials/" target="_blank">blog.lostartpress.com</a>
+  Make ‘Pinch Rods’ With Home Center Materials by Lost Art Press 
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

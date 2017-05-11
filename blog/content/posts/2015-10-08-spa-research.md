@@ -7,13 +7,25 @@ tags:
   - spa_water_treatment
 ---
 
-# Controls
+<h1>Controls</h1>
 
-Lock / Secured
+<h2>Lock / Secured</h2>
 
 Toggle with [Temp Up] followed by [Soak]
 
 FLd - water filter reminder at 30 days
+
+<h2>Constant Clean Filtration</h2>
+
+<pre>
+run 1,3,6,9,12 hours twice a day.
+
+Press (Temp Down/Filter) button
+Press (Low/High Front Zone) button
+Press (Temp Up) to change run time
+Press (Low/High Front Zone) button to exit
+</pre>
+
 
 # Marquis Spa Model
 

@@ -1,0 +1,31 @@
+---
+title: "Pinebook Admin"
+created_at: Mon May  8 23:25:54 MDT 2017
+kind: article
+tags:
+  - pinebook
+  - linux
+---
+
+Order placed Mon May  8 23:26:32 MDT 2017
+
+<ul>
+  <li>Debian 8 ("jessie") — current stable release</li>
+  <li>The current "testing" distribution is stretch.</li>
+</ul>
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

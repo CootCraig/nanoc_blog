@@ -78,6 +78,13 @@ pH 8.2 -> 7.4
 added 2 oz MA by weight
 </pre>
 
+<pre>
+Sun Apr  9 19:30:19 MDT 2017
+ph 8.3
+add 5 liquid oz MA 
+ph 8.3 -> 7.3
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

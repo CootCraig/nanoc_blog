@@ -93,4 +93,33 @@ that was previously a primitive with a method. In Ember you can do this
 painlessly; in AngularJS you’ll have to update every template where
 that model is used.
 
+<h2>
+  <a href="https://www.sitepoint.com/choosing-between-react-and-angular" target="_blank">sitepoint.com article</a>
+  Choosing between React and Angular: An in-Depth Comparison By Pavels Jelisejevs
+</h2>
 
+<h3>
+  <a href="https://www.mongodb.com/blog/post/the-modern-application-stack-part-5-using-reactjs-es6-and-jsx-to-build-a-ui-the-rise-of-mern" target="_blank">mongodb.com/blog/post</a>
+  The Modern Application Stack - Part 5: Using ReactJS, ES6 & JSX to Build a UI (the rise of MERN)
+</h3>
+
+<ul>
+  <li>MEAN (MongoDB, Express, Angular, Node.js) stack</li>
+  <li>MERN (MongoDB, Express, React, Node.js) Stacks</li>
+</ul>
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

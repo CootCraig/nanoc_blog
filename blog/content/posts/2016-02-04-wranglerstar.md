@@ -26,6 +26,20 @@ Published on Dec 7, 2015
 Wranglerstar - TOP 5 Tools Every Man MUST Have
 Published on Jul 17, 2015
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=69SATc5Oa1s" target="_blank">Wranglerstar youtube</a>
+  TOP 5 Tools Every Man MUST Have (Poor Man)
+</h4>
+
+<pre>
+Trojan saw horse
+c-clamp and big wide jaw vise grip for vice
+piece of rail track for anvil
+bottle jack
+used skil saw
+4 inch electric grinder grinding wheel and wire cup brush
+</pre>
+
 <a href="https://www.youtube.com/watch?v=I9vEHCd14c4" target="_blank">youtube</a>
 Wranglerstar - 10 Skills Every Man Should Have | Wranglerstar
 Published on Nov 20, 2014

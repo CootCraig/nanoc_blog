@@ -7,6 +7,10 @@ tags:
   - avondale_interior_painting
 ---
 
+<h2>
+  <a href="https://www2.benjaminmoore.com/en-us/for-your-home/my-favorites-login" target="_blank">benjaminmoore.com My Favorites</a>
+</h2>
+
 <h2>Sun Room</h2>
 
 <img src="/assets/images/avondale-interior/DSC_2992.JPG" width="700px">

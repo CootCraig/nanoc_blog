@@ -107,6 +107,14 @@ http://www.liming.org/cnc/index.html
 
 #### [www.hobbycnc.com](http://www.hobbycnc.com/) Home page
 
+<h3>
+  <a href="https://plus.google.com/106713645500441123561/posts/WDEoK1thqfZ" target="_blank">$130 cnc mill</a>
+  John Western post to ChiliPeppr
+</h3>
+
+<h4>
+  <a href="https://www.aliexpress.com/store/product/2015-New-GRBL-3-Axis-Pcb-Milling-cnc-Machine-1610-Diy-Wood-Carving-Mini-Engraving-Pvc/1941516_32553569537.html?spm=2114.8147860.0.0.Mk915A" target="_blank">product at aliiexpress</a>
+<h4>
 
 <!--
 html boilerplate

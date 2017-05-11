@@ -181,6 +181,32 @@ DIY Perks - Making the Ultimate DIY Headphone Stand (aka Spectrum Dock!)
 
 <img src="/assets/images/drawer-tray-adjustable-wood.jpg" width="560px">
 
+<h3>
+  <a href="http://lumberjocks.com/projects/311002" target="_blank">Men's Valet Project by Roger at lumberjocks</a>
+</h3>
+
+<img src="/assets/images/mens-valet-roger-1-311002.jpg" width="600px">
+
+<img src="/assets/images/mens-valet-roger-6-311002.jpg" width="600px">
+
+<h1> Key Organizer Project by steliart </h1>
+
+<h4>
+  <a href="http://lumberjocks.com/projects/311634" target="_blank">lumberjocks.com/projects/311634 - Key Organizer Project by steliart</a>
+</h4>
+
+<img src="/assets/images/steliart-311634-keyorganizer-01.jpg" width="600px">
+
+<img src="/assets/images/steliart-311634-keyorganizer-02.jpg" width="600px">
+
+<h4>
+  <a href="https://www.urbanoutfitters.com/shop/draper-media-console-001" target="_blank">urbanoutfitters.com/shop</a>
+  Draper Media Console now $199.00 
+</h4>
+
+<img src="/assets/images/urban-outfitters-draper-media-consolef01.jpg" width="500px">
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

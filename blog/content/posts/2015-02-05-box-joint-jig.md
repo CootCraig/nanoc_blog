@@ -60,6 +60,35 @@ Make fingers 0.005 - 0.007 inch smaller than kerf.
   Table Saw Box Joint Jig - 229
 </h3>
 
+<h4>
+  <a href="https://www.amazon.com/Oshlun-SBJ-0830-8-Inch-Finger-Joint/dp/B0012YIL2W" target="_blank">$63 at amazon</a>
+  Oshlun SBJ-0830 8-Inch Box and Finger Joint Set 
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=AUYrBzaFmj0" target="_blank">Stumpy Nubs youtube</a>
+  The Evolution of the Homemade Box Joint Jig
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=JYxDXHGRRrk" target="_blank">Ed Stiles youtube</a>
+  BOX JOINT JIG
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=NutwD7B6tmE&t=3s" target="_blank">William Ng youtube</a>
+  Make an Accurate Box Joint Jig, Simple and Fast
+</h4>
+
+<h4>
+  <a href="http://www.sawmillcreek.org/showthread.php?250494-Need-help-with-a-box-joint-jig" target="_blank">sawmillcreek.org/showthread</a>
+  Ronald Allison - Need help with a box joint jig
+</h4>
+
+<h3>
+  <a href="http://woodworking.formeremortals.net/2017/03/worlds-simplest-box-joint-jig/" target="_blank">Steve Ramsey - simplist box joint jig</a>
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -6,6 +6,21 @@ tags:
   - harbor_freight
 ---
 
+<h1>Local Harbor Freight</h1>
+
+<pre>
+
+STORE HOURS:
+M-F 8:00AM-7:00PM
+SAT 8:00AM-7:00PM
+SUN 9:00AM-6:00PM
+PUEBLO, CO #00068
+
+1801 S. PUEBLO BLVD.
+PUEBLO,CO 81005
+719-561-8098
+</pre>
+
 <h4>
   <a href="https://www.youtube.com/watch?v=GJQQlOJyCaM" target="_blank">Themechanicman92 youtube</a>
   Harbor Freight Must Haves
@@ -355,11 +370,38 @@ Tank fill adapter:
 </h4>
 
 <pre>
+Husky 1/4 in. Female x 1/4 in. Female x 1/4 in. Male Brass Tee Fitting
+
 1/4 inch npt tee
 1/4 inch male to male
 1/4 inch full port ball valve
 
 </pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Epeul6T0v8k" target="_blank">jwelsh1238 youtube</a>
+  Better Way To Fill Up Your Portable Air Tank
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Dsp16eIA5fI" target="_blank">Wood-N-Metal Workshop youtube</a>
+  Filling a portable air tank
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Qt4LoYO9zpk&t=120s" target="_blank">themrhelperguy youtube</a>
+  New way to fill air tank quick and easy
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=kzMwWZpYQR8" target="_blank">ZippoVarga youtube</a>
+  Portable air tank modification and Quick Tips
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Vf_2AQ1ZQ24" target="_blank">Jonathan Proce youtube</a>
+  Quick fill manifold for air tank
+<h4>
 
 <h2>Buy List</h2>
 
@@ -411,6 +453,7 @@ Maybe not
 
 16/18 gauge 3-in-1 air nailer/stapler central pneumatic - item# 68057 - $89.99
 </pre>
+
 
 <!--
 html boilerplate

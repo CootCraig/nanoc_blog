@@ -144,6 +144,18 @@ Available in 42” (8001126) and 54” (8001127) lengths with PlusNuts and in 54
 <a href="https://www.yakima.com/60-tracks-w-capnut-hardware" target="_blank"></a>
 60” Tracks w/ CapNut Hardware $130.00
 
+<h1>Windshield washer repair</h1>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=D-fllUZT0mc&feature=iv&src_vid=T26qCjIZe3g&annotation_id=annotation_639804565" target="_blank">spelunkerd youtube</a>
+  Window washer tubing repair, 2000 Chev Suburban
+</h4>
+
+This video describes how I removed the window washer reservoir and
+repaired a damaged washer hose in a 2000 Chev Suburban. A second removal
+and breakdown of a frozen rear washer check valve is shown. A general
+review of system design is shown, and a suggested overall approach to
+systematic diagnosis is described.
 
 # Research
 

@@ -121,7 +121,10 @@ frame was stock spruce-pine-fir 1x4 and 1x6 boards.
 * Ethernet
 * microSD card file storage.
 
-
+<h4>
+  <a href="http://www.tridimake.com/2017/05/replacing-linuxcnc-with-smoothie-milling.html" target="_blank">tridimake.com/2017/05</a>
+  Replacing LinuxCNC with a Smoothieboard for CNC milling. Not as easy as for 3D printing! 
+</h4>
 
 <img src="/assets/images/Smoothieboard-3d-printer-setup.jpg" width="600px">
 

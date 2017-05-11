@@ -103,8 +103,81 @@ tags:
 
 * Dimensions 1.35" x 4.43" x 4.70"
 
+<h2>
+  <a href="https://www.asus.com/us/Motherboards/AM1MA/" target="_blank">asus.com/us/Motherboards</a>
+  ASUS AM1M-A Motherboard
+</h2>
+
+ASUS AM1M-A AM1 SATA 6Gb/s USB 3.0 HDMI Micro ATX AMD Motherboard 
+
+<pre>
+CPU Socket Type AM1
+CPU Type Athlon / Sempron
+
+Number of Memory Slots 2×240pin
+Memory Standard DDR3 1866(O.C.)/ 1600/ 1333
+Maximum Memory Supported 32GB
+
+PCI Express 2.0 x16 1 x PCIe 2.0 x16 (x4 mode)
+PCI Express x1 2 x PCIe 2.0 x1
+
+SATA 6Gb/s 2 x SATA 6Gb/s port(s), yellow
+
+Integrated AMD Radeon R Series Graphics in the APU
+Multi-VGA output support: HDMI/DVI/RGB ports
+  Supports HDMI with max. resolution 4096 x 2160 @ 24 Hz / 1920 x 1080 @ 60 Hz*1
+  Supports DVI with max. resolution 1920 x 1200 @ 60 Hz
+  Supports RGB with max. resolution 1920 x 1200 @ 60 Hz
+Maximum shared memory of 2048MB
+
+Audio Chipset Realtek ALC887-VD
+Audio Channels 8 Channels
+
+LAN Chipset Realtek 8111GR
+Max LAN Speed 10/100/1000Mbps
+
+Rear Panel Ports
+PS/2 1 x PS/2 keyboard/mouse port
+Video Ports
+    1 x DVI
+    1 x D-Sub
+HDMI
+    1 x HDMI
+RJ45
+    1 x RJ45
+USB 3.0
+    2 x USB 3.0 (blue)
+USB 1.1/2.0
+    4 x USB 2.0
+Audio Ports
+    3 Ports
+</pre>
+
+<pre>
+$38 - ASUS AM1M-A AM1 motherboard
+$62 - AMD Athlon 5370 APU AM1 AD5370JAHMBOX 
+$100 - SeaSonic Platinum Series SS-400FL2 Active PFC F3 400W ATX12V Fanless
+</pre>
+
+<h4>Review build on newegg</h4>
+
+Other Thoughts: Build: ASUS AM1M-A system board, AMD 5370 2.2Ghz APU,
+Arctic Alpine M1 Passive Cooler, OCZ Trion 150 480GB SSD, Crucial
+Ballistix Sport 8GB DDR3 1600 RAM, Seasonic 400 watt modular fan-less
+power supply, LIAN LI HTPC Case. The whole system is completely fan-less.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
