@@ -76,6 +76,11 @@ hummingbirds. Plus, the edible beans will amp up your veggie options.
 
 <h4>And more</h4>
 
+<h3>
+  <a href="http://www.finegardening.com/clean-sharp-tools-work-better" target="_blank">finegardening.com article</a>
+  Clean, Sharp Tools Work Better by Ken Textor
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

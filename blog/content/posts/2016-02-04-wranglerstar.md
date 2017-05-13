@@ -92,6 +92,11 @@ Wood Mizer Sawmill - How To Talk Your Wife Into Buying A Wood Mizer
   BEST Tool Organizer Ever!!
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=ZerKaWItedg" target="_blank">Wranglerstar youtube</a>
+  This Is No Craft Store Nonsense - edgemate veneer
+<h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

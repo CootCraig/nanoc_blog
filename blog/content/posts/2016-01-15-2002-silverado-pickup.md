@@ -258,6 +258,14 @@ bushwacker tailgate cap 49505
   $35 at Topper Factory
 </h4>
 
+<h1>Leer Model 122 cap</h1>
+
+This cap is on my 2002 Silverado 1500.
+
+<h4>
+  <a href="http://www.leer.com/122" target="_blank">Leer 122 cap product page</a>
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

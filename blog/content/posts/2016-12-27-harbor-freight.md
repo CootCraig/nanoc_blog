@@ -446,6 +446,10 @@ Gravity Feed Spray Gun Stand item# 34958 - $12.99
 
 Air Spray Gun Disposable Paint Cups 5 Pk - Central Pneumatic - item# 97098 
 
+1/4 in. Air Angle Die Grinder 
+
+8 in. Bench Grinder 
+
 Pick a regulator
 Pick an air filter
 
