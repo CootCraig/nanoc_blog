@@ -55,6 +55,29 @@ varying thicknesses of material to be fastened.
 
 #### <a href="https://www.confast.com/products/concrete-strike-anchor.aspx" target="_blank">Strike Anchor Parts</a>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=RoXK7v9USeg" target="_blank">Essential Craftsman youtube</a>
+  How to Fasten to Concrete
+</h3>
+
+Ever wonder how buildings are attached to concrete foundations? There
+are lots of ways, most of them work off similar principles. Don't be
+afraid to go overkill with anchoring things to a foundation. You do NOT
+want to have a problem with this connection down the road.
+
+<pre>
+j bolt
+Simpson fast tie
+stab bolt - into stem wall
+</pre>
+
+<h4>rotor hammer</h4>
+
+<pre>
+likes Bosch bulldog
+SDS shank
+5 min. - shows fasteners
+</pre>
 
 <!--
 html boilerplate

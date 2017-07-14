@@ -16,6 +16,21 @@ tags:
   Advanced Drilling Skill Builder.
 </h4>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=e5i0r0-dd7I" target="_blank">AvE youtube</a>
+  BOLTR: Mitutoyo Dial Indicator
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=OsPluf2TZrQ" target="_blank">AvE youtube</a>
+  Manly-Man Skills: Sharpen and Balance Blades in 2 minutes
+</h3>
+
+</h3>
+  <a href="https://www.youtube.com/watch?v=b5ALSniPmv0" target="_blank">AvE youtube</a>
+  Manly-Man Skills: Making Sure your Pressure Washer is Ready for Lending
+<h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

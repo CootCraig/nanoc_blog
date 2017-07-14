@@ -206,6 +206,37 @@ DIY Perks - Making the Ultimate DIY Headphone Stand (aka Spectrum Dock!)
 
 <img src="/assets/images/urban-outfitters-draper-media-consolef01.jpg" width="500px">
 
+<h2>
+  Gerstner Tote Chest
+</h2>
+
+<img src="/assets/images/gerstner-tote-chest-1.jpg" width="660px">
+
+<img src="/assets/images/gerstner-tote-chest-2.jpg" width="660px">
+
+<img src="/assets/images/gerstner-tote-chest-3.jpg" width="660px">
+
+<h3>From Garrett Wade advert.</h3>
+
+We are big fans of Gerstner products here at Garrett Wade—they’ve
+been making high quality wooden tool chests since Harry Gerstner founded
+the company in 1906, and for the last 50 years have really stood alone
+in their field. We have carried a variety of their products for a while
+now—they are great to look at, extremely well-made, and won’t break
+the bank. This is a handsome and traditionally-styled small ‘tote’
+case with a top handle for easy transport. Gerstner’s Steel protectors
+on all 8 corners (plus raised feet on the bottom corners) add to the
+longevity of the box and enhance its visual appeal. The hinged lid (with
+steel latch) sits open at a comfortable angle for unobstructed viewing
+and access. A shallow sliding tray keeps your smaller items separate,
+and a black felt lining on the interior bottom, inside lid, and tray
+adds protection and keeps the rattling to a minimum.
+
+This is a great starter tool case, or simply one for your smaller or
+more prized tools. Whatever you use it for, it will really last and be
+something to pass on. Made right here in the USA from lightweight and
+exceptionally strong Oak. These are very handsome and useful, and are
+available at this price for a limited time only. Get them while they last.
 
 <!--
 html boilerplate

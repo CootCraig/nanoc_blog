@@ -13,6 +13,11 @@ tags:
   WOODWORKING: World's Best Way to Make Curved Parts
 </h4>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=6eWjPWS98SI" target="_blank">Steve Maxwell youtube</a>
+  Steve Maxwell's F-150 Pickup Truck Story
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

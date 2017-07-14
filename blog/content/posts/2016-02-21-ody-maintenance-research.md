@@ -187,14 +187,32 @@ ebay search: 2004 Honda Odyssey timing belt water pump kit
 ## preferred oil filter
 
 <ul>
+  <li>K&N HP-1004 Oil Filter - with 1 inch nut</li>
   <li>WIX 57356xp filter</li>
   <li>WIX 58129 Filter</li>
+  <li>Mobil 1 M1-104 Extended Performance Oil Filter</li>
+  <li>Fram XG7317 full synthetic
 </ul>
 
 <h4>
   <a href="https://www.amazon.com/WIX-Filters-57356XP-Spin-Filter/dp/B00C5SZN9S" target="_blank">at amazon</a>
   WIX Filters - 57356XP Xp Spin-On Lube Filte
 </h4>
+
+<h3>
+  <a href="https://www.knfilters.com/search/product.aspx?Prod=HP-1004" target="_blank">knfilters.com</a>
+  K&N HP-1004 Oil Filter
+</h3>
+
+<h4>
+  <a href="https://www.amazon.com/HP-1004-Performance-Wrench-Off-Oil-Filter/dp/B000C3YTM0" target="_blank">amazon.com - $9.98</a>
+  K&N HP-1004 Performance Wrench-Off Oil Filter
+</h4>
+
+<h3>
+  <a href="https://www.amazon.com/Mobil-M1-104-Extended-Performance-Filter/dp/B004D5Q296" target="_blank">$12 at amazon prime</a>
+  Mobil 1 M1-104 Extended Performance Oil Filter 
+</h3>
 
 ## fumoto drain plug
 

@@ -1,5 +1,5 @@
 ---
-title: "Gas Mower Mainenance"
+title: "Gas Mower Maintenance"
 created_at: Fri May 12 11:34:42 MDT 2017
 kind: article
 tags:
@@ -64,6 +64,11 @@ Uses pro magnetic mount blade balancer.
 
 pneumatic angle grinder with sanding disk.
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=OsPluf2TZrQ" target="_blank">AvE youtube</a>
+  Manly-Man Skills: Sharpen and Balance Blades in 2 minutes
+</h3>
+
 <h1>Research</h1>
 
 <h4>
@@ -71,6 +76,10 @@ pneumatic angle grinder with sanding disk.
   Arnold Blade Balancer and Sharpener Kit - drill stone and balance cone
 </h4>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=Cpr9b0Qyfds" target="_blank">Foxboss9 youtube</a>
+  Fix 90% of Briggs lawn mower not starting problems. Easy repair.
+</h3>
 
 <!--
 html boilerplate

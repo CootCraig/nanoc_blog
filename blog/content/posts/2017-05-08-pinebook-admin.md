@@ -7,13 +7,39 @@ tags:
   - linux
 ---
 
+<h1>
+  <a href="https://www.pine64.org/" target="_blank">pine64.org</a>
+</h1>
+
+<h2>
+  <a href="https://forum.pine64.org/index.php" target="_blank">Pine64 Forum</a>
+</h2>
+
 <h1>Current Plans</h1>
 
 Install Debian system image pine64-image-debianxfce...
 
+<pre>
+http://cdn.pine64.uk/Pinebook/
+http://cdn.pine64.uk/Debian/
+</pre>
+
 <h1>Order Placed</h1>
 
 Order placed Mon May  8 23:26:32 MDT 2017
+
+<h2>Delivery Notice</h2>
+
+<pre>
+General Customer Service
+1-800-225-5345
+
+DHL Express
+1576682391
+https://delivery.dhl.com/US/90cL9b
+
+scheduled delivery for July 14, 2017
+</pre>
 
 <ul>
   <li>Debian 8 ("jessie") — current stable release</li>
@@ -195,6 +221,17 @@ Uses Thunar. I like that.
   <a href="http://dontsurfinthenude.blogspot.com/2013/08/sync-orage-and-google-calendar.html" target="_blank">dontsurfinthenude.blogspot.com/2013/08</a>
   automate sync from google calendar to orage
 </h4>
+
+<h3>
+  Ordered 64gB emmc
+</h3>
+
+<pre>
+Mon May 22 09:40:33 MDT 2017
+Receipt number: 41V21465XP997811P
+</pre>
+
+Note: Pinebook ordered on 20th April 2017 onward will fall into mid of June 2017 shipment from Hong Kong. 
 
 <!--
 html boilerplate

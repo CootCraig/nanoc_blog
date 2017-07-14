@@ -139,6 +139,26 @@ and tooling to make our yurts consistently the best avaialble.
   <a href="http://www.yurts.com/why-pacific-yurts/" target="_blank">Why Pacific Yurts</a>
 </h4>
 
+<h1>Straw Bale Building</h1>
+
+<h2>Bob Swearingen lecture</h2>
+
+<pre>
+Event Type: 1-Lecture/Presentation
+Age Group(s): Adult
+Date: 6/29/2017
+Start Time: 6:00 PM
+End Time: 8:00 PM
+Description:
+"Build a Better World". Join Bob Swearingen and learn about how he built
+his very own straw-bale house in Pueblo West. Experience his journey in
+accomplishing this amazing feat!
+Location: Rawlings Ryals Special Events Room (4th FL)
+Contact: Reference and Readers Advisory
+Contact Number: 719-562-5601
+Presenter: Bob Swearingen
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -97,6 +97,15 @@ Wood Mizer Sawmill - How To Talk Your Wife Into Buying A Wood Mizer
   This Is No Craft Store Nonsense - edgemate veneer
 <h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=CeF3gd70V0o" target="_blank">Wranglerstar youtube</a>
+  How To Care For Your Ax & Other Wood Handle Tools
+</h3>
+
+<pre>
+3m 45s sandpaper 180, 200 grit
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

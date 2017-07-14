@@ -31,20 +31,18 @@ tags:
   <li><a href="http://www.gmtruckclub.com/forum/" target="_blank">GM Truck Club</a></li>
 </ul>
 
-# Oil Filter
+<h1>Oil Filter</h1>
+
+<h3>Preferred Oil Filters</h3>
 
 <ul>
-  <li>ACDELCO PF46</li>
-  <li>ACDELCO PF61</li>
-  <li>Bosch 3334</li>
-  <li>K&N HP-2006</li>
-  <li>K&N PS-2006</li>
-  <li>Royal Purple 20-59</li>
-  <li>Wix 51042XP</li>
-  <li>Wix 51042</li>
-  <li>Wix 51522XP</li>
-  <li>Wix 51522</li>
-  <li>Fram Extra Guard PH3506</li>
+  <li>K&N HP-2006 w/ 1 inch nut</li>
+  <li>wix 51042XP</li>
+  <li>wix 51042</li>
+  <li>Mobile 1 M1-206</li>
+  <li>Mobile 1 M1-206A</li>
+  <li>Fram xg3675</li>
+  <li>Fram xg3506</li>
 </ul>
 
 ### Wix Oil Filters
@@ -87,6 +85,7 @@ Vinyl drain hose for FN, FS and FSW series valves with 3/8" nipple
 
 
 ## oil filters
+
 
 <ul>
 <li><h4>
@@ -332,6 +331,12 @@ my pick - Wix 42488 Air Filter
   <li>Washable & Reusable</li>
   <li>This K&N Silverado 1500 air filter lasts the lifetime of your vehicle.</li>
 </ul>
+
+<h1>Remanufactured 4l60e transmission</h1>
+
+<h2>
+  <a href="http://www.streetsmarttransmission.com/" target="_blank">streetsmarttransmission.com</a>
+</h2>
 
 <!--
 html boilerplate

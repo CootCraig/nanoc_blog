@@ -67,6 +67,23 @@ Making small box-joined boxes
   DeWalt DW735 planer vs. a cheap one (review)
 </h4>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=Ac7dAVWD_q4" target="_blank">Matthias Wandel youtube</a>
+  My old table saw
+</h3>
+
+Study this. My old saw is similar.
+
+<h4>
+  <a href="http://woodgears.ca/table_saw/" target="_blank">Article on table in video</a>
+  Table saw tuning and repair on a budget
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=eYPVZuaNIlk" target="_blank">Matthias Wandel youtube</a>
+  Tall bookcase for the basement
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

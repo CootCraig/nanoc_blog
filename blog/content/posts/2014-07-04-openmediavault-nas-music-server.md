@@ -2,10 +2,16 @@
 title: "OpenMediaVault NAS"
 created_at: Fri Jul  4 18:49:02 MDT 2014
 kind: article
-tags: [ 'nas','rune_audio','mpd']
+tags: 
+  - openmediavault
+  - nas
+  - rune_audio
+  - mpd
 ---
 
-# [OpenMediaVault](http://www.openmediavault.org/)
+<h1>
+  <a href="http://www.openmediavault.org/" target="_blank">OpenMediaVault online</a>
+</h1>
 
 OpenMediaVault is the next generation network attached storage
 (NAS) solution based on Debian Linux. It contains services like SSH,
@@ -165,3 +171,18 @@ Server side
   write list = "manager"
 </code></pre>
 
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

@@ -409,6 +409,10 @@ sudo umount /media/craig/mtp
  tag LIST "" "*"
 </pre>
 
+<h2>
+  <a href="https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/" target="_blank">cyberciti.biz/faq</a>
+  How to use sed to find and replace text in files in Linux / Unix shell
+</h2>
 
 <!--
 html boilerplate
@@ -422,4 +426,6 @@ html boilerplate
 </pre>
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

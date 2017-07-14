@@ -18,6 +18,32 @@ Bike-E Corp
 
 Store in Colorado Springs
 
+<h3>
+  <a href="http://trikegroups.com/" target="_blank">trikegroups.com</a>
+</h3>
+
+
+To all trike and recumbent enthusiasts,
+     
+Would you like to find other riders and discover more trails?  There is a way to meet other riders and get organized through a website called trikegroups.com.  My name is MaryAnn, and I learned of this website from Angletech and would like to invite you to the first of many trike group rides in Colorado Springs.  This is an informal group ride, meaning we ride for fun, it's free, and every rider supplies their own trike, helmet,  and whatever else they need.  The ride is on June  3rd at 8:30 am.  We will meet at Angletech.  The ride is about 16 miles to America the Beautiful Park and back to Angletech along the Sinton and Santa Fe trails. What you need to do is just show up.  This event will be posted on the website. To find out more go to trikegroups.com.
+     
+<pre>
+1)  go to trikegroups.com
+2)  do steps for Register/Login
+3)  click confirmation email
+4)  find our group: click BROWSE GROUPS or GROUP MAP and search by state (our group is called "FRONT RANGE TRIKES AND RECUMBENTS")
+5) click on VIEW GROUP
+6) click on JOIN GROUP  (green rectangle on right hand side)
+7) wait for a confirmation ( I have to do that)
+</pre>
+     
+If you browse through the website, you will discover that there are riders and groups all over the US.  You can meet other riders from the rides or through your profile.  Any member can post an event.  Hopefully, many of you will post events for others to join you. 
+     
+Hope to see you on June 3rd
+ 
+MaryAnn
+
+
 <h1>
   <a href="http://www.bicycleman.com/nav/recumbents-by-brand.htm" target="_blank">bicycleman.com online store</a>
   Recumbent Bikes by Brand

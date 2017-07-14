@@ -4,6 +4,8 @@ created_at: Thu Jan  5 12:06:29 MST 2017
 kind: article
 tags:
   - install_kitchen_sink
+  - p-trap
+  - sink_drain
 ---
 
 <h4>
@@ -46,6 +48,56 @@ applications
   <a href="https://www.youtube.com/watch?v=OvUuoY4veRA" target="_blank">This Old House youtube</a>
   How to Replace a Kitchen Sink and Faucet
 </h4>
+
+<h1>Sink Drain and P-Trap</h1>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=8E8wvG2wiuw" target="_blank">FIX IT Home Improvement Channel youtube</a>
+  How to Install a Kitchen Sink Basket Strainer
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=K3tB34H-Q84" target="_blank">Ask the Builder youtube</a>
+  Kitchen Sink Strainer
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=xra7T5x4swc" target="_blank">FIX IT Home Improvement Channel youtube</a>
+  Replace Kitchen Sink Drain - Sink Strainer
+</h3>
+
+Good explanation of using plumber's putty. Basket wrench.
+
+search: sink drain wrench
+search: strainer nut wrench
+
+<pre>
+Lowes
+BrassCraft 1-3/4-in 2-in and 2-1/2-in Hex Combo Wrench
+Item # 605121 Model # T424
+$9.98
+aisle 30 bay 1
+</pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=74RYhypMvtw" target="_blank">BobsPlumbingVideos youtube</a>
+  Sink Drain Doesn't Line Up?
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=OxC67sd5zmw" target="_blank">Home Mender Inc youtube</a>
+  How to install a bath sink, vanity and faucet. Easy! Home Mender.
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=AmVvzrNFbYs" target="_blank">steven lavimoniere youtube</a>
+  new bathroom vanity sink and pvc drain:plumbing tips
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=D3uZYBEnuuA" target="_blank">BathroomVanitiesHelp youtube</a>
+  How to Install Bathroom Faucet Plumbing with Randy from R Squared Renovations
+</h3>
 
 <!--
 html boilerplate

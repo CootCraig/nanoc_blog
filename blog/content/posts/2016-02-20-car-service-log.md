@@ -46,52 +46,80 @@ tags:
 
 date, mileage, cost, category, Service Parts Notes, Other Notes
 
-# Odyssey
+<h1>Odyssey</h1>
 
 <pre>
 Honda 7500 mile or 1 year oil change interval
-Craig 4000 mile or 6 month oil change interval
+Craig 5000 mile or 6 month oil change interval
 
 2016-02-25, 102113mi, $35.07, Oil and Filter Change, Wix 57356XP oil filter $10.60, Mobil 1 5w20 5qt $25.47, Other Notes
 2016-06-13, 104525, 0, misc. service, oil topped off, Other Notes
+
+
+, , $35.07, Oil and Filter Change, Wix 57356XP oil filter $10.60, Mobil 1 5w20 5qt $22.88, Other Notes
+2017-07-12, 115,413 mi, 12.73+22.88 = $35.61, oil and filter change, K&N HP-1004 $12.73 - 5qt Mobil 1 5W20 $22.88, 4.6qt oil - 17mm plug socket
+
 </pre>
 
-### Next service items
+<h3>Next service items</h3>
 
 <pre>
-New tires fall of 2016
-change oil at 106113 = 102113 + 4000 or Sept. 2017 (2016-08-25)
+tire rotation at 106000 + 6000 = 112000
+change oil at 115413+4000 = 119413 or January 15, 2018
+</pre>
+
+<h3>Stock Items</h3>
+
+<pre>
+Fram XG7317 oil filter for full synthetic
 </pre>
 
 # Silverado
 
 <pre>
 Chevrolet oil change by on board computer or 3000 mi.
-Craig 4000 mile or 6 month oil change interval
+Craig 5000 mile or 6 month oil change interval
+Tire rotation every 6,000 miles
 tire rotation - 5000 mi
 2016-01-14, 171162 mi, , Oil Change
 2016-01-14, 171156, 0, Tire Rotation, Discount Tire,
 2016-06-10, 176929 mi, $32, Oil Change, $28 for 6 qt oil $4.05 for oil filter, Mobil 1 oil; fram ph3506 oil filter
 2016-06-16, 177060, 0, tire rotation, Discount Tire, Other Notes
 2016-09-28, 179932 mi, $32, Oil Change, $35 for 6 qt oil $4.00 for oil filter, Mobil 1 oil; ACDELCO PF46 oil filter
-
-
+2017-06-16, ???, 0, tire rotation, Discount Tire, 5 tire rotation
+2017-06-16, 187920 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
+2017-06-20, 188202 mi, cost, oil and filter change, Fram XG3506 - Mobil 1 oil 6 qt, Other Notes
 </pre>
 
-### Next service items
+<h3>Next service items</h3>
 
 <pre>
-tire rotation 181156 mi = 176156 + 5000 (Trip to MN for Mom passing and Hegvik reunion delayed)
-change oil 182932 --- 179932 + 3000 = 182932
+Wed Jul 12 21:12:46 MDT 2017 - 193413 miles
+tire rotation 187920 + 6000 = 193920 miles
+change oil 188202 + 5000 => 193202 or December 20, 2017
 </pre>
 
 # supplies
 
 <pre>
-Prestone anti-freeze concentrate $10.87
-1 gal. distilled water $0.89
-Fram Extra Guard oil filter ph3506 $3.77
-2016-06-10 Mobil 1 oil 10 gal. 22.88 * 2
+June 12, 2017 - Wix 51042xp oil filter
+June 12, 2017 Mobil 1 oil 10 qt - 22.88 * 2
+</pre>
+
+<h1>Tools</h1>
+
+
+<h3>
+  <a href="https://www.harborfreight.com/16-pc-12-in-drive-sae-high-visibility-socket-set-67990.html" target="_blank">harborfreight.com/</a>
+  16 Pc 1/2 in. Drive SAE High Visibility Socket Set - Pittsburgh Professional - item# 67990 - $27
+</h3>
+
+<pre>
+7/16 in., 1/2 in., 9/16 in., 5/8 in., 11/16 in., 3/4 in., 13/16 in., 
+7/8 in., 15/16 in., 1 in., 1-1/16 in., 1-1/8 in., 1-1/4 in.; 
+4 in. extension; 14 in. breaker bar
+
+Accessories Included 	ratchet, breaker bar, extension, case
 </pre>
 
 <!--
