@@ -233,6 +233,11 @@ Receipt number: 41V21465XP997811P
 
 Note: Pinebook ordered on 20th April 2017 onward will fall into mid of June 2017 shipment from Hong Kong. 
 
+<h2>
+  <a href="http://files.pine64.org/doc/pinebook/guide/Pinebook_14-eMMC_Removal_Guide.pdf" target="_blank">files.pine64.org/doc/pinebook</a>
+  Removing eMMC from the 14” Pinebook
+</h2>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

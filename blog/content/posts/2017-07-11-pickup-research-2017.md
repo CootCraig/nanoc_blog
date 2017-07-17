@@ -6,15 +6,23 @@ tags:
   - pickup_search
 ---
 
-See autotrader.com
-
-<h2>Desired Features</h2>
+<h1>General Truck Parameters</h1>
 
 <ul>
+  <li>8th or 9th generation Ford 4.9L I6 (1987-1996)</li>
+  <li>Fourth Generation K1500 Chev. small block V8 (GMT400 1988-1998)</li>
   <li>Tow Scamp</li>
-  <li>Diesel Perhaps</li>
-  <li>3/4 ton perhaps</li>
+  <li>Extended cab</li>
+  <li>4x4</li>
+  <li>Will want a cab high bed cap</li>
 </ul>
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/Ward's_10_Best_Engines#20th_Century" target="_blank">wikipedia.org/wiki</a>
+  Ward's 10 Best Engines is an annual list of the ten "best" automobile engines
+</h4>
+
+See autotrader.com
 
 <h1>Dodge Pickups</h1>
 
@@ -58,7 +66,101 @@ offered behind the High Output diesel in 2001 and 2002.
 
 <h1>Ford Pickups</h1>
 
-Ford F250 4x4 supercab heavy duty 7.3L powerstroke diesel
+<h2>Forums</h2>
+
+<h3>
+  <a href="https://www.ford-trucks.com/forums/index.php" target="_blank">Ford Truck Enthusiasts forum</a>
+</h3>
+
+<h3>
+  <a href="http://www.fordfullsize.com/" target="_blank">Ford Fullsize - ford truck forum</a>
+</h3>
+
+Ford F250 4x4 supercab heavy duty 7.3L powerstroke diesel. Nope, don't think so.
+
+<h2>
+  <a href="https://en.wikipedia.org/wiki/Ford_F-Series#Eighth_generation_.281987.E2.80.931991.29" target="_blank">wikipedia.org/wiki</a>
+  Eighth generation (1987–1991)
+</h2>
+
+the 4.9L I6, 5.0L V8, and 5.8L V8 were the only options for the F-150 series trucks.
+
+<h3>
+  <a href="https://en.wikipedia.org/wiki/Ford_straight-six_engine#300" target="_blank">wikipedia.org/wiki/</a>
+  300 cu in (4.9 L) six
+</h3>
+
+Engine sizes were converted to metric for 1983, causing the 300 to become
+the "4.9". Fuel injection and other changes in 1987 pushed output up to
+150 horsepower with 8.8:1 compression. This engine was gradually phased
+out, ending production in 1996, and was replaced by the Essex V6 in the
+F-series trucks with their 1997 redesign. However, it was renowned for
+its durability, low end torque, and ease of service. The 300 4.9 came
+with the Ford C6, E4OD, AOD, ZF S5-42 and S5-47 transmissions, as well
+as the Mazda built M5OD 5-speed manual transmission, and the Borg-Warner
+T18, Tremec RTS, and New Process NP435 4-speed manual transmissions. The
+4.9-liter 6-cylinder was built in the Cleveland, Ohio engine plant. Race
+car driver Scott Donohue Raced a rally truck with a ford 4.9 in it and
+won the baja 1000 3 times
+
+<h4>Inline 6</h4>
+
+<pre>
+300 Six 	1987-1989 	300 cu in (4,916 cc) I6 	145 hp (108 kW) 	265 lb·ft (359 N·m) 	EFI
+</pre>
+
+<h3>
+  <a href="http://www.f150hub.com/specs/ford-300.html" target="_blank">f150hub.com/specs</a>
+  Ford 300 cid (4.9L) I-6 - 300 cid, 4.9L Straight 6 Engine Specs
+</h3>
+
+Ford's 300 cid "Big Six" was introduced to the F-Series platform for the
+1965 model year. Its architecture is based on the smaller 240 cid I-6,
+with the 300's cylinder stroke being longer while sharing the identical
+cylinder bore. The 300 and later 4.9L straight 6 (Ford converted to a
+metric measurement convention in 1983) earned an incredible reputation
+for its strength, reliability, and low end torque during the course of
+its 31 years of service. The rugged, venerable 300 straight 6 featured
+unmatched longevity, and its relatively broad torque curve provided
+flexibility in a range of driving conditions. The engine was not limited
+to F-Series pickup applications; it can be found in a variety of vehicles
+and equipment, including agricultural/construction machinery, tractors,
+medium duty dump/utility trucks, generators, and delivery trucks. It
+was retired following the 1996 model year, ultimately being replaced by
+Ford's smaller 4.2L V-6.
+
+<h2>
+  <a href="https://en.wikipedia.org/wiki/Ford_F-Series#Ninth_generation_.281992.E2.80.931997.29" target="_blank">wikipedia.org/wiki</a>
+  Ninth generation (1992–1996)
+</h2>
+
+<h3>
+  <a href="https://en.wikipedia.org/wiki/Ford_F-Series_%28ninth_generation%29" target="_blank">wikipedia.org/wiki</a>
+  Ford F-Series (ninth generation) - main article - 1992 to 1996
+</h3>
+
+F-150: 1/2 ton (6,250 lb GVWR max)
+
+The ninth generation Ford F-Series is a line of full-size and medium-duty
+commercial trucks that were produced by Ford from 1991 to 1996. While
+still based on the basic design dating from late 1979 (for the 1980
+model year), the 1992 F-Series brought a number of minor changes to the
+exterior and interior (where most enthusiasts consider this a facelift
+for the same existing truck that first appeared in 1979 as a 1980 model
+instead of a redesign). This is the last generation of the F-Series that
+was produced as a complete range of trucks from a half-ton pickup (F-150)
+to a medium-duty Class 6 truck (F-250 and above). As this generation
+was replaced during the 1997–1998 model years, the larger models of
+the F-Series (F-250 and above) were split from the F-150; these became
+the Ford Super Duty trucks, related to the latter with a few powertrain
+components.
+
+<h5>Inline 6</h5>
+
+<pre>
+4.9 L I6 	1992–93 	145 hp (108 kW) 	265 lb·ft (359 N·m) 	
+4.9 L I6 	1994–97 	150 hp (110 kW) 	260 lb·ft (350 N·m) 	
+</pre>
 
 <h2>
   <a href="http://www.powerstroke.org/forum/" target="_blank">Ford Powerstroke Diesel Forum</a>
@@ -66,6 +168,13 @@ Ford F250 4x4 supercab heavy duty 7.3L powerstroke diesel
 
 <h3>
   <a href="http://www.powerstroke.org/forum/ford-powerstroke-94-98-7-3l-forums/" target="_blank">Ford Powerstroke 94-98 7.3L Forums</a>
+</h3>
+
+<h2>Rebuilt Transmissions</h2>
+
+<h3>
+  <a href="http://www.streetsmarttransmission.com/remanufactured-4r100-transmissions/" target="_blank">streetsmarttransmission.com/remanufactured</a>
+  Remanufactured 4R100 / E4OD Transmissions
 </h3>
 
 <h1>Chev. GMC Pickups</h1>

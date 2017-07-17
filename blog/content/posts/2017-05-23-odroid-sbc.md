@@ -17,6 +17,16 @@ tags:
 </h1>
 
 <h2>
+  <a href="http://ameridroid.com/products/odroid-vu8-hdmi-display-with-multitouch" target="_blank">ameridroid.com/products</a>
+  ODROID-VU8 - 8 inch Tablet Case - HDMI Display with Multitouch (1024x768) - $86.95 
+</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=0eSQ7iG_PlY" target="_blank">ETA PRIME youtube</a>
+  Odroid C2 VU8c Touch Screen Assembly And Android Test
+</h3>
+
+<h2>
   <a href="http://www.hardkernel.com/main/products/prdt_info.php?g_code=G147589529288" target="_blank">hardkernel.com product</a>
   HiFi Shield 2 - $39
 </h2>
@@ -28,6 +38,11 @@ tags:
 <h1>
   <a href="http://ameridroid.com/products/odroid-c2" target="_blank">Odroid-C2 at ameridroid</a>
 </h1>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=IJucQCbH3-4" target="_blank">ameriDroid youtube</a>
+  ODROID-C2 Getting Started
+</h3>
 
 <h1>
   <a href="http://kodi.wiki/view/ODROID" target="_blank">Kodi Wiki on Odroid</a>

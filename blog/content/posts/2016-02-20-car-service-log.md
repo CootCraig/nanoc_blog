@@ -89,21 +89,22 @@ tire rotation - 5000 mi
 2017-06-16, ???, 0, tire rotation, Discount Tire, 5 tire rotation
 2017-06-16, 187920 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
 2017-06-20, 188202 mi, cost, oil and filter change, Fram XG3506 - Mobil 1 oil 6 qt, Other Notes
+2017-07-15, 193462, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
 </pre>
 
 <h3>Next service items</h3>
 
 <pre>
-Wed Jul 12 21:12:46 MDT 2017 - 193413 miles
+Sat Jul 15 10:32:51 MDT 2017 - 193462 miles
 tire rotation 187920 + 6000 = 193920 miles
-change oil 188202 + 5000 => 193202 or December 20, 2017
+change oil 193462 + 5000 = 198462 or January 15, 2018
 </pre>
 
 # supplies
 
 <pre>
 June 12, 2017 - Wix 51042xp oil filter
-June 12, 2017 Mobil 1 oil 10 qt - 22.88 * 2
+June 12, 2017 Mobil 1 oil 25 qt - 22.88/5qt
 </pre>
 
 <h1>Tools</h1>
