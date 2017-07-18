@@ -157,6 +157,33 @@ their saturated fat intake. A statins may be required.
   Wheat Belly / Cureality Suggested Labs by Bob Niland
 </h2>
 
+<h1>Health Blogs Seen</h1>
+
+<h2>
+  <a href="http://www.drsears.com/" target="_blank">Dr. Barry Sears</a>
+</h2>
+
+<h2>
+  <a href="https://thegutinstitute.com/" target="_blank">thegutinstitute.com - Grace Liu</a>
+</h2>
+
+<h2>
+  <a href="https://freetheanimal.com/" target="_blank">Richard Nikoley - Free the Animal</a>
+</h2>
+
+<h2>
+  <a href="http://drbganimalpharm.blogspot.com/" target="_blank">drbganimalpharm.blogspot.com</a>
+</h2>
+
+<h2>
+  <a href="http://www.marksdailyapple.com/" target="_blank">Mark Sisson - Mark's Daily Apple</a>
+</h2>
+
+<h2>
+  <a href="https://blog.bulletproof.com/" target="_blank">Dave Asprey - Bulletproof</a>
+  Dave Asprey, founder of Bulletproof
+</h2>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

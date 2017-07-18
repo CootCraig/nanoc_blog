@@ -38,6 +38,29 @@ tags:
   General Ideas and Strategies
 </h3>
 
+<h2>
+  <a href="http://www.heartlifetalk.com/forums/default.aspx?g=posts&t=52853#post128454" target="_blank">SPECIAL TOPICS  »  Anti-Oxidants + Anti-Inflammatory + Anti-Aging</a>
+  Resveratrol. Yes, it DOES! - post by slimjohn
+</h2>
+
+I take the following:
+
+2x/day: Healthy Origins Natural Active Trans Resveratrol w/wine extract
+polyphenols (bioavailability enhancers), 300mg.
+
+2x/day: Source Naturals Bioperine (bioavailability enhancer), 10mg
+[I use 10:1 resveratrol:bioperine ratio]
+
+[This is a high dosage for intensive targeting foam cell-plaque
+formation & inhibition of lymphoma cells.  Resveratrol benefits are
+dose-dependent but, for most people, 100mg standardized resveratrol may
+provide impressive results.]
+
+Optimized Resveratrol (LEF) may be best for most people. However, some
+of its absorption-bioavailability enhancers (high content of quercetin,
+less of fisetin) inhibit COMT gene function(I have SNPs indicating
+reduction function).
+
 <h1>Members</h1>
 
 <ul>
