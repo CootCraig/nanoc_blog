@@ -61,6 +61,23 @@ of its absorption-bioavailability enhancers (high content of quercetin,
 less of fisetin) inhibit COMT gene function(I have SNPs indicating
 reduction function).
 
+<h2>
+  <a href="http://www.heartlifetalk.com/forums/default.aspx?g=posts&t=54913#post133673" target="_blank">GENERAL TOPICS  »  Strategies: Prevention, Mitigation of CVD</a>
+  slimjohn - The "Restoring Endothelial Function" Series
+</h2>
+
+It has been awhile since I reviewed these threads on restoring endothelial
+function.
+
+Seems some links were bad so I fixed them. You should now be able to go
+from one thread to the next (links provided). In Part 4 I am reminded
+that I completely forgot to complete Part 5 so that has been moved to
+the top of the list of things to do. :-)  I hope to compile all into a
+pdf booklet.
+
+If you have endothelial dysfunction you have atherosclerosis!  You can
+do something about restoring endothelial function.
+
 <h1>Members</h1>
 
 <ul>
