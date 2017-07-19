@@ -58,7 +58,6 @@ Craig 5000 mile or 6 month oil change interval
 
 , , $35.07, Oil and Filter Change, Wix 57356XP oil filter $10.60, Mobil 1 5w20 5qt $22.88, Other Notes
 2017-07-12, 115,413 mi, 12.73+22.88 = $35.61, oil and filter change, K&N HP-1004 $12.73 - 5qt Mobil 1 5W20 $22.88, 4.6qt oil - 17mm plug socket
-
 </pre>
 
 <h3>Next service items</h3>
@@ -75,6 +74,11 @@ Fram XG7317 oil filter for full synthetic
 </pre>
 
 # Silverado
+
+<pre>
+Chevrolet oil change by on board computer or 3000 mi.
+Craig 5000 mile or 6 month oil change interval
+</pre>
 
 <pre>
 Chevrolet oil change by on board computer or 3000 mi.
