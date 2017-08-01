@@ -85,6 +85,13 @@ add 5 liquid oz MA
 ph 8.3 -> 7.3
 </pre>
 
+
+<pre>
+Mon Jul 24 14:06:37 MDT 2017
+pH 8.3 - Add 0.6oz MA
+</pre>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

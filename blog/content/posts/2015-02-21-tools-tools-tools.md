@@ -534,6 +534,24 @@ Get long one and cut if needed shorter.
 <a href="https://www.amazon.com/Heavy-Duty-White-10-mil-312201/dp/B0010Z0D4W" target="_blank">Dry Top Tarps at Amazon</a>
 10' x 20' Dry Top Heavy Duty White Full Size 10-mil Poly Tarp item #310207 
 
+<h1>Socket Sets</h1>
+
+<h2>Mini Socket Sets</h2>
+
+<h3>
+  <a href="http://toolguyd.com/gearwrench-microdriver-review/" target="_blank">toolguyd.com/</a>
+  Gearwrench MicroDriver Set Crams a Lot of Usefulness in a Compact Package
+</h3>
+
+<h3>
+  <a href="http://toolguyd.com/wera-bit-ratchet-size-comparison/" target="_blank">toolguyd.com/</a>
+  Wera Bit Ratchet Size Comparison
+</h3>
+
+<h1>
+  <a href="http://toolguyd.com/" target="_blank">ToolGuyd</a>
+</h1>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

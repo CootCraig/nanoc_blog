@@ -9,12 +9,19 @@ tags:
 <h1>General Truck Parameters</h1>
 
 <ul>
-  <li>8th or 9th generation Ford 4.9L I6 (1987-1996)</li>
   <li>Fourth Generation K1500 Chev. small block V8 (GMT400 1988-1998)</li>
+
+  <li>Ford 8th generation 300 cu in I6 (1987-1989)</li>
+  <li>Ford 8th generation International 6.9L IDI V8 	1982-1987</li>
+  <li>Ford 8th generation International 7.3L IDI V8 	1988-1989</li>
+  <li>Ford 9th generation 4.9L I6 (1992-1997)</li>
+  <li>Ford 9th generation 7.3 L Powerstroke, International T444E (1995-1997)</li>
+
   <li>Tow Scamp</li>
   <li>Extended cab</li>
   <li>4x4</li>
   <li>Will want a cab high bed cap</li>
+  <li>Probably not Dodge</li>
 </ul>
 
 <h4>
@@ -79,7 +86,7 @@ offered behind the High Output diesel in 2001 and 2002.
 Ford F250 4x4 supercab heavy duty 7.3L powerstroke diesel. Nope, don't think so.
 
 <h2>
-  <a href="https://en.wikipedia.org/wiki/Ford_F-Series#Eighth_generation_.281987.E2.80.931991.29" target="_blank">wikipedia.org/wiki</a>
+  <a href="https://en.wikipedia.org/wiki/Ford_F-Series_%28eighth_generation%29" target="_blank">wikipedia.org/wiki</a>
   Eighth generation (1987–1991)
 </h2>
 
@@ -133,6 +140,15 @@ Ford's smaller 4.2L V-6.
   <a href="https://en.wikipedia.org/wiki/Ford_F-Series#Ninth_generation_.281992.E2.80.931997.29" target="_blank">wikipedia.org/wiki</a>
   Ninth generation (1992–1996)
 </h2>
+
+<h3>1995–97 7.3 L Direct injection Turbo, Powerstroke, International T444E</h3>
+
+Despite sharing identical displacement with its IDI predecessor, the
+turbocharged Powerstroke/T444E was an all-new design with direct fuel
+injection. This is akin to the 5.0l/302c.i. v8 used in foxbody platform
+Mustangs, for example, is not the same as the 5.0l/302c.i. Coyote v8
+used in current mustangs. The only similarity between the two motors is
+the displacement.
 
 <h3>
   <a href="https://en.wikipedia.org/wiki/Ford_F-Series_%28ninth_generation%29" target="_blank">wikipedia.org/wiki</a>

@@ -238,6 +238,10 @@ Note: Pinebook ordered on 20th April 2017 onward will fall into mid of June 2017
   Removing eMMC from the 14” Pinebook
 </h2>
 
+<h1>Install xyz</h1>
+
+/home/craig/Downloads/xenial-i3-pinebook-bspkernel-0.6.2-77.img.xz
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

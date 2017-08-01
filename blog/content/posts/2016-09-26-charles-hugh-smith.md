@@ -80,6 +80,33 @@ ISBN-13: 978-1449563448
   Monday, January 23, 2017 - The Protected, Privileged Establishment vs. The Working Class 
 </h4>
 
+<h3>
+  <a href="http://www.oftwominds.com/blogjuly17/social-economy7-17.html" target="_blank">www.oftwominds.com/blogjuly17/</a>
+  We Need a Social Economy, Not a Hyper-Financialized Economy - July 28, 2017 
+</h3>
+
+<blockquote>
+<p>
+Why is the community economy so important? The community economy is first and foremost the engine of social capital, which is the source of opportunity and widely distributed wealth. 
+</p>
+ ...
+<p>
+Corporations cannot replace communities for the simple reason each organization has different purposes and goals. The sole purpose and goal of a corporation is to expand capital and profits, for if it fails to do so, it falters and expires.
+</p>
+
+<p>
+The purpose of a community is to preserve and protect a specific locale by nurturing social solidarity: the sense of sharing a purpose with others, of belonging to a community that is capable of concerted, collective action on the behalf of its members and its locale.
+</p>
+
+<p>
+Political scientist Robert Putnam has described this structure as a web of horizontal social networks. Unlike corporations and the state, community economies are horizontal networks, i.e. networks of peers connected by overlapping memberships and interests. 
+</p>
+
+<p>
+It is not accidental that the current system of hierarchical corporations, banks and the state increases inequality and erodes the community economy: the only possible output of low social capital is rising inequality.
+</p>
+</blockquote>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -33,6 +33,11 @@ channel is produced by Scott's son Nate who has no idea what he is doing.
   Ultimate Work Truck: The Tool Tank
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=N3jG5xtSQAo" target="_blank">Essential Craftsman youtube</a>
+  Screws: What You Need to Know
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

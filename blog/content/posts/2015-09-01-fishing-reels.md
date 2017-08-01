@@ -92,8 +92,68 @@ Okuma shadow stalker rod
 <a href="https://www.youtube.com/watch?v=B9sjxCukDOg" target="_blank">Black Warrior Lures - Okuma ABF 40 Baitfeeder</a>
 
 
-~~~~~~~~~~~~~~~~
-<a href="" target="_blank"></a>
-<img src="" width="100px">
-~~~~~~~~~~~~~~~~
+<h1>
+  <a href="https://www.piscifun.com/collections/daily-deals/products/piscifun-torrent-baitcasting-reel" target="_blank">Piscifun Torrent</a>
+</h1>
 
+Piscifun® Torrent Baitcasting Reel 18LB Carbon Fiber Drag 7.1:1 
+
+
+<h4>Brake System: Magnetic Brake</h4>
+
+Unparalleled - Our CNC machined brass gear ensures a strong drag system
+and durability with 7.1:1 gear ratio. A fast and powerful retrieve offer
+the ultimate fishing performance.
+
+<h4>Phenomenal</h4>
+
+Precise gears paired with 3-layer high grade carbon fiber drag washers
+provide an ultra-strong 18lbs drag system with power to handle the big
+ones that you are after. Our new 4.33 inch extended aluminum crank handle
+gives the angler the leverage and power needed to pull the biggest fish
+out of the thickest cover.
+
+<h4>Anti-corrosion</h4>
+
+Corrosion resistant Premium gears and superior quality stainless steel
+bearings to ensure the smoothness of this reel. Anglers can be confident
+in both Fresh and Salt-Water when using the Torrent.
+
+<h4>Extraordinary Feel</h4>
+
+This reel boasts an Accurate & effective 0-10 magnetic brake, providing
+the angler with on-the-fly tournament ready adjustments. Double line
+winding shafts increase the winding stability and durability.
+
+<h4>Finesse Design</h4>
+
+A unique screwed oil hole in the side-plate helps you quickly and
+efficiently lubricate in order to lengthen reel life and maximize
+performance. Novice and Pro anglers alike will benefit from this easy
+method, no more lost or broken parts for basic maintenance.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=YTdQgFUOioc" target="_blank">Piscifun youtube</a>
+  Piscifun Torrent-- Piscifun Pro Jason Brenic Reaction
+<h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=gh5fNj6ZJT8" target="_blank">VentureTube youtube</a>
+  Piscifun Torrent Baitcaster Fishing Reel - Part One: Initial impression Review
+</h3>
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

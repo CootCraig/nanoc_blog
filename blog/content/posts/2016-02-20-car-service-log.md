@@ -49,21 +49,28 @@ date, mileage, cost, category, Service Parts Notes, Other Notes
 <h1>Odyssey</h1>
 
 <pre>
+tire rotation - Discount Tire staff: 3-5000 miles. Discount Tire Website: 6,000 miles.
+tire rotation - Craig 5000 mi
+</pre>
+
+<pre>
 Honda 7500 mile or 1 year oil change interval
 Craig 5000 mile or 6 month oil change interval
 
 2016-02-25, 102113mi, $35.07, Oil and Filter Change, Wix 57356XP oil filter $10.60, Mobil 1 5w20 5qt $25.47, Other Notes
 2016-06-13, 104525, 0, misc. service, oil topped off, Other Notes
 
-
 , , $35.07, Oil and Filter Change, Wix 57356XP oil filter $10.60, Mobil 1 5w20 5qt $22.88, Other Notes
 2017-07-12, 115,413 mi, 12.73+22.88 = $35.61, oil and filter change, K&N HP-1004 $12.73 - 5qt Mobil 1 5W20 $22.88, 4.6qt oil - 17mm plug socket
+2017-07-26, 115690, 0, Tire Rotation, Discount Tire,
 </pre>
 
 <h3>Next service items</h3>
 
 <pre>
-tire rotation at 106000 + 6000 = 112000
+Wed Jul 26 12:10:12 MDT 2017 - 115690 miles
+
+tire rotation at 115690 + 5000 = 120690 miles
 change oil at 115413+4000 = 119413 or January 15, 2018
 </pre>
 
@@ -78,13 +85,12 @@ Fram XG7317 oil filter for full synthetic
 <pre>
 Chevrolet oil change by on board computer or 3000 mi.
 Craig 5000 mile or 6 month oil change interval
+
+tire rotation - Discount Tire staff: 3-5000 miles. Discount Tire Website: 6,000 miles.
+tire rotation - Craig 5000 mi
 </pre>
 
 <pre>
-Chevrolet oil change by on board computer or 3000 mi.
-Craig 5000 mile or 6 month oil change interval
-Tire rotation every 6,000 miles
-tire rotation - 5000 mi
 2016-01-14, 171162 mi, , Oil Change
 2016-01-14, 171156, 0, Tire Rotation, Discount Tire,
 2016-06-10, 176929 mi, $32, Oil Change, $28 for 6 qt oil $4.05 for oil filter, Mobil 1 oil; fram ph3506 oil filter
@@ -94,13 +100,15 @@ tire rotation - 5000 mi
 2017-06-16, 187920 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
 2017-06-20, 188202 mi, cost, oil and filter change, Fram XG3506 - Mobil 1 oil 6 qt, Other Notes
 2017-07-15, 193462, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
+2017-07-31, 194227 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
 </pre>
 
 <h3>Next service items</h3>
 
 <pre>
-Sat Jul 15 10:32:51 MDT 2017 - 193462 miles
-tire rotation 187920 + 6000 = 193920 miles
+Mon Jul 31 16:30:18 MDT 2017 - 194227 mi
+
+tire rotation 194227 + 5000 = 199227 miles
 change oil 193462 + 5000 = 198462 or January 15, 2018
 </pre>
 
