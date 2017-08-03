@@ -53,12 +53,12 @@ it so much nicer for cooking, beer-setting, etc.
 
 <h3>
   <a href="http://stephdavis.co/blog/truck-camping/" target="_blank">stephdavis.co/blog/truck-camping/</a>
-<h3>
+</h3>
 
 <h2>
   <a href="https://www.pinterest.com/pin/152981718565812216/" target="_blank">pinterest tag</a>
   Explore Mini Camper, Camper Van, and more!
-<h2>
+</h2>
 
 <h2>
   <a href="http://www.diybullseye.com/you-are-never-going-to-believe-what-this-truck-is-capable-of-doing/" target="_blank">www.diybullseye.com/you-are ...</a>
@@ -76,6 +76,40 @@ it so much nicer for cooking, beer-setting, etc.
   LATEST PROJECT - Truck Drawers/Sleeping Platform 
   by roadtripcrazed
 </h2>
+
+<h2>
+  <a href="https://www.youtube.com/watch?v=dD9o224NFGQ" target="_blank">KayakAdventures210 youtube</a>
+  Truck Camper Living
+</h2>
+
+Check out Yahaira the Mobile Casa. I'm a full time student at A&M
+Corpus Christi, but own a business in San Antonio and enjoy traveling the
+state on my free time, so I decided to build a mobile home. It is a 36 inch
+ARE Comercial truck cap, on a 08 GMC Sierra Extended Cab.
+
+<h2>
+<a href="" target="_blank"></a>
+
+</h2>
+There are 6 components of vehicle camping that need to be addressed:
+
+<ol>
+  <li>Sleeping Area</li>
+  <li>Cooking Station</li>
+  <li>Hygiene Station</li>
+  <li>Storage</li>
+  <li>Power</li>
+  <li>Quick-Grab Gear</li>
+</ol>
+
+<h2>
+  <a href="https://www.youtube.com/watch?v=dG2HK9JsAjw" target="_blank">imaginetMedia youtube</a>
+  H2OT - Roof top, pressurized, solar heated shower/sprayer using ABS pipe
+</h2>
+
+In this video I would like to demonstrate the design, construction
+and usage of my DIY solar powered, pressurized, roof top water heater
+and shower.
 
 <!--
 html boilerplate
