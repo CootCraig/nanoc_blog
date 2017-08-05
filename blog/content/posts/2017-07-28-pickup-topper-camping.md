@@ -32,12 +32,18 @@ tags:
   Truck Camping – A Guide to Outfitting and Living in the Back of Your Pickup
 <h2>
 
-<h3>
-<a href="" target="_blank"></a>
+<img src="/assets/images/desktodirtbag-truck-bed-frame-1.jpg" width="500px">
 
-Truck Camping 101 - Sleeping Platform Styles (Back Shelf vs Elevated Platform)
-Desk to Dirtbag youtube
+<img src="/assets/images/desktodirtbag-truck-camping-siderail-1.jpg" width="500px">
+
+<img src="/assets/images/desktodirtbag-truck-camping-siderail-2.jpg" width="500px">
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=edgWyPCZv7g" target="_blank">Desk to Dirtbag youtube</a>
+  Truck Camping 101 - Sleeping Platform Styles (Back Shelf vs Elevated Platform)
 </h3>
+
+<img src="/assets/images/desktodirtbag-truck-bed-platform-video-open.png" width="500px">
 
 <h2>
   desktodirtbag says look at 

@@ -47,6 +47,18 @@ but once complete will bring more activities for residents and visitors.
   Indian River, Florida - Highways and Byways of Florida - 1918
 </h2>
 
+<h2>
+  <a href="http://www.swfwmd.state.fl.us/recreation/areas/flyingeagle.html" target="_blank">Southwest Florida Water Management District - Flying Eagle Preserve</a>
+</h2>
+
+<pre>
+Camping
+
+Separate sites available for equestrian and primitive camping.
+Sites have picnic tables, fire rings and/or grills.
+A free reservation is required and must be displayed or available at campground.
+</pre>
+
 <h1>Minnesota</h1>
 
 <h2>

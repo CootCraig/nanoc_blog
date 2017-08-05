@@ -548,6 +548,16 @@ Get long one and cut if needed shorter.
   Wera Bit Ratchet Size Comparison
 </h3>
 
+<h3>
+  <a href="https://www.amazon.com/Powerbuilt-940478-4-Inch-Socket-Ratchet/dp/B004QO9DAE" target="_blank">$12 at Amazon</a>
+  Powerbuilt 940478 1/4-Inch Drive Socket and Bit Driver Mini Ratchet 
+</h3>
+
+<h3>
+  <a href="https://www.amazon.com/T19086-4-Inch-Finger-Ratchet-Aluminum/dp/B00A32E9DY" target="_blank">$12 at amazon</a>
+  AMPRO T19086 1/4-Inch Drive Finger Ratchet and Bit Driver Aluminum 
+</h3>
+
 <h1>
   <a href="http://toolguyd.com/" target="_blank">ToolGuyd</a>
 </h1>
