@@ -12,8 +12,24 @@ tags:
 </h1>
 
 <h2>
+  <a href="http://uk.pine64.xyz:9090/?channels=Pine64&uio=MTE9MjE131" target="_blank">Pine64 IRC</a>
+</h2>
+
+<h2>
   <a href="https://forum.pine64.org/index.php" target="_blank">Pine64 Forum</a>
 </h2>
+
+<h3>
+  <a href="https://forum.pine64.org/showthread.php?tid=4633" target="_blank">forum.pine64.org/showthread</a>
+  How to write image to emmc module on the pinebook
+</h3>
+
+<h4>Luke - Moderators</h4>
+
+You could in theory write an image directly to eMMC by putting the unit
+in FEL mode and using ayufan's boot tools. But the easy way is to use
+the pine installer to flash the desired image to an SD, insert the SD
+into the pinebook, and follow the instructions to flash the image to eMMC.
 
 <h1>Current Plans</h1>
 
@@ -241,6 +257,53 @@ Note: Pinebook ordered on 20th April 2017 onward will fall into mid of June 2017
 <h1>Install xyz</h1>
 
 /home/craig/Downloads/xenial-i3-pinebook-bspkernel-0.6.2-77.img.xz
+
+<h1>Pinebook releases</h1>
+
+<h3>
+  <a href="https://forum.pine64.org/showthread.php?tid=4807" target="_blank">forum.pine64.org/showthread</a>
+  Xenial Images (Pinebook) 0.6.2-77
+</h3>
+
+Xenial Images (Pinebook) 0.6.2-77
+post was last modified: 07-25-2017
+
+<h4>
+  <a href="http://files.pine64.org/os/Pinebook/ubuntu/xenial-mate-pinebook-bspkernel-0.6.2-77-sd2emmc.img.xz" target="_blank">Xenial Mate (Pinebook eMMC) 0.6.2-77</a>
+</h4>
+
+<pre>
+- THIS IS FOR eMMC!!!
+- MD5 (XZ file): a945fa7e0e40eb6109c530d9815c20a3
+- This build is based on ayufan's 0.6.2: jenkins-linux-build-pine-a64-77
+</pre>
+
+<h4>
+  <a href="https://github.com/ayufan-pine64/linux-build/releases/download/0.6.2/xenial-mate-pinebook-bspkernel-0.6.2-77.img.xz" target="_blank">Xenial Mate (Pinebook SDCard) 0.6.2-77</a>
+</h4>
+
+<pre>
+- THIS IS FOR SDCard BOOT!!!
+- MD5 (XZ file): f7648c0a476f9b45356919f6ce5bac7c
+</pre>
+
+<h4>
+  <a href="https://github.com/ayufan-pine64/linux-build/releases/download/0.6.2/xenial-minimal-pinebook-bspkernel-0.6.2-77.img.xz" target="_blank">Xenial Minimal Image (Pinebook SDCard) 0.6.2-77</a>
+</h4>
+
+<pre>
+- THIS IS FOR SDCard BOOT!!!
+- MD5 (XZ file): 747f0833dd35969de499d081009ed7ae
+</pre>
+
+<h4>
+  <a href="https://github.com/ayufan-pine64/linux-build/releases/download/0.6.2/xenial-i3-pinebook-bspkernel-0.6.2-77.img.xz" target="_blank">i3 (Pinebook SDCard) 0.6.2-77</a>
+</h4>
+
+<pre>
+- THIS IS FOR SDCard BOOT!!!
+- MD5 (XZ file): 11d8f75be9a1b337a27041a9ee7b55a6 
+</pre>
 
 <!--
 html boilerplate
