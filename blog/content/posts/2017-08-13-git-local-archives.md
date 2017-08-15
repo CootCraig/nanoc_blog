@@ -48,6 +48,8 @@ git remote -v
 
 <h4>label: git1 (sandisk cruzer 128GB)</h4>
 
+<h1>Set up git1 thumb drive</h3>
+
 <h3>Format git1 thumb drive</h3>
 
 <pre>
@@ -64,16 +66,13 @@ sudo mkfs.ext3 -L git1 /dev/sdd1
 mount
  ...
 /dev/sdd1 on /media/craig/git1 type ext4 (rw,nosuid,nodev,relatime,data=ordered,uhelper=udisks2)
-
 </pre>
 
-<h1>fstab for git1</h1>
-
-<h2>Get the uuid</h2>
+<h3>Get the uuid</h3>
 
 <pre>
 sudo ls -l /dev/disk/by-uuid
- ...
+ .k..
 lrwxrwxrwx 1 root root 10 Aug 13 12:19 e56ce154-0d47-4c63-a4be-388be3ba58d0 -> ../../sdd1
 
 sudo blkid
@@ -81,31 +80,25 @@ sudo blkid
 /dev/sdd1: LABEL="git1" UUID="e56ce154-0d47-4c63-a4be-388be3ba58d0" TYPE="ext4"
 </pre>
 
+<h3>Sneakernet with git1 thumb drive</h3>
 
-<pre>
-<file system> <mount point>   <type>  <options>       <dump>  <pass>
-UUID=e56ce154-0d47-4c63-a4be-388be3ba58d0  /media/craig/git1  ext4  auto  0  2
-</pre>
+Arrange that the login craig have the same uid/gid on all computers.
 
-<pre>
-sudo usermod -G sys craig
-sudo chown :sys /media/craig/git1
-</pre>
+Because the filesystem label is git1 the automount would be:
 
-<h3>
-  <a href="https://help.ubuntu.com/community/Fstab" target="_blank">help.ubuntu.com/community/</a>
-  fstab
-</h3>
+<h4>/media/craig/git1/</h4>
 
-<h3>
-  <a href="https://askubuntu.com/questions/252361/how-could-i-mount-an-ext4-partition-and-have-write-permission#252385" target="_blank">askubuntu.com/questions/252361/</a>
-  How could I mount an ext4 partition and have write permission?
-</h3>
+Make a data folder is writable by user craig.
 
-<h3>
-  <a href="https://itsfoss.com/set-write-permission-ext4-partition-ubuntu-linux/" target="_blank">itsfoss.com/set-write</a>
-  How To Set Write Permission On ext4 Partition In Ubuntu Linux
-</h3>
+<h4>/media/craig/git1/data</h4>
+
+First directory structure:
+
+<ul>
+  <li>data/git - Place the git repos here.</li>
+  <li>data/home_files_log - Keep logs of files in ~craig/ to support homesick</li>
+  <li>data/xfer - Used to copy files between systems with ext3 automount</li>
+</ul>
 
 <!--
 html boilerplate
