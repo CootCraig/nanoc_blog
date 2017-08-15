@@ -12,12 +12,23 @@ tags:
 
 <ul>
   <li>/media/craig/git1/data/git/mydragon.git/</li>
+  <li>/media/craig/git1/data/git/nanoc_blog.git</li>
 </ul>
 
 <h4>Make a bare repo</h4>
 
 <pre>
 git clone --bare some-git-source/ some-git-source.git
+</pre>
+
+<h4>Add git1 repo to a git working directory</h4>
+
+<pre>
+  Set a new remote
+git remote add git1 /media/craig/git1/data/git/some-repo.git
+
+  Verify new remote
+git remote -v
 </pre>
 
 <h1>thumb drive</h1>
