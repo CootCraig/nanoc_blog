@@ -14,6 +14,11 @@ tags:
   No Other Gospel
 </h4>
 
+<h1>GTY bible reading Plan</h2>
+
+<h2>Macarthur Daily Bible</h2>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

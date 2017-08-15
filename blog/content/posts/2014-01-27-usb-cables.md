@@ -5,7 +5,7 @@ kind: article
 tags: [ 'usb', 'arduino' ]
 ---
 
-## [Spartfun - USB Buying Guide](https://www.sparkfun.com/pages/USB_Guide)
+## [Sparkfun - USB Buying Guide](https://www.sparkfun.com/pages/USB_Guide)
 
 
 ### What Does USB Do?
@@ -36,4 +36,18 @@ receptacle but they usually supply a pigtail adapter to USB-A.
 
 <img src="/assets/images/USBTypes2.jpg" >
 
-
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->
