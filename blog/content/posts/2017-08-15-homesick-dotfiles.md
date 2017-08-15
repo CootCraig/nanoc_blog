@@ -14,6 +14,14 @@ tags:
   homesick git repo
 </h2>
 
+We call a repository that is compatible with homesick to be a 'castle'. To
+act as a castle, a repository must be organized like so:
+
+<ul>
+  <li>Contains a 'home' directory</li>
+  <li>'home' contains any number of files and directories that begin with '.'</li>
+</ul>
+
 <h3>
   <a href="http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick" target="_blank">technicalpickles.com/posts/</a>
   Never Leave Your Dotfiles Behind Again With Homesick

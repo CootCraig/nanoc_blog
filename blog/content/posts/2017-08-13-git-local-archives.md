@@ -8,6 +8,19 @@ tags:
   - git_archives
 ---
 
+Note that truly public git repos can use 2 remote repos:
+
+<ul>
+  <li>origin at github</li>
+  <li>git1 on the local removable media volume</li>
+</ul>
+
+and private git repos would just have
+
+<ul>
+  <li>origin on the local removable media volume</li>
+</ul>
+
 <h1>Local Git Repos</h1>
 
 <ul>
