@@ -435,6 +435,21 @@ Nice method to roll and secure with the hook.
   How to Make Multiple Tie Points For Hauling in Pick up Truck Bed
 </h3>
 
+<pre>
+quick links
+turnbuckle
+3/16" chain
+</pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=-SjqmQlOK5c" target="_blank">Nathan Cox youtube</a>
+  Truck Bed Tie Down Solution
+</h3>
+
+<pre>
+3/8" chain
+</pre>
+
 <h1>Mounting Hardware</h1>
 
 <h4>
