@@ -17,18 +17,18 @@ tags:
 <h3>three-year Revised Common Lectionary for Sundays and festivals</h3>
 
 <ol>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r01.pdf" target="_blank">January</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r02.pdf" target="_blank">February</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r03.pdf" target="_blank">March</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r04.pdf" target="_blank">April</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r05.pdf" target="_blank">May</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r06.pdf" target="_blank">June</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r07.pdf" target="_blank">July</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r08.pdf" target="_blank">August</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r09.pdf" target="_blank">September</a></li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r10.pdf" target="_blank">October</a> </li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r11.pdf" target="_blank">November</a></li>
-  <li><a href="https://www.presbyterian.org/wp-content/uploads/2017r12.pdf" target="_blank">December</a></li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r01.pdf" target="_blank">January</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r02.pdf" target="_blank">February</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r03.pdf" target="_blank">March</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r04.pdf" target="_blank">April</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r05.pdf" target="_blank">May</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r06.pdf" target="_blank">June</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r07.pdf" target="_blank">July</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r08.pdf" target="_blank">August</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r09.pdf" target="_blank">September</a></li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r10.pdf" target="_blank">October</a> </li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r11.pdf" target="_blank">November</a></li>
+  <li><a href="https://www.presbyterianmission.org/wp-content/uploads/2017r12.pdf" target="_blank">December</a></li>
 </ol>
 
 <h4>2017: Year A (ends November 26) and Year B (begins December 3)</h4>
