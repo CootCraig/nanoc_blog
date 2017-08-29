@@ -9,6 +9,18 @@ tags:
   - online_commentary
 ---
 
+<h1>Favorites</h1>
+
+<ul>
+  <li>Charles Hugh Smith</li>
+  <li>Gad Saad</li>
+  <li>Jordan Peterson</li>
+  <li>Mike Cernovich</li>
+  <li>Stefan Molyneux</li>
+</ul>
+
+<h1>Research</h1>
+
 ## <a href="http://newswithviews.com/" target="_blank">newswithviews</a>
 
 ## <a href="http://www.zerohedge.com/" target="_blank">zerohedge</a>
@@ -172,4 +184,6 @@ html boilerplate
 </pre>
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
