@@ -117,6 +117,23 @@ In this video I would like to demonstrate the design, construction
 and usage of my DIY solar powered, pressurized, roof top water heater
 and shower.
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=h8begn_judk" target="_blank">DIYvulpusmike youtube</a>
+  How to build truck camper box CHEAP for beginners DIY
+</h3>
+
+some nice details on over wheel well platform with drawers.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=5usUMBjoSoM" target="_blank">Into The Dirtshop youtube</a>
+  DIY Truck Cap Bed Camper Part 1!
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=tlewInZsdg0" target="_blank">Reform Life youtube</a>
+  Ultimate Homemade DIY Truck Camper - Tour & Plans
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

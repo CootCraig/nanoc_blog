@@ -338,6 +338,12 @@ Recommended Use: Interior or exterior
   Painting NEW Maple Cabinets
 </h4>
 
+<h2>
+  <a href="https://www.youtube.com/playlist?list=PLi9YvN608CdH9yCSD2tf06Fxn5ZYDlIMS" target="_blank">Home Improvement How To's youtube</a>
+  Cabinet Painting Tips
+
+</h2>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

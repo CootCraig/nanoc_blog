@@ -5,6 +5,114 @@ kind: article
 tags: [ 'antenna','tv','fm']
 ---
 
+<h2>Wed Aug 30 2017 - hdtv antenna for Avondale</h2>
+
+Solid Signal 877-312-4547
+
+
+
+<h3>
+  <a href="https://www.solidsignal.com/pview.asp?p=149783" target="_blank">solidsignal.com/pview.asp - $104</a>
+  Televes DATBOSS LR Long-Range Amplified UHF TV Antenna LTE Filter (149783)
+  P\N: 149783    
+</h3>
+
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=DNPXGOc7-m8" target="_blank">Solid Signal youtube</a>
+  Assembling the Televes DATBOSS LR Antenna
+</h3>
+
+<h4>Key Features</h4>
+
+<ul>
+  <li>Optimized for UHF Reception</li>
+  <li>Up to 32 dB of gain</li>
+  <li>Actively rejects LTE signals that can cause interference</li>
+  <li>European made, top quality antenna</li>
+  <li>up to 75 mile reception</li>
+  <li>Solidly built aluminum construction for decades of reliable use</li>
+  <li>Includes Boss-Tech auto-gain-control amplifier</li>
+  <li>Works well in areas with strong cell service</li>
+</ul>
+
+<h3>
+  <a href="https://www.solidsignal.com/pview.asp?p=HD8200U" target="_blank">solidsignal.com/pview.asp - $130</a>
+  Winegard Heavy Duty Platinum VHF UHF FM Outdoor TV Antenna (HD8200U) P\N: HD8200U   
+</h3>
+
+<pre>
+Boom Length: 168.25", Max. Width: 110", Vertial Height: 33"
+
+Platinum HD antennas deliver powerful VHF performance and offer additional
+1 dB to 2 dB higher gain on VHF and UHF, important for weak signal areas.
+
+Great for the those in a low signal areas, trying to overcome loss from
+trees, and terrain or those who simply want the best
+
+High quality construction offers extra strength with double boom braces,
+high-impact ABS girder design and supports
+
+Outstanding UHF reception acheived by precise director spacing and highly
+efficient corner reflectors
+
+No transformer required, this antenna uses a unique PC board with a
+direct 75 Ohm connection
+
+Includes hardware for mounting to a mast; antenna has a 75 ohm coax
+connection
+
+FREE TV - This antenna pays for itself in the second month based on $100
+cable bill
+
+Directional performance offers high gain reception while blocking out
+interference
+
+Cut the cord with confidence - this antenna gets both VHF and UHF
+transmissions
+
+69 Active Elements, 34 VHF elements, and 35 UHF elements
+
+Best possible reception on VHF and UHF
+</pre>
+
+<h3>Channel Master Masterpiece 100 ProductID: CM-5020</h3>
+
+The Masterpiece 100 is a directional (log periodic), line-of-sight outdoor
+antenna that receives high definition and digital signals from a single
+direction. This antenna has a reception range of up to 100 miles and is
+designed to withstand extreme outdoor conditions.
+
+ProductID: CM-5020
+
+<pre>
+Electrical Specifications
+
+Bandwith 	54 to 216 and 470 to 700 MHz
+VHF Gain 	10dB
+UHF Gain 	16dB
+Front to Back Ratio 	17dB
+Return Loss 	N/A
+Impedance 	300 Ohm (75 Ohm balun included) 
+
+Mechanical Specifications
+
+Boom Length 	109"
+Number of Elements 	28
+Max Element Width 	100.5"
+Mounting Clamp 	U bolt up to 2.5"
+Turning Radius 	6 ft.
+Output Connector 	F-type
+Size (product) 	116 x 101.5 x 20 in
+Weight (product) 	11.5 lb
+Wind Resistance 	(at 100 mph, no ice) – 30 lb 
+</pre>
+
+<h3>
+  <a href="http://www.solidsignal.com/pview.asp?p=4228-hd" target="_blank">solidsignal.com/pview.asp - $110</a>
+  Channel Master EXTREMEtenna 80 8-Bay HDTV Antenna (4228HD)
+</h3>
+
 [Nice wavelength calculator](http://home.comcast.net/~wxtofly/wavecalc.htm)
 
 ### Installed a new TV antenna - Winegard 7694P
