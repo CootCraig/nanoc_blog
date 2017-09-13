@@ -5,6 +5,220 @@ kind: article
 tags: [ 'antenna','tv','fm']
 ---
 
+<h1>Avondale TV</h1>
+
+lat,lon 38.236758, -104.352471
+
+<h3>
+  <a href="http://www.tvfool.com/?option=com_wrapper&Itemid=29&q=id%3de6a488823c7f0e" target="_blank">tvfool.com/</a>
+  TV Signal Analysis Results
+</h3>
+
+<table class="craig-table">
+  <tr>
+    <th>Callsign</th>
+    <th>Broadcast Channel</th>
+    <th>Virtual Channel</th>
+    <th>Programming</th>
+  <tr>
+
+  <tr>
+    <td>KTSC-DT</td>
+    <td>8.1</td>
+    <td>8.1</td>
+    <td>PBS</td>
+  </tr>
+  <tr>
+    <td>KTSC-DT</td>
+    <td>8.2</td>
+    <td>8.2</td>
+    <td>PBS Kids</td>
+  </tr>
+  <tr>
+    <td>KTSC-DT</td>
+    <td>8.3</td>
+    <td>8.3</td>
+    <td>Create</td>
+  </tr>
+
+
+  <tr>
+    <td>KOAA</td>
+    <td>42.1</td>
+    <td>5.1</td>
+    <td>NBC</td>
+  </tr>
+  <tr>
+    <td>KOAA</td>
+    <td>42.2</td>
+    <td>5.2</td>
+    <td>WeatherNation TV</td>
+  </tr>
+  <tr>
+    <td>KOAA</td>
+    <td>42.3</td>
+    <td>5.3</td>
+    <td>Grit TV</td>
+  </tr>
+
+  <tr>
+    <td>KVSN</td>
+    <td>48.1</td>
+    <td>48.1</td>
+    <td>Univision</td>
+  </tr>
+  <tr>
+    <td>KVSN</td>
+    <td>48.2</td>
+    <td>48.2</td>
+    <td>UniMas</td>
+  </tr>
+  <tr>
+    <td>KVSN</td>
+    <td>48.3</td>
+    <td>48.3</td>
+    <td>LATV</td>
+  </tr>
+
+  <tr>
+    <td>KKTV</td>
+    <td>49.1</td>
+    <td>11.1</td>
+    <td>CBS</td>
+  </tr>
+  <tr>
+    <td>KKTV</td>
+    <td>49.2</td>
+    <td>11.2</td>
+    <td>MyNetworkTV/MeTV</td>
+  </tr>
+
+</table>
+
+<table class="craig-table">
+  <tr>
+    <th>Callsign</th>
+    <th>Real</th>
+    <th>Virt</th>
+    <th>Network</th>
+    <th>True</th>
+    <th>Magn</th>
+    <th>NM(dB)</th>
+  </tr>
+
+  <tr>
+    <td>koaa-dt</td>
+    <td>42</td>
+    <td>5.1</td>
+    <td>NBC</td>
+    <td>322</td>
+    <td>314</td>
+    <td>52.7</td>
+  </tr>
+
+  <tr>
+    <td>kktv</td>
+    <td>49</td>
+    <td></td>
+    <td>CBS</td>
+    <td>322</td>
+    <td>314</td>
+    <td>50.0</td>
+  </tr>
+
+  <tr>
+    <td>kvsn-dt</td>
+    <td>48</td>
+    <td></td>
+    <td></td>
+    <td>322</td>
+    <td>314</td>
+    <td>48.4</td>
+  </tr>
+
+  <tr>
+    <td>ktsc-dt</td>
+    <td>8</td>
+    <td>8.1</td>
+    <td>PBS</td>
+    <td>322</td>
+    <td>314</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>krdo-dt</td>
+    <td>24</td>
+    <td>13.1</td>
+    <td>ABC</td>
+    <td>322</td>
+    <td>314</td>
+    <td>47.3</td>
+  </tr>
+
+  <tr>
+    <td>kxrm-dt</td>
+    <td>22</td>
+    <td>21.1</td>
+    <td>Fox</td>
+    <td>322</td>
+    <td>314</td>
+    <td>41.5</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>322</td>
+    <td>314</td>
+    <td></td>
+  </tr>
+</table>
+
+<pre>
+Main Transmitter array azimuth. True 322. Magnetic 314.
+</pre>
+
+<img src="/assets/images/avondale-digital-tvfool.png" width="800px">
+
+<h1>Avondale Magnetic Declination</h1>
+
+<pre>
+AVONDALE CO
+Latitude: 38° 14' 15" N
+Longitude: 104° 21' 2" W
+Magnetic declination: +7° 47'
+Declination is POSITIVE (EAST)
+Inclination: 65° 8'
+Magnetic field strength: 51296.6 nT
+</pre>
+
+So rounded declination is 8 deg. positive (east)
+
+<h2>
+  <a href="http://www.compassdude.com/compass-declination.php" target="_blank">www.compassdude.com/</a>
+  Compass Declination
+</h2>
+
+The difference between the north geographic pole and the north magnetic
+pole is called magnetic declination or usually just declination.
+
+<h2>
+  <a href="https://education.usgs.gov/lessons/compass.html" target="_blank">education.usgs.gov/lessons/compass</a>
+  How To Use a Compass with a USGS Topographic Map
+</h2>
+
+If magnetic north is east of true north, the local declination is positive.
+
+If magnetic north is west of true north, the local declination is negative.
+
+<h2>
+  <a href="http://www.learn-orienteering.org/old/lesson3.html" target="_blank">learn-orienteering.org/old/lesson3</a>
+  How to use a compass - Magnetic Declination
+</h2>
+
 <h2>Wed Aug 30 2017 - hdtv antenna for Avondale</h2>
 
 Solid Signal 877-312-4547

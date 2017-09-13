@@ -103,3 +103,8 @@ a:hover {
 .table-pad {
   padding: 10px 10px 10px 10px;
 }
+
+.craig-table table, th, td {
+  border: 1px solid black;
+}
+
