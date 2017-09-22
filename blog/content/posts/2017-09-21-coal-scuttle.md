@@ -1,18 +1,13 @@
 ---
-title: "Pinebook Admin"
-created_at: Mon May  8 23:25:54 MDT 2017
+title: "Coal Scuttle"
+created_at: Thu Sep 21 05:41:38 MDT 2017
 kind: article
 tags:
-  - pinebook
-  - linux
+  - coal_scuttle
+  - ash_bucket
 ---
 
-Order placed Mon May  8 23:26:32 MDT 2017
-
-<ul>
-  <li>Debian 8 ("jessie") — current stable release</li>
-  <li>The current "testing" distribution is stretch.</li>
-</ul>
+Use for stove wood pellets. Be on the lookout.
 
 <!--
 html boilerplate
