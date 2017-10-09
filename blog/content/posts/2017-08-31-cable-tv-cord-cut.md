@@ -278,6 +278,71 @@ per month for HBO NOW, it can be a little pricey.
   <li>On the web at psvue.com/watch (most recent versions of Chrome, Firefox, Safari and Microsoft Edge, as well as previous “ever-green” versions. PlayStation™Vue on the Web requires Flash Player.)</li>
 <ul>
 
+<h1>Tivo Options</h1>
+
+<h2>Rovi acquires DVR company TiVo</h2>
+
+<h2>Tivo Bolt</h2>
+
+<h3>Promotion until October 3, 2017</h3>
+
+email received
+Sat Sep 23 12:51:13 MDT 2017
+
+Tivo Summer's End Lifetime Sale.
+
+Don’t let the sun go down on this exclusive $99 transfer offer.
+
+Act now to upgrade your entertainment with this season-defying deal. For
+a limited time only, transfer Product Lifetime service from your
+current qualifying TiVo DVR for just $99 with any purchase of a new
+TiVo BOLT. You’ll save $450 and enjoy TiVo’s signature cutting-edge
+features along with the intuitive, easy-to-use interface you love.
+
+We’re making it easy for you. Choose which qualifying current DVR you
+would like to replace, and simply use that DVR’s TSN as your promo
+code at checkout:
+
+1 available TSN’s on Account: 7460001906B791F 	
+SHOP NOW 	Must use TSN as promo code.
+Offer ends October 3rd or while supplies last.1
+
+<h2>Tivo Roamio</h2>
+
+<h3>OTA features</h3>
+
+<h4>
+  <a href="https://www.amazon.com/TiVo-Roamio-Over-Streaming-Player/dp/B0148ZRFVO" target="_blank">$400 at amazon</a>
+  TiVo Roamio Over-The-Air 500 GB DVR and Streaming Media Player - No Monthly Service Fees - Not Compatible with Cable 
+</h4>
+
+<ul>
+  <li>Designed for users who watch TV with an HD antenna instead of subscribing to cable. Enjoy network shows from ABC, CBS, NBC, FOX, PBS, Univision and more</li>
+  <li>Includes Product Lifetime Service. HD antenna sold separately. Record four shows at once and up to 75 HD hours of programming with its 500GB drive</li>
+  <li>Access TV and streaming content from Netflix, Hulu Plus, VUDU and more without switching inputs</li>
+  <li>See 14-day program guide and schedule recordings ahead of time. Customize your recording experience with One Pass </li>
+<ul>
+
+<h3>
+  <a href="https://www.cnet.com/products/tivo-roamio/review/" target="_blank">cnet.com/products/tivo-roamio</a>
+</h3>
+
+The Good The TiVo Roamio is an exceptionally polished DVR for recording
+free over-the-air TV. The interface is excellent and intuitive, making it
+dead simple to record shows and series exactly the way you'd like. There's
+built-in Wi-Fi and a 500GB hard drive. The remote is excellent and works
+via RF, so you can hide the box behind a cabinet. And the hardware itself
+is compact, sleek and silent.
+
+The Bad It's very expensive when you add in subscription costs. Only the
+entry-level Roamio records over-the-air TV, and it lacks the step-up
+features of more expensive models. And there should be more streaming
+services at this price, like HBO Go, Vudu, and a fully-functioning Amazon
+Instant app.
+
+The Bottom Line The TiVo Roamio is hands-down the best DVR for recording
+over-the-air TV, but its excellence comes at a great cost.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

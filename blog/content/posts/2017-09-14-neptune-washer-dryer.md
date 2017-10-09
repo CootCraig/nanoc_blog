@@ -10,6 +10,19 @@ tags:
 
 <img src="/assets/images/maytag-neptune-washer-image.png" width="450px">
 
+<h4>
+Model # MAH5500BWW
+</h4>
+
+<h4>
+Serial # A9661866ER
+</h4>
+
+
+<h2>MAH5500BWW Test Procedure</h2>
+
+<img src="/assets/images/maytag-washer-mah5500G-test-instructions.png" width="800px">
+
 <h2>
   <a href="http://www.searspartsdirect.com/model-number/MAH5500BWW/3048/0153200.html" target="_blank">searspartsdirect.com/model-number/MAH5500BWW/</a>
   Parts for Model #MAH5500BWW MAYTAG Residential Washers
@@ -30,7 +43,7 @@ tags:
 </h3>
 
 <h3>
-  <a href="/assets/pdf/maytag-neptune-washer-installation.pdf" target="_blank">Installation Guide PDF online/</a>
+  <a href="/assets/pdf/maytag-neptune-washer-installation.pdf" target="_blank">Installation Guide PDF local/</a>
 </h3>
 
 <h3>

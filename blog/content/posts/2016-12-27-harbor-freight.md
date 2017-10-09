@@ -403,6 +403,18 @@ Husky 1/4 in. Female x 1/4 in. Female x 1/4 in. Male Brass Tee Fitting
   Quick fill manifold for air tank
 <h4>
 
+<h2>Air Impact Hammer</h2>
+
+<h3>
+  <a href="https://www.harborfreight.com/air-impact-hammer-kit-92037.html" target="_blank">$9.99 at Harbor Freight</a>
+  Air Impact Hammer Kit - Central Pneumatic item 92037 
+</h3>
+
+<pre>
+Average air consumption 	4 CFM @ 90 PSI
+Accessories Included 	Flat chisel
+</pre>
+
 <h2>Buy List</h2>
 
 <pre>

@@ -93,9 +93,14 @@ Showroom
   How to clean "Hardwood floors" in under 5 minutes
 </h4>
 
+<pre>
 Using white towel dampened with tap water and flat mop.
+drag the mop in one direction. never go back and forth.
+drag the perimeter
+Then run an S pattern of the whole floor.
 Looks like a good system.
 Dish detergent and water perhaps.
+</pre>
 
 <h1>Waterlox on wood flooring</h1>
 
@@ -206,7 +211,7 @@ mouldings and trim. We ship our hand-crafted floors throughout the US
 and overseas.
 
 <h4>
-  <a href=""http://www.peteshardwoodfloors.com/Wood-Floor-Techniques-101/what-is-a-screen-and-recoat.html target="_blank">peteshardwoodfloors.com/Wood-Floor-Techniques-101</a>
+  <a href="http://www.peteshardwoodfloors.com/Wood-Floor-Techniques-101/what-is-a-screen-and-recoat.html" target="_blank">peteshardwoodfloors.com/Wood-Floor-Techniques-101</a>
   What the heck is a screen and recoat?
 </h4>
 
@@ -272,6 +277,122 @@ is always less costly than the damage that results from not having it.
   Hardwood Floor Sanding Part 1
 </h4>
 
+<h1>cleaning wood floor</h1>
+
+<h2>Dust Mop</h2>
+
+<h3>White towels for flat dust mop</h3>
+
+Walmart has white cotton economy hand towels for $1.84
+
+<h4>
+  <a href="https://www.amazon.com/Cotton-Salon-Towels-12-Pack-inches/dp/B01N1K7OMM" target="_blank">12 for $21 at amazon</a>
+  Cotton Salon Towels (12-Pack, White,16x27 inches)
+</h4>
+
+21.0 / 12.0 => $1.75 each
+
+<h4>
+  <a href="https://www.amazon.com/Cotton-Salon-Towels-Ringspun-Cotton-Absorbency/dp/B008R51V94" target="_blank">24 for $45 at amazon</a>
+  White Cotton Salon Towels - Gym Towel - Hand Towel - (24-Pack, White) - 16 inches x 27 inches
+</h4>
+
+45.0 / 24.0 => 1.88 each
+
+<h4>
+  <a href="https://www.amazon.com/Premium-Cotton-White-Quality-12-Pack/dp/B013QCZV3E" target="_blank">$20 for 12 at amazon</a>
+  Premium Cotton White Hand Towels, Soft Quality, 12-Pack 16x27
+</h4>
+
+20.0 / 12.0 => 1.67 each
+
+<p style="margin-bottom: 1em;"></p>
+
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+
+<h3>
+  <a href="http://multimedia.3m.com/mws/media/323165O/3mtm-easy-trap-duster-system-sell-page.pdf?&fn=78-8134-0133-4.pdf" target="_blank">3M Easy Trap Duster System - 3M PDF</a>
+</h3>
+
+<h4>
+  <a href="https://www.amazon.com/3M-Easy-Duster-Sweep-Sheets/dp/B001FNPJXO" target="_blank">$17 at amazon</a>
+  3M Easy Trap Duster - sweep & dust sheets, 8" x 6" sheets; 60 sheets/roll (1 Roll) part# 59152 8"x6"x30'
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/3M-Easy-Trap-Duster-sheets/dp/B001SJCXUM" target="_blank">$71 at amazon</a>
+  3M 55654W Easy Trap Duster, 8" x 125ft, White, Roll 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/3M-59247-Easy-Trap-Holder/dp/B001B0B5Y8" target="_blank">$45 at amazon</a>
+  3M 59247 Easy Trap Flip Holder, 4" x 23" 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Rubbermaid-Commercial-Standard-Threaded-Diameter/dp/B0087S4LC0" target="_blank">$8 at amazon</a>
+  Rubbermaid Commercial Q701BK Quick Connect Wand Adapter To Standard Threaded Tools
+</h4>
+
+<p style="margin-bottom: 2em;"></p>
+
+<h3>
+  <a href="https://www.amazon.com/Cedar-Dual-Action-Microfiber-Surface/dp/B008HVHJDA" target="_blank">$18 at amazon</a>
+  O-Cedar Dual Action Microfiber Flip Mop Damp/Dry All Surface Mop 
+</h3>
+
+18" by 4"
+
+<h4>We have this</h4>
+
+<h3>
+  <a href="https://www.amazon.com/Cedar-Dual-Action-Microfiber-Flip-Refill/dp/B016UYJFK0" target="_blank">$25 for pack of 4 at amazon</a>
+  O-Cedar Dual-Action Microfiber Flip Mop Refill (Pack of 4) 
+</h3>
+
+<h3>
+  <a href="http://www.homedepot.com/p/Rubbermaid-Commercial-Products-Hygen-48-in-72-in-Quick-Connect-Straight-Extension-Handle-RCPQ755/100674205" target="_blank">$17 at home depot</a>
+  Rubbermaid Hygen 48 in. - 72 in. Quick-Connect Straight Extension Handle
+  Model # RCPQ755
+</h3>
+
+<h3>
+  <a href="https://www.amazon.com/Rubbermaid-Commercial-Quick-Connect-Straight-Extension/dp/B001AJHWIS" target="_blank">$3.25 add on at amazon</a>
+  Rubbermaid Commercial Quick-Connect Straight Extension Handle
+  Part Number 	FGQ75500YL00 Size 	48"-72" 
+</h3>
+
+<h3>
+  <a href="http://www.homedepot.com/p/Rubbermaid-Commercial-Products-HYGEN-18-in-Quick-Connect-Wet-and-Dry-Mop-Frame-FGQ56000YL00/100674213" target="_blank">$17 at home depot</a>
+  Rubbermaid Commercial Products HYGEN 18 in. Quick-Connect Wet and Dry Mop Frame
+</h3>
+
+<h3>
+  <a href="https://www.amazon.com/dp/B005KCOB4Y" target="_blank">$15 at amazon</a>
+  Rubbermaid Commercial Hygen Quick-Connect Wet/Dry Single-Sided Frame FGQ56000YL00 Measures 18"L x 3-1/2"W
+</h3>
+
+<h3>
+  <a href="https://www.amazon.com/dp/B005KD499K" target="_blank">$25 at amazon</a>
+  Rubbermaid Commercial HYGEN Mop Quick-Connect Hall Dusting Mop Frame, 36"x3-1/2", FGQ58000YL00 
+</h3>
+
+<h3>
+  <a href="http://www.homedepot.com/p/Rubbermaid-Commercial-Products-HYGEN-24-in-Quick-Connect-Squeegee-Frame-RCPQ570/100674194" target="_blank">$22 at home depot</a>
+  Rubbermaid Q570 Hygen 24" Quick-Connect Single Sided Squeegee Frame
+</h3>
+
+<h3>
+  <a href="http://www.homedepot.com/p/Rubbermaid-Commercial-Products-HYGEN-18-in-Quick-Connect-Wet-and-Dry-Mop-Frame-FGQ56000YL00/100674213" target="_blank">$17 at home depot</a>
+  Rubbermaid Commercial Products HYGEN 18 in. Quick-Connect Wet and Dry Mop Frame
+</h3>
+
+<h3>
+  <a href="https://www.amazon.com/PROFESSIONAL-MICROFIBER-HARDWOOD-LAMINATE-REUSABLE/dp/B01MS5Q91Z" target="_blank">$34.38 at amazon</a>
+  WoR-Thy MoP | 20" PROFESSIONAL MICROFIBER DUST AND HAIR MOP
+</h3>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -282,6 +403,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

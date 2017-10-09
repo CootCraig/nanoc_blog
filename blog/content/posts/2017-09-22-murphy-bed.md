@@ -61,6 +61,25 @@ mattress is called out in your construction book.
   <a href="http://lumberjocks.com/projects/313194" target="_blank">Chris Davis at Lumberjocks</a>
 </h2>
 
+<h2>
+  <a href="https://woodworking.formeremortals.net/2015/02/build-murphy-bed/" target="_blank">Page by Steve Ramsey</a>
+  How to build a Murphy Bed
+</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=s3L1T34Zrdo" target="_blank">Steve Ramsey youtube</a>
+  How to Build a Murphy Bed. Free up floor space in your home!
+</h3>
+
+<h2>
+  <a href="http://www.wallbed.com/deluxe-kit.html" target="_blank">Order page</a>
+  Create-A-Bed - Deluxe Kit for Murphy Beds
+</h2>
+
+<h3>
+  <a href="http://www.wallbed.com/dimensions-deluxe.html" target="_blank">Create-A-Bed Finished Dimensions - Deluxe Kit</a>
+</h3>
+
 <h1>Research</h1>
 
 

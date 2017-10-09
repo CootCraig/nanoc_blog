@@ -9,6 +9,91 @@ tags: [ 'antenna','tv','fm']
 
 lat,lon 38.236758, -104.352471
 
+<h1>Rotator</h1>
+
+<h2>
+  <a href="https://www.solidsignal.com/c.asp?c=3848&d=Antenna-Rotators-and-Accessories" target="_blank">Solid Signal Rotator Page</a>
+  877.312.4547   
+</h2>
+
+<h4>
+  <a href="http://starkelectronic.com/9521man.pdf" target="_blank">CM9521A Owners Guide at Start Electronic</a>
+</h4>
+
+https://support.channelmaster.com/hc/en-us/articles/200382985-Rotator-System-CM9521A-Documents-
+
+<h3>
+  <a href="https://www.solidsignal.com/pview.asp?p=CM9521A" target="_blank">$130 at Solid Signal</a>
+  Channel Master TV Antenna Rotator System with Remote Control (CM9521A)
+</h3>
+
+<h3>
+  <a href="http://www.antennapartsoutlet.com/Pages/Products/ChannelMasterPages/9521A.html" target="_blank">$115 at Antenna Parts Outlet</a>
+</h3>
+
+<h3>
+  <a href="http://www.antennapartsoutlet.com/Pages/Products/ROHNPages/MastsPushUpPoles.html" target="_blank">Rohn Masts and Push Up Poles at antennapartsoutlet.com/</a>
+</h3>
+
+<h3>
+  <a href="http://antennapartsoutlet.com/Pages/Products/ROHNPages/GEM4060.html" target="_blank">$96 at antennapartsoutlet.com</a>
+  Rohn GEM4060 - 40" - 60" ADJUSTABLE GABLE END MOUNT (MASTS UP TO 1-1/2")
+</h3>
+
+<h3>
+  <a href="http://www.antennapartsoutlet.com/Pages/Products/ROHNPages/MastsPushUpPoles.html" target="_blank">$60 at antennapartsoutlet.com</a>
+  Rohn H20 19 foot Telescoping mast
+</h3>
+
+<h4>
+  <a href="http://www.antennapartsoutlet.com/Pages/Products/ROHNPages/ROHNTelescopingMast.html" target="_blank">$60 at </a>
+  ROHN H20 TELESCOPING MAST
+</h4>
+
+The ROHN H20 Telescoping Mast is pre-galvanized for corrosion protection
+and comes assembled with hardware. It is meant for use in guyed or
+bracketed installations. Please note that guys, guy wire, anchors, and
+base mount are not included. Height refers to overall pipe length. Actual
+assembled height will be less due to overlapping.
+
+<pre>
+17 lbs
+OD Bottom: 1 1/2"
+OD Top: 1 1/4"
+Shipping Length: 123"
+Assembled Height: 231"
+</pre>
+	
+<h3>
+  <a href="http://www.antennapartsoutlet.com/Pages/Products/ROHNPages/MastsPushUpPoles.html" target="_blank">$16 each atantennapartsoutlet.com</a>
+  Rohn 1-1/4" x 16 GAUGE x 5' MAST PIPE - item# 160505GHS
+</h3>
+
+<h4>Better as recommended by Solid signal</h4>
+
+<h4>Still going strong after 11 years</h4>
+
+Great product! The rotor is on a 30 foot mast and rotates a very large &
+heavy 190-inch boom monster antenna. Subject to high winds and cold winter
+temps. Frequent operation of rotor everyday due to stations from all
+directions. NOTE - If yours isn';t doing well or died early it';s likely
+due to not using the rotor enough. Internal gears are self-lubricating
+and if you don';t exercise the motor daily you do risk premature failure,
+as with any rotor. Mast must be perfectly level vertically on all sides
+or the weight will lean on one side of the rotor motor causing it to bind.
+
+<h4>Channel Master CM9521A Rotator System</h4>
+
+I use this rotator with the biggest TV antenna I could find (an
+AntennaCraft HD1850 Heavy-Duty HD VHF/UHF/FM Antenna) in a remote area
+and it performs absolutely flawlessly.It makes receiving distant stations
+in various directions a simple matter of pushing a button or two on the
+remote control.It doesnt get much better than that.
+
+<h1>Avondale TV</h1>
+
+lat,lon 38.236758, -104.352471
+
 <h3>
   <a href="http://www.tvfool.com/?option=com_wrapper&Itemid=29&q=id%3de6a488823c7f0e" target="_blank">tvfool.com/</a>
   TV Signal Analysis Results
@@ -182,6 +267,108 @@ Main Transmitter array azimuth. True 322. Magnetic 314.
 </pre>
 
 <img src="/assets/images/avondale-digital-tvfool.png" width="800px">
+
+<h4>
+  <a href="https://www.antennasdirect.com/transmitter-locator.html" target="_blank">antennasdirect.com/transmitter-locator</a>
+  Transmitter Locator
+</h4>
+
+<pre>
+KGHB-CD	Distance: 14.69 mi 	Band: UHF	Heading: 309.73°
+ 		UniMás	27.1
+
+KVSN-DT	Distance: 44.60 mi 	Band: UHF	Heading: 322.10°
+ 	KVSN-DT	Univision	48.1
+ 	UniMAS	UniMás	48.2
+ 	LATV	LATV	48.3
+
+KOAA-TV	Distance: 44.62 mi 	Band: UHF	Heading: 322.07°
+ 	KOAA HD	NBC	05.1
+ 	KOAA D2	WeatherNation	05.2
+ 	GRIT	Grit	05.3
+
+KTSC	Distance: 44.63 mi 	Band: VHF	Heading: 322.09°
+ 	KTSC-DT	PBS	08.1
+ 	PBSKIDS	PBS Kids 24/7	08.2
+ 	Create	Create	08.3
+
+KXRM-TV	Distance: 44.64 mi 	Band: UHF	Heading: 322.07°
+ 	KXRM-DT	FOX	21.1
+ 	CW57	CW	21.2
+ 	ION	ION	21.3
+
+KKTV	Distance: 44.65 mi 	Band: UHF	Heading: 322.01°
+ 	KKTV-HD	CBS	11.1
+ 	MYKKTV	Me-TV	11.2
+
+KRDO-TV	Distance: 44.65 mi 	Band: UHF	Heading: 322.15°
+ 	KRDO-HD	ABC	13.1
+ 	KTLO	Telemundo	13.2
+ 	NOW	Heroes & Icons	13.3
+<pre>
+
+
+<h1>Avondale FM</h1>
+
+<img src="/assets/images/fmfool-avondale-fm-stations.png" width="600px">
+
+<pre>
+kgft 100.7 314deg - christian talk
+kkfm 98.1 314deg - classic rock, cumulus media
+kkpk 92.9 314deg - adult contemporary, cumulus media
+ktpl 88.3 233deg - christian
+kilo 94.3 314deg - current active rock
+katc-fm 95.1 314deg - country, cumulus media
+kccy 96.9 314deg - country, iheart
+kkmg 98.9 314deg - heritage top 40
+kvuu 99.9 314deg - today's top 40
+klcx 106.9 233deg - contemporary christian
+kbiq 102.7 314deg - christian
+kfez 101.3 186deg - Walsenburg, Soft Adult Contemporary format
+kdza-fm 107.9 314deg - Pueblo, mainstream rock format.  Broncos Radio Affiliate
+ktlf 90.5 ktsc-fm 314deg - Christian light praise
+ktsc-fm 89.5 285deg - Rev 89 CSU-P
+kfvr-fm 94.7 226deg - Spanish
+kpht-fm1 95.5 291deg
+kcme 88.7 314deg - classical public
+krwa 90.9 233deg - contemporary christian
+kpht 95.5 161deg - pueblo's greatest hits
+kcfp 91.9 302deg - cpr classical
+krcc 91.5 314deg - colorado college npr
+krxp 103.9 314deg - alternative rock
+k247bp 97.3 302deg
+krdo-fm 105.5 314deg - news talk
+kkli 106.3 314deg - iheart light rock
+kfry 89.9 246deg - contemporary inspirational
+ksty 104.5 269deg - canon city country
+kiqn 103.1 190deg - kiq'n country
+k228ey 93.5 302deg
+krye 104.9 109deg - tigrecolorado
+k298cg 107.5 283deg
+k230bz 93.9 212deg
+k262bb 100.3 277deg
+kspk 102.3 204deg
+krkv 107.3 104deg
+
+
+k270cm 101.9 272deg
+kxcl 101.7 322deg
+k248as 97.5 320deg
+kvay 105.7 88deg - lamar country
+k296al 101.1 316deg
+</pre>
+
+<h3>CPR</h3>
+
+<pre>
+Colorado Springs
+news 102.1 fm, 1490 am
+classical 94.7
+
+Pueblo
+news 101.9 fm, 1230 am
+classical 91.9
+</pre>
 
 <h1>Avondale Magnetic Declination</h1>
 
@@ -1421,6 +1608,57 @@ several machine screws per joint. Or, for temporary installations, 1/4
 inch diameter bolt/washer/nut hardware can be used to hold everything
 together, then easily disassembled and packed-away.  The screws/bolts
 also help to make the complete mast assembly more rigid.
+
+<h4>
+  tmastco.com - Sun Oct  1 17:30:59 MDT 2017
+</h4>
+
+Thanks for the response to the web site and the inquiry.
+
+4 standard aluminum mast sections (condition 1-3): $48.00; or
+
+Condition 4-7: $38.00
+
+Packaging/shipping via FedEx Ground to CO: $31.00
+
+All pieces are in stock.  Note that due to volume of orders, it may be
+5-8 days before your items ship.  Also, see the note below relative to
+business trip schedule.  Next ship date is 10/16.
+
+Payment can be via money order or bank cashiers check, made payable to
+"Henry Pollock", and mailed to the below address.  I also accept PayPal
+payments at account - hapolloc@gmail.com.  You can use a credit card
+with PayPal.
+
+If you do not have a PayPal account, I can send you a “Request for
+Money” via PayPal and you can simply pay directly with a credit card
+on the PayPal web site.
+
+Be sure to include your complete shipping address (and a phone number
+in case the delivery person has trouble finding you) with the payment.
+
+<pre>
+Henry Pollock
+P.O. Box 19325
+Raleigh, NC 27619-9325
+</pre>
+
+Note that I am sometimes on business trips (next trip is 10/01 - 15).
+This may delay shipment if your payment arrives while I am away.
+
+<pre>
+Regards,
+Henry Pollock 
+</pre>
+
+<h1>Avondale Antenna Planning</h1>
+
+<pre>
+http://www.antennapartsoutlet.com/Pages/Products/MastMounts.html
+$96 - Gable end mount.  ROHN - GEM4060
+
+
+</pre>
 
 <!--
 html boilerplate

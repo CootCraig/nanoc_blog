@@ -8,7 +8,7 @@ tags:
 ---
 
 <h4>
-  <a href="/home/craig/dev/nanoc_blog/blog/content/assets/pdf/1100i.pdf" target="_blank">Local user manual</a>
+  <a href="/assets/pdf/1100i.pdf" target="_blank">Local user manual</a>
 </h4>
 
 <h4>
@@ -41,7 +41,7 @@ tags:
        turn on at 125deg. turn off at 105deg.
 4:40 - also 3 safety systems.
        vacuum switch turns of feed motor if door is open or exhaust is clogged
-       snap disk that acts as thermostat incase the covection blowers don't start or stop.
+       snap disk that acts as thermostat in case the covection blowers don't start or stop.
        another snap disk shuts off if top of feed tube is over 200deg.
 5:30 - components
 6:00 - heat exchanger cover

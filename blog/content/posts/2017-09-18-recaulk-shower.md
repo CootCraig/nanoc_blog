@@ -19,10 +19,14 @@ tags:
   DAP PRO Caulk Caulking Tool Kit (4-Piece)
 </h3>
 
+<h2>Why is the Fugi kit tools not sold in the US?</h2>
+
 <h3>
   <a href="https://www.amazon.com/Cramer-5-Fugi-Kit-20140913-Pack/dp/B003BNLQQ0" target="_blank">$45 at amazon</a>
   Cramer 5-Fugi Kit 20140913 - recommended by Charlie DIYte
 </h3>
+
+
 
 <h3>
   <a href="https://www.amazon.com/GRIVER-4-Piece-Caulking-Caulk-Finishing/dp/B01L7DHR5Y" target="_blank">$7 at amazon</a>
@@ -31,12 +35,25 @@ tags:
 
 <h1>Research</h1>
 
-<h3>
+<h2>
   <a href="https://www.youtube.com/watch?v=_DI4hfHM_Hg" target="_blank">Charlie DIYte youtube</a>
   How to Apply Silicone - the COMPLETE Pro Guide
-</h3>
+</h2>
 
 <h4>Very opinionated. Study this.</h4>
+
+<pre>
+
+</pre>
+
+<h2>
+  <a href="https://www.youtube.com/watch?v=6vjTxTFL-k0" target="_blank">Ultimate Handyman youtube</a>
+  How to get a perfect silicone bead
+</h2>
+
+<h4>Another UK presenter, shows how to use the fugi tools</h4>
+
+Also has a video trying WD-40 to remove silicone.
 
 <h3>
   <a href="https://www.youtube.com/watch?v=HQKDusRrByQ" target="_blank">Grout Rescue CT youtube</a>
