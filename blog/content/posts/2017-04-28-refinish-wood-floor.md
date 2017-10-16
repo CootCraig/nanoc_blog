@@ -393,6 +393,13 @@ Walmart has white cotton economy hand towels for $1.84
 </h3>
 
 
+<h1>Murphy Oil Soap</h1>
+
+<h2>
+  <a href="https://www.amazon.com/Murphy-Oil-Soap-Original-Formula/dp/B00005UVD7" target="_blank">$6.90 at amazon prime</a>
+  Murphy Oil Soap, Original Formula 16 fl oz
+</h2>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

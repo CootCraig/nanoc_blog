@@ -17,6 +17,11 @@ tags:
   New Yankee Workshop S14E07 - Work Table and Clamp Cart
 </h4>
 
+<h2>
+  <a href="https://www.youtube.com/playlist?list=PLakn5LG3MU7Oe_oWQ0I8hm0tlTaq4U-1D" target="_blank"></a>
+  youtube - The New Yankee Workshop - Season 19
+</h2>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

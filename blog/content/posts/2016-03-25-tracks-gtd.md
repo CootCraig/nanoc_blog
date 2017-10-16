@@ -11,9 +11,13 @@ tags:
 ## Local page <a href="http://localhost:3010/" target="_blank">here</a>
 
 Run like this.
+
 <pre>
 cd ~/dev/tracks
 bundle exec rails server -e production -p 3010
+
+cd ~/dev/coot-on-tracks
+bundle exec rails server -e production -p 3011
 </pre>
 
 ## Tracks Site <a href="http://www.getontracks.org/" target="_blank">here</a>
@@ -300,13 +304,406 @@ Things Done" methodology. It's a web application so it's accessible
 everywhere and but its AJAX-based interface gives it the feel of a
 desktop app. This video gives brief 5min overview of how it works.
 
+https://github.com/TracksApp/tracks/archive/v2.3.0.zip
+<h1>Tracks v2.3.0</h1>
+
+git tag:
+v2.3.0
+
+<h3>
+  <a href="https://github.com/TracksApp/tracks/blob/v2.3.0/doc/upgrading.md" target="_blank">github.com/TracksApp</a>
+  Upgrading from Tracks 2.2.x to 2.3.0
+</h3>
+
+<h4>
+  <a href="http://nvie.com/posts/a-successful-git-branching-model/" target="_blank">nvie.com/posts/</a>
+  A successful Git branching model By Vincent Driessen
+</h4>
+
+<pre>
+Fri Oct 13 09:47:04 MDT 2017
+
+cd ~/dev
+git clone git@github.com:TracksApp/tracks.git coot-on-tracks
+cd coot-on-tracks/
+git checkout -b coot-on-tracks-20171013
+
+cd /media/craig/git1/data/git/
+get init --bare coot-on-tracks.git
+
+ls /media/craig/git1/data/git/coot-on-tracks.git
+cd ~dev/coot-on-tracks/
+
+git remote -v
+origin	git@github.com:TracksApp/tracks.git (fetch)
+origin	git@github.com:TracksApp/tracks.git (push)
+
+git remote add upstream git@github.com:TracksApp/tracks.git
+
+git remote -v
+origin	git@github.com:TracksApp/tracks.git (fetch)
+origin	git@github.com:TracksApp/tracks.git (push)
+upstream	git@github.com:TracksApp/tracks.git (fetch)
+upstream	git@github.com:TracksApp/tracks.git (push)
+
+git checkout -b upstream
+git checkout -b coot-master
+git checkout -b develop
+
+git remote set-url origin /media/craig/git1/data/git/coot-on-tracks.git
+git remote add git1 /media/craig/git1/data/git/coot-on-tracks.git
+
+git remote -v
+git1	/media/craig/git1/data/git/coot-on-tracks.git (fetch)
+git1	/media/craig/git1/data/git/coot-on-tracks.git (push)
+origin	/media/craig/git1/data/git/coot-on-tracks.git (fetch)
+origin	/media/craig/git1/data/git/coot-on-tracks.git (push)
+upstream	git@github.com:TracksApp/tracks.git (fetch)
+upstream	git@github.com:TracksApp/tracks.git (push)
+</pre>
+
+<pre>
+tig # First few lines
+
+2017-07-30 15:22 Matt Rogers            M─┐ [develop] [coot-master] [master] [upstream] {origin/HEAD} {origin/master} Merge pull request #2086 from TracksApp/fix-top-10-longest-running
+2017-06-19 09:24 Matt Rogers            │ o Add a test for longest running projects
+2017-06-13 17:12 Matt Rogers            │ o Fix the top 10 longest running projects list
+2017-05-20 09:49 Matt Rogers            M─│─┐ Merge pull request #2082 from dnrce/installation-wiki
+2017-05-20 10:22 Dan Rice               │ │ o Move alternative installation options to the wiki
+</pre>
+
+<h4>Ruby installed with rbenv</h4>
+
+<pre>
+cd ~/.rbenv
+plugins/ruby-build && git pull
+rbenv install 2.4.2
+cd ~/dev/coot-on-tracks 
+rbenv local 2.4.2
+gem install bundler
+bundle install
+  fails
+
+An error occurred while installing json (1.8.3), and Bundler cannot continue.
+Make sure that 
+  gem install json -v '1.8.3'
+succeeds before bundling.
+</pre>
+
+<h4>Re-Install from zip</h4>
+
+<pre>
+Sat Oct 14 07:58:27 MDT 2017
+Install from zip
+
+cd ~/dev
+wget https://github.com/TracksApp/tracks/archive/v2.3.0.zip
+unzip v2.3.0.zip
+mv tracks-2.3.0 tracks-for-coot
+
+cd ~/dev/tracks-for-coot
+git init .
+git add .
+git commit -m '2.3.0 source download'
+git tag v2.3.0
+
+git checkout -b develop
+
+cd /media/craig/git1/data/git/
+git init --bare coot-on-tracks.git
+
+cd ~/dev/tracks-for-coot
+git remote add origin /media/craig/git1/data/git/coot-on-tracks.git
+git remote add git1 /media/craig/git1/data/git/coot-on-tracks.git
+
+git push origin --all
+git push origin --tags
+</pre>
+
+<h4>edit .gitignore</h4>
+
+Have git track:
+/db/tracks-for-coot.db,
+config/database.yml,
+config/site.yml
+
+<pre>
+cd ~/dev/tracks-for-coot
+
++!/db/tracks-for-coot.db
+-config/database.yml
++#config/database.yml
+-config/site.yml
++#config/site.yml
+-db/data.yml
++#db/data.yml
+</pre>
+
+<h4>Edit local config</h4>
+
+<pre>
+cd ~/dev/tracks-for-coot/config/
+cp database.yml.tmpl database.yml
+cp site.yml.tmpl site.yml
+
+cd ~/dev/tracks-for-coot/
+git add .
+git commit -m 'track config/database.yml config/site.yml'
+git push origin develop
+</pre>
+
+If you intend to deploy Tracks with the built in webserver called WEBrick, you’ll need to change 
+
+<pre>
+config.serve_static_assets to true in 
+config/environments/production.rb
+</pre>
+
+in order for the images, stylesheets, and javascript files to be served correctly.
+
+<pre>
+cd ~/dev/tracks-for-coot/
+git add .
+git commit -m 'edits for local config'
+git push origin develop
+</pre>
+
+<h4>Select ruby with rbenv</h4>
+
+<pre>
+cd ~/dev/tracks-for-coot
+rbenv local 2.3.5
+rbenv local 2.2.8
+</pre>
+
+<h4>Finish the install</h4>
+
+<pre>
+gem install bundler
+bundle install --without development test
+bundle exec rake db:migrate RAILS_ENV=production
+bundle exec rake assets:precompile RAILS_ENV=production
+</pre>
+
+<h4>Run like this.</h4>
+
+<pre>
+cd ~/dev/coot-on-tracks
+bundle exec rails server -e production -p 3011
+</pre>
+
+
+<h1>Another install attempt</h1>
+
+Mon Oct 16 05:14:55 MDT 2017
+
+<h4>unzip tracks v2.3.0 and use ruby 2.3.5</h4>
+
+<pre>
+rbenv install 2.3.5
+
+cd ~/dev
+unzip v2.3.0.zip 
+mv tracks-2.3.0 tracks-for-coot
+cd ~/dev/tracks-for-coot
+rbenv local 2.3.5
+gem install bundler
+</pre>
+
+<h4>Set up git repo</h4>
+
+<pre>
+cd /media/craig/git1/data/git/
+git init --bare coot-on-tracks.git
+cd ~/dev/tracks-for-coot
+ls /media/craig/git1/data/git/coot-on-tracks.git
+
+git init .
+git add .
+git commit -m '2.3.0 source download'
+git tag tracks-v2.3.0
+git checkout -b develop
+git remote add origin /media/craig/git1/data/git/coot-on-tracks.git
+git remote add git1 /media/craig/git1/data/git/coot-on-tracks.git
+git push origin --all
+git push origin --tags
+</pre>
+
+<h4>edit .gitignore</h4>
+
+Have git track:
+/db/tracks-for-coot.db,
+config/database.yml,
+config/site.yml
+
+<pre>
+cd ~/dev/tracks-for-coot
++!/db/tracks-for-coot.db
+-config/database.yml
++#config/database.yml
+-config/site.yml
++#config/site.yml
+-db/data.yml
++#db/data.yml
+</pre>
+
+diff --git a/.gitignore b/.gitignore
+
+<pre>
+index e200dc5..1b7940e 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -15,13 +15,14 @@
+ /db/*.db
+ /db/*.sqlite3
+ /db/*.sqlite3-journal
++!/db/tracks-for-coot.db
+ /log/*.log
+ /public/assets/
+ /tmp
+-config/database.yml
++#config/database.yml
+ config/deploy.rb
+-config/site.yml
+-db/data.yml
++#config/site.yml
++#db/data.yml
+ nbproject
+ rerun.txt
+ tags
+</pre>
+
+git push git1 develop
+
+<h4>Edit local config</h4>
+
+<pre>
+cd ~/dev/tracks-for-coot/config/
+cp database.yml.tmpl database.yml
+cp site.yml.tmpl site.yml
+
+cd ~/dev/tracks-for-coot/
+git add .
+git commit -m 'create and track config/database.yml config/site.yml'
+git push origin develop
+</pre>
+
+<h4>config/database.yml</h4>
+
+Active db settings.
+
+<pre>
+development:
+  adapter: sqlite3
+  database: /db/tracks-for-coot.db
+  pool: 5
+  timeout: 5000
+
+production:
+  adapter: sqlite3
+  database: /db/tracks-for-coot.db
+  pool: 5
+  timeout: 5000
+
+test: &TEST
+  adapter: sqlite3
+  database: /db/tracks-test.db
+  pool: 5
+  timeout: 5000
+</pre>
+
+<h4>config/site.yml</h4>
+
+<pre>
+cd ~/dev/tracks-for-coot/
+git add .
+git commit -m 'Configuration changes to config/database.yml, config/site.yml'
+git push origin develop
+</pre>
+
+<h4>config/environments/production.rb</h4>
+
+If you intend to deploy Tracks with the built in webserver called WEBrick, you’ll need to change 
+
+<pre>
+config.serve_static_assets to true in 
+config/environments/production.rb
+</pre>
+
+<pre>
+diff --git a/config/environments/production.rb b/config/environments/production.rb
+index b93a877..932c7f9 100644
+--- a/config/environments/production.rb
++++ b/config/environments/production.rb
+@@ -20,7 +20,7 @@ Rails.application.configure do
+   # config.action_dispatch.rack_cache = true
+ 
+   # Disable Rails's static asset server (Apache or nginx will already do this).
+-  config.serve_static_assets = false
++  config.serve_static_assets = true
+ 
+   # Compress JavaScripts and CSS.
+   config.assets.js_compressor = :uglifier
+</pre>
+
+<pre>
+cd ~/dev/tracks-for-coot/
+git add .
+git commit -m 'config.serve_static_assets to true in config/environments/production.rb to serve static assets with WEBrick'
+git push origin develop
+</pre>
+
+<h4>Populate your database with the Tracks schema</h4>
+
+<pre>
+cd ~/dev/tracks-for-coot/
+bundle exec rake db:migrate RAILS_ENV=production
+</pre>
+
+<h4>Precompile assets</h4>
+
+<pre>
+bundle exec rake assets:precompile RAILS_ENV=production
+</pre>
+
+<h4>Try the site</h4>
+
+<pre>
+cd ~/dev/tracks-for-coot/
+bundle exec rails server -e production -p 3011
+</pre>
+
+Mon Oct 16 09:38:01 MDT 2017
+
+<pre>
+cd ~/dev/tracks-for-coot/
+git add .
+git commit -m 'Site is running. admin and craig accounts created.'
+git push origin develop
+</pre>
+
+<h4>tracks is up and running</h4>
+
+<pre>
+git checkout -b 20171016-tracks-running
+git push git1 20171016-tracks-running
+git checkout develop
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

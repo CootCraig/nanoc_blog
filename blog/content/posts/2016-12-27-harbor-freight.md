@@ -415,6 +415,19 @@ Average air consumption 	4 CFM @ 90 PSI
 Accessories Included 	Flat chisel
 </pre>
 
+<h2>
+  <a href="https://www.harborfreight.com/21-Angle-Full-Head-Framing-Air-Nailer-69927.html" target="_blank">$80 at harborfreight.com</a>
+  21° Angle Full Head Framing Air Nailer - Central Pneumatic® - item#69927 
+</h2>
+
+<h4>A good inexpensive nailer By Daryl does it all</h4>
+
+I have used to reside a 2600 sq ft wood sided house and a 2 1/2 car
+garage as well. Only had one jam. Word to the wise, test fire a few
+nails and make sure the safety is fully depressed. This can be adjusted
+with the Allen wrenches that comes with the nailer. After I adjusted it
+correctly it fires right every time.
+
 <h2>Buy List</h2>
 
 <pre>
@@ -470,7 +483,6 @@ Maybe not
 16/18 gauge 3-in-1 air nailer/stapler central pneumatic - item# 68057 - $89.99
 </pre>
 
-
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -481,6 +493,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
