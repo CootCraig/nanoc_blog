@@ -25,6 +25,45 @@ Serial #: 5883J18901
 The pilot is lit with a match.
 The pilot is located behind and under the middle of the burners.
 
+<h2>18x24x1 or 18x25x1 filter</h2>
+
+<h3>
+  <a href="https://www.filtrete.com/3M/en_US/filtrete/products/~/Filtrete-Healthy-Living-Air-Filter?N=4315+3292675507+3294529207&rt=rud" target="_blank">filtrete.com/3M/</a>
+  Filtrete ultra allergen Healthy Living Air Filter 1500
+</h3>
+
+<pre>
+18x24x1 	
+2021 	
+2021-6
+</pre>
+
+<h4>
+  <a href="https://www.lowes.com/pd/Filtrete-1500-MPR-Ultra-Allergen-Common-18-in-x-24-in-x-1-in-Actual-17-7-in-x-23-7-in-x-0-7812-in-Electrostatic-Pleated-Air-Filter/3514370" target="_blank">$15.97/1 at lowes</a>
+  Filtrete 1500 MPR Model # 2021DC-9
+</h4>
+
+<pre>
+Buy 4, Get 15% Off
+4 * 16.97
+price 57.70
+</pre>
+
+Filtrete 1500 MPR Ultra Allergen (Common: 18-in x 24-in x 1-in; Actual: 17.7-in x 23.7-in x 0.7812-in) Electrostatic Pleated Air Filter 
+
+
+<h4>Lowes order</h4>
+
+<pre>
+Order #: 340765625
+Purchase Date and Time: 10/18/2017 08:48 AM
+
+Parcel Shipping FREE
+Sales Tax $2.25
+Total $59.95
+</pre>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -5,6 +5,10 @@ kind: article
 tags: [ 'linux' ]
 ---
 
+<h4>
+  <a href="/assets/pdf/linux-commandline-edition-4-william-shotts.pdf" target="_blank">The linux commadline by william shotts</a>
+</h4>
+
 # Find OS version
 
 ## debian
@@ -424,6 +428,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

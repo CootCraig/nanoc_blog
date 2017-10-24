@@ -18,6 +18,21 @@ Model # MAH5500BWW
 Serial # A9661866ER
 </h4>
 
+<h3>
+  <a href="http://www.appliancepartspros.com/whirlpool-water-valve-w-wp22003834-ap6006392.html" target="_blank">Thermistor, Water Valve (at appliancepartspros.com)</a>
+  appears to be leaking.
+</h3>
+
+<pre>
+Thermistor, Water Valve
+Part Number: 	AP6006392
+Made by: 	Whirlpool
+$56.74
+</pre>
+
+<img src="http://cdn.appliancepartspros.com/images/product/cache/whirlpool-water-valve-w-wp22003834-ap6006392_01_m.jpg" width="600px">
+
+<img src="http://cdn.appliancepartspros.com/images/product/cache/whirlpool-water-valve-w-wp22003834-ap6006392_02_m.jpg" width="600px">
 
 <h2>MAH5500BWW Test Procedure</h2>
 

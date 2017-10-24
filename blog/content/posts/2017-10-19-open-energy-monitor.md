@@ -1,22 +1,14 @@
 ---
-title: "ECommerce"
-created_at: Mon Jun  1 13:06:22 MDT 2015
+title: "OpenEnergyMonitor"
+created_at: Thu Oct 19 08:04:52 MDT 2017
 kind: article
 tags:
-  - ecommerce
+  - openenergymonitor
 ---
 
-<h1>ecommerce open source</h1>
-
-<h2>
-  <a href="https://hotcakes.org/" target="_blank">hotcakes.org/</a>
-</h2>
-
-<h1>Credit Card Processing</h1>
-
-<h2>
-  <a href="https://squareup.com/" target="_blank">squareup.com/</a>
-</h2>
+<h1>
+  <a href="https://openenergymonitor.org/" target="_blank">openenergymonitor.org/</a>
+</h1>
 
 <!--
 html boilerplate

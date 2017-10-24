@@ -47,5 +47,32 @@ Blog entry by George_SA
 
 ## L-Fence
 
-http://www.finewoodworking.com/how-to/video/versatile-tablesaw-l-fence.aspx
+<h3>
+  <a href="https://www.youtube.com/watch?v=nXNp9S1JTGc" target="_blank">I've Been Thinking Workshop youtube</a>
+  A Crosscut Sled Like No Other
+</h3>
 
+Lightweight design with some good ideas and some problems.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=81jfZR8m1G4" target="_blank">Jack Houweling youtube</a>
+  Make a Table saw sled with an Awesome safety feature.
+</h3>
+
+<!--
+html boilerplate
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

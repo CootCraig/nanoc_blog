@@ -38,6 +38,11 @@ channel is produced by Scott's son Nate who has no idea what he is doing.
   Screws: What You Need to Know
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=wgwBKyWyS_s" target="_blank">Essential Craftsman youtube</a>
+  Sawzall Basics and Tips
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -48,6 +53,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

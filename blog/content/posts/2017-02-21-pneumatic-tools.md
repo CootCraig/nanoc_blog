@@ -9,6 +9,47 @@ tags:
 
 <h1>Couplers</h1>
 
+<h2>Threads</h2>
+
+<pre>
+Pueblo Lowe's
+1225 Highway 50 West
+Pueblo, CO 81008, Store #0318
+Phone: (719) 543-3339
+
+5
+
+</pre>
+
+<h4>
+  <a href="https://www.amazon.com/Anderson-Metals-Garden-Fitting-Swivel/dp/B006PKLZ7G" target="_blank">$7.77 at amazon</a>
+  Anderson Metals Brass Garden Hose Fitting, Swivel, 3/4" Female Hose ID x 1/4" Male Pipe 
+</h4>
+
+<h4>
+  <a href="http://www.about-air-compressors.com/fitting.html" target="_blank">about-air-compressors.com</a>
+  Compressed Air Fitting
+</h4>
+
+<h5>Different NPT Fitting Sizes</h5>
+
+1/4" NPT fitting thread
+
+Fitting sizes can be a bit confusing! Do not make the assumption - as
+I used to - that a 1/4" NPT fitting thread is anywhere near 1/4 inch in
+diameter! Not even close.
+
+Visit your favorite hardware or plumbing store and ask for a 1/4"
+fitting. The fitting they will show you will likely be a 1/4" NPT. You
+will look at the diameter of the thread and say to yourself, this ain't
+no 1/4" fitting. It will be. The actual diameter of the 1/4" NPT thread
+will be just over 1/2".
+
+The size of an NPT fitting, teh 1/4", the 3/8", 1/2" and so on are
+reference sizes. The actual size of each is much larger than the fraction
+size they are supposed to be.
+
+
 <h2>
   <a href="http://www.miltonindustries.com/couplers-and-plugs/v-style.html" target="_blank">miltonindustries.com Milton Couplers</a>
 </h2>
@@ -180,6 +221,18 @@ Good information here. Recommends quality of more expensive 68843
   Harbor Freight Central Pneumatic 18 Gauge & 16 Gauge nailer
 </h3>
 
+<h2>Pneumatic Riveter</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=zkXQjLFpDx8" target="_blank">ChuckE2009 youtube</a>
+  AIR-RIVET GUNS ARE AFFORDABLE & AWESOME!
+</h3>
+
+<h4>
+  <a href="https://www.amazon.com/gp/product/B002GQ51Y6" target="_blank">$55 at amazon</a>
+  Neiko 30702A Pistol Type Air Rivet Gun 
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -190,6 +243,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
