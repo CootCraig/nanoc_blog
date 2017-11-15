@@ -11,6 +11,18 @@ tags:
   <a href="/assets/pdf/1100i.pdf" target="_blank">Local user manual</a>
 </h4>
 
+<pre>
+p. 7 - venting illustrations
+p. 9 - Thermostat installation
+p.10 - Venting chart
+p.11 - Feed Adjustment Instructions
+p.12 - Operating Instructions
+p.13 - Cleaning and Maintenance
+p.14 - Reading the fire and adjustment procedures
+p.15 - Component information
+p.17 - Troubleshooting
+</pre>
+
 <h4>
   <a href="https://www.youtube.com/watch?v=FfMMwZUTLYw" target="_blank">Wood Heat Stoves youtube</a>
   Quadra-Fire 1100-I pellet stove insert operation and maintenance manual video
@@ -41,7 +53,7 @@ tags:
        turn on at 125deg. turn off at 105deg.
 4:40 - also 3 safety systems.
        vacuum switch turns of feed motor if door is open or exhaust is clogged
-       snap disk that acts as thermostat in case the covection blowers don't start or stop.
+       snap disk that acts as thermostat in case the convection blowers don't start or stop.
        another snap disk shuts off if top of feed tube is over 200deg.
 5:30 - components
 6:00 - heat exchanger cover
@@ -113,12 +125,12 @@ tags:
        turns stove off if feed tube temperature exceeds 200deg.
        pellets combust at ??
 20:55  Heat exchanger - aluminum fins in the fire-box at the right side
-21:32  Installtion tips and adjustment procedures
+21:32  Installation tips and adjustment procedures
 23:40  Hopper adjustment for installation.
 24:18  back of hopper briefly exposed.
 24:45 - feed adjustment plate, screw just loose enough to allow adjustment
 26:20 - first fire
-26:25 - first power, blower comes on
+26:25 - first power, exhaust blower comes on
         make sure thremostat is below room temperature
         put handful of pellets in fire pot
         close and latch door, set thermostat above room temerature
@@ -167,9 +179,11 @@ tags:
 
 </pre>
 
-<h4>
+<h1>
   <a href="http://woodheatstoves.com/" target="_blank">woodheatstoves.com</a>
-</h4>
+</h1>
+
+Quadrafire 1100i EBM Exhaust Blower (Motor Only) 812-1110 - $340.00
 
 <h1>Parts</h1>
 
@@ -189,6 +203,11 @@ tags:
 
 The Quadrafire 1100I Insert ended production on 5-10-1999 with the last
 serial number being 150698.
+
+<h3>
+  <a href="https://wood-furnaces.net/quadrafire1100ip-28combustionexhaustblower.aspx" target="_blank">wood-furnaces.net/quadrafire1100ip</a>
+  Quadrafire 1100i/P-28 Combustion/Exhaust Blower - $330
+</h3>
 
 <h2>Replace Ignitor</h2>
 
@@ -244,6 +263,54 @@ of Quadra-Fire 1100-I ignitor installation
   Are Pellet Stoves Efficient?
 </h4>
 
+<h2>November 2017 Troubleshooting</h2>
+
+Problem: Fire does not start.
+
+Symptom: Exhaust blower does not run.
+
+<h4>Blower #2 - Negative Draft Blower</h4>
+
+User manual p.1614 Blower #2 (Negative Draft Blower)
+
+This blower creates a negative pressure (vacuum) in the
+firebox. It extracts all of the exhaust out of the firebox and
+sends it into the venting system. The blower is located on the
+left side of the insert. When the insert is pulled out onto the
+hearth, the blower is accessible through a removable access
+panel.
+
+</h4>p13.4 VENTING SYSTEM</h4>
+
+The venting system should be inspected and cleaned at least once a year,
+or more often depending upon the quality of your fuel.  If you are
+experiencing nuisance shutdowns, check for a clogged exhaust system. If
+the exhaust is restricted, the vacuum safety switch will shut the feed
+motor off (the red light will remain on). You can clean the venting
+system without removing it from the insert by opening the small hinged
+access door, located on top of the exhaust blower housing. Using a small
+vacuum attachment, vacuum the exhaust housing
+
+<h4>p13.6 - BLOWERS</h4>
+
+There are three blowers in this insert:  an exhaust blower that evacuates
+the exhaust out of the firebox, and two convection air blowers that
+delivers heat into the room.  THESE BLOWERS REQUIRE NO LUBRICATION.
+
+A.  The exhaust blower is located at the left rear side of the insert.
+It should be inspected during the annual cleaning of the exhaust
+system. The exhaust blower impellers can be inspected periodically by
+using the exhaust blower cleanout door.
+
+B.  The larger convection blower is located on the front left side of the
+insert, and is accessible by removing the front left panel.  The impeller
+on this blower should be cleaned at least once a year. You can do this
+without removing the blower. Simply brush and vacuum the impeller area.
+
+C.  The small convection blower is located at the rear right side of the
+insert. When the insert is pulled out onto the hearth, it is accessible
+through a removable access panel. The impeller on this blower should
+also be cleaned at least once a year, and can also be cleaned in place.
 
 <!--
 html boilerplate

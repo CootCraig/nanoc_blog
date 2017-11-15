@@ -12,6 +12,21 @@ tags:
 Sling orange $20. Sling blue $25. Both $40.
 
 <h2>
+  <a href="https://www.sling.com/devices" target="_blank">Sling TV Devices</a>
+</h2>
+
+<h3>
+  <a href="https://www.roku.com/products/roku-express" target="_blank">Roku Express - $30</a>
+</h3>
+
+<h3>
+  <a href="https://www.roku.com/products/roku-express-plus" target="_blank">Roku Express+ - $40</a>
+</h3>
+
+Add kick to your classic TV. Get the same Roku Express streaming
+experience, with options to connect via HDMI® or composite A/V ports.
+
+<h2>
   <a href="https://www.sling.com/service" target="_blank">sling.com/service</a>
 </h2>
 

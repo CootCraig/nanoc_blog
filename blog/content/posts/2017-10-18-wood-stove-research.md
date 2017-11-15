@@ -53,6 +53,34 @@ Bob Fisher had some basic criteria that he wanted from his stove, and his wife s
 </h2>
 
 <h3>
+  <a href="http://jotul.com/us/products/wood-stoves/jotul-f-3-cb" target="_blank">jotul.com/us/products/</a>
+  Jøtul F 3 CB Timeless bestseller
+</h3>
+
+This is our signature small / medium woodstove now with an enhanced
+fire view.  The Jøtul F 3 CB is the world's best value for your heating
+dollar and is the best selling small / medium cast iron woodstove in
+North America.  Selling up to 20,000 stoves worldwide each year, the
+Jøtul F 3 CB has an impeccable track record for durability- as do all
+of our stoves.  Along with our other woodstoves, Jøtul has developed
+and manufactured the first complete line of non-catalytic woodstoves
+with open door fire viewing.
+
+<h4>
+  <a href="http://wood-stove.org/JotulF3.html" target="_blank">wood-stove.org/JotulF3</a>
+</h4>
+
+This heater is highly efficient which make this stove very
+attractive. Most people who buy this wood-burning stove enjoy it and
+keep it for ridiculously long periods of time. The wood burns on a bed of
+ash, rather than having some sort of grate. This has been said to be the
+best way of burning wood in a stove. A built-in, yet extremely effective
+airwash system keeps the large windows clean and free of condensation,
+allowing you to enjoy the large view of the fire.
+
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+
+<h3>
   <a href="http://www.forestryforum.com/board/index.php?topic=28414.0" target="_blank">forestryforum.com/board/</a>
   Firewood and Wood Heating » Favorite Wood Stoves 
 </h3>
@@ -138,6 +166,18 @@ It will keep heat all night.  It doesn't use a great deal of wood.
 <h2>
   <a href="https://www.hearth.com/talk/categories/main-hearth-forums.4/" target="_blank">hearth.com/talk/</a>
 </h2>
+
+<h4>
+  <a href="https://www.hearth.com/talk/threads/show-us-yours-wood-shed.88203/page-2#post-1144567" target="_blank">hearth.com - Post on Morso and Jotul stoves</a>
+</h4>
+
+Morso are famous in Europe and I know they sell in the USA and Canada,
+they are a high quality cast iron stove manufacturer. Jotul are brilliant
+and I have toured their factory in Norway, I could post some photos if you
+like? Our f118 nearly heats all the home and never needs rekindled. I ve
+owned many stoves and i think jotul and morso are the best, maybe jotul
+has the edge, slightly, just my own view. Willy Campbell is a star,
+I m sure I m related to him !
 
 <!--
 html boilerplate

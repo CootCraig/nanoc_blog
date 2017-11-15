@@ -6,11 +6,11 @@ tags:
   - philips_sonicare
 ---
 
+<h2>Philips Sonicare 2 series hx6211</h2>
 
-Purchased hx6211/98
-Sat Apr 23 20:50:34 MDT 2016
+purcahsed - Sat Apr 23 20:50:34 MDT 2016
 
-replacement toothbrush head
+<h3>replacement toothbrush head</h3>
 
 <a href="http://www.amazon.com/SoniShare-Proresults-Replacement-Toothbrushes-Available/dp/B01CUWHZJ4/" target="_blank">4 for $14.85 at amazon prime</a> SoniShare Premium Proresults Replacement Heads for Philips Sonicare Toothbrushes, 4 Pack
 
@@ -31,12 +31,17 @@ suitable for 2 Series plaque control
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

@@ -229,10 +229,73 @@ Showy Goldeneye
   $75.00 per pound
 </h4>
 
+<h1>Legumes</h1>
+
 <h2>
 <a href="" target="_blank"></a>
 Colorado Native Plant Society
 </h2>
+
+<h2>White Prairie Clover - Dalea candida</h2>
+
+<h3>
+  <a href="https://plants.usda.gov/core/profile?symbol=DACA7" target="_blank">plants.usda.gov/core/profile</a>
+  Dalea candida Michx. ex Willd.  white prairie clover 
+</h3>
+
+<h3>
+  <a href=""https://plants.usda.gov/plantguide/pdf/pg_daca7.pdf target="_blank">usda.gov/plantguide/pdf</a>
+</h3>
+
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+
+<h3>
+  <a href="http://www.perennialsolutions.org/all-nitrogen-fixers-are-not-created-equal" target="_blank">perennialsolutions.org/all-nitrogen-fixers-</a>
+  All Nitrogen Fixers Are Not Created Equal
+</h3>
+
+While you may choose to grow non-native pears and peaches in your food
+forest, there is no particular reason to grow a non-native nitrogen fixer
+over a native one, with all things being equal. In fact I tend to assume
+that native plants have a network of visible and invisible relationships
+with other organisms of all kingdoms, making them more desirable to use
+whenever possible. I think with the information these databases have
+provided, we are in an excellent position to promote particular native
+nitrogen fixers for use in permaculture projects.
+
+<h2>COLORADO</h2>
+
+Non-native trees - Medium Nitrogen - Elaeagnus angustifolia 	Robinia pseudoacacia
+
+Native Shrubs - Medium Nitrogen - Alnus incana tenuifolia, Amorpha fruticosa, Ceanothus velutinus, Elaeagnus commutata, Shepherdia argentea, S. canadensis
+
+Native Herbs - Medium Nitrogen - Amorpha canescens, Dalea formosa, Dryas octopetala, Hedysarum boreale
+
+Native Vines - Medium Nitrogen - Apios americana
+
+<h5>White Prairie Clover (Dalea candida)</h5> is a native clover of the
+prairies that extends some into the Eastern Forest region. It is used to
+make a tea, but had never crossed my mind as a particularly significantly
+given at all of the hundreds of species that seemed to grow in the
+prairie. Now I know that the USDA database states that this is the only
+herb native to North America that fixes over 160 pounds of nitrogen per
+acre per year. Though it wants full sun and (and can handle fairly dry
+soils), I’m going to try to find room for some of this little–used
+native that is deserving of a place in the spotlight. Interestingly,
+like alder, members of this genus can be found in the high, medium and
+low categories.
+
+<h5>False Indigo (Amorpha fruticosa)</h5> is native to almost the
+entire country, though it is considered invasive in Connecticut and a
+noxious weed in Washington. It can be found from flooded riparian areas
+to extremely dry conditions, though it always wants a good amount of
+sun. Studies in the Southeast have shown that under their conditions
+it can be coppiced up to four times a year for alley cropping chop and
+drop, though permaculturist Jerome Osentowski reports that it does not
+coppice well in the high desert of Colorado. It is very widely used in
+China in agroforestry projects due to its fertility benefits and use
+as a pesticide. I also personally like that it is neither suckering nor
+thorny. USDA rates this as a “medium” nitrogen fixer.
 
 <!--
 html boilerplate
@@ -244,6 +307,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

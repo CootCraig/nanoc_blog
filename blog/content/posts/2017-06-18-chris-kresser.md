@@ -45,6 +45,21 @@ This can be accomplished by following the “three Rs” of treating heartburn a
   Chios Mastiha Tears Gum Greek 100% Natural Mastic Packs From Mastic Growers (20gr Medium Tears) 
 </h3>
 
+<h3>
+  <a href="https://www.amazon.com/gp/product/1619617471" target="_blank">$14 at amazon books</a>
+  Unconventional Medicine: Join the Revolution to Reinvent Healthcare, Reverse Chronic Disease, and Create a Practice You Love
+</h3>
+
+<h3>
+  <a href="https://chriskresser.com/still-think-gluten-sensitivity-isnt-real/" target="_blank">chriskresser.com/ article</a>
+  Still Think Gluten Sensitivity Isn’t Real? on August 23, 2016
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=iYPM7SZspN0" target="_blank">chriskresser.com/ youtube</a>
+  RHR: New Treatment for SIBO and IBS C—with Dr Kenneth Brown
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

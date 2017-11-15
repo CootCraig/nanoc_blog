@@ -16,7 +16,7 @@ Run like this.
 cd ~/dev/tracks
 bundle exec rails server -e production -p 3010
 
-cd ~/dev/coot-on-tracks
+cd ~/dev/tracks-for-coot
 bundle exec rails server -e production -p 3011
 </pre>
 

@@ -107,6 +107,22 @@ It is not accidental that the current system of hierarchical corporations, banks
 </p>
 </blockquote>
 
+<h3>
+  <a href="http://www.oftwominds.com/blogoct17/btc-innovation10-17.html" target="_blank">oftwominds.com/blogoct17</a>
+  Why Is Bitcoin a Big Deal? - October 31, 2017 
+</h3>
+
+To grasp the significance of these four characteristics, we have to
+go back to the early history of modern capitalism. My longstanding
+recommendation is to start with Fernand Braudel's 3-volume history,
+Civilization and Capitalism, 15th-18th Century:
+
+The Structures of Everyday Life (Volume 1)
+
+The Wheels of Commerce (Volume 2)
+
+The Perspective of the World (Volume 3) 
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -117,6 +133,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

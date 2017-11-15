@@ -170,6 +170,21 @@ OMV_3_0_76_Odroidxu4_4.9.28.7z 	2017-05-19
   Upgrade ODROID-XU4 to OpenMediaVault 3
 </h2>
 
+<h3>
+  <a href="https://www.youtube.com/watch?time_continue=6&v=yX3AMp0W3cA" target="_blank">LinuxTechShow youtube</a>
+  The 8-CORE Raspberry Pi Killer: ODROID XU4Q with CloudShell2 Case - Assembly
+</h3>
+
+<h3>
+  <a href="https://ameridroid.com/products/odroid-xu4q" target="_blank">ameridroid.com/products</a>
+  ODROID-XU4Q with Passive Heatsink
+</h3>
+
+<h3>
+  <a href="https://ameridroid.com/products/cloudshell2-nas-kit-smoky-blue" target="_blank">ameridroid.com/products</a>
+  CloudShell2 NAS Kit (Smoky Blue) [0261SB] 
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -180,6 +195,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

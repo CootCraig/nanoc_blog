@@ -671,6 +671,16 @@ The Falken SN-828 is a T speed rated touring tire designed for a wide
 range of vehicles in sizes 13 inch to 16 inch. All-season traction,
 positive handling and a quiet ride help deliver solid value.
 
+<h3>
+  <a href="https://www.amazon.com/dp/B003V9JWHO" target="_blank">$13 at amazon</a>
+  Form-A-Funnel Flexible Draining Tool - 6.5" x 14.5" 
+</h3>
+
+<h3>
+  <a href="http://www.odyclub.com/forums/54-2011-2017-odyssey/320538-what-oil-filter-diy-oil-change.html" target="_blank">odyclub.com/forums/ 2011 - 2017 Odyssey</a>
+  What Oil and filter? DIY oil change
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -681,6 +691,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

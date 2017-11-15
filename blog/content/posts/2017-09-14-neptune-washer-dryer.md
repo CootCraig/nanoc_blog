@@ -30,6 +30,16 @@ Made by: 	Whirlpool
 $56.74
 </pre>
 
+<pre>
+YOUR ORDER NUMBER IS 8157495
+Part Number 	Item 	Unit Price 	Quantity 	Total
+AP6006392 	Thermistor, water valve 	$56.74 	1 	$56.74
+SUBTOTAL 	$56.74
+SALES TAX 	$0.00
+SHIPPING 	$13.25
+TOTAL 	$69.99
+<pre>
+
 <img src="http://cdn.appliancepartspros.com/images/product/cache/whirlpool-water-valve-w-wp22003834-ap6006392_01_m.jpg" width="600px">
 
 <img src="http://cdn.appliancepartspros.com/images/product/cache/whirlpool-water-valve-w-wp22003834-ap6006392_02_m.jpg" width="600px">

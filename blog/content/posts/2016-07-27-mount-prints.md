@@ -75,6 +75,23 @@ lasts as well as face mounted acrylic it's something I'd look into making.
 
 <a href="http://forum.luminous-landscape.com/index.php?topic=79022.0" target="_blank">forum.luminous-landscape.com</a>
 
+<h2>D-Ring and Wire</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=0YTdphzDHTY" target="_blank">McGowanFineArt youtube</a>
+  How to Properly Knot Picture Frame Wire
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=-ThspVqHlok" target="_blank">fixaframe youtube</a>
+  How To Screw D-Rings & Tie Wire On A Picture Frame
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=ALtYu9ezJY4" target="_blank">Cheap Pete's youtube</a>
+  How to put a Wire on a Frame
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -85,6 +102,10 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
