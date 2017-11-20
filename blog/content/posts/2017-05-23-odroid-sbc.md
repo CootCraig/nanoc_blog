@@ -185,6 +185,28 @@ OMV_3_0_76_Odroidxu4_4.9.28.7z 	2017-05-19
   CloudShell2 NAS Kit (Smoky Blue) [0261SB] 
 </h3>
 
+<h1>Target odroid-c1+ target</h1>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=SUKNdBzfEWc" target="_blank">ameriDroid youtube</a>
+  ODROID-VU7 and VU7+ Touchscreen Intro and Setup
+</h3>
+
+<h3>
+  <a href="https://ameridroid.com/products/ameridroid-vu7-tablet-kit" target="_blank">ameridroid.com/products</a>
+  ameriDroid VU7 Tablet Kit [0186-A] $24.95
+</h3>
+
+<h3>
+  <a href="https://ameridroid.com/products/odroid-c1" target="_blank">ameridroid.com/products</a>
+  ODROID-C1+ [0058A] $38.95 $36.95 
+</h3>
+
+<h3>
+  <a href="https://ameridroid.com/products/7-inch-hdmi-display-with-multitouch" target="_blank">ameridroid.com/products</a>
+  ODROID-VU7 - 7 inch HDMI Display with Multitouch (800x480) [0176] $61.95
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

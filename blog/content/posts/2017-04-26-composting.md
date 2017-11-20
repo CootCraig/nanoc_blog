@@ -52,6 +52,11 @@ if possible. It holds heat and moisture better than a 3 ft. cube but
 isn't so heavy as to force an anaerobic pile. Use the same design,
 but make the overall dimensions 4' x 4' x 12' if you have the room.
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=gDOqZctlR3Q&list=PLshngXyVl0EY41aPGcnm4BIAx6OS9tcZX&index=34" target="_blank">ART and BRI youtube</a>
+  Compost Your Leaves! - Build A Leaf Mold Ring
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

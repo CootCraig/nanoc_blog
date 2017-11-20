@@ -204,11 +204,20 @@ http://www.planet-cnc.com/
 * <a href="https://www.youtube.com/watch?t=5&v=OxQu-VsQc-4" target="_blank">Overview and first run of Probotix CNC Rotary Axis</a>
 * <a href="https://www.youtube.com/watch?v=eakfxCt4zyU&index=7&list=PLjFHFZ7yr2NGzM8g00bUs2SYuoZq7pCwI" target="_blank">First Project on Probotix Asteroid CNC Router</a>
 
-
-
-~~~~~~~~~~~~~~~~~~
+<!--
+html boilerplate
 <a href="" target="_blank"></a>
-~~~~~~~~~~~~~~~~~~
-
-
-
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->
