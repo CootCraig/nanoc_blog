@@ -7,6 +7,39 @@ tags:
   - ody_maintenance
 ---
 
+<h3>
+  <a href="/assets/pdf/kenwood-dpx500bt-user-manual.pdf" target="_blank">Kenwood DPX500BT Radio</a>
+  Local user manual
+</h3>
+
+<pre>
+p.012 - front panel components
+p.056 - Listening to the radio
+p.057 - Station Preset memory
+        Tune to the station
+        Press and hold button 1-6
+p.059 - Preset Tuning
+        Select the band
+        Press button 1-6 to select the preset station
+p.062 - Tuner setting
+        Select tuner
+        Press and hold audio button
+        Use control knob to select "SETTINGS"
+          Se 3-3. How to select the item
+       "SEEK MODE" - 
+         AUTO1  - automatic search on antenna
+         AUTO2  - search from presets
+         MANUAL - normal manual tuning
+p.063 - Direct access tuning
+        Press direct button on remote
+        "----" apears
+        Press number buttons
+          FM 9,2,1 for 92.1 MHz
+          AM 8,5,0 for 850 kHz
+        Press [ENT] button on the remote
+        Press return button to cancel direct tuning from remote
+</pre>
+
 #### Honda J engine <a href="https://en.wikipedia.org/wiki/Honda_J_engine#J35" target="_blank">wikipedia article</a>
 
 * J35A4
@@ -357,7 +390,9 @@ Liqui Moly 2007 Jectron Gasoline Fuel Injection Cleaner - 300 ml <a href="http:/
 
 
 
-# Steering
+<h1>Steering</h1>
+
+<h3>Power Steering Fluid</h3>
 
 # Engine Mount
 

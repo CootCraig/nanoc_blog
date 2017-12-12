@@ -16,6 +16,13 @@ this translation was a product of the age of the Second Vatican
 Council. Written in traditional, non-inclusive language with limited
 footnotes
 
+<pre>
+The Jerusalem Bible - Reader's Edition
+Doubleday & Company
+038501189x trade
+0385011563 paperback
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

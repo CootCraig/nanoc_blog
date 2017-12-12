@@ -6,6 +6,10 @@ tags:
   - alan_watts
 ---
 
+<h2>
+  <a href="https://www.youtube.com/channel/UCDUjxrkaAnUL729jtbRNs3g/videos" target="_blank">Alan Watts Wisdom youtube</a>
+</h2>
+
 <h3>
   <a href="https://www.youtube.com/watch?v=hK_yGDn6BVQ" target="_blank">Words Of Wisdom youtube</a>
   Alan Watts - Law Of Attraction - Most EPIC Speech Of All Time By Alan Watts
@@ -14,6 +18,16 @@ tags:
 <h3>
   <a href="https://www.youtube.com/watch?v=VCFB4jSgTMw" target="_blank">House Of Thought Media youtube</a>
   What Do You Desire? Thought Provoking Motivation: By Alan Watts
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=_h-FswIACKE" target="_blank">Infinite Wisdom youtube</a>
+  Alan Watts - how to see through the game - the secret to life :: happiness
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=yYrLnzL3PAY" target="_blank">Alan Watts Wisdom youtube</a>
+  Alan Watts - Don't work to make money(New)
 </h3>
 
 <!--

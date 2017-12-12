@@ -10,8 +10,6 @@ tags:
   <a href="http://www.seagulllighting.com/fa2450-pg1/Carondelet-Collection.htm" target="_blank">Sea Gull Lighting - Carondelet Collection</a>
 </h2>
 
-Welcome to the online home of Tim Challies, blogger, author, and book reviewer. 
-
 <h4>
   <a href="http://www.seagulllighting.com/54987/Two-Light-Flush-Mount-7514002EN3-710.html" target="_blank">seagulllighting.com product page</a>
   Two Light Flush Mount Burnt Sienna Finish
@@ -43,6 +41,21 @@ Dimensions: D: 18 3/16'' H: 19 7/8''
 Lamping: 4 LED Medium A19 9.5w Max.
 Bulbs included.
 </pre>
+
+<h1>U Bend Ceiling Light</h1>
+
+search:
+t8 U-Bend Fluorescent fixture
+
+<h3>
+  <a href="https://www.1000bulbs.com/category/t8-ubend-6-inch-spacing-fluorescent-tubes/" target="_blank">1000bulbs.com/category</a>
+  T8 - 6 in. Leg Spacing - U Bend - Fluorescent
+</h3>
+
+<h3>
+  <a href="https://www.totallightingsupply.com/blog/2016/05/08/convert-t8-or-t12-fluorescent-u-bend-fixture-to-led-t8-u-bend-fixture-video/" target="_blank">totallightingsupply.com/blog/</a>
+  Convert T8 or T12 Fluorescent U-Bend Fixture to LED T8 U-Bend Fixture Video
+</h3>
 
 <!--
 html boilerplate

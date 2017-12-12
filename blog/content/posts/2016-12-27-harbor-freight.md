@@ -78,6 +78,21 @@ Harbor Freight Air Compressor
 </h2>
 
 <h4>
+  <a href="https://manuals.harborfreight.com/manuals/69000-69999/69091.pdf" target="_blank">manuals.harborfreight.com/</a>
+  Online 21 gal. compressor User Manual
+</h4>
+
+<h4>
+  <a href="/assets/pdf/harbor-freight-21gal-compressor-manual.pdf" target="_blank">local copy of/</a>
+  Online 21 gal. compressor User Manual
+</h4>
+
+<h4>
+  <a href="https://www.lowes.com/pd/Kobalt-16-oz-Synth-Compressor-Oil/3652078" target="_blank">$7.98 at lowes.com</a>
+  Kobalt 16-oz Synth Compressor Oil
+</h4>
+
+<h4>
   <a href="https://www.amazon.com/gp/product/B0008GLW9Y" target="_blank">$17.30 at amazon</a>
   DEWALT D55001 Synthetic Compressor Oil, 1 Quart 
 </h4>
@@ -107,6 +122,23 @@ Harbor Freight Air Compressor
   Central Pneumatic 21 Gal Cast Iron Verticle Air Compressor, First oil change
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=Flcp7T2wSTI" target="_blank">FrugalPrepper youtube</a>
+  How to Maintain Harbor Freight 21 Gallon Air Compressor
+</h4>
+
+Uses plastic jar and bungee to catch the compressor oil.
+Uses Family Dollar non-detergent sae 30 motor oil.
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=JBCPYh4bmNw" target="_blank">Mustang314 youtube</a>
+  Harbor freight 21 gallon oil air compressor maintenance
+</h4>
+
+Uses air filter from 
+<a href="https://www.ebay.com/usr/toolmart750?_trksid=p2047675.l2559" target="_blank">ebay vendor</a>
+
+<a href="https://www.ebay.com/itm/Compressor-Air-Filter-Metal-Body-1-2-MPT-w-4-Paper-Cartridges-Rep-HL018200AV/232067381809" target="_blank">Compressor Air Filter Metal Body 1/2" MPT w/4 Paper Cartridges Rep HL018200AV</a>
 
 <h4>
   <a href="https://www.youtube.com/watch?v=ZXCkP4YsHgk" target="_blank">Repairs & Reviews youtube</a>

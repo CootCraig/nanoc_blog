@@ -24,6 +24,11 @@ Considering a 8x16' loafing shed.
   CCA Pressure Treated Wood Post, 4 in./5 in. x 8 ft.  Product price $8.49 SKU #404108299
 </h4>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=nWhlvpSG8AM" target="_blank">ReefDVMs youtube</a>
+  DIY Building Lean Barn Shelter for Horses or Cattle
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

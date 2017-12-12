@@ -6,6 +6,11 @@ tags:
   - wood_stoves
 ---
 
+<pre>
+Home main floor ~1000 sq.ft
+2nd floor - 590 sq. ft
+</pre>
+
 <ul>
   <li><a href="http://www.alaskastove.com/coal-stoves/kodiak/" target="_blank">Alaska Kodiak Coal Stove</a></li>
   <li><a href="https://www.arboristsite.com/community/threads/ashley-stoves-danger.182598/" target="_blank">Ashley Stoves - arboristsite.com/community</a></li>
@@ -53,6 +58,18 @@ Bob Fisher had some basic criteria that he wanted from his stove, and his wife s
 </h2>
 
 <h3>
+  <a href="" target="_blank">Jotul Pueblo Dealer</a>
+  Bighorn Stove and Spa
+</h3>
+
+<pre>
+Bighorn Stove and Spa
+1511 W. 4th Street. 
+Pueblo, CO 81004
+(719) 543-2673
+</pre>
+
+<h3>
   <a href="http://jotul.com/us/products/wood-stoves/jotul-f-3-cb" target="_blank">jotul.com/us/products/</a>
   Jøtul F 3 CB Timeless bestseller
 </h3>
@@ -65,6 +82,28 @@ Jøtul F 3 CB has an impeccable track record for durability- as do all
 of our stoves.  Along with our other woodstoves, Jøtul has developed
 and manufactured the first complete line of non-catalytic woodstoves
 with open door fire viewing.
+
+<pre>
+Max output: 42,000 btu
+Heating capacity: Up to 1300 SQFT
+Log size: Up to 18 in
+Flue Outlet: 6 in
+</pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=asWmOHjWz4U" target="_blank">jotulna youtube</a>
+  Jotul F3CB
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=UbSMLNJslzY" target="_blank">EnSage Media youtube</a>
+  Year review of a Jotul F3 Wood Stove
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=I6lImgk29OA" target="_blank">EnSage Media youtube</a>
+  Starting a Fire in My Jotul F3 Stove using a Campmor Catalog!
+</h4>
 
 <h4>
   <a href="http://wood-stove.org/JotulF3.html" target="_blank">wood-stove.org/JotulF3</a>
@@ -164,6 +203,10 @@ It will keep heat all night.  It doesn't use a great deal of wood.
 </h2>
 
 <h2>
+  <a href="http://www.wiseheat.com/" target="_blank">wiseheat.com/</a>
+</h2>
+
+<h2>
   <a href="https://www.hearth.com/talk/categories/main-hearth-forums.4/" target="_blank">hearth.com/talk/</a>
 </h2>
 
@@ -178,6 +221,35 @@ like? Our f118 nearly heats all the home and never needs rekindled. I ve
 owned many stoves and i think jotul and morso are the best, maybe jotul
 has the edge, slightly, just my own view. Willy Campbell is a star,
 I m sure I m related to him !
+
+<h3>
+energy alternatives
+Lopi Republie 1250
+</h3>
+
+<h3>
+Alpine Hearth & BBQ - defunct
+</h3>
+
+<h2>Morsoe</h2>
+
+<h3>
+  <a href="https://morsoe.com/us/categories/indoor/products/shopc/wood-burning-stove-us" target="_blank">morsoe.com/us/categories</a>
+  Indoor Wood Stoves
+</h3>
+
+<h4>
+  <a href="https://morsoe.com/us/indoor/wood-burning-stove/shop/p7644_us" target="_blank">morsoe.com/us/indoor</a>
+  Morsø 7644 with feet 
+</h4>
+
+<pre>
+Non catalytic burn technology
+Maximum Heat 	35,000
+Log size 	11"
+Max. Area Heated 	1200 ft2
+Firebox Dimensions 	13" W x 10 1/2" D
+</pre>
 
 <!--
 html boilerplate

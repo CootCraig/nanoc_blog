@@ -213,6 +213,13 @@ a healthcare professional.
   Treating SIBO (Part 6): Hydrogen vs. Methane SIBO
 </h3>
 
+<h2>Undoctored Forum: sibo candibactin</h2>
+
+<h2>
+  <a href="https://www.sibotest.com/pages/about-the-sibo-breath-test" target="_blank">sibotest.com/pages/</a>
+  SIBO Breath Testing
+</h2>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

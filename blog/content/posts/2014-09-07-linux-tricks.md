@@ -22,7 +22,102 @@ Release:	7.6
 Codename:	wheezy
 </code></pre>
 
-# mkfs
+<h1>mkfs</h1>
+
+vfat with gpt?
+
+<h3>
+  <a href="https://www.pcworld.com/article/3176712/linux/how-to-format-an-sd-card-in-linux.html" target="_blank">pcworld.com/article/</a>
+  How to format an SD card in Linux By Swapnil Bhartiya 
+</h3>
+
+<pre>
+  lsblk
+NAME    MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT
+ ...
+sde       8:64   1  29.2G  0 disk  
+└─sde1    8:65   1  29.2G  0 part  /media/usb0
+</pre>
+
+<pre>
+sudo umount /media/usb0
+sudo parted /dev/sde
+(parted) rm 1
+(parted) mklabel msdos
+(parted) mkpart primary fat32 1MiB 100%
+(parted) quit
+
+lsblk
+NAME    MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT
+ ...
+sde       8:64   1  29.2G  0 disk  
+└─sde1    8:65   1  29.2G  0 part  
+
+sudo mkfs.vfat /dev/sde1
+</pre>
+
+<pre>
+sudo umount /media/usb0
+sudo parted /dev/sde
+(parted) rm 1
+(parted) mklabel gpt
+(parted) mkpart primary fat32 1MiB 100%
+(parted) quit
+
+lsblk
+NAME    MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT
+ ...
+sde       8:64   1  29.2G  0 disk  
+└─sde1    8:65   1  29.2G  0 part  
+
+sudo mkfs.vfat -n zipclip1 /dev/sde1
+
+sudo blkid /dev/sde1
+/dev/sde1: LABEL="zipclip1" UUID="BD91-9CDD" TYPE="vfat" PARTLABEL="primary" PARTUUID="ca874ec2-2ef1-44a7-bfe2-777a0234826f"
+</pre>
+
+<pre>
+sudo umount /media/usb0
+sudo parted /dev/sde
+(parted) rm 1
+(parted) mklabel msdos
+(parted) mkpart primary fat32 1MiB 100%
+(parted) quit
+
+lsblk
+NAME    MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT
+ ...
+sde       8:64   1  29.2G  0 disk  
+└─sde1    8:65   1  29.2G  0 part  
+
+sudo mkfs.vfat -n zipclip1 /dev/sde1
+
+sudo blkid /dev/sde1
+/dev/sde1: LABEL="zipclip1" UUID="BD91-9CDD" TYPE="vfat" PARTLABEL="primary" PARTUUID="ca874ec2-2ef1-44a7-bfe2-777a0234826f"
+</pre>
+
+<h4>fstab entry</h4>
+
+<pre>
+LABEL=zipclip1 /media/craig/zipclip auto user,auto,nofail 0 2
+
+LABEL=zipclip1 /media/craig/zipclip auto user,auto,nofail,uid=craig 0 2
+
+</pre>
+
+<h4>
+  <a href="https://ddumont.wordpress.com/2016/04/24/automount-usb-devices-with-systemd/" target="_blank">ddumont.wordpress.com/2016/04/24</a>
+  Automount usb devices with systemd
+</h4>
+
+Last but not least, using a plain device file (like /dev/sr0) works fine
+to automount optical devices. But it is difficult to predict the name
+of a device file created for a usb drive, so a LABEL or a UUID should
+be used in /etc/fstab instead of a plain device file. I.e. something like:
+
+<pre>
+LABEL=my_usb_drive /mnt/my-drive auto defaults,auto,nofail 0 2
+</pre>
 
 ## mkfs for windows
 

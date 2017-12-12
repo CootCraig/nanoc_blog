@@ -12,37 +12,22 @@ tags:
 * ledger <a href="http://ledger-cli.org/" target="_blank">link</a>
 * hledger <a href="http://hledger.org/" target="_blank">link</a>
 
-# Chart of Accounts
+<h1>Chart of Accounts</h1>
+
+<h2>
+  <a href="http://www.netmba.com/accounting/fin/accounts/chart/" target="_blank">netmba.com/accounting/fin</a>
+  Chart of Accounts
+</h2>
+
+### Net MBA
+
+<a href="http://www.netmba.com/accounting/fin/accounts/chart/" target="_blank">Chart of Accounts</a>
 
 ## accountingcoach.com/chart-of-accounts
 
 #### COA template <a href="http://www.accountingcoach.com/chart-of-accounts/explanation" target="_blank">chosen</a> - Sat Nov 28 09:14:22 MST 2015
 
 From accountingcoach.com/chart-of-accounts
-
-## Impact Accounting LLC
-
-#### <a href="http://www.impactaccountingllc.com/users/serview.asp?suid=1705" target="_blank">Suggested Chart of Accounts</a>
-
-In many ways, the CHART OF ACCOUNTS you use for your business accounting
-will determine or, at the least, significantly impact (1) the amount of
-effort involved in doing the accounting process for your business and (2)
-the amount and quality of the information you get out of that process. Too
-much detail will multiply your workload, while too little detail will mask
-critical information that is required for understanding your financial
-information and making critical business decisions. A properly structured
-Chart of Accounts can help you manage your business more effectively!
-
-The following is a descriptive outline of the generic Chart of Accounts
-we recommend for our clients. It lists the Balance Sheet and Income
-Statement accounts needed to properly account for most small businesses
-like yours. You will note that, in certain critical areas such as Sales,
-Cost of Sales, and Payroll Expense, this listing contains only a range
-of account numbers. These sections reflect the "personality" of your
-business and are unique to each company. We will be happy to sit down
-with you and carefully structure these sections of your own Chart of
-Accounts, to help minimize your accounting efforts and maximize the
-critical management information you need to run your business.
 
 ### icaew.com/en library
 
@@ -51,10 +36,6 @@ critical management information you need to run your business.
 ### The Strategic CFO
 
 <a href="http://strategiccfo.com/wikicfo/standard-chart-of-accounts/" target="_blank">Standard Chart of Accounts</a>
-
-### Net MBA
-
-<a href="http://www.netmba.com/accounting/fin/accounts/chart/" target="_blank">Chart of Accounts</a>
 
 ### Accounting Coach
 
@@ -82,5 +63,17 @@ solid accounting system.
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

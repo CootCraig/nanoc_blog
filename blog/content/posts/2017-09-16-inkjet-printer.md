@@ -11,8 +11,6 @@ Looking for bulk ink low cost per page.
 <ul>
   <li>Epson WorkForce</li>
   <li>abcd</li>
-  <li>abcd</li>
-  <li>abcd</li>
 </ul>
 
 <h2>
@@ -42,6 +40,11 @@ text. Plus, it features auto 2-sided printing, 150-sheet paper capacity ,
 and wireless printing from tablets and smartphones5.
 
 <h3>Epson WorkForce ET-4550 EcoTank reviews</h3>
+
+<h4>
+  <a href="https://www.komando.com/tips/366364/sponsor-how-to-pick-the-best-printer-for-your-money" target="_blank">komando.com/tips</a>
+  Kim Komando recommends
+</h4>
 
 <h4>
   <a href="http://photoreview.com.au/reviews/printers/epson-ecotank-workforce-et-4550-printer" target="_blank">photoreview.com.au/reviews/printers/</a>

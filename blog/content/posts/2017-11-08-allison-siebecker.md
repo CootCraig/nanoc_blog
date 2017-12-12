@@ -53,6 +53,50 @@ data into one source.
   SIBO: Dysbiosis Has A New Name - Allison Siebecker
 <h3>
 
+<h3>
+  <a href="https://drruscio.com/allison-siebecker-interview-sibo-episode-30/" target="_blank">drruscio.com interview</a>
+  Allison Siebecker Interview SIBO – Episode 30
+</h3>
+
+<h3>
+  <a href="https://drruscio.com/sibo-updates-dr-allison-siebecker/" target="_blank">drruscio.com/sibo-updates</a>
+  SIBO Updates with Dr. Allison Siebecker
+</h3>
+
+yeast and/or bacteria
+
+sifo / sibo
+
+Allison Siebecker iberogast
+
+Allison Siebecker prokinetic
+
+<h3>
+  <a href="http://digestionsessions.com/order" target="_blank">digestionsessions.com/order</a>
+</h3>
+
+There are people — good people who once felt just like you — who
+have transformed their own personal histories of digestive problems into
+lifelong passions for helping others solve theirs.
+
+People like Dr. Allison Siebecker, a licensed naturopathic doctor who
+once wore pants with elastic waistbands to deal with the discomfort of
+chronic gas and bloating.
+
+Or Dr. Michael Ruscio, a functional medicine practitioner whose journey
+began with insomnia, fatigue, depression, and frequent episodes of
+diarrhea that led to his diagnosis of Blastocystis Hominis, a nasty
+intestinal parasite infection.
+
+Or Christa Orecchio, a certified nutritionist who spent 8 years of her
+life learning how to rid her body of candida overgrowth through her own
+independent research and trial-and-error.
+
+<h3>
+  <a href="/assets/audio/dr-hoffman-allison-siebecker-interview.mp3" target="_blank">local mp3 file</a>
+  Dr. Ronald Hoffman interview of Allison Siebecker
+<h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

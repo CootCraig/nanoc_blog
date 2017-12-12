@@ -69,7 +69,7 @@ Craig 5000 mile or 6 month oil change interval
 
 <pre>
 
-Wed Sep 27 21:52:02 MDT 2017 - 117823
+Mon Dec 11 09:16:35 MST 2017 - 121738
 
 tire rotation at 115690 + 5000 = 120690 miles
 change oil at 115413+4000 = 119413 or January 15, 2018
@@ -102,6 +102,7 @@ tire rotation - Craig 5000 mi
 2017-06-20, 188202 mi, cost, oil and filter change, Fram XG3506 - Mobil 1 oil 6 qt, Other Notes
 2017-07-15, 193462, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
 2017-07-31, 194227 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
+2017-12-08, 199294, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
 </pre>
 
 <h3>Next service items</h3>
@@ -111,9 +112,7 @@ tire rotation - Craig 5000 mi
 Wed Aug 23 18:29:21 MDT 2017 - 194944 mi
 
 tire rotation 194227 + 5000 = 199227 miles
-change oil 193462 + 5000 = 198462 or January 15, 2018
-
-change oil light - 2017-11-09 - 198699 miles
+change oil 199294 + 5000 => 204294 or June 8, 2018
 </pre>
 
 # supplies

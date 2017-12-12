@@ -21,6 +21,18 @@ WELCOME!! ~ I am Robert Moore, aka The SoilGuy
 
 <h1>Bokashi</h1>
 
+<h3>
+  <a href="http://www.gardenmyths.com/bokashi-composting-myths/" target="_blank">gardenmyths.com article</a>
+  Bokashi Composting Myths By Robert Pavlis - a sceptic
+</h3>
+
+<h3>
+  <a href="https://www.planetnatural.com/composting-101/indoor-composting/bokashi-composting/" target="_blank">planetnatural.com/composting-101</a>
+  Bokashi
+</h3>
+
+Bokashi bucket, Bokashi bran.
+
 <h1>3 Bin System</h1>
 
 <h3>

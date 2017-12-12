@@ -7,6 +7,10 @@ tags:
   - bible_study
 ---
 
+<h2>
+  <a href="http://biblehub.com/interlinear/" target="_blank">Biblehub interlinear</a>
+</h2>
+
 <h2>The Interlinear Hebrew/Greek-English Bible, 4 Volumes</h2>
 
 <h4>
@@ -40,6 +44,47 @@ and are essentially the same (with some minor variations) to the Hebrew
 and Greek texts used by the KJV translators.
 
 This four-volume Interlinear Bible contains 7-point text.
+
+<h1>
+  <a href="http://thediscoverybible.com/" target="_blank">Discovery Bible Software</a>
+</h1>
+
+Gleason Archer.
+Gary Hill
+
+$1740 retail $399 Promotion till December 24, 2017.
+Buy one get one free for someone who loves the word like you do!
+
+We are excited to offer this 80% sponsorship on the standard price of $870
+for The Discovery Bible software until Sunday, 24 December 2017. Thanks
+again for helping us multiply the word of the Lord by blessing someone
+this Thanksgiving/Christmas who loves God’s word like you do!
+
+<h3>The Discovery Bible: New American Standard New Testament</h3>
+
+search:
+Moody Press 978-3880023000
+
+<pre>
+Hardcover: 591 pages
+Publisher: Moody Press; Reference ed edition (1987)
+ISBN-10: 0802441599
+ISBN-13: 978-3880023000
+</pre>
+
+<ul>
+  <li>Seen for $65 at abebooks.</li>
+  <li>Seen for $50 at amazon.</li>
+</ul>
+
+<h2>
+  <a href="https://www.youtube.com/channel/UC9V8fbgdoF4oTViYJjc-1_Q" target="_blank">The Discovery Bible youtube</a>
+</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=TBUT8W6mZcQ" target="_blank">The Discovery Bible youtube</a>
+  Presenting the OT/NT Print Discovery Bible
+</h3>
 
 <!--
 html boilerplate
