@@ -112,7 +112,7 @@ LABEL=zipclip1 /media/craig/zipclip auto user,auto,nofail,uid=craig 0 2
 
 Last but not least, using a plain device file (like /dev/sr0) works fine
 to automount optical devices. But it is difficult to predict the name
-of a device file created for a usb drive, so a LABEL or a UUID should
+of a device file created for a usb drive, so a LABEL or a UID should
 be used in /etc/fstab instead of a plain device file. I.e. something like:
 
 <pre>

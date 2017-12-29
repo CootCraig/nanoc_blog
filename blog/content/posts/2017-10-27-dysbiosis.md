@@ -220,6 +220,23 @@ a healthcare professional.
   SIBO Breath Testing
 </h2>
 
+<h3>
+  <a href="https://fixyourgut.com/top-five-supplements-to-improve-your-digestive-health/" target="_blank">fixyourgut.com/top-five</a>
+  My Top Five Supplement Recommendations To Improve Your Digestive Health
+</h3>
+
+<h3>
+  <a href="https://www.gutwellnow.com/blog/how-choose-herbal-prokinetics-according-chinese-medicine" target="_blank">gutwellnow.com/blog/</a>
+  How to Choose Herbal Prokinetics According to Chinese Medicine
+</h3>
+
+<h3>
+  <a href="https://www.cureality.com/forum/topics.aspx?ID=19982" target="_blank">cureality.com/forum/topics</a>
+  Bowel Flora and Digestive Health >> Raw potato shake?? 
+</h3>
+
+Some practical discussion of prebiotic fibers in this thread.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

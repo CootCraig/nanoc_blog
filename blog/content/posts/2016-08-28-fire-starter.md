@@ -20,7 +20,32 @@ An Ultralight Backpacking Bellows
 <a href="https://www.youtube.com/watch?v=l9GHfF2Zlyo" target="_blank">youtube</a>
 Leslie Hunt - Fire starters and gel wax
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=kYJGCdiEGr8" target="_blank">Wranglerstar youtube</a>
+  IS THIS THE PERFECT FIRE STARTER!!
+</h4>
+
+Tries lint and sawdust in egg carton with wax.
+
 # Other
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=3L_8yfLqy1Q" target="_blank">BraveTheWilds youtube</a>
+  Ultimate Fire Tinder
+</h4>
+
+q-tip cotton pads
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=pqZm8VrTx6k" target="_blank">ArtisanTony youtube</a>
+  Gel-waxed Tinder Rope - Staring a Fire in Wet Conditions
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=uCni8yLXR3w" target="_blank">Gadget's Man-Cave youtube</a>
+  The Ultimate Bushcraft/Prepper Firestarter? Home made. Cheap. 100% Waterproof and Reliable
+</h4>
+
 
 <a href="http://www.instructables.com/id/DIY-Fire-Starter/" target="_blank">instructables.com - DIY Fire Starter by tomsweet65</a>
 

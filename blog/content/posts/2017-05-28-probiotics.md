@@ -138,6 +138,129 @@ Imbalances in the microbial community in your intestines may lead to
 metabolic syndrome, obesity, and diabetes. What does science say about
 how to reset our bodies?
 
+<h1>Soil Based Probiotic</h1>
+
+Spore forming.
+
+Vitamin C production?
+
+<h2>
+  <a href="http://www.klaire.com/prod/proddetail.asp?id=K-BSP" target="_blank">Klaire Labs BioSpora product page</a>
+</h2>
+
+BioSpora is a powerful, hypoallergenic blend of genetically certified
+Bacillus coagulans and B. subtilis species formulated to provide unique
+probiotic support of healthy gastrointestinal and immune function.†
+Spore-forming bacilli have often been referred to as soil-based
+microorganisms because of their ubiquitous presence in the earth. When
+isolated from the human GI tract, spore-forming bacilli have long been
+thought to be transient bacteria. However, current research shows that
+Bacillus species are present in the GI tract in numbers higher than can
+be explained by ingestion alone. Germination of Bacillus spores within
+the human small intestine and transient colonization is now thought to
+be part of the normal life cycle of human-associated Bacillus species
+providing specific stimuli for healthy GI and immune system development
+and function. Each capsule of BioSpora™ supplies a total of 2 billion
+CFUs of B. coagulans and B. subtilis spores positively identified through
+independent 16S ribosomal RNA gene sequencing. The spores are resistant
+to extremes of heat, ultraviolet radiation, solvents, hydrogen peroxide,
+and enzymes. The spores withstand stomach acid and germinate in the
+small intestine within 6 hours of ingestion. Ingested B. coagulans and
+B. subtilis reside in the human GI tract for up to 7 days following
+consumption. BioSpora™ is recommended for enhanced support of normal
+GI and immune function.
+
+<h3>
+  <a href="https://kimberlysnyder.com/blog/2017/05/24/truth-about-soil-based-probiotics/" target="_blank">kimberlysnyder.com/blog/2017</a>
+  Truth About Soil-Based Probiotics by Kimberly Snyder
+</h3>
+
+<h3>
+  <a href="https://www.thehealthyhomeeconomist.com/soil-based-probiotics-plus-fermented-foods-heal-gut/" target="_blank">thehealthyhomeeconomist.com article</a>
+  Why Soil Based Probiotics are Necessary to Heal the Gut 
+</h3>
+
+<h4>Soil Based Probiotics Needed to Resolve Autoimmunity</h4>
+
+So what’s missing from fermented foods that a person on a gut healing
+diet really needs? According to Natasha Campbell-McBride MD, author of
+Gut and Psychology Syndrome and creator of the GAPS Diet, soil based
+probiotics, and in particular, the strain Bacillus subtilis are a very
+important piece of the gut healing puzzle.
+
+Bacillus subtilis is a soil based organism discovered by German
+microbiologists during WWII. It was used to protect troops from dysentary
+and typhoid. Since that time, B. subtilis has been studied in depth
+all over Europe and Asia. Important subspecies to B. subtilis have been
+identified including:
+
+Natasha Campbell-McBride probiotic
+
+Bio-Kult probiotic
+
+<h3>
+  <a href="http://www.bio-kult.com/about-bio-kult/13-about-bio-kult-advanced" target="_blank">Bio-Kult Advanced product page</a>
+</h3>
+
+<h3>
+  <a href="https://rebelhealthtribe.com/probiotic/" target="_blank">rebelhealthtribe.com/probiotic</a>
+  How I Came To Love MegaSporeBiotic, the World’s Best Probiotic Michael Roesslein December 21, 2015
+</h3>
+
+<h4>What is in MegaSporeBiotic</h4>
+
+<ul>
+  <li>Bacillus Licheniformis</li>
+  <li>Bacillus Indicus HU36™</li>
+  <li>Bacillus Subtilis HU58™</li>
+  <li>Bacillus Clausii</li>
+  <li>Bacillus Coagulans</li>
+</ul>
+
+<h2>
+  <a href="https://www.gardenoflife.com/content/product/primal-defense-hso-formula/" target="_blank">gardenoflife.com/content/product</a>
+  Garden of Life Primal Defense® HSO Formula
+</h2>
+
+Primal Defense® is Garden of Life’s original probiotic formula that
+is recognized as a leading probiotic in the health food industry with
+over 4 million bottles sold. It is a unique HSO probiotic formula. In
+order to obtain the benefits that we historically acquired from
+consuming foods cultivated in healthy soil, Garden of Life developed a
+Homeostatic® Soil Organism (HSO) Probiotic Blend utilizing 12 species
+of beneficial microorganisms including Bacillus subtilus, along with
+fermented grasses and ionic minerals. Designed to balance gut flora,
+support gastrointestinal and immune health†, Primal Defense® comes
+in two easy-to-use forms: Powder and Caplets.
+
+Primal Defense is a blend of 12 species of probiotics, including
+Homeostatic® Soil Organisms (HSOs), utilizing the Poten-Zyme® process
+and delivered with a whole food matrix. The HSO probiotic blend in
+Primal Defense helps promote healthy digestive balance, support normal
+absorption and assimilation of nutrients, and help maintain a healthy
+immune system.† Primal Defense is created using the following probiotic
+species or their enzymes: Lactobacillus acidophilus; Lactobacillus
+rhamnosus; Lactobacillus salivarius; Lactobacillus plantarum;
+Lactobacillus paracasei; Lactobacillus casei; Lactobacillus brevis;
+Bifidobacterium bifidum; Bifidobacterium breve; Bifidobacterium lactis;
+Bifidobacterium longum; Bacillus subtilis; and Saccharomyces boulardii.
+
+<ul>
+  <li>Lactobacillus acidophilus</li>
+  <li>Lactobacillus rhamnosus</li>
+  <li>Lactobacillus salivarius</li>
+  <li>Lactobacillus plantarum</li>
+  <li>Lactobacillus paracasei</li>
+  <li>Lactobacillus casei</li>
+  <li>Lactobacillus brevis</li>
+  <li>Bifidobacterium bifidum</li>
+  <li>Bifidobacterium breve</li>
+  <li>Bifidobacterium lactis</li>
+  <li>Bifidobacterium longum</li>
+  <li>Bacillus subtilis</li>
+  <li>Saccharomyces boulardii.</li>
+</ul>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -188,6 +188,14 @@ Dr. Bonners soap t3 oil. Germ-x. anti-bacterial wipes (likes Wal-Mart)
 
 ivation shower pump
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=LqKyvAv_6II" target="_blank">Solid Wood Worx youtube</a>
+  The perfect van conversion with collapsable bed and kitchen area!
+</h3>
+
+Nice professional project.
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -67,6 +67,34 @@ Bighorn Stove and Spa
 1511 W. 4th Street. 
 Pueblo, CO 81004
 (719) 543-2673
+
+hearthstone
+jotul
+quadra-fire
+</pre>
+
+<ul>
+  <li>
+    <a href="" target="_blank">hearthstone</a>
+  </li>
+  <li>
+    <a href="http://jotul.com/us/products/wood-stoves" target="_blank">jotul</a>
+  </li>
+  <li>
+    <a href="" target="_blank">quadra-fire</a>
+  </li>
+</ul>
+
+<h3>
+  <a href="http://jotul.com/us/products/wood-stoves/jøtul-f-400-cf-castine" target="_blank">Jotul F 400 Castine</a>
+</h3>
+
+<pre>
+Heating capacity: Up to 1,600 SQFT
+Approx weight: 375 lbs lbs
+Log size: Up to 20" in
+Flue Outlet: 6" in
+Efficiency: HHV 68.26% - LHV73.78%
 </pre>
 
 <h3>
@@ -250,6 +278,134 @@ Log size 	11"
 Max. Area Heated 	1200 ft2
 Firebox Dimensions 	13" W x 10 1/2" D
 </pre>
+
+<h1>Quadra-fire</h1>
+
+<h2>
+  <a href="http://www.quadrafire.com/Products/4300-Millennium-Wood-Stove.aspx?page=Specifications" target="_blank">4300 MILLENNIUM</a>
+</h2>
+
+<pre>
+Width: 	26
+Height: 	31
+Depth: 	28-11/16
+Peak BTU/hr Output1 	63,700
+Heating Capacity2: 	1,100-3,000 sq ft
+Maximum Burn Time3: 	12 hours
+Firebox capacity: 	2.3 cu ft
+Recommended Log Length: 	18"
+Viewing Area: 	165 sq in
+Efficiency4: 	80.2%
+</pre>
+
+<h2>
+  <a href="http://www.quadrafire.com/Products/3100-Millennium-Wood-Stove.aspx" target="_blank">3100 MILLENNIUM</a>
+</h2>
+
+<pre>
+Width: 	25-1/2
+Height: 	29-1/2
+Depth: 	26-5/8
+Peak BTU/hr Output1: 	51,000
+Heating Capacity2: 	1,000-2,600 sq ft
+Maximum Burn Time3: 	10 hours
+Firebox Capacity: 	2.0 cu ft
+Recommended Log Length: 	16"
+Viewing Area: 	165 sq in
+Efficiency4: 	78.3%
+</pre>
+
+<h2>
+  <a href="http://www.quadrafire.com/Products/Explorer-II-Wood-Stove.aspx?page=Specifications" target="_blank">Explorer II Wood Stove</a>
+</h2>
+
+<pre>
+$2,589
+cast iron
+Width: 	29"
+Height: 	29"
+Depth: 	25"
+Peak BTU/hr Output1: 	61,000
+Heating Capacity2: 	1,300-3,400 sq ft
+Maximum Burn Time3: 	12 hrs
+Firebox Capacity: 	2.4 cu ft
+Recommended Log Length:  	20"
+Viewing Area: 	234 sq in
+Efficiency4: 	78.3%
+<pre>
+
+<h1>
+  <a href="http://www.energyalternatives.net/" target="_blank">Energy Alternatives</a>
+</h1>
+
+<ul>
+  <li>
+    <a href="http://www.lopistoves.com/productselect.aspx?fuel=wood-stove" target="_blank">Lopi</a>
+  </li>
+  <li>
+    <a href="http://www.harmanstoves.com/Browse/Stoves/Wood-Stoves.aspx" target="_blank">Harman</a>
+  </li>
+  <li>
+    <a href="http://www.vermontcastings.com/Browse/Wood-Stoves.aspx" target="_blank">Vermont Castings</a>
+  </li>
+  <li>
+    <a href="https://morsoe.com/us/categories/indoor/products/shopc/wood-burning-stove-us" target="_blank">Morsoe</a>
+  </li>
+</ul>
+
+<pre>
+LOPI
+HARMAN
+VERMONT CASTINGS
+MORSO® USA
+
+Monday - Thursday: 8:00 A.M. - 6:00 P.M.
+Friday: 8:00 A.M. - 5:00 P.M.
+Saturday: 10:00 A.M. - 4:00 P.M.
+
+Energy Alternatives
+1626 W. Pueblo Blvd.
+Pueblo, Colorado 81004
+Phone 719-564-9444 
+</pre>
+
+
+1750 Wood Stove
+http://www.lopistoves.com/product-detail.aspx?model=247
+
+<pre>
+Heating Capacity	1,200 to 2,000 Sq. Feet
+Heat Output	72,400 BTU's / Hour
+Steady State Efficiency 	Up to 78.8%
+Maximum Burn Time	Up to 10 Hours
+Firebox Size	2.2 Cubic Feet
+Maximum Log Size	18"
+Emissions	1.9 Grams Per Hour
+Weight	430 Pounds with Legs
+Construction	5/16" and 3/16" Steel Plate
+</pre>
+
+<h2>
+  <a href="http://www.lopistoves.com/product-detail.aspx?model=211" target="_blank">Liberty Wood Stove</a>
+</h2>
+
+<pre>
+Heating Capacity	1,500 to 2,500 Sq. Feet
+Heat Output	74,300 BTU's / Hour
+Steady State Efficiency 	Up to 76.9%
+Maximum Burn Time	Up to 12 Hours
+Firebox Size	3.1 Cubic Feet
+Maximum Log Size	24"
+Emissions	2.6 Grams Per Hour
+Weight	470 Pounds with Legs
+Construction	5/16” to 3/16” Steel Plate
+</pre>
+
+<h2>
+  <a href="" target="_blank"></a>
+http://www.lopistoves.com/product-detail.aspx?model=504#specs-tab
+Evergreen Wood Stove
+</h2>
 
 <!--
 html boilerplate

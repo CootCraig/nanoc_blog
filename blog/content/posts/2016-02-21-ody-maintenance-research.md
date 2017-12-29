@@ -716,6 +716,17 @@ positive handling and a quiet ride help deliver solid value.
   What Oil and filter? DIY oil change
 </h3>
 
+<h2>Windshield Wipers</h2>
+
+<pre>
+24" driver side front
+20" passenger side front
+
+Trico ExactFit FTR 24-9R
+Trico ExactFit FTR 20-1
+
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -17,6 +17,29 @@ Matthew Cremona - Plunge Cuts with a Standard Straight Bit - Quick Tip
 <a href="https://www.youtube.com/watch?v=J0SDvKHcL5M" target="_blank">youtube</a>
 Matthew Cremona - Flattening Boards with a Router Sled
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=_XtIx_109lU" target="_blank">Matthew Cremona youtube</a>
+  Urban Logging Strategies
+</h3>
+
+<h4>Search Terms</h4>
+
+<pre>
+tree - best
+firewood
+fire wood
+log
+</pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=WWztws5mltQ" target="_blank">Matthew Cremona youtube</a>
+  Sealing the Ends of Logs and Lumber - Ask Matt 20
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=pnqP3qVjCLY&t=309s" target="_blank">Matthew Cremona youtube</a>
+  How to Use Router Guide Bushings - Ask Matt #18
+</h3>
 
 <!--
 html boilerplate
@@ -28,6 +51,10 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

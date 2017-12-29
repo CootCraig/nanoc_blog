@@ -6,6 +6,19 @@ tags:
   - composting
 ---
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=obsGVk4NKpk" target="_blank">Pete B. youtube</a>
+  Easy Composting Basics: Food for your soil
+</h3>
+
+<pre>
+Nice video. I like his method.
+Wire fence held by stakes for bin.
+
+Put vegetable scraps in plastic bag in freezer.
+Empty into compost bin after collecting.
+</pre>
+
 <h1>
   <a href="http://www.thesoilguy.com/SG/Home" target="_blank">thesoilguy.com/SG/Home</a>
   The Soil Guy
@@ -67,6 +80,11 @@ but make the overall dimensions 4' x 4' x 12' if you have the room.
 <h3>
   <a href="https://www.youtube.com/watch?v=gDOqZctlR3Q&list=PLshngXyVl0EY41aPGcnm4BIAx6OS9tcZX&index=34" target="_blank">ART and BRI youtube</a>
   Compost Your Leaves! - Build A Leaf Mold Ring
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=fSIIEn1abc8" target="_blank">RED Gardens youtube</a>
+  No-Rules Compost
 </h3>
 
 <!--

@@ -7,6 +7,7 @@ tags:
   - woodworking_people
   - wranglerstar
   - wood_mizer_sawmill
+  - granberg_sawmill
 ---
 
 <a href="http://www.wranglermart.com/" target="_blank">wranglermart.com</a>
@@ -105,6 +106,18 @@ Wood Mizer Sawmill - How To Talk Your Wife Into Buying A Wood Mizer
 <pre>
 3m 45s sandpaper 180, 200 grit
 </pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=3SMEeIydAxg" target="_blank">Wranglerstar youtube</a>
+  Are Chainsaw Mills Obsolete?  - Apr 18, 2017
+</h3>
+
+Lucas almost as versatile.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=PjqwENlBFFo" target="_blank">Wranglerstar youtube</a>
+  How To Turn Logs Into Boards - Portable Chainsaw Mill - a series
+</h3>
 
 <!--
 html boilerplate

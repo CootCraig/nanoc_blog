@@ -13,6 +13,7 @@ tags:
 <ul>
   <li><a href="https://www.iherb.com/" target="_blank">iHerb</a></li>
   <li><a href="http://www.bulksupplements.com/" target="_blank">BulkSupplements.com</a></li>
+  <li><a href="https://feelgoodnatural.com/" target="_blank">FeelGood Natural Health Store</a></li>
   <li><a href="https://www.americanspice.com/" target="_blank">Great American Spice Co</a></li>
   <li><a href="http://www.lifeextension.com/" target="_blank">Life Extension</a></li>
   <li><a href="http://www.myotcstore.com/" target="_blank">myotcstore.com</a></li>
