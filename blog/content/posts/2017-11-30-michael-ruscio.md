@@ -44,9 +44,9 @@ biofilm for hydrogen
 </h3>
 
 <h3>
-  <a href="/assets/audio/ruscio-audio-31-allison-siebecker-interview.mp3" target="_blank">Dr. Ruscio - Allison Siebecker Interview SIBO</a>
+  <a href="https://drruscio.com/allison-siebecker-interview-sibo-episode-30/" target="_blank">drruscio.com interview</a>
+  Dr. Ruscio - Allison Siebecker Interview SIBO
 </h3>
-
 
 <!--
 html boilerplate

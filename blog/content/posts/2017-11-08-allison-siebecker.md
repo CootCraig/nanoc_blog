@@ -93,9 +93,11 @@ life learning how to rid her body of candida overgrowth through her own
 independent research and trial-and-error.
 
 <h3>
-  <a href="/assets/audio/dr-hoffman-allison-siebecker-interview.mp3" target="_blank">local mp3 file</a>
-  Dr. Ronald Hoffman interview of Allison Siebecker
-<h3>
+  <a href="http://drhoffman.com/podcast/intelligent-medicine-podcast-intestinal-bacterial-overgrowth/" target="_blank">drhoffman.com/podcast</a>
+  Intelligent Medicine Podcast: Intestinal bacterial overgrowth
+</h3>
+
+Dr. Ronald Hoffman interview of Allison Siebecker
 
 <!--
 html boilerplate
