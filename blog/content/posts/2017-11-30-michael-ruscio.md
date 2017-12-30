@@ -35,19 +35,29 @@ biofilm for hydrogen
   BioFilm Updates
 </h3>
 
+<<<<<<< HEAD
 <pre>
 </pre>
 
+=======
+>>>>>>> a1dcb3780f86f0dbfc6f1bb14b93f5fc86a9fe56
 <h3>
   <a href="https://drruscio.com/everything-need-know-sifo-small-intestinal-fungal-overgrowth/" target="_blank">drruscio.com/everything</a>
   Everything You Need to Know about SIFO (Small Intestinal Fungal Overgrowth)
 </h3>
 
 <h3>
+<<<<<<< HEAD
   <a href="https://drruscio.com/allison-siebecker-interview-sibo-episode-30/" target="_blank">drruscio.com interview</a>
   Dr. Ruscio - Allison Siebecker Interview SIBO
 </h3>
 
+=======
+  <a href="/assets/audio/ruscio-audio-31-allison-siebecker-interview.mp3" target="_blank">Dr. Ruscio - Allison Siebecker Interview SIBO</a>
+</h3>
+
+
+>>>>>>> a1dcb3780f86f0dbfc6f1bb14b93f5fc86a9fe56
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

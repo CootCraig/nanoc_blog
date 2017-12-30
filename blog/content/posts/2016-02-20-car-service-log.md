@@ -69,7 +69,6 @@ Craig 5000 mile or 6 month oil change interval
 
 <pre>
 Sat Dec 16 21:53:07 MST 2017 - 122108
-
 tire rotation at 115690 + 5000 = 120690 miles
 change oil at 115413+4000 = 119413 or January 15, 2018
 </pre>
