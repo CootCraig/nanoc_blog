@@ -66,6 +66,19 @@ Good discussion on this thread
   Magnesium Advocacy Group
 </h2>
 
+<h2>Magnesium Water</h2>
+
+Undoctored book p.351
+
+<pre>
+Unflavored Milk of Magnesia
+
+2 liter bottle of seltzer water.
+3 tablespoons of Unflavored Milk of Magnesia
+flavor extract to taste.
+
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

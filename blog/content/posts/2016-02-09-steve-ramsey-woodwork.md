@@ -57,6 +57,10 @@ dollar store silicone basting brush
   Franklin International 5006 Titebond II Premium Wood Glue - Gallon
 </h5>
 
+<h3>
+  <a href="/assets/pdf/Basic-Mobile-Workbench-METRIC-1-steve-ramsey.pdf" target="_blank">Basic Mobile Bench pdf</a>
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

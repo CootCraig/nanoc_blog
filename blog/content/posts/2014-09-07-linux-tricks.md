@@ -496,8 +496,35 @@ jmtpfs on /media/craig/mtp type fuse.jmtpfs (rw,nosuid,nodev,relatime,user_id=10
 sudo umount /media/craig/mtp
 </pre>
 
-# imap
+<h1>Printers</h1>
 
+<pre>
+lpstat -s
+  system default destination: OfficeLaserPrinter
+  device for EPSON_Stylus_Photo_R320: usb://EPSON/Stylus%20Photo%20R320?serial=L27P10501230231030&interface=1
+  device for OfficeLaserPrinter: dnssd://Brother%20HL-5250DN%20series._pdl-datastream._tcp.local/
+
+lpstat -o
+  view all outstanding print jobs
+
+lprm -
+  Kill all print jobs
+
+cancel -a printer
+</pre>
+
+<h3>Printer info in cups</h3>
+
+<pre>
+OfficeLaserPrinter (Idle, Accepting Jobs, Shared, Server Default)
+Description:	Brother HL-5250DN Laser Printer
+Location:	Bathroom hall
+Driver:	Brother HL-5250DN BR-Script3 (grayscale, 2-sided printing)
+Connection:	dnssd://Brother%20HL-5250DN%20series._pdl-datastream._tcp.local/
+Defaults:	job-sheets=none, none media=iso_a4_210x297mm sides=one-sided
+</pre>
+
+# imap
 
 <a href="https://delog.wordpress.com/2011/05/10/access-imap-server-from-the-command-line-using-openssl/" target="_blank">delog.wordpress.com article</a>
 
@@ -512,6 +539,56 @@ sudo umount /media/craig/mtp
   <a href="https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/" target="_blank">cyberciti.biz/faq</a>
   How to use sed to find and replace text in files in Linux / Unix shell
 </h2>
+
+<h2>Thumb Drive Photo01</h2>
+
+Kinston DataTraveler 100 G3
+
+Format ext2
+
+<pre>
+dmesg showed sdd sdd1
+
+parted /dev/sdd
+rm 1
+mklabel gpt
+quit
+
+fdisk /dev/sdd
+n   - took defaults
+p
+
+Disk /dev/sdd: 14.4 GiB, 15502147584 bytes, 30277632 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: gpt
+Disk identifier: 1949B270-86FC-4340-A94F-230556CF35D7
+
+Device     Start      End  Sectors  Size Type
+/dev/sdd1   2048 30277598 30275551 14.4G Linux filesystem
+
+w
+
+mkfs.ext2 -L photo01 /dev/sdd1
+
+
+
+
+
+
+
+
+
+gparted
+  close when done
+
+blkid /dev/sdd1
+/dev/sdd1: LABEL="photo01" UUID="072a7689-e02c-4b3e-a788-0629f5c55527" TYPE="ext2" PARTUUID="fb297370-b451-42a7-b529-6a5f13701bd3"
+
+mke2fs -L photo01 -t ext2 /dev/sdd1
+
+</pre>
 
 <!--
 html boilerplate
