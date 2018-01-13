@@ -44,7 +44,23 @@ especially anti-oxidants (many in this list).
 
 There are links to other posts here as well.
 
+<h4>
+  <a href="https://www.bulksupplements.com/l-citrulline-dl-malate-623.html" target="_blank">bulksupplements.com/l-citrulline</a>
+  L-Citrulline DL-Malate 2:1 Powder
+</h4>
+
+<h4>
+  <a href="https://www.bulksupplements.com/l-arginine-hcl.html" target="_blank">bulksupplements.com/l-arginine</a>
+  L-Arginine HCL Powder
+</h4>
+
 <h1>Links</h1>
+
+<h2>humann.com</h2>
+
+https://www.humann.com/products/superbeets-superfood/
+
+https://www.humann.com/products/neo40-daily/
 
 <h3>
   <a href="https://www.cureality.com/forum/topics.aspx?ID=6591" target="_blank">cureality.com/forum - Heart Health Forum</a>
