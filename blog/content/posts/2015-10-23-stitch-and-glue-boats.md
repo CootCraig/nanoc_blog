@@ -58,6 +58,10 @@ Tango SUP
 <a href="https://www.youtube.com/watch?v=tpeOfTeu3cc" target="_blank">youtube</a>
 Fiberglass Supply - 14' Wooden Stand Up Paddleboard SUP
 
+<h3>What is this row boat?</h3>
+
+<img src="/assets/images/rowboat-with-outboard-2-fisherman.jpg" width="950px">
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -68,6 +72,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

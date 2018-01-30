@@ -207,6 +207,14 @@ OMV_3_0_76_Odroidxu4_4.9.28.7z 	2017-05-19
   ODROID-VU7 - 7 inch HDMI Display with Multitouch (800x480) [0176] $61.95
 </h3>
 
+<h3>
+  ODROID-HC1 : Home Cloud One
+  <a href="http://www.hardkernel.com/main/products/prdt_info.php?g_code=G150229074080" target="_blank">hardkernel.com/main/products</a>
+</h3>
+
+<img src="/assets/images/odroid-hc1-w-hd.jpg" width="400px">
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

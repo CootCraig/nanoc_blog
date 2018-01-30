@@ -569,6 +569,24 @@ Pueblo, Colorado 81004
 Phone 719-564-9444 
 </pre>
 
+$125 for trip and cleaning and inspection
+
+Harman tl300
+
+<pre>
+Maxwell Chimney sweeps
+scott Maxwell
+719 583 0720-
+719-696-5260
+$40 for trip
+
+Chimney sp
+
+Wade Wills
+719
+251
+5666
+</pre>
 
 <h2>
   <a href="http://www.lopistoves.com/product-detail.aspx?model=242#specs-tab" target="_blank">Lopi 1250 Wood Stove</a>
@@ -735,6 +753,18 @@ jotul
 Enviro Wood Stoves
 Kuma Wood Stoves
 Pacific Energy
+</pre>
+
+<h4>Made appointment for tech to visit</h4>
+
+<pre>
+Jessica
+Thu Jan 18 14:51:10 MST 2018
+Tech will bring control board and exhaust blower.
+160 to 285 labor
+389 board
+449 exhaust fan
+200 + 389 + 449 => 1038
 </pre>
 
 <h4>Visit on Jan. 2,2018</h4>

@@ -35,6 +35,7 @@ p.17 - Troubleshooting
        stays running by temperature and thermostat demand
        returns to times for shutdown
        red call light shows demand for heat.
+2:08   thermostat calls for heat.  The call light (red) comes on.
 2:15 - exhaust blower comes on creating a partial vacuum in the burn-pot
        the feed motor starts and feeds a few pellets
        the ignitor comes on

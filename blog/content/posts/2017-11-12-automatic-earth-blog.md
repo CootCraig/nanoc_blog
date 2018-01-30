@@ -39,6 +39,16 @@ they have? Because Google and Facebook ARE 1984, that’s why. And if
 there’s going to be a Big Brother in the Middle Kingdom, it’s not
 going to be Silicon Valley.
 
+<h3>
+  Bitcoin Doesn’t Exist – The Full Story - December 12, 2017 
+  <a href="https://www.theautomaticearth.com/2017/12/bitcoin-doesnt-exist-the-full-story/" target="_blank">theautomaticearth.com/2017/12/bitcoin</a>
+</h3>
+
+<h3>
+  A Modest Plan - January 24, 2018
+  <a href="https://www.theautomaticearth.com/2018/01/a-modest-plan/" target="_blank">theautomaticearth.com/2018/01/a</a>
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

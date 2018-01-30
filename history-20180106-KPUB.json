@@ -1,0 +1,525 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "January 6, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "12",
+		"min": "00",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "January 6, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "19",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		{
+		"date": {
+		"pretty": "12:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "00",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "7:53 AM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "07",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-6.1", "tempi":"21.0","dewptm":"-15.0", "dewpti":"5.0","hum":"50","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"280","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1022.7", "pressurei":"30.20","windchillm":"-8.8", "windchilli":"16.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 060753Z AUTO 28003KT 10SM CLR M06/M15 A3017 RMK AO2 SLP227 T10611150" },
+		{
+		"date": {
+		"pretty": "1:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "01",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "8:53 AM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "08",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-7.2", "tempi":"19.0","dewptm":"-15.0", "dewpti":"5.0","hum":"54","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1022.9", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 060853Z AUTO 00000KT 10SM CLR M07/M15 A3017 RMK AO2 SLP229 T10721150 53000" },
+		{
+		"date": {
+		"pretty": "2:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "02",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "9:53 AM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "09",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-6.7", "tempi":"19.9","dewptm":"-15.0", "dewpti":"5.0","hum":"52","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1021.8", "pressurei":"30.18","windchillm":"-9.5", "windchilli":"14.9","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 060953Z AUTO 27003KT 10SM CLR M07/M15 A3015 RMK AO2 SLP218 T10671150" },
+		{
+		"date": {
+		"pretty": "3:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "03",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "10:53 AM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "10",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-7.2", "tempi":"19.0","dewptm":"-15.0", "dewpti":"5.0","hum":"54","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1021.2", "pressurei":"30.16","windchillm":"-11.6", "windchilli":"11.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061053Z AUTO 27005KT 10SM CLR M07/M15 A3014 RMK AO2 SLP212 T10721150" },
+		{
+		"date": {
+		"pretty": "4:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "04",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "11:53 AM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "11",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-6.1", "tempi":"21.0","dewptm":"-13.9", "dewpti":"7.0","hum":"55","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1021.2", "pressurei":"30.16","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061153Z AUTO 00000KT 10SM CLR M06/M14 A3013 RMK AO2 SLP212 T10611139 11044 21078 56014" },
+		{
+		"date": {
+		"pretty": "5:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "05",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "12:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "12",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-6.1", "tempi":"21.0","dewptm":"-13.9", "dewpti":"7.0","hum":"55","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1023.3", "pressurei":"30.22","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061253Z 00000KT 10SM CLR M06/M14 A3014 RMK AO2 SLP233 T10611139" },
+		{
+		"date": {
+		"pretty": "6:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "06",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "1:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "13",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-5.6", "tempi":"21.9","dewptm":"-12.8", "dewpti":"9.0","hum":"58","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1022.8", "pressurei":"30.21","windchillm":"-8.2", "windchilli":"17.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061353Z 27003KT 10SM CLR M06/M13 A3012 RMK AO2 SLP228 T10561128" },
+		{
+		"date": {
+		"pretty": "7:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "07",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "2:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "14",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-5.6", "tempi":"21.9","dewptm":"-13.3", "dewpti":"8.1","hum":"55","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1023.2", "pressurei":"30.22","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061453Z 00000KT 10SM CLR M06/M13 A3012 RMK AO2 SLP232 T10561133 58002" },
+		{
+		"date": {
+		"pretty": "8:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "08",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "3:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "15",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"-2.2", "tempi":"28.0","dewptm":"-11.1", "dewpti":"12.0","hum":"51","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1023.1", "pressurei":"30.22","windchillm":"-4.3", "windchilli":"24.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061553Z 27003KT 10SM CLR M02/M11 A3013 RMK AO2 SLP231 T10221111" },
+		{
+		"date": {
+		"pretty": "9:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "09",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "4:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "16",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"2.8", "tempi":"37.0","dewptm":"-10.6", "dewpti":"12.9","hum":"37","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1022.4", "pressurei":"30.19","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061653Z 00000KT 10SM CLR 03/M11 A3013 RMK AO2 SLP224 T00281106" },
+		{
+		"date": {
+		"pretty": "10:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "10",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "5:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "17",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"4.4", "tempi":"39.9","dewptm":"-10.6", "dewpti":"12.9","hum":"33","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1020.8", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061753Z 00000KT 10SM CLR 04/M11 A3009 RMK AO2 SLP208 T00441106 10044 21072 58008" },
+		{
+		"date": {
+		"pretty": "11:53 AM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "11",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "6:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "18",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"7.8", "tempi":"46.0","dewptm":"-10.6", "dewpti":"12.9","hum":"26","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1018.3", "pressurei":"30.07","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061853Z 00000KT 10SM CLR 08/M11 A3004 RMK AO2 SLP183 T00781106" },
+		{
+		"date": {
+		"pretty": "12:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "12",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "7:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "19",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"8.3", "tempi":"46.9","dewptm":"-10.0", "dewpti":"14.0","hum":"27","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1016.7", "pressurei":"30.03","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 061953Z 00000KT 10SM CLR 08/M10 A2999 RMK AO2 SLP167 T00831100" },
+		{
+		"date": {
+		"pretty": "1:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "13",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "8:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "20",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"10.0", "tempi":"50.0","dewptm":"-9.4", "dewpti":"15.1","hum":"25","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"16.1", "visi":"10.0","pressurem":"1015.2", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 062053Z 15003KT 10SM CLR 10/M09 A2995 RMK AO2 SLP152 T01001094 56041" },
+		{
+		"date": {
+		"pretty": "2:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "14",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "9:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "21",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"10.6", "tempi":"51.1","dewptm":"-9.4", "dewpti":"15.1","hum":"24","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"130","wdire":"SE","vism":"16.1", "visi":"10.0","pressurem":"1014.0", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 062153Z AUTO 13004KT 10SM CLR 11/M09 A2993 RMK AO2 SLP140 T01061094" },
+		{
+		"date": {
+		"pretty": "3:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "15",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "10:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "22",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"8.3", "tempi":"46.9","dewptm":"-9.4", "dewpti":"15.1","hum":"28","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"100","wdire":"East","vism":"16.1", "visi":"10.0","pressurem":"1013.6", "pressurei":"29.94","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 062253Z 10004KT 10SM CLR 08/M09 A2990 RMK AO2 SLP136 T00831094" },
+		{
+		"date": {
+		"pretty": "4:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "16",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "11:53 PM GMT on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "23",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"4.4", "tempi":"39.9","dewptm":"-10.6", "dewpti":"12.9","hum":"33","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"80","wdire":"East","vism":"16.1", "visi":"10.0","pressurem":"1014.3", "pressurei":"29.96","windchillm":"1.4", "windchilli":"34.5","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 062353Z 08007KT 10SM CLR 04/M11 A2990 RMK AO2 SLP143 T00441106 10111 20044 55016" },
+		{
+		"date": {
+		"pretty": "5:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "17",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "12:53 AM GMT on January 07, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "07",
+		"hour": "00",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"2.2", "tempi":"36.0","dewptm":"-11.1", "dewpti":"12.0","hum":"37","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"16.1", "visi":"10.0","pressurem":"1014.7", "pressurei":"29.97","windchillm":"-1.3", "windchilli":"29.6","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 070053Z 06007KT 10SM CLR 02/M11 A2990 RMK AO2 SLP147 T00221111" },
+		{
+		"date": {
+		"pretty": "6:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "18",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "1:53 AM GMT on January 07, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "07",
+		"hour": "01",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"3.3", "tempi":"37.9","dewptm":"-11.1", "dewpti":"12.0","hum":"35","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"100","wdire":"East","vism":"16.1", "visi":"10.0","pressurem":"1013.9", "pressurei":"29.94","windchillm":"2.0", "windchilli":"35.5","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 070153Z 10003KT 10SM OVC110 03/M11 A2988 RMK AO2 SLP139 T00331111" },
+		{
+		"date": {
+		"pretty": "7:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "19",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "2:53 AM GMT on January 07, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "07",
+		"hour": "02",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"2.2", "tempi":"36.0","dewptm":"-11.1", "dewpti":"12.0","hum":"37","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"360","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1013.8", "pressurei":"29.94","windchillm":"0.0", "windchilli":"32.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 070253Z 36004KT 10SM OVC110 02/M11 A2988 RMK AO2 SLP138 T00221111 58007" },
+		{
+		"date": {
+		"pretty": "8:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "20",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "3:53 AM GMT on January 07, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "07",
+		"hour": "03",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"0.6", "tempi":"33.1","dewptm":"-11.7", "dewpti":"10.9","hum":"40","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1012.9", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 070353Z 00000KT 10SM CLR 01/M12 A2986 RMK AO2 SLP129 T00061117" },
+		{
+		"date": {
+		"pretty": "9:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "21",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "4:53 AM GMT on January 07, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "07",
+		"hour": "04",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"1.1", "tempi":"34.0","dewptm":"-10.6", "dewpti":"12.9","hum":"42","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"300","wdire":"WNW","vism":"16.1", "visi":"10.0","pressurem":"1011.2", "pressurei":"29.86","windchillm":"-1.8", "windchilli":"28.8","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 070453Z 30005KT 10SM OVC110 01/M11 A2984 RMK AO2 SLP112 T00111106" },
+		{
+		"date": {
+		"pretty": "10:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "22",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "5:53 AM GMT on January 07, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "07",
+		"hour": "05",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"0.0", "tempi":"32.0","dewptm":"-11.1", "dewpti":"12.0","hum":"44","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"16.1", "visi":"10.0","pressurem":"1010.4", "pressurei":"29.84","windchillm":"-4.4", "windchilli":"24.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 070553Z AUTO 03008KT 10SM CLR 00/M11 A2982 RMK AO2 SLP104 T00001111 10044 21006 58016" },
+		{
+		"date": {
+		"pretty": "11:53 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "23",
+		"min": "53",
+		"tzname": "America/Denver"
+		},
+		"utcdate": {
+		"pretty": "6:53 AM GMT on January 07, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "07",
+		"hour": "06",
+		"min": "53",
+		"tzname": "UTC"
+		},
+		"tempm":"0.0", "tempi":"32.0","dewptm":"-10.6", "dewpti":"12.9","hum":"45","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1009.1", "pressurei":"29.80","windchillm":"-1.8", "windchilli":"28.7","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KPUB 070653Z AUTO VRB03KT 10SM FEW120 00/M11 A2980 RMK AO2 SLP091 T00001106 401111078" }
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "12:00 PM MST on January 06, 2018",
+		"year": "2018",
+		"mon": "01",
+		"mday": "06",
+		"hour": "12",
+		"min": "00",
+		"tzname": "America/Denver"
+		},
+		"fog":"0","rain":"0","snow":"0","snowfallm":"0.00", "snowfalli":"0.00","monthtodatesnowfallm":"0.00", "monthtodatesnowfalli":"0.00","since1julsnowfallm":"5.08", "since1julsnowfalli":"2.00","snowdepthm":"0.00", "snowdepthi":"0.00","hail":"0","thunder":"0","tornado":"0","meantempm":"2", "meantempi":"35","meandewptm":"-12", "meandewpti":"11","meanpressurem":"1017", "meanpressurei":"30.05","meanwindspdm":"5", "meanwindspdi":"3","meanwdire":"","meanwdird":"349","meanvism":"16", "meanvisi":"10","humidity":"","maxtempm":"11", "maxtempi":"52","mintempm":"-8", "mintempi":"18","maxhumidity":"57","minhumidity":"24","maxdewptm":"-9", "maxdewpti":"15","mindewptm":"-15", "mindewpti":"5","maxpressurem":"1023", "maxpressurei":"30.22","minpressurem":"1009", "minpressurei":"29.80","maxwspdm":"16", "maxwspdi":"10","minwspdm":"0", "minwspdi":"0","maxvism":"16", "maxvisi":"10","minvism":"16", "minvisi":"10","gdegreedays":"0","heatingdegreedays":"30","coolingdegreedays":"0","precipm":"0.00", "precipi":"0.00","precipsource":"","heatingdegreedaysnormal":"35","monthtodateheatingdegreedays":"228","monthtodateheatingdegreedaysnormal":"210","since1sepheatingdegreedays":"","since1sepheatingdegreedaysnormal":"","since1julheatingdegreedays":"2235","since1julheatingdegreedaysnormal":"2573","coolingdegreedaysnormal":"0","monthtodatecoolingdegreedays":"0","monthtodatecoolingdegreedaysnormal":"0","since1sepcoolingdegreedays":"","since1sepcoolingdegreedaysnormal":"","since1jancoolingdegreedays":"0","since1jancoolingdegreedaysnormal":"0" }
+		]
+	}
+}

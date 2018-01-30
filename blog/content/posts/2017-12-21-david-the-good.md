@@ -6,6 +6,7 @@ tags:
   - david_the_good
   - books
   - gardening
+  - composting
 ---
 
 <h2>
@@ -37,8 +38,13 @@ So many rule lists on composting that make no sense.
 </h3>
 
 <h3>
-  <a href="" target="_blank"></a>
+  Creating a New Batch of Fermented Plant Juice AKA "Dave's Fetid Swamp Water (TM)"
+  <a href="https://www.youtube.com/watch?v=x4pMkLGWes0" target="_blank">David The Good youtube</a>
+</h3>
 
+<h3>
+  Could This Bacteria Soup Help Your Garden? (TCEG Episode 1)
+  <a href="https://www.youtube.com/watch?v=D2u4nAuIRKw&t=201s" target="_blank">David The Good youtube</a>
 </h3>
 
 Compost Everything: The Good Guide to Extreme Composting

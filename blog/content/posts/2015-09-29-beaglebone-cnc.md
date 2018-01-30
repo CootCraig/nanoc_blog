@@ -204,6 +204,11 @@ http://www.planet-cnc.com/
 * <a href="https://www.youtube.com/watch?t=5&v=OxQu-VsQc-4" target="_blank">Overview and first run of Probotix CNC Rotary Axis</a>
 * <a href="https://www.youtube.com/watch?v=eakfxCt4zyU&index=7&list=PLjFHFZ7yr2NGzM8g00bUs2SYuoZq7pCwI" target="_blank">First Project on Probotix Asteroid CNC Router</a>
 
+<h2>
+  PocketBeagle
+  <a href="http://beagleboard.org/pocket" target="_blank">beagleboard.org/pocket</a>
+</h2>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

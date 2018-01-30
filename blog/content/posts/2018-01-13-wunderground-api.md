@@ -6,6 +6,13 @@ tags:
   - wunderground_api
 ---
 
+<h3>Annual calendar for date selection</h3>
+
+<h4>
+  U.S. annual calendar page
+  <a href="https://www.timeanddate.com/calendar/?year=2012&country=1" target="_blank">timeanddate.com/calendar/</a>
+</h4>
+
 <h1>
   <a href="https://www.wunderground.com/weather/api/d/docs" target="_blank">Weather API: Introduction</a>
 </h1>
@@ -24,9 +31,21 @@ tags:
   HTML Tag inside the JSON response 
 </h3>
 
+<h4>
+  <a href="https://www.wunderground.com/weather/api/d/docs?d=data/history" target="_blank">API page for retrieving historical data</a>
+</h4>
+
+<pre>
+http://api.wunderground.com/api/api-key-abc123/history_YYYYMMDD/q/CA/San_Francisco.json
+</pre>
+
 <pre>
 http://api.wunderground.com/api/key/history_20160805/q/KPUB.json
+
+wget -O history-20180106-KPUB.json http://api.wunderground.com/api/999apikey9999/history_20180106/q/KPUB.json
 </pre>
+
+<h3>La Junta, CO Municipal reporting station. KLHX</h3>
 
 <h3>
   <a href="https://apicommunity.wunderground.com/weatherapi/topics/historical_data_for_multiple_days_in_one_request" target="_blank">apicommunity.wunderground.com/weatherapi</a>

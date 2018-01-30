@@ -48,6 +48,8 @@ date, mileage, cost, category, Service Parts Notes, Other Notes
 
 <h1>Odyssey</h1>
 
+<img src="/assets/images/odyssey-oil-change-kit.jpg" width="900px">
+
 <pre>
 tire rotation - Discount Tire staff: 3-5000 miles. Discount Tire Website: 6,000 miles.
 tire rotation - Craig 5000 mi
@@ -63,14 +65,16 @@ Craig 5000 mile or 6 month oil change interval
 , , $35.07, Oil and Filter Change, Wix 57356XP oil filter $10.60, Mobil 1 5w20 5qt $22.88, Other Notes
 2017-07-12, 115,413 mi, 12.73+22.88 = $35.61, oil and filter change, K&N HP-1004 $12.73 - 5qt Mobil 1 5W20 $22.88, 4.6qt oil - 17mm plug socket
 2017-07-26, 115690, 0, Tire Rotation, Discount Tire,
+2017-12-16, 122108, 0, Tire Rotation, Discount Tire,
+2018-01-18, 123752 mi, $??, oil and filter change, K&N HP-1004 - Mobil 1 5W20, 4.6qt oil - 17mm plug socket
 </pre>
 
 <h3>Next service items</h3>
 
 <pre>
-Sat Dec 16 21:53:07 MST 2017 - 122108
-tire rotation at 115690 + 5000 = 120690 miles
-change oil at 115413+4000 = 119413 or January 15, 2018
+Thu Jan 18 18:07:05 MST 2018 - 123752
+tire rotation at 122108 + 5000 => 127108
+change oil at 123752+5000 => 128752 or July 18, 2018
 </pre>
 
 <h3>Stock Items</h3>
@@ -101,7 +105,9 @@ tire rotation - Craig 5000 mi
 2017-07-15, 193462, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
 2017-07-31, 194227 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
 2017-12-08, 199294, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
+2017-12-19, 199365 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
 </pre>
+
 
 <h3>Next service items</h3>
 
@@ -109,7 +115,7 @@ tire rotation - Craig 5000 mi
 
 Wed Aug 23 18:29:21 MDT 2017 - 194944 mi
 
-tire rotation 194227 + 5000 = 199227 miles
+tire rotation 199365 + 5000 => 204365 miles
 change oil 199294 + 5000 => 204294 or June 8, 2018
 </pre>
 

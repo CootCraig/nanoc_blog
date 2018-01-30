@@ -16,6 +16,9 @@ tags:
 
 ## Ply Bench
 
+<h3>Simple Low Bench</h3>
+
+<img src="/assets/images/simple-low-bench.png" width="500px">
 
 <!--
 html boilerplate
@@ -27,6 +30,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
