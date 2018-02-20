@@ -5,6 +5,7 @@ kind: article
 tags:
   - bible
   - bible_study
+  - the_way
 ---
 
 <h2>
@@ -85,6 +86,36 @@ ISBN-13: 978-3880023000
   <a href="https://www.youtube.com/watch?v=TBUT8W6mZcQ" target="_blank">The Discovery Bible youtube</a>
   Presenting the OT/NT Print Discovery Bible
 </h3>
+
+<h2>
+  A Study of "Way" in Acts
+  <a href="http://www.bibletruths.net/Archives/BTAR180.htm" target="_blank">bibletruths.net/Archives/</a>
+</h2>
+
+<h2>
+  Bible Tips: What Is "The Way"?
+  <a href="http://www.freebiblestudyguides.org/bible-tips/what-is-the-way.htm" target="_blank">freebiblestudyguides.org/bible-tips/</a>
+</h2>
+
+<h4>Jesus Christ said He is "the way" to the Father.</h4>
+
+"Jesus said to him, 'I am the way, the truth, and the life. No one comes to the Father except through Me'" (John 14:6).
+
+<h4>"The way" God has called us to is challenging. It is not just a hobby, but a total way of life.</h4>
+
+"Because narrow is the gate and difficult is the way which leads to life, and there are few who find it" (Matthew 7:14).
+
+<h4>"The Way" became a title for followers of Jesus—the name of their belief before the term "Christian" was used.</h4>
+
+"And asked letters from him to the synagogues of Damascus, so that if he
+found any who were of the Way, whether men or women, he might bring them
+bound to Jerusalem" (Acts 9:2; see Acts 11:26 for the first reference
+to Christians).
+
+The Nelson Study Bible says, "Originally, the church called themselves
+'The Way.' But later they began to refer to themselves as Christians,
+despite the fact that the name most likely was originally used to ridicule
+the believers."
 
 <!--
 html boilerplate

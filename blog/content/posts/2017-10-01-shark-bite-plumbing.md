@@ -220,6 +220,32 @@ or CPVC with NO soldering, clamps, unions or glue required.
   <a href="" target="_blank">Sharkbite abcdef</a>
 </h2>
 
+<h1>Fittings</h1>
+
+<h3>
+  1/2" BALL VALVE with drain (#22304-0000LF)
+  <a href="http://www.sharkbite.com/product/ball-valves-with-drainvent/" target="_blank">sharkbite.com/product/</a>
+</h3>
+
+<h3>
+  1/2" X 1/2" Slip Coupling (#U3008LF)
+  <a href="http://www.sharkbite.com/product/slip-couplings-slip-end-only-suitable-for-copper-and-cpvc/" target="_blank">sharkbite.com/product/</a>
+</h3>
+
+<h3>
+  SharkBite 22996LF Manifold 3 Branches (Closed Style)
+  <a href="http://www.sharkbiteplumbing.com/sharkbite-22996lf-3-port-manifold-lead-free" target="_blank">sharkbiteplumbing.com/sharkbite</a>
+</h3>
+
+SharkBite 22996LF Manifold 3 Branches (Closed Style). The Manifold is
+designed with a 1” body for maximum flow with a 3/4” inlet or outlet
+and 1/2” SharkBite branches. This product is lead free.
+
+<h3>
+  1/2" END CAP (#U514LF)
+  <a href="http://www.sharkbite.com/product/end-caps/" target="_blank">sharkbite.com/product/</a>
+</h3>
+
 <h1>Research</h1>
 
 <h3>
@@ -380,6 +406,36 @@ Nylon Pipe Clamps, Snap-in Clips, Peter Mangone Clips and Staple system.
   <a href="https://www.pexuniverse.com/installation-accessories" target="_blank">pexuniverse.com product page</a>
   Installation Accessories
 </h4>
+
+<h3>supplyhouse.com order</h3>
+
+<pre>
+Tue Jan 30 14:28:01 MST 2018
+
+1/2" SharkBite Ball Valve w/ Drain (Lead Free)
+SKU: 22304-0000LF
+$11.95
+
+3/4" Closed Copper Manifold w/ 1/2" Sharkbite Outlets (3 Outlets)
+SKU: 22996LF
+$29.65
+
+3/4" x 1/2" SharkBite Reducing Coupling (Lead Free)
+SKU: U058LF
+$6.55
+
+1/2" Sharkbite Slip Coupling (Lead Free)
+SKU: U3008LF
+$11.95
+
+1/2" SharkBite EndStop (Lead Free)
+SKU: U514LF
+$4.75
+
+3/4" Sharkbite Disconnect Clip
+SKU: U712
+$1.35
+<pre>
 
 <!--
 html boilerplate

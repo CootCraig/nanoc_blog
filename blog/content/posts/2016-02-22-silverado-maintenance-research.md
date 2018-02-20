@@ -312,6 +312,9 @@ How to Cabin Air Filter 99-02
 my pick - Wix 42488 Air Filter
 
 <ul>
+  <li>Wix 42487</li>
+  <li>Wix 42488</li>
+  <li>Wix 42488FR</li>
   <li>Wix 42488 Air Filter - $20 at amazon prime</li>
   <li>Wix 42487 Air Filter - $20 at amazon prime</li>
   <li>

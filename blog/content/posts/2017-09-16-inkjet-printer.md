@@ -4,6 +4,7 @@ created_at: Sat Sep 16 08:51:18 MDT 2017
 kind: article
 tags:
   - inkjet_printer
+  - epson_ecotank_printer
 ---
 
 Looking for bulk ink low cost per page.
@@ -12,6 +13,25 @@ Looking for bulk ink low cost per page.
   <li>Epson WorkForce</li>
   <li>abcd</li>
 </ul>
+
+<h4>Epson ET-3600 or Epson ET-2650</h4>
+
+<pre>
+</pre>
+
+<h3>Epson ET-3600 EcoTank Supertank Printer</h3>
+
+<h4>
+  Epson ET-3600 EcoTank Wireless Color All-in-One Supertank Printer with Scanner, Copier & Ethernet 
+  <a href="https://www.amazon.com/Epson-EcoTank-Wireless-Supertank-Ethernet/dp/B01IH2KM5K/ref=cm_cr_arp_d_product_top?ie=UTF8" target="_blank">$279 at amazon</a>
+</h4>
+
+<h3>Epson ET-2650 EcoTank Wireless Color Printer with Scanner and Copier</h3>
+
+<h4>
+  Epson Expression ET-2650 EcoTank Wireless Color All-in-One Supertank Printer with Scanner and Copier 
+  <a href="https://www.amazon.com/Epson-Expression-EcoTank-Wireless-Supertank/dp/B01NA8VVT3/ref=cm_cr_arp_d_product_top?ie=UTF8" target="_blank">$230 at amazon</a>
+</h4>
 
 <h2>
   <a href="https://www.cnet.com/products/epson-workforce-635-wireless-all-in-one-inkjet-printer/review/" target="_blank">cnet.com/products/ review</a>

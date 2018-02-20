@@ -7,6 +7,45 @@ tags:
   - quadrafire_stove
 ---
 
+<h2>Serial # 0143978</h2>
+
+<h3>Tools</h3>
+
+<pre>
+  5/32 hex key to open door to expose bottom of fireput
+  3/8 socket/wrench to loosen air vent adjustable cover
+</pre>
+
+Looking for 3/8 deep socket to attach to screw driver.
+Access to the 3/8 nut on the air vent will work best with a screwdriver handle.
+
+<img src="/assets/images/pellet-stove-tools.jpg" width="700px">
+
+<h4>
+  10 Pc 1/4 in. Drive SAE High Visibility Deep Socket Pittsburgh Professional - item#67876 
+  <a href="https://www.harborfreight.com/10-pc-14-in-drive-sae-high-visibility-deep-socket-67876.html" target="_blank">$10 at harbor freight</a>
+</h4>
+
+<ul>
+  <li>3/16 in.</li>
+  <li>7/32 in.</li>
+  <li>1/4 in.</li>
+  <li>9/32 in.</li>
+  <li>5/16 in.</li>
+  <li>11/32 in.</li>
+  <li>3/8 in.</li>
+  <li>7/16 in.</li>
+  <li>1/2 in.</li>
+  <li>9/16 in.</li>
+</ul>
+
+<h4>Scott Maxwell - Chimney Sweep</h4>
+
+<pre>
+719-696-5260 mobile for contact
+719-583-0720 leave message
+</pre>
+
 <h4>
   <a href="/assets/pdf/1100i.pdf" target="_blank">Local user manual</a>
 </h4>
@@ -22,6 +61,12 @@ p.14 - Reading the fire and adjustment procedures
 p.15 - Component information
 p.17 - Troubleshooting
 </pre>
+
+<h3>
+  <a href="/assets/pdf/quadra-fire-1100i-service-parts.pdf" target="_blank">1100i service marts manual - local</a>
+</h3>
+
+Flue Flange Gasket , Wing 812-1300
 
 <h4>
   <a href="https://www.youtube.com/watch?v=FfMMwZUTLYw" target="_blank">Wood Heat Stoves youtube</a>
@@ -186,6 +231,13 @@ p.17 - Troubleshooting
 
 Quadrafire 1100i EBM Exhaust Blower (Motor Only) 812-1110 - $340.00
 
+<h1>High temp. tape</h1>
+
+<h3>
+  CS Hyde High Temperature Fiberglass Tape With Silicone Adhesive, Ivory 1/2 inch x 36 yards
+  <a href="https://www.amazon.com/CS-Hyde-Temperature-Fiberglass-Silicone/dp/B000REGUBM" target="_blank">$18.44 at amazon</a>
+</h3>
+
 <h1>Parts</h1>
 
 <h2>
@@ -231,8 +283,26 @@ have the Ceramic Burn Pot, you will need the Ceramic Ignitor 812-0180.
 
 $50 at www.stove-parts-unlimited.com
 3-5 days for free shipping
-
 </pre>
+
+<h4>
+  Ceramic Igniter for the Quadrafire 800, 1000 and 1100i Pellet Stoves (812-0180)
+  <a href="https://www.stove-parts-unlimited.com/ceramic-igniter-for-the-quadrafire-800-1000-and-1100i-pellet-stoves-812-0180-p/812-0180.htm" target="_blank">$70 at stove-parts-unlimited.com/ceramic-igniter</a>
+</h4>
+
+Replacement Ceramic Igniter for the Quadrafire 800, 1000 and 1100i Pellet
+Stoves. Click on the photo to enlarge and view other angles.
+
+NOTE: This is the Ceramic Igniter for the Ceramic burn pot ONLY. If you
+have the EZ-Clean Burn Pot, you will need the Loop Ignitor 812-3811. Click
+here to purchase.
+
+When installing this igniter, it is very important that you do not touch
+the black heating element with your bare skin. The oils from your skin
+will penetrate the element and cause the igniter to burn or break. The
+warranty does NOT cover breakage.
+
+Part # 812-0180 OEM Quadrafire Part
 
 <h4>
   <a href="http://www.stove-parts-unlimited.com/Quadrafire-Loop-Ignitor-p/812-3811.htm" target="_blank">$50 at stove-parts-unlimited.com</a>
@@ -257,12 +327,248 @@ Installation Instructions can be
 <a href="/assets/pdf/quadra-fire-ignitor-install.pdf" target="_blank">local copy</a>
 of Quadra-Fire 1100-I ignitor installation
 
+<h2>Replace Exhaust Gasket</h2>
+
+<h4>The Woodshed Stove Shop</h4>
+
+<pre>
+tues-fri
+9 - 3pm
+1215 S. 9th St.
+Canon City, CO 81212
+</pre>
+
+Quadrafire 1100i Flue flange Gasket $18.95
+
+<h3>
+  Quadrafire 1100i Flue Flange Gasket - Wing (812-1300) - Part number: 812-1300
+  <a href="https://www.stove-parts-unlimited.com/quadrafire-1100i-flue-flange-gasket-wing-812-1300-p/812-1300.htm" target="_blank">$32.00 at stove-parts-unlimited.com/quadrafire</a>
+</h3>
+
+<h3>
+  Quadra-Fire Flue Adapter Gasket 240-0850 - this looks like it will work
+  <a href="https://www.amazon.com/Quadra-Fire-Flue-Adapter-Gasket-240-0850/dp/B014JYJLLG" target="_blank">$12.99 at amazon</a>
+</h3>
+
+<h4>Mountain View Hearth Products</h4>
+
+<pre>
+Mailing Address:
+3905 HWY 40
+Columbia Falls, MT 59912
+
+Physical Address: 
+3905 HWY 40
+Columbia Falls, MT 59912
+
+Phone:
+406-272-9850 
+Monday - Friday 8AM - 5PM
+
+Fax:
+406-272-9851
+
+E-mail:
+support@stove-parts-unlimited.com
+</pre>
+
+<h3>
+  gasket paper, superwool plus, 2100F, Small Sheets, 15'' x 24'' x 1/8'', 4 pcs/pkg
+  <a href="https://www.amazon.com/Gasket-Paper-Superwool-2100F-Sheets/dp/B077VRS14X" target="_blank">$48.50 at amazon</a>
+</h3>
+
+PRODUCT INFO: High temperature gasket paper rated to 2100F. Soft pliable
+material.
+
+USE: Used on the oil, gas and wood fired boiler, furnaces, stoves, kilns,
+evaporators and forges as a gasket material. Often used to seal doors
+and access points. Easy to cut with a knife.
+
+Size: 24 x 15 x 1/8'', 4 Pcs/pkg
+
+Made in the USA by Lynn Manfuacturing, Inc.
+
+<h3>
+  Lynn Pellet & Wood Stove Gasket Paper, 2100F rated, 10'' x 7'' x 1/8'' 
+  <a href="https://www.amazon.com/Lynn-Pellet-Stove-Gasket-Paper/dp/B072HQ2B2N" target="_blank">$10.75 at amazon</a>
+</h3>
+
+2260J USE: replacement gasket paper used when pre-cut gasket is not
+available. Also can be used a high temperature gasket paper in other
+applications.
+
+Fits: gasket paper is big enough to fit nearly every wood stove or
+insert and can be cut using knife or scissors to the dimensions fo the
+orignical gasket.
+
+SIZE: 10'' x 7'' x 1/8'' thick
+
+MATERIAL: Superwool Plus paper, which is flexible, strong, seals well
+& withstands 2100F. Superwool is an alternative to ceramic fiber with
+improved health and safety attributes. Superwool products do NOT carry
+a GHS health hazard warning label.
+
+Made in the USA by Lynn Manfuacturing, Inc.
+
+<pre>
+red RTV silicone
+
+</pre>
+
+<h3>
+  Permatex 81878 Ultra Copper Maximum Temperature RTV Silicone Gasket Maker, 3 oz. Tube 
+  <a href="https://www.amazon.com/Permatex-81878-Maximum-Temperature-Silicone/dp/B0002UEOPA" target="_blank">$6.30 at amazon</a>
+</h3>
+
+<pre>
+Most advanced, high temp RTV silicone gasket available
+Three times more oil resistant than conventional silicones; eight times more flexible than cut gaskets
+Sensor-safe, low odor, and non-corrosive with superior adhesion
+Temperature range -75F to 700F intermittent
+Suggested Applications: Exhaust manifolds/headers, valve covers, oil pans, timing covers, water pumps, thermostat housings 
+</pre>
+
+<h3>
+  J-B Weld 31314 Red High Temperature RTV Silicone Gasket Maker and Sealant - 3 oz.
+  <a href="https://www.amazon.com/J-B-Weld-31314-Temperature-Silicone/dp/B00ID8IUJY" target="_blank">$5.89 at amazon</a>
+</h3>
+
+<h3>fel-pro gasket sheets</h3>
+
+<pre>
+fel-pro 
+fel-pro 
+fel-pro 
+fel-pro 
+
+</pre>
+
+<h3>
+  Rutland 600-Degree RTV Silicone Seal Tube, 2.7-Ounce, Super Red 
+  <a href="https://www.amazon.com/Rutland-600-Degree-Silicone-2-7-Ounce-Super/dp/B004YEBWTG" target="_blank">$15 at amazon</a>
+</h3>
+
 <h1>Web Research</h1>
 
 <h4>
   <a href="https://www.youtube.com/watch?v=QY0Ng94mcys" target="_blank">jettlash1000 youtube</a>
   Are Pellet Stoves Efficient?
 </h4>
+
+<h3>
+  Fel-Pro Gasket Sheets
+  <a href="https://www.summitracing.com/search/product-line/fel-pro-gasket-sheets?SortBy=Default&SortOrder=Ascending" target="_blank">summitracing.com/search</a>
+</h3>
+
+<h4>
+  Fel-Pro 2499 Gasket Material 
+  <a href="https://www.amazon.com/gp/product/B000CNISBI" target="_blank">$16 at amazon</a>
+</h4>
+
+<h4>
+  Fel-Pro 2499 Gasket Material 
+  <a href="https://www.summitracing.com/parts/fel-2499" target="_blank">$9 at summitracing</a>
+</h4>
+
+<pre>
+Brand: Fel-Pro
+Manufacturer's Part Number: 2499
+Part Type: Gasket Material, Sheets
+Product Line: Fel-Pro Gasket Sheets
+Summit Racing Part Number: FEL-2499
+UPC: 084113855054
+Gasket Sheet Material: Rubber/Fiber
+Gasket Sheet Thickness (in): 0.063 in.
+Gasket Sheet Length (in): 12.000 in.
+Gasket Sheet Width (in): 28.500 in. 
+</pre>
+
+<h4>
+  Fel-Pro 2499 Gasket Material 
+  <a href="http://www.jegs.com/i/Fel-Pro/375/2499/10002/-1" target="_blank">$9 at jegs</a>
+</h4>
+
+<h4>
+  Fel-Pro 2498 Gasket Material 
+  <a href="https://www.amazon.com/Fel-Pro-2498-Gasket-Material/dp/B000HUHU8S" target="_blank">$21 at amazon</a>
+</h4>
+
+<h4>
+  Fel-Pro Gasket Sheets 2498
+  <a href="https://www.summitracing.com/parts/fel-2498" target="_blank">$14 at summitracing</a>
+</h4>
+
+<pre>
+Brand: Fel-Pro
+Manufacturer's Part Number: 3025
+Part Type: Gasket Material, Sheets
+Product Line: Fel-Pro Gasket Sheets
+Summit Racing Part Number: FEL-3025
+UPC: 084113855443
+Gasket Sheet Material: Karropak
+Gasket Sheet Thickness (in): 0.063 in.
+Gasket Sheet Length (in): 18.000 in.
+Gasket Sheet Width (in): 36.000 in. 
+</pre>
+
+<pre>
+Brand: Fel-Pro
+Manufacturer's Part Number: 2498
+Part Type: Gasket Material, Sheets
+Product Line: Fel-Pro Gasket Sheets
+Summit Racing Part Number: FEL-2498
+UPC: 084113850660
+Gasket Sheet Material: Pro-Ramic
+Gasket Sheet Thickness (in): 0.047 in.
+Gasket Sheet Length (in): 28.000 in.
+Gasket Sheet Width (in): 12.000 in. 
+</pre>
+
+<h1>Ash Vacuum</h1>
+
+<h2>Shop-Vac® Ash Dry Vacuum - 4041300 - Model CAV150 -  Lowe's Sku. - 781443 </h2>
+
+Cold vacuum only?
+
+<h3>
+  Shop-Vac 5 Gal Ash Dry Vacuum
+  <a href="https://www.shopvac.com/product/shop-vac-5-0-gallons-ash-dry-vacuum-catnum:4041300" target="_blank">shopvac.com/product/shop</a>
+</h3>
+
+<h4>
+  Shop-Vac 5-Gallon Replacement HEPA Filter Item # 619289 Model # 9032900
+  <a href="https://www.lowes.com/pd/Shop-Vac-5-Gallon-Replacement-HEPA-Filter/50283585" target="_blank">lowes.com/pd/Shop</a>
+</h4>
+
+<h3>
+  Shop-Vac® 5.0 Gallons* Ash Dry Vacuum Catalog No. - 4041300  Model No. - CAV150  Lowe's Sku. - 781443 
+  <a href="https://www.shopvacstore.com/shop-vac-ash-vacuum-with-pellet-stove-cleaning-kit---4041300-details.aspx" target="_blank">shopvacstore.com/shop-vac-ash-vacuum</a>
+</h3>
+
+<h2>PowerSmith Ash Vacuum MODEL #: PAVC102</h2>
+
+<h3>
+  PowerSmith Ash Vacuum MODEL #: PAVC102
+  <a href="http://powersmithtools.com/portfolios/high-capacity-ash-vacuum/" target="_blank">powersmithtools.com/portfolios</a>
+</h3>
+
+review PowerSmith PAVC102
+
+<h3>
+  PowerSmith 4 Gal. Dry Ash Canister Vacuum
+  <a href="https://www.homedepot.com/p/PowerSmith-4-Gal-Dry-Ash-Canister-Vacuum-PAVC102/304127635" target="_blank">$100 at homedepot</a>
+</h3>
+
+<h3>
+  PowerSmith PAVC102 10 Amp 4 Gallon Ash Vacuum with 2 Ash Filters, Silver
+  <a href="https://www.amazon.com/PowerSmith-PAVC102-Gallon-Vacuum-Filters/dp/B0193TKNBE" target="_blank">$114.96 at amazon</a>
+</h3>
+
+PowerSmith™ PAVC102 Ash Vacuum is specifically designed to clean warm
+and cool ash out of fireplaces, wood stoves, pellet stoves, and barbecue
+grills. The washable, replaceable and fire-resistant 2-layer filter
+system, together with the Heat-resistant metal hose and metal canister,
+stands high temperature and prevents fire hazards.
 
 <h2>November 2017 Troubleshooting</h2>
 
