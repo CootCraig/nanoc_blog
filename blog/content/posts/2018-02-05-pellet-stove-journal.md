@@ -31,6 +31,10 @@ tags:
 2018-02-17 1 bags loaded
 2018-02-18 2 bags loaded
 2018-02-19 1 bags loaded
+2018-02-20 2 bags loaded
+2018-02-21 2 bags loaded
+
+26 left
 </pre>
 
 <!--

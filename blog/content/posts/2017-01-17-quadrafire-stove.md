@@ -39,6 +39,20 @@ Access to the 3/8 nut on the air vent will work best with a screwdriver handle.
   <li>9/16 in.</li>
 </ul>
 
+<h2 id="stove-gasket">exhaust gasket template</h2>
+
+<h4>stove-gasket-vector.png</h4>
+
+<img src="/assets/images/stove-gasket-vector-png.png" width="400px">
+
+<h4>stove-gasket-template-scan.png</h4>
+
+<img src="/assets/images/stove-gasket-template-scan.png" width="400px">
+
+<h2>
+  <a href="/assets/images/stove-gasket-vector.svg" target="_blank">stove-gasket-vector.svg</a>
+</h2>
+
 <h4>Scott Maxwell - Chimney Sweep</h4>
 
 <pre>
@@ -629,6 +643,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

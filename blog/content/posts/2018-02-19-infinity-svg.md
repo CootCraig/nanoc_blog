@@ -8,20 +8,20 @@ tags:
 ---
 
 <svg width="600" height="200" viewbox="-30 -10 60 20" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 20 0 C 20 5 10 5 0 0" stroke="black" fill="transparent"/>
-  <path d="M 0 0 C -10 -5 -20 -5 -20 0" stroke="black" fill="transparent"/>
+  <path d="M 20 0 C 20 8 10 8 0 0" stroke="black" fill="transparent"/>
+  <path d="M 0 0 C -10 -8 -20 -8 -20 0" stroke="black" fill="transparent"/>
 
-  <path d="M -20 0 C -20 5 -10 5 0 0" stroke="black" fill="transparent"/>
-  <path d="M 0 0 C 10 -5 20 -5 20 0" stroke="black" fill="transparent"/>
+  <path d="M -20 0 C -20 8 -10 8 0 0" stroke="black" fill="transparent"/>
+  <path d="M 0 0 C 10 -8 20 -8 20 0" stroke="black" fill="transparent"/>
 </svg>
 
 <pre>
 &lt;svg width=&quot;600&quot; height=&quot;200&quot; viewbox=&quot;-30 -10 60 20&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;
-  &lt;path d=&quot;M 20 0 C 20 5 10 5 0 0&quot; stroke=&quot;black&quot; fill=&quot;transparent&quot;/&gt;
-  &lt;path d=&quot;M 0 0 C -10 -5 -20 -5 -20 0&quot; stroke=&quot;black&quot; fill=&quot;transparent&quot;/&gt;
+  &lt;path d=&quot;M 20 0 C 20 8 10 8 0 0&quot; stroke=&quot;black&quot; fill=&quot;transparent&quot;/&gt;
+  &lt;path d=&quot;M 0 0 C -10 -8 -20 -8 -20 0&quot; stroke=&quot;black&quot; fill=&quot;transparent&quot;/&gt;
 
-  &lt;path d=&quot;M -20 0 C -20 5 -10 5 0 0&quot; stroke=&quot;black&quot; fill=&quot;transparent&quot;/&gt;
-  &lt;path d=&quot;M 0 0 C 10 -5 20 -5 20 0&quot; stroke=&quot;black&quot; fill=&quot;transparent&quot;/&gt;
+  &lt;path d=&quot;M -20 0 C -20 8 -10 8 0 0&quot; stroke=&quot;black&quot; fill=&quot;transparent&quot;/&gt;
+  &lt;path d=&quot;M 0 0 C 10 -8 20 -8 20 0&quot; stroke=&quot;black&quot; fill=&quot;transparent&quot;/&gt;
 &lt;/svg&gt;
 </pre>
 

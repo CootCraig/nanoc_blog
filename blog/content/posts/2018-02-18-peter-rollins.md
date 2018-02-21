@@ -32,20 +32,13 @@ Northern Ireland, currently lives in Los Angeles and will die somewhere
 as yet not known.
 
 <h3>
+  Explaining "Emergent" Churches
+  <a href="https://www.youtube.com/watch?v=Ef7Rfs1T96c" target="_blank">Calvin College youtube</a>
+</h3>
+
+<h3>
   ThinkFWD - Pete Rollins - Resurrection as Insurrection
   <a href="https://www.youtube.com/watch?v=DYtBUvfYTUE" target="_blank">Spencer Burke youtube</a>
-</h3>
-
-<h3>
-  <a href="" target="_blank"></a>
-</h3>
-
-<h3>
-  <a href="" target="_blank"></a>
-</h3>
-
-<h3>
-  <a href="" target="_blank"></a>
 </h3>
 
 <!--
