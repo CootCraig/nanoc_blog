@@ -14,6 +14,52 @@ tags:
 
 <h1>Pellet Burn Journal</h1>
 
+
+<h4>2018-03-12 Mon Mar 12 2018 - purchased 20 bags TerrAmigo wood pellets</h4>
+
+<pre>
+20 ea. 5.59 total 111.80
+tax 8.50
+</pre>
+<pre>
+2018-03-14 1 bags loaded
+2018-03-15 1 bags loaded
+2018-03-16 0 bags loaded
+2018-03-17 1 bags loaded
+2018-03-18 1 bags loaded
+2018-03-19 1 bags loaded
+2018-03-20 1 bags loaded
+2018-03-21 1 bags loaded
+2018-03-22 1 bags loaded
+2018-03-23 0 bags loaded
+2018-03-24 0 bags loaded
+2018-03-25 1 bags loaded
+2018-03-26 0 bags loaded
+2018-03-27 0 bags loaded
+2018-03-28 1 bags loaded
+2018-03-29 1 bags loaded
+2018-03-30 1 bags loaded
+2018-03-31 0 bags loaded
+2018-04-01 0 bags loaded
+2018-04-02 2 bags loaded
+2018-04-03 0 bags loaded
+2018-04-04 0 bags loaded
+2018-04-05 1 bags loaded
+2018-04-06 1 bags loaded
+2018-04-07 0 bags loaded
+2018-04-08 1 bags loaded
+2018-04-09 0 bags loaded
+2018-04-10 0 bags loaded
+2018-04-11 0 bags loaded
+2018-04-12 1 bags loaded
+2018-04-13 0 bags loaded
+2018-04-14 1 bags loaded
+
+1 bags left
+</pre>
+
+<h4>2018-02-03 - Pellets left in cellar</h4>
+
 <pre>
 2018-02-03 started firing the quadra-fire pellet stove
 2018-02-04 2 bags loaded
@@ -33,8 +79,28 @@ tags:
 2018-02-19 1 bags loaded
 2018-02-20 2 bags loaded
 2018-02-21 2 bags loaded
+2018-02-22 3 bags loaded
+2018-02-23 1 bags loaded
+2018-02-24 2 bags loaded
+2018-02-25 2 bags loaded
+2018-02-26 1 bags loaded
+2018-02-27 2 bags loaded
+2018-02-28 1 bags loaded
+2018-03-01 2 bags loaded
+2018-03-02 1 bags loaded
+2018-03-03 0 bags loaded
+2018-03-04 1 bags loaded
+2018-03-05 2 bags loaded
+2018-03-06 0 bags loaded
+2018-03-07 1 bags loaded
+2018-03-08 2 bags loaded
+2018-03-09 0 bags loaded
+2018-03-10 2 bags loaded
+2018-03-11 1 bags loaded
+2018-03-12 1 bags loaded
+2018-03-13 1 bags loaded
 
-26 left
+0 left
 </pre>
 
 <!--

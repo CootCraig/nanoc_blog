@@ -6,6 +6,24 @@ tags:
   - obdii
 ---
 
+<h2>Harbor Freight OBD2 scanner</h2>
+
+<h4>
+  <a href="https://www.harborfreight.com/zr8-obd2-code-reader-with-live-data-63809.html" target="_blank">harborfreight.com/zr8-obd2</a>
+</h4>
+
+<pre>
+$79.99
+Zurich ODB2 Code Reader
+with live data
+ZR8
+item 
+</pre>
+
+<h3>
+  <a href="https://www.carmd.com/wp/locating-the-obd2-port-or-dlc-locator/" target="_blank">carmd.com/wp/locating-the-obd2-port</a>
+</h3>
+
 <a href="https://www.youtube.com/watch?v=ZPnDZ1Y7xVA" target="_blank">BlueDriver Tool Review -EricTheCarGuy</a>
 
 <a href="https://www.youtube.com/watch?v=xPI36bKVCjk" target="_blank">ChrisFix - BlueDriver OBD2 Diagnostic Scan Tool Review</a>

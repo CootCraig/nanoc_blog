@@ -11,6 +11,33 @@ tags:
   - rca_connector
 ---
 
+<h2>Compression rg6 Connectors</h2>
+
+<h4>Found at Wintronics Pueblo</h4>
+
+<h4>
+  Holland Electronics - slcu-6-1 F Type standard RG6 model#-SLCU-6-1 F Male plating-Nickel closure size-21mm
+  <a href="http://www.hollandelectronics.com/catalog/upload_file/Connectors-SLCU-6-1-59.pdf" target="_blank">hollandelectronics.com pdf</a>
+</h4>
+
+<h4>
+  Search results for Holland SLCU-6 F-Type
+  <a href="https://www.showmecables.com/catalogsearch/result/?q=Holland+SLCU-6+F-Type" target="_blank">showmecables.com/catalogsearch</a>
+</h4>
+
+<h4>
+  Holland SLCU-6 F-Type Male Compression Connector - RG6 PVC and Plenum
+  <a href="https://www.showmecables.com/holland-slcu-6-f-type-compression-connector-snap-seal-rg6" target="_blank">showmecables.com/holland-slcu-6-f</a>
+</h4>
+
+<pre>
+1-4 $0.51
+5-19 $0.43
+20-99 $0.40
+100-499 $0.36
+500+ $0.33 
+</pre>
+
 # What to like
 
 <a href="http://www.markertek.com/product/72401ez-bk/gepco-72401ez-2-cond-24-ga-twisted-pair-audio-cable-black-per-foot" target="_blank">$0.17/ft at markertek</a> Gepco 72401EZ 2 Cond 24 Ga Twisted Pair Audio Cable - Black - Per Foot

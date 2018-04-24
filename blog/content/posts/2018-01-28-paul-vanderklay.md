@@ -10,6 +10,13 @@ tags:
   <a href="https://www.youtube.com/user/paulvanderklay" target="_blank">Paul VanderKlay youtube channel</a>
 </h2>
 
+<h3>
+  CRC Pastor with Jordan Peterson on CS Lewis, the Resurrection, his Biblical series,
+  <a href="https://www.youtube.com/watch?v=aUGGrZUFMg4" target="_blank">Paul VanderKlay youtube</a>
+</h3>
+
+at 15 min.
+
 <h2>
   Commentary on the Jordan Peterson Biblical Series
   <a href="https://www.youtube.com/watch?v=LZiVwwUdCjc&list=PLYSXopxC8Z9sUfuJWJWIq2PN3_a0nvIAn" target="_blank">Paul VanderKlay youtube</a>

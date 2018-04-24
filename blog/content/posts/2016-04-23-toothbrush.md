@@ -7,6 +7,13 @@ tags:
   - philips_sonicare
 ---
 
+<h4>
+  Philips Sonicare ProResults Gum Health replacement toothbrush heads, HX9033/64, 3-pk
+  <a href="https://www.amazon.com/Philips-Sonicare-ProResults-replacement-HX9033/dp/B00LM7S3PY" target="_blank">3 for $27 at amazon</a>
+</h4>
+
+received Mon Feb 26 14:06:32 MST 2018
+
 <h3>
   5 Pack Charcoal Toothbrush [GENTLE SOFT] Slim Teeth Head Whitening Brush for Adults & Children - Ultra Soft Medium Tip Bristles
   <a href="https://www.amazon.com/Charcoal-Toothbrush-GENTLE-Whitening-Children/dp/B0777SKKBL" target="_blank">5 for $8 at amazon</a>
@@ -17,11 +24,6 @@ tags:
 purchased - Sat Apr 23 20:50:34 MDT 2016
 
 <h3>replacement toothbrush head</h3>
-
-<h4>
-  Philips Sonicare ProResults Gum Health replacement toothbrush heads, HX9033/64, 3-pk
-  <a href="https://www.amazon.com/Philips-Sonicare-ProResults-replacement-HX9033/dp/B00LM7S3PY" target="_blank">3 for $27 at amazon</a>
-</h4>
 
 <h4>
   Philips Sonicare Premium Plaque Control replacement toothbrush heads, HX9044/65, Smart recognition, White 4-pk

@@ -9,6 +9,15 @@ tags:
   - verizon_wireless
 ---
 
+<h2>Sat Mar 31 2018 - new phone search</h2>
+
+<pre>
+On Verizon
+Samsung Galaxy J3 
+Moto E4 Plus
+LG K8 V 
+</pre>
+
 # carriers
 
 <ul>
@@ -325,7 +334,9 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
--->
-
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>

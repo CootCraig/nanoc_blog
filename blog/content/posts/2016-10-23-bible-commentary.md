@@ -7,9 +7,26 @@ tags:
   - bible_commentary
 ---
 
+<ul>
+  <li>Matthew Henry</li>
+  <li>Alexander MacLaren - biblehub.com</li>
+  <li>John Gill - biblehub.com</li>
+  <li>Spurgeon</li>
+  <li>Jamieson-Fausset-Brown Bible Commentary</li>
+  <li>Ellicott's Commentary for English Readers</li>
+</ul>
+
+<ul>
+  <li>biblehub.com</li>
+  <li><a href="https://www.studylight.org/commentaries/" target="_blank">studylight.org/commentaries/</a></li>
+
+</ul>
+
+<pre>
 Matthew Henry's Commentary One Volume
 ISBN: 9780310260103
 Purchased Sun Oct 23 13:16:49 MDT 2016
+</pre>
 
 <a href="http://www.sacred-texts.com/bib/cmt/gill/index.htm" target="_blank">Exposition of the Old and New Testament by John Gill</a>
 
@@ -80,6 +97,8 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

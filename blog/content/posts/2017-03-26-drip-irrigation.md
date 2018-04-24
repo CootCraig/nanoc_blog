@@ -1,11 +1,54 @@
 ---
-title: "Drip Irrigation"
+title: "Our Irrigation System"
 created_at: Sun Mar 26 17:15:32 MDT 2017
 kind: article
 tags:
-  - drip_irritation
+  - drip_irrigation
   - drip_tape
 ---
+
+search: garden irrigation bubbler
+
+<h2>
+  <a href="https://www.youtube.com/user/dripdepot/featured" target="_blank">dripdepot youtube channel</a>
+</h2>
+
+<h2>Great Video</h2>
+
+Shows use of Hendrickson bros FC76 Air Jet Bubbler in multiple configurations
+
+<h3>
+  BUBBLERS for gardens, trees, flowerbeds and landscaping.
+  <a href="https://www.youtube.com/watch?v=pIJW-1PZaPE" target="_blank">Sprinkler Warehouse youtube</a>
+</h3>
+
+<h3>
+  FC76 Air Jet Bubbler
+  <a href="http://hendricksonbros.com/flow-controls.html" target="_blank">hendricksonbros.com/flow-controls</a>
+</h3>
+
+The FC76 Air Jet Bubbler offers a constant and gentle water flow in
+system with line pressures up to 100 psi. The FC76 has no moving parts
+and requires no maintenance or adjustment. The simple patented design of
+the FC76 offers the user precise and consistent flow control. The slow,
+measured water flow utilizes water resources efficiently.
+
+<ul>
+  <li>Consistent flow rate that compensates for pressure variation caused by terrain elevation or friction loss.</li>
+  <li>Fits all standard 1/2" risers.</li>
+  <li>Available in .15, .25, .50, 1.0, 2.0 GPM flow rates.</li>
+  <li>The desired flow, in a gentle, bubbling action. </li>
+</ul>
+
+<h3>
+  BUBBLERS for gardens, trees, flowerbeds and landscaping.
+  <a href="https://www.youtube.com/watch?v=pIJW-1PZaPE" target="_blank">Sprinkler Warehouse youtube</a>
+</h3>
+
+<h4>
+  Hendrickson FC76-100 Air Jet Bubbler 1.00 GPM and 1/2 inch FPT (Inlet)
+  <a href="http://www.sprinklerwarehouse.com/Hendrickson-Air-Jet-Bubbler-p/fc76-100.htm" target="_blank">$1.38 at sprinklerwarehouse.com/Hendrickson</a>
+</h4>
 
 <h1>t-tape</h1>
 
@@ -159,8 +202,9 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
--->

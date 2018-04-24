@@ -14,6 +14,7 @@ tags:
 <pre>
   5/32 hex key to open door to expose bottom of fireput
   3/8 socket/wrench to loosen air vent adjustable cover
+  7/16 for bolt holding fire pot
 </pre>
 
 Looking for 3/8 deep socket to attach to screw driver.
@@ -632,6 +633,8 @@ C.  The small convection blower is located at the rear right side of the
 insert. When the insert is pulled out onto the hearth, it is accessible
 through a removable access panel. The impeller on this blower should
 also be cleaned at least once a year, and can also be cleaned in place.
+
+<h2>Fasten chimney to gutter</h2>
 
 <!--
 html boilerplate

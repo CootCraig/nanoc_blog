@@ -172,6 +172,10 @@ read Wed Sep 28 15:11:02 MDT 2016
 
 read Wed Oct 19 10:43:35 MDT 2016
 
+<h2>Velocity 	2005 	novel</h2>
+
+Read Mon Apr  9 17:52:46 MDT 2018
+
 # future requests
 
 ## Fear That Man / Toyman Ace Double
