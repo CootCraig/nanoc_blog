@@ -12,6 +12,11 @@ tags:
   <a href="https://www.jihadwatch.org/" target="_blank">Jihad Watch online - Robert Spencer site</a>
 </h1>
 
+<h3>
+  The History of Jihad: From Muhammad to ISIS Hardcover – August 7, 2018 by Robert Spencer (Author) 
+  <a href="https://www.amazon.com/History-Jihad-Muhammad-ISIS/dp/1682616592" target="_blank">$24.30 at amazon</a>
+</h3>
+
 <h1>
   <a href="https://historyofislam.com/contents/" target="_blank">historyofislam.com/contents</a>
 </h1>
@@ -23,6 +28,35 @@ Dr. Ibrahim Gamard, PhD
 Dr. Abdullah Hakim Quik, PhD
 Prof. Dr. Abdel Latif Aljibury, PhD
 </pre>
+
+sword and scimitar
+raymond ibrahim
+
+<h1>
+  raymond ibrahim
+  <a href="http://raymondibrahim.com/about/" target="_blank">raymondibrahim.com/about</a>
+</h1>
+
+RAYMOND IBRAHIM is a widely published author, public speaker, and Middle
+East and Islam specialist.  His books include The Al Qaeda Reader
+(Doubleday, 2007), Crucified Again: Exposing Islam’s New War on
+Christians (Regnery, 2013), and Sword and Scimitar: Fourteen Centuries
+of War between Islam and the West (Da Capo, Spring 2018).
+
+Ibrahim’s dual-background—born and raised in the U.S. by Coptic
+Egyptian parents born and raised in the Middle East—has provided
+him with unique advantages, from equal fluency in English and Arabic,
+to an equal understanding of the Western and Middle Eastern mindsets,
+positioning him to explain the latter to the former. His interest in
+Islamic civilization was first piqued when he began visiting the Middle
+East as a child in the 1970s. Interacting and conversing with the locals
+throughout the decades has provided him with an intimate appreciation
+for that part of the world, complementing his academic training.
+
+<h3>
+  Sword and Scimitar: Fourteen Centuries of War between Islam and the West
+  <a href="https://www.amazon.com/gp/product/0306825554/" target="_blank">hardcover at amazon $24.30</a>
+</h3>
 
 <h1>Charles Martel - Battle of Tours</h1>
 

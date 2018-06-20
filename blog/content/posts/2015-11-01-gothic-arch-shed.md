@@ -242,6 +242,16 @@ Equation: z=Ax2+By2
 <a href="https://en.wikipedia.org/wiki/Parabola" target="_blank">Parabola at Wikipedia</a>
 
 <h3>
+  How to build a shed for $500 that's BIG
+  <a href="https://www.youtube.com/watch?v=DvEzLQxyUGM&t=266s" target="_blank">Zack Of All Trades youtube</a>
+</h3>
+
+<h3>
+  How to build a shed for $500 | Lessons Learned | How To MAKE YOUR SHED BETTER THAN MINE!
+  <a href="https://www.youtube.com/watch?v=mG41Jj_5X9Y" target="_blank">Zack Of All Trades youtube</a>
+</h3>
+
+<h3>
   $500 Shed Mid Winter UPDATE
   <a href="https://www.youtube.com/watch?v=HKxRWsif1qA" target="_blank">Zack Of All Trades youtube</a>
 </h3>

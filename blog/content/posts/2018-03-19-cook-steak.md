@@ -8,6 +8,11 @@ tags:
   - cook_steak
 ---
 
+<h2>
+  TASTY 101  S1 • E2 - How To Cook A Cheap Steak Vs. An Expensive Steak
+  <a href="https://www.youtube.com/watch?v=ir5U88d_3iI" target="_blank">Tasty youtube - Apr 27, 2017</a>
+</h2>
+
 <h2>In Skillet</h2>
 
 <h4>

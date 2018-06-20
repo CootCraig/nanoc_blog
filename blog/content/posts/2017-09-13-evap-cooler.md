@@ -303,11 +303,6 @@ Likes paper pads.
 <hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 
 <h3>
-  <a href="https://www.youtube.com/watch?v=ugPRerHyE_o" target="_blank">aztikkel11 youtube</a>
-  How to oil the bearings on a swamp cooler
-</h3>
-
-<h3>
   <a href="https://www.youtube.com/watch?v=zl2RbkIXEc8" target="_blank">aztikkel11 youtube</a>
   How to change the electric motor on a swamp cooler
 </h3>
@@ -320,6 +315,21 @@ Likes paper pads.
 <h3>
   <a href="https://www.youtube.com/watch?v=uuiDlh_vX0Y" target="_blank">Your Comfort Heating & A/C youtube</a>
   Do it yourself summerize swamp air cooler
+</h3>
+
+<h1>Oiling the fan bearings</h1>
+
+<h3>
+  Swamp Cooler Maintenance
+  <a href="https://www.youtube.com/watch?v=5MbCaF-wJ6Q&t=37s" target="_blank">Your Streaming TV youtube</a>
+</h3>
+
+Similar cooler, nice video.
+zoom spout oil
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=ugPRerHyE_o" target="_blank">aztikkel11 youtube</a>
+  How to oil the bearings on a swamp cooler
 </h3>
 
 <!--

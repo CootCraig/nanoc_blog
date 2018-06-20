@@ -9,6 +9,173 @@ tags:
   - verizon_wireless
 ---
 
+<h1>Verizon Account</h1>
+
+<pre>
+PIN 7773
+password 200Ndakota*
+</pre>
+
+<h1>ASUS ZenFone V Live - V500KL - Asus-A009</h1>
+
+search
+cover ASUS ZenFone V Live V500KL
+
+Supports Micro SD Card up to 128 GB according to Asus website. https://www.asus.com/us/Phone/ASUS-ZenFone-V-Live-V500KL/specifications/
+
+arrived Thu Jun 14 2018
+
+<h2>Case Search</h2>
+
+<h3>
+  Rugged Case for ZenFone V Live
+  <a href="https://www.verizonwireless.com/accessories/verizon-rugged-case-for-zenfone-v-live/" target="_blank">verizonwireless.com/accessories/</a>
+</h3>
+
+<h3>
+  Incipio Octane Pure Case for ZenFone V Live 
+  <a href="https://www.verizonwireless.com/accessories/incipio-octane-pure-case-for-zenfone-v-live-smoke/?lid=sayt&sayt=zenfone%20v%20live*" target="_blank">$29.99 at verizonwireless.com/accessories/</a>
+</h3>
+
+<h3>
+  QiongNi Case for Asus ZenFone V Live V500KL Case Cover Blue
+  <a href="https://www.amazon.com/Case-Asus-ZenFone-V500KL-Cover/dp/B078BRFGVR" target="_blank">$12.00 at amazon.com/Case-Asus-ZenFone</a>
+</h3>
+
+<h3>
+  Harryshell Asus ZenFone V Live Case, Harryshell Lightweight Slim Thin Tpu Gel Skin Flexible Soft Rubber Protective Case Cover for Asus ZenFone V Live V500KL Verizon (Matte Clear) 
+  <a href="https://www.amazon.com/ZenFone-Harryshell-Lightweight-Flexible-Protective/dp/B079DLRG42/" target="_blank">$5.99 at amazon.com/ZenFone-Harryshell</a>
+</h3>
+
+<h2>new phone search - Tue Jun 12 2018</h2>
+
+<pre>
+$45/month, 2GB plan
+Current phone is
+Moto G Play in Black
+</pre>
+
+<h2>Verizon Prepaid Phones</h2>
+
+<h3>
+  Motorola moto e5 play - Prepaid - $69.99
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/moto-e5-play-prepaid/" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+<h3>
+  LG K8 V - Prepaid - $89.99
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/lg-k8v-prepaid/?usrPrc=.prepaid-price#sku=sku2280010" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+<h3>
+  Samsung Galaxy J3 Mission - Prepaid - $99.99
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/samsung-galaxy-j3-mission-prepaid/?usrPrc=.prepaid-price#sku=sku2480003" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+<h3>
+  Motorola Moto E4 Plus - Prepaid - $109.99
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/moto-e4-plus-prepaid/?usrPrc=.prepaid-price#sku=sku2600005" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+<h3>
+  LG Zone® 4 - Prepaid - $114.99
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/lg-zone-4-prepaid/?usrPrc=.prepaid-price#sku=sku2960007" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+<pre>
+5.7 x 2.83 x 0.31 inches
+Display
+    Physical size: 5.0 inches
+    Resolution: 720 x 1280 pixels
+
+Camera: 8 megapixels
+    Flash: LED
+    Hardware Features: Autofocus
+Camcorder:
+        1920x1080 (1080p HD)
+    Features:
+        Picture-taking during video recording, Video light, Video calling, Video sharing
+Front-facing camera: 5 megapixels
+</pre>
+
+<h3>
+  Motorola moto g6 play - Prepaid - $129.99
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/moto-g6-play-prepaid/?usrPrc=.prepaid-price#sku=sku3030021" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+See more and hold less with the moto g6 play. Watch movies and videos
+come to life on the 5.7-inch HD+ Max Vision edge-to-edge display with
+an 18:9 aspect ratio.
+
+<h3>
+  LG K20 V - Prepaid - $168.00
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/lg-k20-v-prepaid/" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+<h3>
+  ASUS ZenFone V Live - Prepaid - $168.00
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/asus-zenfone-v-live-prepaid/" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+<pre>
+Waived activation fee
+Free Next-Day Shipping 
+5.71 x 2.82 x 0.32 (WxDxH) inch 
+
+current phone is Moto G Play Droid - $85 - Size 5.7H x 2.8W x .3D
+
+Order number: 481258
+Location code: E331201
+</pre>
+
+<h4>
+  ASUS ZenFone V Live (V500KL)
+  <a href="https://www.asus.com/us/Phone/ASUS-ZenFone-V-Live-V500KL/" target="_blank">asus.com/us/Phone/</a>
+</h4>
+
+<h3>
+  Samsung Galaxy J7 - Prepaid - $179.99
+  <a href="https://www.verizonwireless.com/prepaid/smartphones/samsung-galaxy-j7-prepaid/" target="_blank">verizonwireless.com/prepaid/</a>
+</h3>
+
+<h3>
+  CDMA vs. GSM: What's the Difference?
+  <a href="https://www.pcmag.com/article2/0,2817,2407896,00.asp" target="_blank">pcmag.com/article2</a>
+</h3>
+
+By Sascha Segan July 11, 2017 12:19PM EST
+
+In the US, Sprint, Verizon and US Cellular use CDMA. AT&T and T-Mobile use GSM.
+
+<h3>
+  Bringing your own smartphone to Verizon: What you need to know
+  <a href="https://www.cnet.com/news/bringing-your-own-smartphone-to-verizon-what-do-i-need-to-worry-about/" target="_blank">cnet.com/news</a>
+</h3>
+
+Verizon and Sprint rely on a network technology known as CDMA for their
+voice services. AT&T and T-Mobile use a different technology for voice
+known as GSM.
+
+The incompatibility issue is particularly hard for Verizon customers
+since you will need a device that supports CDMA for voice. As for 4G
+compatibility, you will need to make sure the phone you purchase has
+radios that can tune into the frequencies that Verizon uses for LTE.
+
+When it comes to LTE, it's not enough to just look for the frequency,
+since some carriers use different slivers of the same frequency for
+their LTE networks. So it's more helpful to look at the specific LTE
+frequency "band class" that is supported. Band classes are assigned by
+a wireless standards organization to ensure manufacturers are using the
+same specifications when developing components for devices. This means
+that matching LTE frequency band classes is the best way to know if a
+device you're buying is compatible with the network you use.
+
+For Verizon, you need to make sure the phone you are purchasing supports
+any of these three LTE band classes: LTE band 13 (700 MHz c), band 4
+(1700 MHz f) or band 2 (1900 MHz). Just for reference, AT&T and T-Mobile
+each support LTE bands 2 and 4. Sprint supports one band class that is
+common to Verizon: band 2 (1900 MHz).
+
 <h2>Sat Mar 31 2018 - new phone search</h2>
 
 <pre>

@@ -57,6 +57,41 @@ from the “Schpitz” (German for apex) of the bars.
   Make ‘Pinch Rods’ With Home Center Materials by Lost Art Press 
 </h4>
 
+<h2>
+  OneTIME Tool - Modular Bar Gauge System
+  <a href="https://www.woodpeck.com/mbg2018.html" target="_blank">woodpeck.com/mbg2018</a>
+</h2>
+
+The Modular Bar Gauge System comes in two different set
+configurations. One with and one without the new Trammel Head Set
+Accessory. Each set includes
+
+<ul>
+  <li>all eight tips</li>
+  <li>two end bars</li>
+  <li>six, 12” long extension bars</li>
+  <li>two, 6” long extension bars</li>
+  <li>two, rod clamp bodies with knurled knobs</li>
+</ul>
+
+<img src="/assets/images/woodpecker-main_mbg_1b.jpg" width="400px">
+
+<img src="/assets/images/woodpecker-main_mbg_2.jpg" width="400px">
+
+<img src="/assets/images/woodpecker-main_mbg_3.jpg" width="400px">
+
+<img src="/assets/images/woodpecker-main_mbg_5.jpg" width="400px">
+
+<img src="/assets/images/woodpecker-main_mbg_6.jpg" width="400px">
+
+<img src="/assets/images/woodpecker-main_mbg_7.jpg" width="400px">
+
+<img src="/assets/images/woodpecker-main_mbg_10.jpg" width="400px">
+
+<img src="/assets/images/woodpecker-main_mbg_11.jpg" width="400px">
+
+<img src="/assets/images/woodpecker-main_mbg_9-550.jpg" width="400px">
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
@@ -67,6 +102,10 @@ html boilerplate
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

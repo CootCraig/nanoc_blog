@@ -162,19 +162,25 @@ tags:
   <li>Ashley Bell 	2015 	novel 	560 	</li>
 </ul>
 
-# Books Read
+<h1>Books Read</h1>
 
-## Cold Fire by Dean Koontz
+<h2>Dark Rivers of the Heart</h2>
+
+<h2>Cold Fire by Dean Koontz</h2>
 
 read Wed Sep 28 15:11:02 MDT 2016
 
-## the house of thunder by Dean Koontz
+<h2>the house of thunder by Dean Koontz</h2>
 
 read Wed Oct 19 10:43:35 MDT 2016
 
 <h2>Velocity 	2005 	novel</h2>
 
 Read Mon Apr  9 17:52:46 MDT 2018
+
+<h2>Midnight</h2>
+
+read Mon Jun 11 07:24:42 MDT 2018
 
 # future requests
 

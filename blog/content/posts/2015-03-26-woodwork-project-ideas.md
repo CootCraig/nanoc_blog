@@ -20,6 +20,31 @@ tags:
 
 <img src="/assets/images/simple-low-bench.png" width="500px">
 
+<h3>Iron Pipe Table w/ wheels</h3>
+
+<img src="/assets/images/iron-pipe-table.png" width="500px">
+
+<h3>
+  Record Player Cabinet - Walnut & Birch | DIY Build
+  <a href="https://www.youtube.com/watch?v=xE0s5hroG7w" target="_blank">Ayd Design Co. youtube</a>
+</h3>
+
+<img src="/assets/images/ayd-design-record-player-cabinet.png" width="700px">
+
+<h3>
+  Making A Vinyl Display Box
+  <a href="https://www.youtube.com/watch?v=LBxlHiHWUn4" target="_blank">Rag 'n' Bone Brown youtube</a>
+</h3>
+
+<img src="/assets/images/rag-n-bone-brown-vinyl-display-box.png" width="700px">
+
+<h3>
+  Making a cabinet with sliding doors
+  <a href="https://www.youtube.com/watch?v=GoHSBlVCmGM" target="_blank">Rag 'n' Bone Brown youtube</a>
+</h3>
+
+<img src="/assets/images/rag-n-bone-brown-sliding-door-cabinet.png" width="700px">
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

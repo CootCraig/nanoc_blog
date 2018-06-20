@@ -28,6 +28,13 @@ Novels that are based on historical figures. These books require the
 author to extend the story by imagining inner lives, other characters,
 etc.
 
+<h2>
+  Middle School Reading Lists 100 Years Ago vs. Today - Annie Holmquist | July 19, 2016
+  <a href="http://www.intellectualtakeout.org/blog/middle-school-reading-lists-100-years-ago-vs-today" target="_blank">intellectualtakeout.org/blog/</a>
+</h2>
+
+<img src="/assets/images/reading-list-middle-school-1908.png" width="900px">
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

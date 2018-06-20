@@ -73,7 +73,7 @@ Craig 5000 mile or 6 month oil change interval
 <h3>Next service items</h3>
 
 <pre>
-Thu Jan 18 18:07:05 MST 2018 - 123752
+Tue May 22 11:14:59 MDT 2018 - 130252
 tire rotation at 122108 + 5000 => 127108
 change oil at 126579+5000 => 131579 or Sept. 16, 2018
 </pre>
@@ -114,7 +114,7 @@ tire rotation - Craig 5000 mi
 
 <pre>
 
-Wed Aug 23 18:29:21 MDT 2017 - 194944 mi
+Tue May 22 11:15:38 MDT 2018 - 202668 mi
 
 tire rotation 199365 + 5000 => 204365 miles
 change oil 199294 + 5000 => 204294 or June 8, 2018
