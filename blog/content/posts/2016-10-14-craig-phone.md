@@ -8,7 +8,51 @@ tags:
   - nokia_6760_slide
 ---
 
+<h3>
+  List of United States mobile virtual network operators
+  <a href="https://en.wikipedia.org/wiki/List_of_United_States_mobile_virtual_network_operators" target="_blank">wikipedia.org/wiki/List</a>
+</h3>
+
+<h4>
+  Patriot Mobile - Sprint MVNO - $20 Unlimited talk/text
+  <a href="https://www.patriotmobile.com/plans" target="_blank">patriotmobile.com/plans</a>
+</h4>
+
+<h3>
+  Check your phone’s compatibility. 
+  <a href="https://ting.com/byod" target="_blank">https://ting.com/byod</a>
+</h3>
+
+<pre>
+https://www.ebay.com/p/LG-Rumor-Reflex-LN272-Titan-Gray-Boost-Mobile-Cellular-Phone/113323395?iid=223019619570&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D53210%26meid%3D0cbb35c8b5ed4a23afe3f47462c12be3%26pid%3D100005%26rk%3D5%26rkt%3D12%26sd%3D132708154676%26itm%3D223019619570&_trksid=p2047675.c100005.m1851
+LG Rumor Reflex LN272
+MEID
+268435461207012894
+
+Congratulations! Your device is compatible with the Patriot Mobile network and is ready for use immediately!
+</pre>
+
+
+<pre>
+Blackberry Bold 9930
+IMEI/MEID
+268435457804844220
+A000001249EABC
+</pre>
+
+<h2>
+  Sprint and T-Mobile merger
+  <a href="https://help.ting.com/hc/en-us/community/posts/360005373294-Sprint-and-T-Mobile-merger" target="_blank">ting.com/hc/en-us/community/</a>
+</h2>
+
 <h2>CDMA for Ting - Mon Jan 23 12:15:58 MST 2017</h2>
+
+<ul>
+  <li>Sanyo SCP-3810 - flip phone - purchased $31.15 - no SIM</li>
+  <li>BlackBerry Style 9670 - physical qwerty - BB6 OS - purchased $30.99 - Mini-SIM</li>
+  <li>BlackBerry Bold 9930 - physical qwerty - BB7 OS - purchased $20 - Mini-SIM</li>
+  <li>Sanyo SCP-2700 - qwerty</li>
+</ul>
 
 sprint or boost.
 must be off contract,
@@ -28,6 +72,37 @@ but does not need to be unlocked.
   <li>Samsung SPH-M910 Intercept Sprint Cell Phone CDMA</li>
   <li>Sanyo Incognito SCP-6760 Boost Mobile Color Cell Phone qwerty keypad bluetooth</li>
 </ul>
+
+<h1>Busted LG Rumor Reflex LN272 screen</h1>
+
+Tue Jun 26 16:46:34 MDT 2018
+
+And leaving on road trip Friday.
+
+Will probably get another LG Rumor Reflex LN272,
+but consider LG Remarq LN240
+
+<h3>
+  LG Rumor Reflex LN272
+  <a href="https://www.gsmarena.com/lg_rumor_reflex__ln272-4625.php" target="_blank">gsmarena.com/lg_rumor</a>
+</h3>
+
+<h3>
+  LN272 LG Rumor Reflex | Sprint
+  <a href="https://www.lg.com/us/cell-phones/lg-LN272-rumor-reflex" target="_blank">lg.com/us/cell-phones</a>
+</h3>
+
+<pre>
+Network 	Technology 	CDMA / EVDO
+Keyboard 	QWERTY
+SIM 	Mini-SIM --- NOTE - there is no SIM.
+Display 	Type 	TFT capacitive touchscreen, 256K colors
+Size 	3.0 inches, 25.6 cm2 (~45.2% screen-to-body ratio)
+Resolution 	240 x 400 pixels, 5:3 ratio (~155 ppi density)
+Memory 	Card slot 	microSD, up to 32 GB (dedicated slot)
+</pre>
+
+/assets/pdf/lg-reflex-ln262-owners-manual.pdf
 
 <h2>LG Rumor Reflex LN272</h2>
 
@@ -382,6 +457,46 @@ New on ebay for $50 - Fri Oct 14 14:40:34 MDT 2016
 
 ### Blackberry Bold Touch 9930
 
+<h3>
+  Program your BlackBerry Bold 9930
+  <a href="https://support.sprint.com/support/article/Program-your-BlackBerry-Bold-9930/WServiceAdvisory_542_GKB52683-dvc5800012prd" target="_blank">sprint.com/support/</a>
+</h3>
+
+<pre>
+meid
+268435459714770279
+A0000025E16067
+</pre>
+
+The phone we checked is not compatible with Ting. 
+Here are a list of bands in which we support. 
+
+<pre>
+T-Mobile	2, 4, 12, 66, 71xx	1900, 1700 def, 700 a, 600
+Sprint	25, 26, 41	1900 g, 850, 2500
+
+https://www.phonearena.com/phones/BlackBerry-Bold-9930_id3406
+GSM 850, 900, 1800, 1900 MHz
+CDMA: 800, 1900 MHz
+
+</pre>
+
+Sprint byod responds to imei with:
+Your network speed Good news, your phone is compatible with our network. (shows 4g)
+
+<h3>
+  <a href="/assets/pdf/blackberry-bold-9930-user-guide.pdf" target="_blank">BlackBerry Bold User guide PDF - local</a>
+</h3>
+
+<h3>
+  <a href="http://help.blackberry.com/en/blackberry-bold-9930-9900/7.1/user-guide-pdf/userguide_series_18.pdf" target="_blank">BlackBerry Bold User guide PDF - online</a>
+</h3>
+
+<h3>
+  Blackberry Bold 9900: Removing backside/battery/SIM- and SD-card
+  <a href="https://www.youtube.com/watch?v=DQMg_-PBX6M" target="_blank">itvraag youtube</a>
+</h3>
+
 <a href="https://www.amazon.com/Blackberry-Bold-Touch-9930-Unlocked/dp/B005HYU1YE" target="_blank">amazon product</a>
 Blackberry Bold Touch 9930 CDMA GSM Unlocked Phone with Touch Screen, 5MP Camera and Blackberry OS 7 (Black) 
 
@@ -556,6 +671,304 @@ port = DEVICE NAME
 connection = at
 model = at
 </pre>
+
+<h1>Looking for CDMA, gammu support, keyboard phone</h1>
+
+<h2>
+  I come not to praise QWERTY, but to bury it
+  <a href="https://www.theverge.com/2013/11/15/5104704/i-come-not-to-praise-qwerty-but-to-bury-it" target="_blank">theverge.com/2013/</a>
+</h2>
+
+<h2>BlackBerry</h2>
+
+<h3>
+  See Software For BlackBerry Desktop Software (Windows OS) - Desktop Software v7.1.0 B42 (Multilanguage)
+  <a href="https://swdownloads.blackberry.com/Downloads/browseSoftware.do" target="_blank">swdownloads.blackberry.com/Downloads</a>
+<h3>
+
+<h3>
+  BlackBerry Style 9670 Forum Section
+  <a href="https://forums.crackberry.com/blackberry-style-9670-f211/" target="_blank">forums.crackberry.com/blackberry-style</a>
+</h3>
+
+<h3>
+  BlackBerry 6 Review, FAQ and New Features - CrackBerry Kevin - 4 Aug 2010 
+  <a href="https://crackberry.com/blackberry-6-review" target="_blank">crackberry.com/blackberry</a>
+</h3>
+
+<h3>
+  Search Results for 'style 9670'
+  <a href="https://crackberry.com/search/style%209670" target="_blank">crackberry.com/search</a>
+</h3>
+
+<h3>BlackBerry Style 9670</h3>
+
+Purchased Boost BlackBerry Style 9670 - Mon Jul 16 18:31:13 MDT 2018
+
+<h4>
+  BlackBerry Style 9670 Review 
+  <a href="https://www.digitaltrends.com/cell-phone-reviews/blackberry-style-9670-review/" target="_blank">digitaltrends.com/cell-phone-reviews</a>
+</h4>
+
+With the lid closed, the Style has three exposed controls: An up and dock
+volume rocker, and the camera shortcut button, all on the right-hand
+size. The left has a microUSB slot for charging, and a standard 3.5mm
+stereo jack, along with the door for adding microSD cards. Open it up
+and you get the standard BlackBerry controls: Call, menu, return and end
+call, with an optical trackpad dead in the center, and the full QWERTY
+keyboard below.
+
+<h4>
+  BlackBerry Style review - Reviewed: October 28, 2010
+  <a href="https://www.cnet.com/products/blackberry-style/review/" target="_blank">cnet.com/products/blackberry</a>
+</h4>
+
+The BlackBerry Style marks RIM's second-ever handset to ship with
+BlackBerry OS 6 (the first was the BlackBerry Torch), and it's also
+the first BlackBerry to have both a clamshell design and a full QWERTY
+keyboard.
+
+The RIM BlackBerry Style is the first BlackBerry to combine both a clamshell chassis and a full QWERTY keyboard. 
+
+<h4>
+  BlackBerry Style 9670
+  <a href="https://www.gsmarena.com/blackberry_style_9670-3326.php" target="_blank">gsmarena.com/blackberry</a>
+</h4>
+
+<pre>
+Network 	Technology 	CDMA / EVDO
+Launch 	Announced 	2010, October. Released 2010, November
+Status 	Discontinued
+Body 	Dimensions 	96 x 60 x 18.5 mm (3.78 x 2.36 x 0.73 in)
+Weight 	131 g (4.62 oz)
+Keyboard 	QWERTY
+SIM 	Mini-SIM
+Optical trackpad
+Display 	Type 	TFT, 65K colors
+Size 	
+Resolution 	360 x 400 pixels
+External QVGA display
+Platform 	OS 	BlackBerry OS 6.0
+Memory 	Card slot 	microSD, up to 16 GB (dedicated slot), 8 GB included
+Internal 	512 MB
+Camera 	Primary 	5 MP, AF, LED flash
+Features 	Geo-tagging
+Video 	480p
+Secondary 	No
+Sound 	Alert types 	Vibration; MP3, WAV ringtones
+Loudspeaker 	Yes
+3.5mm jack 	Yes
+Comms 	WLAN 	Wi-Fi 802.11 b/g/n
+Bluetooth 	2.1, A2DP
+GPS 	Yes, with A-GPS
+Radio 	No
+USB 	microUSB 2.0
+Features 	Messaging 	SMS, MMS, Email, Push Email, IM
+Browser 	HTML
+
+BlackBerry maps
+Document editor (Word, Excel, PowerPoint, PDF)
+Media player MP3/WAV/WMA/eAAC+
+Video player MP4/WMV/H.264
+Organizer
+Voice memo/dial
+Predictive text input
+</pre>
+
+<h3>BlackBerry Bold 9930 - available for Verizon - Sprint?</h3>
+
+
+Tue Jul 17 2018 - purchased BlackBerry bold 9930 for $20
+
+I see BlackBerry Bold 9930 for sprint on ebay.
+
+<h4>
+  BlackBerry Bold 9930 Specs
+  <a href="https://www.gsmarena.com/blackberry_bold_touch_9930-3755.php" target="_blank">gsmarena.com/blackberry_bold</a>
+</h4>
+
+<pre>
+Network 	Technology 	GSM / CDMA / HSPA / EVDO
+Launch 	Announced 	2011, May. Released 2011, August
+Status 	Discontinued
+Keyboard 	QWERTY
+SIM 	Mini-SIM
+ 	- Optical trackpad
+
+Display 	Type 	TFT capacitive touchscreen, 16M colors
+Size 	2.8 inches, 24.3 cm2 (~32.0% screen-to-body ratio)
+Resolution 	640 x 480 pixels, 4:3 ratio (~286 ppi density)
+Platform 	OS 	BlackBerry OS 7.0
+CPU 	1.2 GHz QC 8655
+
+Memory 	Card slot 	microSD, up to 32 GB (dedicated slot)
+Internal 	8 GB, 768 MB RAM
+Camera 	Primary 	5 MP, LED flash
+Features 	Geo-tagging, face detection
+Video 	720p
+
+Comms 	WLAN 	Wi-Fi 802.11 b/g/n
+Bluetooth 	2.1, A2DP, EDR
+GPS 	Yes, with A-GPS, BlackBerry Maps
+NFC 	Yes
+Radio 	No
+USB 	microUSB 2.0
+
+Features 	Sensors 	Accelerometer, proximity, compass
+Messaging 	SMS, MMS, Email, Push Email, IM
+Browser 	HTML
+BlackBerry maps
+Document viewer
+MP4/WMV/H.264 player
+MP3/eAAC+/WMA/WAV player
+Organizer
+Voice memo/dial
+Predictive text input
+
+Battery 	  	Removable Li-Ion 1230 mAh battery
+Stand-by 	Up to 307 h (2G) / Up to 307 h (3G)
+Talk time 	Up to 6 h 40 min (2G) / Up to 5 h 50 min (3G)
+Music play 	Up to 50 h
+</pre>
+
+<h4>
+  BlackBerry Bold 9930 review
+  <a href="https://www.engadget.com/2011/08/16/blackberry-bold-9930-review/" target="_blank">engadget.com/2011/08/16</a>
+</h4>
+
+The thing you'll want to touch first is, of course, the backlit keyboard,
+and we think you're going to like it. In fact, we'd go so far as to
+say this is among the best physical keyboards ever found on a phone,
+if not the best. It isn't substantially different than the old Bold,
+just a smidge wider but using the same design of curved keys that are
+tapered, each one subtly reaching up to meet your thumbs on either
+side. It's definitely intended for use as a two-thumb affair, working
+best when you're messaging with both hands, and when used thusly it'll
+easily keep up with your most torrid BBM exchanges.
+
+<h4>
+  9900: Favourite tasks/Perfect Device
+  <a href="https://forums.crackberry.com/blackberry-bold-9930-9900-f235/9900-favourite-tasks-perfect-device-1136331/#post13129531" target="_blank">crackberry.com/blackberry-bold</a>
+</h4>
+
+<h4>
+  BlackBerry Bold 9900/9930
+  <a href="https://en.wikipedia.org/wiki/BlackBerry_Bold#BlackBerry_Bold_9900/9930" target="_blank">wikipedia.org/wiki/BlackBerry</a>
+</h4>
+
+it is the first of the Bold line to provide a touchscreen. It marks a
+return to the form factor of the original 9000 and its popular wide-set
+physical keyboard.
+
+The Bold 9930 operates on both GSM and CDMA networks whereas the Bold
+9900 can only function on the GSM network. However, the Bold 9900 can
+function in GSM bands that the 9930 cannot use. A 4G LTE version was
+available with select carriers eventually.
+
+A 4G LTE version was available with select carriers eventually
+
+<h4>
+  BlackBerry Bold 9930
+  <a href="https://www.techradar.com/reviews/phones/mobile-phones/blackberry-bold-9930-1137529/review" target="_blank">techradar.com/reviews/phones</a>
+</h4>
+
+<h2>HTC</h2>
+
+<pre>
+x HTC MTK2
+</pre>
+
+<h2>Motorola</h2>
+
+<pre>
+x Motorola A835
+x Motorola E398
+x Motorola EM30
+x Motorola Gleam+
+x Motorola i296
+</pre>
+
+<h2>Nokia</h2>
+
+<pre>
+x Nokia 1200
+</pre>
+
+<h2>Sanyo</h2>
+
+<h4>Patriot Mobile</h4>
+
+direct number for sales woman - 817-268-9035
+
+<pre>
+Account Number: 	1017858
+Activation Date: 	July 24, 2018
+Service Period: 	July 24, 2018 to August 23, 2018
+</pre>
+
+<pre>
+##72786#
+</pre>
+
+<h4>ting programming Sanyo SCP-3810</h4>
+
+<pre>
+IMEI/MEID
+268435457804844220
+A000001249EABC
+
+Open dial pad and enter: ##000078#
+
+Scroll to Edit and press the MENU/OK key.
+
+Enter the Phone number 7193206799 in the MDN field and press the 
+MENU/OK key.
+
+Enter the MSID 7193200429 in the MSID field and press the MENU/OK key.
+
+Scroll to Done and press the MENU/OK key. 
+-------------------------
+From the home screen, press the OK/MENU key.
+Scroll to Tools and press the OK/MENU key.
+Scroll to Update Phone and press the OK/MENU key.
+Scroll to PRL Version, press the OK/MENU key, and wait until it completes.
+You've now updated the PRL. 
+it should restart again 
+</pre>
+
+<pre>
+y Sanyo SCP3810 Sanyo SCP-3810
+  flip phone
+
+? Sanyo SCP-2700 (not listed)
+</pre>
+
+<h3>
+  Sanyo SCP3810 at wammu.eu
+  <a href="https://wammu.eu/phones/sanyo/5844/" target="_blank">wammu.eu/phones/sanyo</a>
+</h3>
+
+<h4>Supported Features</h4>
+
+<ul>
+  <li>Calendar entries</li>
+  <li>Reading and making calls</li>
+  <li>Enhanced phonebook entries (eg. several numbers per entry)</li>
+  <li>Filesystem manipulation</li>
+  <li>Phone information</li>
+  <li>Logos</li>
+  <li>Multimedia messaging</li>
+  <li>Basic phonebook functions (name and phone number)</li>
+  <li>Ringtones</li>
+  <li>Sending and saving SMS</li>
+  <li>Todos</li>
+</ul>
+
+<h3>
+  Sanyo SCP-2700 Review - 11 May 2009
+  <a href="https://www.phonearena.com/reviews/Sanyo-SCP-2700-Review_id2154" target="_blank"></a>
+</h3>
+
 
 <!--
 html boilerplate

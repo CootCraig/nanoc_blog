@@ -9,6 +9,19 @@ tags:
 
 # My phones
 
+<pre>
+https://wammu.eu/phones/sanyo/5844/
+[gammu]
+port = /dev/ttyACM0
+connection = fbusdlr3
+model = SANYO USB Modem
+
+/dev/ttyACM0
+SANYO USB Modem
+</pre>
+
+https://wammu.eu/phones/blackberry/6778/
+
 ## ZTE z223
 
 GSM Flip phone
@@ -519,6 +532,51 @@ the end you actually have a usable address book.
 Able to see folders, but not other interactions on t404g.
 
 ![Ubuntu sees phone folders on bluetooth](/assets/images/t404g_bluetooth_filders.png)
+
+
+<pre>
+dmesg
+[70902.213684] usb 3-1: new high-speed USB device number 7 using xhci_hcd
+[70902.343561] usb 3-1: New USB device found, idVendor=1004, idProduct=6000
+[70902.343565] usb 3-1: New USB device strings: Mfr=3, Product=2, SerialNumber=0
+[70902.343567] usb 3-1: Product: LG CDMA USB Modem
+[70902.343569] usb 3-1: Manufacturer: LG CDMA USB Modem
+[70902.390181] cdc_acm 3-1:1.0: ttyACM0: USB ACM device
+[70902.390609] usbcore: registered new interface driver cdc_acm
+[70902.390611] cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
+[70902.409488] usbcore: registered new interface driver usbserial
+[70902.409498] usbcore: registered new interface driver usbserial_generic
+[70902.409505] usbserial: USB Serial support registered for generic
+[70902.436760] usbcore: registered new interface driver qcaux
+[70902.436769] usbserial: USB Serial support registered for qcaux
+[70902.436779] qcaux 3-1:1.2: qcaux converter detected
+[70902.436828] usb 3-1: qcaux converter now attached to ttyUSB0
+[70902.436836] qcaux 3-1:1.3: qcaux converter detected
+[70902.436870] usb 3-1: qcaux converter now attached to ttyUSB1
+</pre>
+
+
+cat ~/.gammurc
+
+<pre>
+[gammu]
+
+port = /dev/mobile
+model = 
+connection = at19200
+synchronizetime = yes
+logfile = 
+logformat = nothing
+use_locking = 
+gammuloc = 
+</pre>
+
+<pre>
+try
+/dev/ttyUSB0
+/dev/ttyUSB1
+/dev/ttyACM0
+</pre>
 
 <!--
 html boilerplate

@@ -9,6 +9,10 @@ tags:
 ---
 
 <h1>
+  <a href="https://www.campendium.com/free-camping" target="_blank">campendium.com</a>
+</h1>
+
+<h1>
   <a href="https://www.recreation.gov/memberSignInSignUp.do" target="_blank">recreation.gov</a>
 </h1>
 
@@ -80,6 +84,11 @@ Nice place, no campsites though.
 <h3>
   Custer State Park Campgrounds
   <a href="https://gfp.sd.gov/parks/detail/custer-state-park/" target="_blank">gfp.sd.gov/parks/detail/</a>
+</h3>
+
+<h3>
+  Llewellyn Johns Recreation Area
+  <a href="https://gfp.sd.gov/parks/detail/llewellyn-johns-recreation-area/" target="_blank">gfp.sd.gov/parks/detail</a>
 </h3>
 
 <!--

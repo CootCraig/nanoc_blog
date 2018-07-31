@@ -21,6 +21,11 @@ PUEBLO,CO 81005
 719-561-8098
 </pre>
 
+<h3>
+  120 Volt Electric Body Saw - Chicago Electric Power Tools- item# 65766
+  <a href="https://www.harborfreight.com/electric-body-saw-65766.html" target="_blank">$34.99 at harborfreight.com</a>
+</h3>
+
 <h4>
   <a href="https://www.youtube.com/watch?v=GJQQlOJyCaM" target="_blank">Themechanicman92 youtube</a>
   Harbor Freight Must Haves

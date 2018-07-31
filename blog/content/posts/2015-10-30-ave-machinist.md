@@ -8,8 +8,9 @@ tags:
   - ave
 ---
 
-
-<a href="https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA" target="_blank">AvE youtube channel</a>
+<h1>
+  <a href="https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA" target="_blank">AvE youtube channel</a>
+</h1>
 
 <h4>
   <a href="https://www.youtube.com/watch?v=QhpOg186fks" target="_blank">AvE youtube</a>
@@ -26,10 +27,10 @@ tags:
   Manly-Man Skills: Sharpen and Balance Blades in 2 minutes
 </h3>
 
-</h3>
+<h3>
   <a href="https://www.youtube.com/watch?v=b5ALSniPmv0" target="_blank">AvE youtube</a>
   Manly-Man Skills: Making Sure your Pressure Washer is Ready for Lending
-<h3>
+</h3>
 
 <!--
 html boilerplate

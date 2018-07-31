@@ -10,7 +10,11 @@ tags:
 Looking for bulk ink low cost per page.
 
 <ul>
-  <li>Epson WorkForce</li>
+  <li>Epson 2550 EcoTank refurb $135 at amazon</li>
+  <li>Epson ET-3600 EcoTank refurb $229 at amazon</li>
+  <li>Epson 4500</li>
+  <li>abcd</li>
+  <li>abcd</li>
   <li>abcd</li>
 </ul>
 

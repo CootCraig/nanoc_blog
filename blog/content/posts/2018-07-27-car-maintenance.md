@@ -1,0 +1,124 @@
+---
+title: "Car Maintenance"
+created_at: Fri Jul 27 19:10:25 MDT 2018
+kind: article
+tags:
+  - silverado_pickup
+  - car_maintenance
+---
+
+<h1>Maintenance Application</h1>
+
+<h3>
+  Automotive Wolf 
+  <a href="http://www.lonewolf-software.com/automotivewolf.htm" target="_blank">lonewolf-software.com/</a>
+</h3>
+
+<h4>Installed version 4.261.00 and purchased Pro single user Jul 31, 2018 03:36:04 MDT</h4>
+
+Good vehicle maintenance is essential to keeping your car, truck, boat,
+motorcycle or even a lawn mower running well, increasing fuel economy,
+extending its operating life, minimizing repair costs, maximizing its
+resale value and maintaining it's performance. All of these factors save
+you money every day and ultimately can save you literally thousands of
+dollars over the life of a vehicle.
+
+Car Maintenance Software Reviewers Choice Award Automotive Wolf is
+a complete maintenance & management software solution that makes it
+easy to keep up with your car maintenance schedule, remind you when any
+vehicle maintenance is due and monitor your vehicles overall condition,
+operating costs, fuel economy and much more. It's the only Car Care
+Software that monitors your driving habits and accurately predicts when
+any car maintenance is due.
+
+Automotive Wolf maintains a detailed vehicle maintenance log book for
+you that will significantly increase the resale value of your vehicle
+and make it much easier to sell to any prospective buyer when you can
+show it's maintenance history and prove that you've taken good care of it.
+
+<h3>
+  Automotive Wolf Vehicle Maintenance Software Update Full Demo
+  <a href="https://www.youtube.com/watch?v=5o3G7UayJzU" target="_blank">Lone Wolf Software youtube</a>
+</h3>
+
+<h3>
+  Automotive Wolf Vehicle Maintenance Log Software Create Vehicle Demo HD
+  <a href="https://www.youtube.com/watch?time_continue=3&v=iZu0PWaeZlc" target="_blank">Lone Wolf Software youtube</a>
+</h3>
+
+<h1>Maintenance Guides</h1>
+
+<h3>
+  The Honest Mechanic Austin Davis
+  <a href="http://www.trustmymechanic.com/about/" target="_blank">trustmymechanic.com/about/</a>
+</h3>
+
+<h1>Cleaning</h1>
+
+<h3>
+  Chemical guys MTM foam cannon review by 19trax95 Feb 26 2017
+  <a href="https://www.silveradosierra.com/exterior/chemical-guys-mtm-foam-cannon-review-t602777.html" target="_blank">silveradosierra.com/exterior/</a>
+</h3>
+
+<h1>Catch Can</h1>
+
+<h3>
+  The truth about oil catch cans: Should you fit one to your car? | Auto Expert John Cadogan
+  <a href="https://www.youtube.com/watch?v=dBAqxSXFyb4" target="_blank">AutoExpertTV youtube</a>
+</h3>
+
+<h3>
+  REVIEW: ADD w1 Oil Catch Can Version 3 - MUST WATCH!!
+  <a href="https://www.youtube.com/watch?v=FjsJWChNrI0" target="_blank">ImStricken06 youtube</a>
+</h3>
+
+<h3>
+  EBAY / AMAZON Oil Catch Can Review
+  <a href="https://www.youtube.com/watch?v=Zu4kYJMsVgY" target="_blank">ImStricken06 youtube</a>
+</h3>
+
+<h3>
+  Talking Cans with Allan Gray - Roothy Bushmechanic
+  <a href="https://www.youtube.com/watch?v=XFDQI-NN2MU" target="_blank">JOHN ROOTH youtube</a>
+</h3>
+
+<h3>
+  Reasonable prices catch can kit for my 2013.
+  <a href="https://www.silveradosierra.com/vortec-5-3l-v8/reasonable-prices-catch-can-kit-for-my-2013-t700314.html" target="_blank">silveradosierra.com/vortec-5-3l-v8</a>
+</h3>
+
+<h3>
+  CATCH-CAN COMPARISON | RX Performance Vs. Moroso
+  <a href="https://www.youtube.com/watch?v=IZYYdnwIEX0" target="_blank">milkcrate82 youtube</a>
+</h3>
+
+The vehicle used in the test is a 2014 GMC Sierra with the 5.3L Ecotec V8
+
+<h3>
+  2014 Silverado Catch can vs no catch can ....
+  <a href="https://www.silveradosierra.com/vortec-5-3l-v8/2014-silverado-catch-can-vs-no-catch-can-t420153.html" target="_blank">silveradosierra.com/vortec-5-3l-v8</a>
+</h3>
+
+<h3>
+  Oil catch can fill rate – AFM on vs. AFM off
+<a href="https://www.silveradosierra.com/vortec-5-3l-v8/oil-catch-can-fill-rate-afm-on-vs-afm-off-t111465.html" target="_blank">silveradosierra.com/vortec-5-3l-v8</a>
+</h3>
+
+<!--
+html boilerplate fragments
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

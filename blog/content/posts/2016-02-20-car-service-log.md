@@ -46,13 +46,36 @@ tags:
 
 date, mileage, cost, category, Service Parts Notes, Other Notes
 
+<h1>Mobil 1 5W-20 Full Synthetic Motor Oil</h1>
+
+<h4>
+  Mobil 1 5W-20 Full Synthetic Motor Oil, 5 qt.
+  <a href="https://www.walmart.com/ip/Mobil-1-5W-20-Full-Synthetic-Motor-Oil-5-qt/17018132" target="_blank">walmart.com/ip/Mobil-1</a>
+</h4>
+
+<h4>
+  Mobil 1 5W-20 Full Synthetic Motor Oil, 1 qt.
+  <a href="https://www.walmart.com/ip/Mobil-1-5W-20-Full-Synthetic-Motor-Oil-1-qt/16767828" target="_blank">walmart.com/ip/Mobil-1</a>
+</h4>
+
 <h1>Odyssey</h1>
+
+<pre>
+4.6 qt. oil - Mobil 1 5w20
+oil filter K&N HP-1004 w/ 1 inch nut or Wix 57356XP
+oil pan bolt - 17mm
+</pre>
 
 <img src="/assets/images/odyssey-oil-change-kit.jpg" width="900px">
 
+Also cardboard under oil spill area and for clean working area.
+
 <pre>
+oil change - Honda 7500 mile or 1 year oil change interval
+oil change - Craig 4500 mile or 6 month oil change interval
+
 tire rotation - Discount Tire staff: 3-5000 miles. Discount Tire Website: 6,000 miles.
-tire rotation - Craig 5000 mi
+tire rotation - Craig 4500 mi
 </pre>
 
 <pre>
@@ -84,14 +107,20 @@ change oil at 126579+5000 => 131579 or Sept. 16, 2018
 Fram XG7317 oil filter for full synthetic
 </pre>
 
-# Silverado
+<h1>Silverado</h1>
+
+<pre>
+6 qt. oil - Mobil 1 5w20
+K&N HP-2006 w/ 1 inch nut or Wix 51042xp
+oil pan bolt - 15mm
+</pre>
 
 <pre>
 Chevrolet oil change by on board computer or 3000 mi.
-Craig 5000 mile or 6 month oil change interval
+Craig 4000 mile or 6 month oil change interval
 
 tire rotation - Discount Tire staff: 3-5000 miles. Discount Tire Website: 6,000 miles.
-tire rotation - Craig 5000 mi
+tire rotation - Craig 4500 mi
 </pre>
 
 <pre>
@@ -107,17 +136,19 @@ tire rotation - Craig 5000 mi
 2017-07-31, 194227 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
 2017-12-08, 199294, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
 2017-12-19, 199365 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
+2018-06-26, 203827 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
+2018-06-26, 203849 mi, cost, oil and filter change, 6qt Mobil 1 5w-20 oil (10qt for $61.90) - K&N HP-2006 oil filter, Other Notes
 </pre>
 
 
 <h3>Next service items</h3>
 
 <pre>
+Tue Jun 26 19:27:14 MDT 2018 - 203849 miles
 
-Tue May 22 11:15:38 MDT 2018 - 202668 mi
-
-tire rotation 199365 + 5000 => 204365 miles
-change oil 199294 + 5000 => 204294 or June 8, 2018
+Silverado
+tire rotation 203827 + 4500 => 208327
+change oil 203849 + 4000 => 207849 or January 26, 2019
 </pre>
 
 # supplies

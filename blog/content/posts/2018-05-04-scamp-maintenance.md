@@ -42,6 +42,39 @@ Stamped on the tongue of the trailer
 1S7-R1310-2-811-22166
 </pre>
 
+<h1>Hitch</h1>
+
+<h3>
+  Original Rapid Hitch Adjustable Ball Mount Trailer Hitch
+  <a href="https://andersenhitches.com/Catalog/rapid-hitch.aspx" target="_blank">andersenhitches.com/Catalog</a>
+</h3>
+
+When only the best will do...you need the Rapid Hitch. The easiest to
+use and most versatile ball mount system available today.
+
+The Original Rapid Hitch trailer hitch is a revolutionary aluminum
+adjustable ball mount trailer hitch that has taken the drop hitch world
+by storm. And we called it Rapid Hitch for a reason! There are no other
+adjustable ball mounts that are more versatile or easier to use than the
+Rapid Hitch. Its adjustability allows you to tow easily and safely by
+keeping your trailer parallel to the ground, maintaining a more stable
+towing experience.
+
+The rack of every Rapid Hitch is made of an aluminum super alloy that
+will NEVER RUST The aluminum looks great by itself, so there is no
+need for paint or chrome that can chip and peel. To keep the shine,
+you simply need to polish the hitch from time to time and you will have
+a high gloss surface that looks brand new. Our Fast Shine Premium Metal
+Polish is perfect for this.
+
+Another benefit to this aluminum super alloy trailer hitch is that it is
+light and surprisingly strong. Most models weigh only 15 lbs, and the
+greaseless ball option makes it even easier to handle and adjust. Our
+Rapid Hitches are V5 certified with a strength rating of 10,000 lbs. and
+feature a 1,500 lb. tongue weight when coupled with our 2-5/16" steel
+ball. Each Rapid Hitch is built for the long haul, and use in the real
+world where ease of use and strength really count.
+
 <h1>Table Mount Repair</h1>
 
 <h4>Table delaminate Thu May 31 2018</h4>

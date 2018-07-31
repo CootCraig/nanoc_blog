@@ -1,0 +1,501 @@
+
+
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+
+<head>
+
+	<meta charset="UTF-8">
+	
+		<!-- Mobile View -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+	<title>Options / Please Login | Car Buying Support</title>
+	<link rel="shortcut icon" href="https://carbuyingsupport.com/wp-content/themes/car_buying_support/favicon.ico" />
+	
+	<style type="text/css" media="screen">
+	
+	body {
+		-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;	}
+
+	.container #navigation, .container .menu ul.sub-menu, .container .menu ul.children {
+			}
+
+	.container a, .container a:link, .container a:visited, #wrap .widget ul.menu li a {
+		color: #f97600;	}
+
+	.container a:hover, .container a:focus, .container a:active,
+	#wrap .widget ul.menu li a:hover, #wrap .widget ul.menu li ul.sub-menu li a:hover,
+	#wrap .widget ul.menu .current_page_item a, #wrap .widget ul.menu .current-menu-item a {
+		color: #ff9537;	}
+
+	.container h1 a, .container h2 a, .container h3 a, .container h4 a, .container h5 a, .container h6 a,
+	.container h1 a:link, .container h2 a:link, .container h3 a:link, .container h4 a:link, .container h5 a:link, .container h6 a:link,
+	.container h1 a:visited, .container h2 a:visited, .container h3 a:visited, .container h4 a:visited, .container h5 a:visited, .container h6 a:visited {
+		color: #f97600;	}
+
+	.container h1 a:hover, .container h2 a:hover, .container h3 a:hover, .container h4 a:hover, .container h5 a:hover, .container h6 a:hover,
+	.container h1 a:focus, .container h2 a:focus, .container h3 a:focus, .container h4 a:focus, .container h5 a:focus, .container h6 a:focus,
+	.container h1 a:active, .container h2 a:active, .container h3 a:active, .container h4 a:active, .container h5 a:active, .container h6 a:active,
+	.slideshow .headline a:hover, .slideshow .headline a:focus, .slideshow .headline a:active {
+		color: #ff9537;	}
+
+	#submit:hover, #searchsubmit:hover, .reply a:hover, .gallery a:hover, a.button:hover, .more-link:hover,
+	#comments #respond input#submit:hover, .container .gform_wrapper input.button:hover, .flex-direction-nav li a:hover {
+		background-color: #40910a !important;	}
+</style>
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://carbuyingsupport.com/xmlrpc.php">
+	
+	<!-- Social Buttons -->
+	<script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+	
+	<script src="/scripts/jquery-1.11.3.min.js"></script>
+	
+	
+	<title>Options / Please Login | Car Buying Support</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://carbuyingsupport.com/options-please-login/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Options / Please Login | Car Buying Support" />
+<meta property="og:description" content="« Back « Back" />
+<meta property="og:url" content="https://carbuyingsupport.com/options-please-login/" />
+<meta property="og:site_name" content="Car Buying Support" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Car Buying Support &raquo; Feed" href="https://carbuyingsupport.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Car Buying Support &raquo; Comments Feed" href="https://carbuyingsupport.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Car Buying Support &raquo; Options / Please Login Comments Feed" href="https://carbuyingsupport.com/options-please-login/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/carbuyingsupport.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-customer-reviews-3-frontend-css'  href='https://carbuyingsupport.com/wp-content/plugins/wp-customer-reviews/css/wp-customer-reviews-generated.css?ver=3.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cdcp-style-css'  href='https://carbuyingsupport.com/wp-content/plugins/car-dealer-calculator-pro/cdc-style.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://carbuyingsupport.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-news-ticker-font-css'  href='https://carbuyingsupport.com/wp-content/plugins/ditty-news-ticker/assets/fontastic/styles.css?ver=1531251576' type='text/css' media='all' />
+<link rel='stylesheet' id='ditty-news-ticker-css'  href='https://carbuyingsupport.com/wp-content/plugins/ditty-news-ticker/assets/css/style.css?ver=1531251576' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_testimonial_style-css'  href='https://carbuyingsupport.com/wp-content/plugins/easy-testimonials/include/assets/css/style.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='organic-shortcodes-css'  href='https://carbuyingsupport.com/wp-content/plugins/organic-shortcodes/css/organic-shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://carbuyingsupport.com/wp-content/plugins/organic-shortcodes/css/font-awesome.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='st-widget-css'  href='https://carbuyingsupport.com/wp-content/plugins/share-this/css/style.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://carbuyingsupport.com/wp-includes/css/dashicons.min.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ewd-urp-style-css'  href='https://carbuyingsupport.com/wp-content/plugins/ultimate-reviews/css/ewd-urp-styles.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ewd-urp-jquery-ui-css'  href='https://carbuyingsupport.com/wp-content/plugins/ultimate-reviews/css/ewd-urp-jquery-ui.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='seed-style-css'  href='https://carbuyingsupport.com/wp-content/themes/car_buying_support/style.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='seed-style-mobile-css'  href='https://carbuyingsupport.com/wp-content/themes/organic_seed/css/style-mobile.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='seed_open_sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600%2C700%2C800%2C800italic%2C700italic%2C600italic%2C400italic%2C300italic&#038;ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='seed_merriweather-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C300%2C900&#038;ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='https://carbuyingsupport.com/?sccss=1&#038;ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ws-plugin--s2member-css'  href='https://carbuyingsupport.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_css=1&#038;qcABC=1&#038;ver=170722-170722-3750095727' type='text/css' media='all' />
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/wp-customer-reviews/js/wp-customer-reviews.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/organic-shortcodes/js/jquery.modal.min.js?ver=20130729'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/wp-a11y.min.js?ver=4.9.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/ultimate-reviews/js/masonry.pkgd.min.js?ver=4.9.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ewd_urp_php_data = {"maximum_score":"5","review_character_limit":"","flag_inappropriate_enabled":"Yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/ultimate-reviews/js/ewd-urp-js.js?ver=4.9.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ewd_urp_pie_data = {"maximum_score":"5","circle_graph_background_color":"","circle_graph_fill_color":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/ultimate-reviews/js/ewd-urp-pie-graph.js?ver=4.9.7'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/themes/organic_seed/js/html5shiv.js?ver=4.9.7'></script>
+<![endif]-->
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/themes/organic_seed/js/hoverIntent.js?ver=20130729'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/themes/organic_seed/js/superfish.js?ver=20130729'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/themes/organic_seed/js/jquery.fitvids.js?ver=20130729'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/themes/organic_seed/js/jquery.isotope.js?ver=20130729'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4'></script>
+<link rel='https://api.w.org/' href='https://carbuyingsupport.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://carbuyingsupport.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://carbuyingsupport.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.7" />
+<link rel='shortlink' href='https://carbuyingsupport.com/?p=1474' />
+<link rel="alternate" type="application/json+oembed" href="https://carbuyingsupport.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcarbuyingsupport.com%2Foptions-please-login%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://carbuyingsupport.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcarbuyingsupport.com%2Foptions-please-login%2F&#038;format=xml" />
+<!-- Powered by WP Autoloader (version: 2.0.9) (https://carbuyingsupport.com/wp-content/plugins/wp-autoloader/index.php) -->
+<style type="text/css" media="screen"></style><style type="text/css" media="screen">@media (max-width: 728px) {}</style><style type="text/css" media="screen">@media (max-width: 320px) {}</style><script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"wp.396efeb7-9cb4-4dbf-b5fa-58e61ff179e1"});var st_type="wordpress4.6.1";</script>
+    <script type="text/javascript">
+        var ajaxurl = 'https://carbuyingsupport.com/wp-admin/admin-ajax.php';
+    </script>
+<script type="text/javascript">
+<!--
+/******************************************************************************
+***   COPY PROTECTED BY http://chetangole.com/blog/wp-copyprotect/   version 3.1.0 ****
+******************************************************************************/
+function clickIE4(){
+if (event.button==2){
+return false;
+}
+}
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>
+
+<script type="text/javascript">
+/******************************************************************************
+***   COPY PROTECTED BY http://chetangole.com/blog/wp-copyprotect/   version 3.1.0 ****
+******************************************************************************/
+function disableSelection(target){
+if (typeof target.onselectstart!="undefined") //For IE 
+	target.onselectstart=function(){return false}
+else if (typeof target.style.MozUserSelect!="undefined") //For Firefox
+	target.style.MozUserSelect="none"
+else //All other route (For Opera)
+	target.onmousedown=function(){return false}
+target.style.cursor = "default"
+}
+</script>
+<style type="text/css" media="screen"></style><link rel="icon" href="https://carbuyingsupport.com/wp-content/uploads/2015/06/cropped-Orange_Arrow_Nitty_Gritty_SMALL-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://carbuyingsupport.com/wp-content/uploads/2015/06/cropped-Orange_Arrow_Nitty_Gritty_SMALL-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://carbuyingsupport.com/wp-content/uploads/2015/06/cropped-Orange_Arrow_Nitty_Gritty_SMALL-180x180.png" />
+<meta name="msapplication-TileImage" content="https://carbuyingsupport.com/wp-content/uploads/2015/06/cropped-Orange_Arrow_Nitty_Gritty_SMALL-270x270.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-66623216-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+
+</head>
+
+<body class="page-template-default page page-id-1474 seed-singular">
+
+
+<!-- BEGIN #wrap -->
+<div id="wrap">
+
+	<!-- BEGIN .container -->
+	<div class="container radius-full shadow">
+	
+		<!-- BEGIN #header -->
+		<div id="header">
+
+
+			
+
+
+		
+			<!-- BEGIN .row -->
+			<div class="row" >
+				
+				<!-- BEGIN .sixteen columns -->
+				<div class="sixteen columns">
+				
+								
+										
+						<h4 id="logo" >
+							<a href="https://carbuyingsupport.com/">
+								<img src="https://carbuyingsupport.com/wp-content/uploads/2015/07/CBS_Logo_6.11.15_cropped_small.jpg" alt="" />
+								<span class="logo-text">Car Buying Support</span>
+							</a>
+						</h4>
+						
+										
+						
+				
+				<!-- BEGIN Car Buying Support Login Button -->
+				
+				<a href="https://carbuyingsupport.com/wp-login.php?redirect_to=https%3A%2F%2Fcarbuyingsupport.com%2Foptions-please-login%2F" title="Login"><div class="login-button">Log In</div></a>
+				
+				<div style="clear: both;" id="login-div-clear"></div>
+				
+				<div style="clear: both;"></div>
+			<div id="social-wrapper">
+			<a href="/about/"><img id="yca-logo-header" src="/wp-content/uploads/2016/01/Your-Car-Angel-Logo-55px.png" /></a><a href="https://www.facebook.com/YourCarAngel" target="blank"><img class="social-icon" src="/wp-content/uploads/2015/07/facebook_icon.jpg" /></a>
+			<a href="https://twitter.com/support_car" target="blank"><img class="social-icon" src="/wp-content/uploads/2015/07/twitter_icon.jpg" /></a>
+			<a href="https://www.youtube.com/user/YourCarAngel" target="blank"><img class="social-icon" src="/wp-content/uploads/2015/07/YouTube_icon.jpg" /></a>
+
+			
+			</div>
+			
+			
+				
+				<!-- END .sixteen columns -->
+				</div>
+	
+			
+			<!-- BEGIN SEARCH BOX -->
+				
+					<div id="search-box-div">
+					   <form method="get" id="searchform" action="https://carbuyingsupport.com/">
+<div><input type="text" size="18" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" class="btn" />
+</div>
+</form>
+					</div>
+			
+			
+			
+			<!-- END .row -->
+			</div>
+			
+			
+			
+			<!-- BEGIN .row -->
+			<div class="row">
+			
+				<!-- BEGIN #navigation -->
+				<nav id="navigation" class="navigation-main radius-full" role="navigation">
+				
+					<span class="menu-toggle"><i class="fa fa-bars"></i></span>
+		
+					<div class="menu-main-navigation-menu-container"><ul id="menu-main-navigation-menu" class="menu"><li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-63"><a href="https://carbuyingsupport.com/">HOME</a></li>
+<li id="menu-item-2420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2420"><a href="https://carbuyingsupport.com/guide/">GUIDE</a></li>
+<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599"><a href="https://carbuyingsupport.com/video-library/">VIDEOS</a></li>
+<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-423"><a target="_blank" href="http://yourcarangel.com/blog/">BLOG</a></li>
+<li id="menu-item-4011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4011"><a href="https://carbuyingsupport.com/secrets-to-buying-a-used-car/">E BOOK</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://carbuyingsupport.com/about-car-buying-support/">ABOUT</a></li>
+<li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="https://carbuyingsupport.com/faq/">FAQ</a></li>
+<li id="menu-item-4110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4110"><a href="https://carbuyingsupport.com/news/">NEWS</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://carbuyingsupport.com/contact/">CONTACT</a></li>
+<li id="menu-item-2721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2721"><a href="https://carbuyingsupport.com/my-account/">MY DASHBOARD</a></li>
+</ul></div>		
+				</nav><!-- END #navigation -->
+				
+				
+				
+					
+				
+			<!-- END .row -->
+			</div>
+			
+			
+		
+		<!-- END #header -->
+		</div>
+<!-- BEGIN .post class -->
+<div class="post-1474 page type-page status-publish hentry" id="page-1474">
+
+		
+	<!-- BEGIN .row -->
+	<div class="row">
+	
+		<!-- BEGIN .content -->
+		<div class="content">
+		
+			
+			<!-- BEGIN .sixteen columns -->
+			<div class="sixteen columns">
+	
+				<!-- BEGIN .postarea full -->
+				<div class="postarea full">
+		
+					
+<h1 class="headline"></h1>
+
+<p><a style="font-size: 17px !important;" href="javascript: history.go(-1)">« Back</a></p>
+<p><!--if user is not logged in, show:--><br />
+
+<p style="font-size: 25px; margin-top:-50px;">The page you are trying to reach requires that you have an account.</p>
+<p style="font-size: 20px;">Please do one of the following:</p>
+
+<p><!--if user does not have a paid account, but does have a free, show:--></p>
+<div id="options-page-orange-buttons">
+
+<div id="options-page-get-full-access-button"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIK8QYJKoZIhvcNAQcEoIIK4jCCCt4CAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYBzuyyXyoS7StBkSkS43avJ1/Z+gcK3eQx9DCH+MBtAtvT4Ee1GAWZSz6LerCFoFjPmOd7USTPJw+I4wxeQceAoWjGejH+V5KIetIjgZCf6AN0TyI6KPf9ly9njK4mCmu34y0WBidzS8c4OUOifHG6UXM2NNoDMJXvIOatYnC+L8zELMAkGBSsOAwIaBQAwggRtBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECHXr5IexH+ydgIIESAoGTRCYjoE2I7uzQUugmqH5Qx7MP9USdXeNuU+RIAXRapapAqM9SdJkTv3Ny6Zroib8eR5O9rO4DpqTHxjMQPFhw92nZc72Vd2TlM98f/1QtxP7RZ3eL+2osZSv02jtsPWh1QW0x+gS8T7+iCE6JG+iyXjhXKNGdTbh7Kf7wmLvPt1jCu+wys1iCSd7Yt8qfapLXfRFcZilhEC12E92CVcC/6UTU5ML3YsQzxraqGGBVJ6d/Kwx7rAG3cH9gICVAYq+jEtVY1a+yfGhGXoHYxWyGgd88hHAkrHXiRAZqPzV707xIdVjaua8DMnE8/TA2ibmr2KYRs7z36lUPHl4bSQ4PDnZt9m+reaTPqSkg6kiZTXgmocQyChQaF3a0APcLbOWib4lQhW+xCU0e217ntihnVb3KnOp2GUSto/eGC/JQBhnw5i9jmkSQbHaMOZoPRnLSsfh/N36D2O0Vr94D9wt+GcvNNH+/WdZyLFvxA/7tkMyv0aCL0syD/OAa8bubzLXFOtGQEuUpSetFQooNCE0QtgmeLkL/UzexYCk6mRiuDdsm5m3JrM0OG1Ow94I6Yp/iIJhFS5f7jKFjphK1LQpMmHEcrEyJVr2cM+UO/WNfnWcHER/5kLMpoJEgUKqeRQYWF735ZgY8kEg6pYeQbIQw/NeM9fFG6YsNNUMRdOWwiwS+2E1ohUJBG0QEFC9HxI9J+mtAJ78pQDfOwceGknoVqdk1zotg9wI2hFhXpseR8BTAKH76KNqh+/H4vczokpbK94aDh2Ii69Qq4yvthSFbcnqEpEHQDKOqM06v+9nrZ1JvZt8LeZhA6qE+v8h1kZjoHc3rD8FXlbve9cCH6q4LnOdaWpXoYC0fLUd+JZ4zkfrzUHhkdo39S5st2AlHBENpqUdjHzH8vkdyklGpnovv2ec6uLZqYUH8hyNqpiTDaFjHn968e8zqo6eIwOume1KU3SqJDOM40mVWhKhJ0OgYd6mdzgMmQ6JzLN3q9xiHNN48KPfrp6aLqNtOnmj60i0lEsv+cZFplSJPkGgDHzTZIvohJrxDRffcT9TwJWLnFvAAi7dVA032zx93nplXtYEdVeqYS9EyyNk+92sPX/21FKr7O8Xxp0eWI/Lr2Euc6PHm8gKFtW+RVEYnBKpfjgcwG07QtBUZZbGEajc1tFapjTOcIX5p382M/cGY5mz0sa+giOwDtiNa35Q5QUDOXS4W+ZXS2Ok9lUF4wBqKQbJdTl2TX3V2FRNSdWt7aIhsWx5Ew6ZsY4AqepFAWqZ3Hl76cex0RkjWE0KoBeWQRNYNtwUaOBbNUt4VhNuOk5p1dWrgwc4Hn7oKAlgvNN+Qhs/N8Hc1VosutthzKVaQ+kuZO5+5jsr4rn/ab6zbzDtxyw6DY0uTAWijcaqq1V7MIONK3geocjuUVBf8DOCbfTAjyNaAXORaEP5pA8iwNgpZLOSott0WPGgggOHMIIDgzCCAuygAwIBAgIBADANBgkqhkiG9w0BAQUFADCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wHhcNMDQwMjEzMTAxMzE1WhcNMzUwMjEzMTAxMzE1WjCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMFHTt38RMxLXJyO2SmS+Ndl72T7oKJ4u4uw+6awntALWh03PewmIJuzbALScsTS4sZoS1fKciBGoh11gIfHzylvkdNe/hJl66/RGqrj5rFb08sAABNTzDTiqqNpJeBsYs/c2aiGozptX2RlnBktH+SUNpAajW724Nv2Wvhif6sFAgMBAAGjge4wgeswHQYDVR0OBBYEFJaffLvGbxe9WT9S1wob7BDWZJRrMIG7BgNVHSMEgbMwgbCAFJaffLvGbxe9WT9S1wob7BDWZJRroYGUpIGRMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbYIBADAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBAIFfOlaagFrl71+jq6OKidbWFSE+Q4FqROvdgIONth+8kSK//Y/4ihuE4Ymvzn5ceE3S/iBSQQMjyvb+s2TWbQYDwcp129OPIbD9epdr4tJOUNiSojw7BHwYRiPh58S1xGlFgHFXwrEBb3dgNbMUa+u4qectsMAXpVHnD9wIyfmHMYIBmjCCAZYCAQEwgZQwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tAgEAMAkGBSsOAwIaBQCgXTAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0xODA3MjcxNTIyMDJaMCMGCSqGSIb3DQEJBDEWBBQYGV3ZZIx3Qu+6xuHvcX/X7/ue3TANBgkqhkiG9w0BAQEFAASBgBKfE9pTtE/1RmXsfnNJADSuQwCxyedxcOCglHzse4gqvsLp0tUWlns3koYAtganq5dBNQ/vC+fu4avGQrjdvhhGwcFkxVkfquEIchI0lDjxdKyub7EbLixVuWyiIM9yb170SqXhL2Ej4QyRHXV9EijE1VGvrC3qkKsuul3M5dOA-----END PKCS7-----
+" />
+<input type="image" src="https://carbuyingsupport.com/wp-content/uploads/2016/07/get-full-access-to-CBS-guide-options-page.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+
+</form></div>
+<p>
+<!--if user is not logged in, show:--><br />
+
+<div style="text-align: center;"><a href="https://carbuyingsupport.com/wp-login.php?redirect_to=https%3A%2F%2Fcarbuyingsupport.com%2Foptions-please-login%2F"><img src="/wp-content/uploads/2016/07/already-have-an-account-please-login-options-page.jpg" /></a></div>
+
+<p><a style="font-size: 17px !important;" href="javascript: history.go(-1)">« Back</a></p>
+
+
+
+
+<div class="clear"></div>
+
+				
+				<!-- END .postarea full -->
+				</div>
+			
+			<!-- END .sixteen columns -->
+			</div>
+	
+				
+		<!-- END .content -->
+		</div>
+	
+	<!-- END .row -->
+	</div>
+	
+<!-- END .post class -->
+</div>
+
+
+<div class="clear"></div>
+
+<!-- END .container -->
+</div>
+
+<!-- BEGIN .footer -->
+<div class="footer">
+
+		
+	<!-- BEGIN .row -->
+	<div class="row">
+		
+		<!-- BEGIN .footer-information -->
+		<div class="footer-information">
+		
+			<!-- BEGIN .content -->
+			<div class="content">
+		
+				<div class="align-left">
+				
+					<p><a href="/terms-and-conditions/">Terms and Conditions</a> | <a href="/privacy-policy/">Privacy</a> | <a href="refund-policy/">Refund Policy</a> | Copyright &copy; 2018 &middot; All Rights Reserved &middot; Car Buying Support</p>	
+<p>.</p>
+
+	
+				
+				<div class="align-right">
+					
+					 <div style="margin-top: -15px;"></div>
+					 						
+						<div class="social-menu"><ul id="menu-social-menu" class="social-icons"><li id="menu-item-804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-804"><a target="_blank" href="https://www.facebook.com/YourCarAngel"><span>F</span></a></li>
+<li id="menu-item-805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-805"><a target="_blank" href="https://twitter.com/yourcarangel"><span>T</span></a></li>
+<li id="menu-item-807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-807"><a target="_blank" href="https://www.youtube.com/user/YourCarAngel"><span>YouTube</span></a></li>
+<li id="menu-item-2626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2626"><a target="_blank" href="https://plus.google.com/117282989060737797826/posts"><span>G+</span></a></li>
+</ul></div>						
+										
+					<p>&nbsp;</p>
+					<p>&nbsp;</p>
+					<p style="text-align: right;"><span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=BUE28XmS5Teaw1qPeLSiCvl6TQWY9fEDZrUzFAZJAgvLsV2QUrPrG9MEx8Ah"></script></span></p>
+					
+				</div>
+		
+			<!-- END .content -->
+			</div>
+		
+		<!-- END .footer-information -->
+		</div>
+	
+	<!-- END .row -->
+	</div>
+
+<!-- END .footer -->
+</div>
+
+<!-- END #wrap -->
+</div>
+
+<script type="text/javascript">
+disableSelection(document.body)
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/carbuyingsupport.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/organic-shortcodes/js/jquery.shortcodes.js?ver=20130729'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/organic-shortcodes/js/tabs.js?ver=20130609'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/themes/organic_seed/js/jquery.custom.js?ver=20130729'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/themes/organic_seed/js/navigation.js?ver=20130729'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-content/plugins/easy-testimonials/include/assets/js/jquery.cycle2.min.js?ver=4.9.7'></script>
+<script type='text/javascript' data-cfasync="false" src='https://carbuyingsupport.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_js_w_globals=1&#038;qcABC=1&#038;ver=170722-170722-3750095727'></script>
+<script type='text/javascript' src='https://carbuyingsupport.com/wp-includes/js/wp-embed.min.js?ver=4.9.7'></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<center>
+</center>
+</body>
+</html>

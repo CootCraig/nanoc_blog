@@ -20,7 +20,7 @@ tags:
   <li>Tow Scamp</li>
   <li>Extended cab</li>
   <li>4x4</li>
-  <li>Will want a cab high bed cap</li>
+  <li>Will want a cab high bed cap w/ no bedliner</li>
   <li>Probably not Dodge</li>
 </ul>
 
@@ -29,7 +29,7 @@ tags:
   Ward's 10 Best Engines is an annual list of the ten "best" automobile engines
 </h4>
 
-</h1>See autotrader.com</h1>
+<h1>See autotrader.com</h1>
 
 <h4>Zipcodes for search</h4>
 
