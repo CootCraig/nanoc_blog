@@ -13,6 +13,34 @@ W on Own Canyon Rd. W CO Rd 70
 N on 287
 </pre>
 
+<h3>
+  2001 Chevy Silverado Z71 84K miles - $12000
+  <a href="https://pueblo.craigslist.org/cto/d/2001-chevy-silverado-z71-84k/6632268256.html" target="_blank">pueblo.craigslist.org/cto/</a>
+</h3>
+
+
+
+<pre>
+Tue Jul 31 10:32:43 MDT 2018
+Monte Vista, CO 3 hour drive
+zip code 81144
+719 849 8187
+
+automatic 5.3L 
+4wd 
+84000 miles
+z71 package 2nd owner
+autotrader outstanding $4400
+kbb private $7417
+allow 2500 for topper if I like it
+7417 + 2500 = 9917
+
+San Luis Valley Auto Repair
+150 N Broadway St
+Monte Vista, CO, 81144
+719-852-2536
+</pre>
+
 <h4>
   Compnine VIN build report
   <a href="https://www.compnine.com/dealerlogin.php" target="_blank">compnine.com/dealerlogin</a>

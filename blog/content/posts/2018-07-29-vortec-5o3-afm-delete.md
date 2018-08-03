@@ -1,5 +1,5 @@
 ---
-title: "Pickup Research July 2018"
+title: "Pickup Tuning"
 created_at: Sat Jul 28 19:21:15 MDT 2018
 kind: article
 tags:
@@ -106,16 +106,8 @@ you for an additional 6 months.
 </h3>
 
 <h3>
-  
-  <a href="" target="_blank">silveradosierra.com/vortec-5-3l-v8</a>
-</h3>
-
-<h3>
-<a href="" target="_blank"></a>
-</h3>
-
-<h3>
-<a href="" target="_blank"></a>
+ my 2010 Silverado 5.3L Intune I3 Experience by Z71nTexas [OP] » Jun 29 2018, 7:45am
+  <a href="https://www.silveradosierra.com/gasser-tuning-f457/my-2010-silverado-5-3l-intune-i3-experience-t699868.html" target="_blank">silveradosierra.com/vortec-5-3l-v8</a>
 </h3>
 
 <!--

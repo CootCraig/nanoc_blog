@@ -549,8 +549,8 @@ $11,500
     <a href="http://www.gmt400.com/" target="_blank">GMT400 - The Ultimate 88-98 GM Truck Forum</a>
   </li>
   <li>
-    <a href="https://www.gm-trucks.com/forums/forum/166-fullsize-truck-suv-1999-2006-gmt800-2007-2013-gmt900-platforms/"
-      target="_blank">Fullsize Truck & SUV - 1999-2006 GMT800 & 2007-2013 GMT900 Platforms</a>
+    <a href="https://www.gm-trucks.com/forums/forum/3-1999-2013-silverado-sierra-1500/"
+      target="_blank">gm-trucks.com 1999-2013 Silverado & Sierra 1500</a>
   </li>
   <li>
     <a href="https://chevroletforum.com/forum/"
