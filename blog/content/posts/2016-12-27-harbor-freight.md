@@ -328,6 +328,18 @@ search:
 milton 1/4 v style
 
 <h3>
+  <a href="https://www.youtube.com/watch?v=SFKoQMyN7nY" target="_blank">DIYmonkey youtube</a>
+  Central Pneumatic Framing Nailer - Long Term Review (Harbor Freight)
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=F-s7c5WrYVA" target="_blank">toolhead 147 youtube</a>
+  Bad Nailer? Harbor Freight 21 Framing Nailer 69927
+</h3>
+
+Home Depot nails better than Harbor Freight
+
+<h3>
   <a href="http://www.harborfreight.com/18-gauge-2-in-1-air-nailerstapler-68019.html" target="_blank">product at harborfreight.com</a>
   18 Gauge 2-in-1 Air Nailer/Stapler Central Pneumatic - item# 68019 
 </h3>

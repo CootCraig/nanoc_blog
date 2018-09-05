@@ -9,9 +9,65 @@ tags:
   - ebook_readers
 ---
 
-<h2>
+<h1>Premium Kobo aura one - Kindle Oasis</h1>
+
+<ul>
+  <li>
+    <a href="https://us.kobobooks.com/products/kobo-aura-one" target="_blank">Kobo Aura ONE - $230</a>
+  </li>
+  <li>
+    <a href="https://www.amazon.com/gp/product/B06XD5YCKX" target="_blank">Kindle Oasis E-reader - $250.00</a>
+  </li>
+</ul>
+
+<h1>
+  <a href="https://us.kobobooks.com/products/kobo-aura-one" target="_blank">us.kobobooks.com/products/</a>
+  Kobo aura one
+</h1>
+
+<h3>
+  <a href="https://goodereader.com/blog/electronic-readers/kobo-aura-one%E2%80%8A-%E2%80%8Aa-near-perfect-ereader" target="_blank">goodereader.com/blog/electronic-readers</a>
+  Kobo Aura One - A Near Perfect eReader - October 18, 2017 By Albert Silver
+</h3>
+
+The first, sorry to say, is that question of the ecosystem. I am perfectly
+willing to buy an ebook from the Kobo store so long as I am not paying
+extra for the privilege. There is talk about pricematching, but Kobo
+themselves state that it is not universal and subject to approval (Amazon
+is no different), so when in doubt, I just buy it from Amazon. This
+brings up the issue of accessing my not insignificant number of ebooks
+purchased through Amazon, and that one might worry are locked into
+their ecosystem. Luckily this is not true. Downloading and converting
+my Kindle ebooks to read on the Kobo is very easy once you know how, and
+requires using Cailbre, an ereader software swiss-army knife, and a few
+plugins that remove the DRM and do the conversion. The entire process
+can take a couple of minutes, from download to copying to the device,
+but is fairly painless.
+
+It needs to be pointed out also, that if you plan to sideload ebooks
+(meaning add ebooks via cable from your computer) knowing how to convert
+to the Kepub format is useful as it is the only format that supports
+the page counts in chapters.
+
+<h3>
+  <a href="https://www.pcworld.com/article/3245384/consumer-electronics/rakuten-kobo-aura-one-limited-edition-review.html" target="_blank">pcworld.com/article/3245384</a>
+  Rakuten Kobo Aura One Limited Edition Review: Keeping up with the Kindles isn't easy
+  What was once a potential Kindle-killer is now playing catch-up.
+  By Séamus Bellamy PCWorld | Jan 2, 2018
+</h3>
+
+When the Kobo Aura One was released in 2016, with its large, bright
+display and exclusives like Pocket and OverDrive integration, it had
+the potential to be a Kindle-killer. It was a flagship device that
+cost less and arguably did more than Amazon’s Kindle Oasis. In 2017,
+however, the Kindle Oasis has caught up, and the Limited Edition has
+little new to offer. Unless you’re tied into Kobo’s ebook ecosystem,
+or resisting the inexorable pull of Amazon, the excellent 2017 Kindle
+Oasis is likely your better bet for a premium reading experience.
+
+<h1>
   <a href="http://calibre-ebook.com/" target="_blank">Calibre Ebook Mgr</a>
-</h2>
+</h1>
 
 <h4>
   <a href="https://manual.calibre-ebook.com/index.html" target="_blank">calibre user manual</a>
@@ -125,20 +181,55 @@ TXT, PDF, unprotected MOBI, PRC natively; HTML, DOC, DOCX, JPEG, GIF,
 PNG, BMP through conversion
 </pre>
 
+<h1>Kobo aura edition 2</h1>
+
 <h2>Linux</h2>
 
 <h2>PC</h2>
 
+<h1>Pueblo Library</h1>
+
+<h3>
+  <a href="http://www.pueblolibrary.org/online_resources/literature" target="_blank">pueblolibrary.org/online_resources</a>
+  Downloadable and Online viewable e-books: The Cloud and Freading
+</h3>
+
+<h2>
+  <a href="https://ebook.yourcloudlibrary.com/library/pueblo/Featured" target="_blank">ebook.yourcloudlibrary.com/library</a>
+  Pueblo City County Library District
+</h2>
+
+<h2>
+  <a href="https://pueblo.freading.com/index" target="_blank">pueblo.freading.com/index</a>
+</h2>
+
+search: Kobo freading
+
+<h4>
+  <a href="https://pueblo.freading.com/ebooks/details/r:download/MDAxMDE5LTI4ODI3MzYw/1/fpicks" target="_blank">pueblo.freading.com/ebooks/</a>
+  Doctor Thorne by Anthony Trollope
+</h4>
+
+<pre>
+Doctor Thorne (2016)
+Publisher : Open Road Media
+Author : Trollope, Anthony 
+Category : Fiction > Classics
+</pre>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

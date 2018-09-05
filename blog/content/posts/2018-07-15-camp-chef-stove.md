@@ -68,9 +68,16 @@ tags:
 </h3>
 
 <pre>
+Your order # is: 108052101.
+
 Plastic Thumb Screws (4 pack) $4.99 	
+330076
+
 Stove Ignitor $11.49 $22.98
+MODEL #: CCING
+
 Carry Bag for Two-Burner Stoves $34.99 	
+MODEL #: CB60UNV
  
 Grand Total 	$62.96
 Subtotal 	$62.96

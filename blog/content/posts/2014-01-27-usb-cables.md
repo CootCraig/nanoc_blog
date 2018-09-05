@@ -36,6 +36,19 @@ receptacle but they usually supply a pigtail adapter to USB-A.
 
 <img src="/assets/images/USBTypes2.jpg" >
 
+<h3>
+  USB Type-C
+  <a href="https://en.wikipedia.org/wiki/USB-C" target="_blank">wikipedia.org/wiki/</a>
+</h3>
+
+<h4>USB-C receptacle pinout end-on view</h4>
+
+<img type="image/svg+xml" src="/assets/images/usb-type-c-receptacle-pinout.svg" width="400px"/>
+
+<h4>USB-C plug pinout end-on view</h4>
+
+<img type="image/svg+xml" src="/assets/images/usb-type-c-plug-pinout.svg" width="400px">
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

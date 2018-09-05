@@ -8,6 +8,32 @@ tags:
 
 <h1>Links</h1>
 
+<h2>
+  <a href="http://exploringjs.com/impatient-js/" target="_blank">exploringjs.com/impatient</a>
+  JavaScript for impatient programmers A book by Dr. Axel Rauschmayer 
+</h2>
+
+<h4>
+  <a href="http://dr-axel.de/" target="_blank">Dr. Axel Rauschmayer</a>
+</h4>
+specializes in JavaScript and web development. 
+<h4>
+  <a href="http://www.2ality.com/" target="_blank">He blogs</a>
+</h4>
+, writes books and teaches classes.
+
+Axel has been writing about JavaScript since 2009. 
+
+<h4>
+  <a href="http://speakingjs.com/" target="_blank">speakingjs.com/</a>
+  Speaking JavaScript: An In-Depth Guide for Programmers by Dr. Axel Rauschmayer 
+</h4>
+
+<h4>
+  <a href="http://exploringjs.com/es6/index.html" target="_blank">exploringjs.com/es6/</a>
+  Exploring ES6 by Dr. Axel Rauschmayer
+</h4>
+
 <h3>
   <a href="https://medium.com/javascript-scene" target="_blank">medium.com/javascript-scene</a>
 <h3>
@@ -27,15 +53,18 @@ tags:
 </h3>
 
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

@@ -3,11 +3,8 @@ title: "Scotty Kilmer"
 created_at: Sat May 13 08:53:17 MDT 2017
 kind: article
 tags:
-  - bucksaw
-  - takedown_bucksaw
-  - tools
-  - camping
-  - woodcraft
+  - scotty_kilmer
+  - replace_brakes
 ---
 
 <h2>
@@ -56,16 +53,115 @@ Silicone Wiper Blades.
   <a href="https://www.youtube.com/watch?v=G924YI4Ek44" target="_blank">Scotty Kilmer youtube</a>
 </h3>
 
+<h3>
+  Why You Should Wax Your Car (Restore and Protect)
+  <a href="https://www.youtube.com/watch?v=XUhoERb4klA" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<h3>
+  How to Tell if You Need New Tires on Your Car
+  <a href="https://www.youtube.com/watch?v=6PM3M6lWGHM" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<h3>
+  Make Your Car Run Better with a Little Spray Cleaner
+  <a href="https://www.youtube.com/watch?v=NWCKvU2FmDc" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<pre>
+CRC Mass Air Flow Sensor Cleaner: http://amzn.to/2jxnvjC
+CRC Throttle Body & Air-Intake Cleaner
+</pre>
+
+<h3>
+  The Best Car Mods Anyone Can Do
+  <a href="https://www.youtube.com/watch?v=cjBrA1lMXPE" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<pre>
+drilled brake disc
+correct tire
+better metal radiator
+</pre>
+
+<h3>
+  The Best Brake Pads in the World and Why
+  <a href="https://www.youtube.com/watch?v=j7vH8IRbjEc&t=6s" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+Ceramic pads - Akebono brake pads: http://amzn.to/2GfuBUY
+
+Akebono ACT905 ProACT Ultra-Premium Ceramic Brake Pad Set 
+
+<h3>
+  Here's Why the Toyota Corolla is the Best Selling Car of All Time
+  <a href="https://www.youtube.com/watch?v=jLJXmgnHjIk" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<pre>
+</pre>
+
+$789.00  - Launch X431 PROS Mini Automotive Diagnostic Tool OBD2 Scanner Code Reader with Wifi & Bluetooth Covering 108 Vehicle Makes + 2 Years Free Update
+
+<h3>
+  Here's Why I Still Drive My Old 1994 Toyota Celica
+  <a href="https://www.youtube.com/watch?v=i1xvqh6E-V8" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<h3>
+  How to Fix Car Keys and Locks Forever
+  <a href="https://www.youtube.com/watch?v=3cU4tS9s7pE" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+WD-40 for maintenance
+
+<h3>
+  Need a New Car Key? Save Big by Following This Tip
+  <a href="https://www.youtube.com/watch?v=BCmbRphC6z4" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<pre>
+Advance Auto Parts
+2015 North Hudson Avenue
+Pueblo, CO 81001
+United States
+(719) 423-4986
+</pre>
+
+<h3>
+  Top 4 Mistakes Car Owners Make (DIY Fails)
+  <a href="https://www.youtube.com/watch?v=jLlM0K0Tr8o" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<h3>
+  How to Do a Quick and Easy Brake Job on Your Car
+  <a href="https://www.youtube.com/watch?v=sWql_s7PSts" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<h3>
+  How to Replace Brake Rotors on Your Car
+  <a href="https://www.youtube.com/watch?v=oyalDCftJZA" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
+<h3>
+  How to Install LED Headlight Bulbs in Your Car (LED vs Halogen)
+  <a href="https://www.youtube.com/watch?v=QB1-NBBWhto" target="_blank">Scotty Kilmer youtube</a>
+</h3>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
+<img type="image/svg+xml" src="abc.svg" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

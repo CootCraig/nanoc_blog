@@ -124,20 +124,20 @@ tire rotation - Craig 4500 mi
 </pre>
 
 <pre>
-2016-01-14, 171162 mi, , Oil Change
-2016-01-14, 171156, 0, Tire Rotation, Discount Tire,
-2016-06-10, 176929 mi, $32, Oil Change, $28 for 6 qt oil $4.05 for oil filter, Mobil 1 oil; fram ph3506 oil filter
-2016-06-16, 177060, 0, tire rotation, Discount Tire, Other Notes
-2016-09-28, 179932 mi, $32, Oil Change, $35 for 6 qt oil $4.00 for oil filter, Mobil 1 oil; ACDELCO PF46 oil filter
-2017-06-16, ???, 0, tire rotation, Discount Tire, 5 tire rotation
-2017-06-16, 187920 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
-2017-06-20, 188202 mi, cost, oil and filter change, Fram XG3506 - Mobil 1 oil 6 qt, Other Notes
-2017-07-15, 193462, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
-2017-07-31, 194227 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
-2017-12-08, 199294, cost, oil and filter change, 6qt Mobil 1 oil - K&N HP-2006 oil filter, Other Notes
-2017-12-19, 199365 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
-2018-06-26, 203827 mi, $0, tire rotation, Discount Tire Pueblo, Other Notes
-2018-06-26, 203849 mi, cost, oil and filter change, 6qt Mobil 1 5w-20 oil (10qt for $61.90) - K&N HP-2006 oil filter, Other Notes
+2016-01-14, 171162 mi, , oil change
+2016-01-14, 171156, 0, tire rotation, discount tire,
+2016-06-10, 176929 mi, $32, oil change, $28 for 6 qt oil $4.05 for oil filter, mobil 1 oil; fram ph3506 oil filter
+2016-06-16, 177060, 0, tire rotation, discount tire, other notes
+2016-09-28, 179932 mi, $32, oil change, $35 for 6 qt oil $4.00 for oil filter, mobil 1 oil; acdelco pf46 oil filter
+2017-06-16, ???, 0, tire rotation, discount tire, 5 tire rotation
+2017-06-16, 187920 mi, $0, tire rotation, discount tire pueblo, other notes
+2017-06-20, 188202 mi, cost, oil and filter change, fram xg3506 - mobil 1 oil 6 qt, other notes
+2017-07-15, 193462, cost, oil and filter change, 6qt mobil 1 oil - k&n hp-2006 oil filter, other notes
+2017-07-31, 194227 mi, $0, tire rotation, discount tire pueblo, other notes
+2017-12-08, 199294, cost, oil and filter change, 6qt mobil 1 oil - k&n hp-2006 oil filter, other notes
+2017-12-19, 199365 mi, $0, tire rotation, discount tire pueblo, other notes
+2018-06-26, 203827 mi, $0, tire rotation, discount tire pueblo, other notes
+2018-06-26, 203849 mi, cost, oil and filter change, 6qt mobil 1 5w-20 oil (10qt for $61.90) - k&n hp-2006 oil filter, other notes
 </pre>
 
 
@@ -158,6 +158,14 @@ June 12, 2017 - Wix 51042xp oil filter
 June 12, 2017 Mobil 1 oil 25 qt - 22.88/5qt
 </pre>
 
+<h4>Lucas LUC10009 Transmission Fix 24 oz</h4>
+
+<h4>Gumout 510011 Multi-System Tune-Up, 16 fl. oz.</h4>
+
+<h4>Redline 60103 SI-1® Complete Fuel System Cleaner</h4>
+
+Redline SI-1 Complete Fuel System Cleaner
+
 <h1>Tools</h1>
 
 
@@ -174,15 +182,30 @@ June 12, 2017 Mobil 1 oil 25 qt - 22.88/5qt
 Accessories Included 	ratchet, breaker bar, extension, case
 </pre>
 
+<h1>Honda Odyssey Headlight assembly</h1>
+
+<h4>
+  <a href="https://www.go-parts.com/honda-odyssey-headlights.html#year=2004&submodel=lx&side=left&bodytype=mini_passenger_van" target="_blank">go-parts.com/honda-odyssey-headlights</a> 
+</h4>
+
+driver side - $53
+passenger side - $51
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->

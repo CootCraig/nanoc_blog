@@ -63,19 +63,6 @@ tags:
   <a href="https://www.dccargomall.com/Ratchet-Straps.aspx" target="_blank">Ratchet and Cam Straps</a>
 </h2>
 
-<h3>
-  <a href="https://www.dccargomall.com/FOUR-Soft-TieDown-Loop-Straps-Motorcycle-ATV-Kayak.aspx" target="_blank">dccargomall.com/ product page</a>
-  FOUR Soft TieDown Loop Straps, Motorcycle, ATV, Kayak - Part#: 116ST
-</h3>
-
-$12 for 4
-
-<img src="/assets/images/dccargomall-soft-tiedown-loop-join-2.jpg" width="450px">
-
-<img src="/assets/images/dccargomall-soft-tiedown-loop-over-bar.jpg" width="450px">
-
-<img src="/assets/images/dccargomall-soft-tiedown-loop-pack-of-4.jpg" width="450px">
-
 <h1>
   <a href="http://www.uscargocontrol.com/" target="_blank">US Cargo Control</a>
 </h1>
@@ -318,6 +305,11 @@ Available in 2” anchor plates, 6”, 12”, 24”, 48”, 72” and 96” trac
   L-Track Fittings and Installation
 </h3>
 
+<h4>
+  L Track Installation
+  <a href="https://www.youtube.com/watch?v=qDSvRFiZHjo" target="_blank">US Cargo Control youtube</a>
+</h4>
+
 <h2>
   <a href="https://www.etrailer.com/Cargo-Nets/Curt/C18202.html" target="_blank">$12.06 at etrailer.com</a>
   Curt Stretchable Cargo Net - 43" Long 24" Wide - Item # C18202
@@ -404,7 +396,7 @@ Soft loop straps.
 </h3>
 
 <h1>
-  <a href="" target="_blank">LoopRope Online</a>
+  <a href="http://looprope.com/5-looprope-orange/" target="_blank">LoopRope Online</a>
 </h1>
 
 <h4>3 Pack Combo</h4>
@@ -538,6 +530,37 @@ turnbuckle
 <h4>
   <a href="https://www.amazon.com/Stainless-Washer-Drilling-Screws-Listing/dp/B00YEVBGJU" target="_blank">Chenango Supply at Amazon</a>
   Stainless #8 x 1" Hex Washer Head Self Drilling Sheet Metal Tek Screws With Drill Point,(1/2" To 1-1/2" Length in Listing) 100 pieces (#8 x 1") 
+</h4>
+
+<h2>
+  Soft Loops - $40/8
+  <a href="https://www.discountramps.com/soft-straps/p/2-SOFT-LOOP/" target="_blank">discountramps.com/soft</a>
+</h2>
+
+<img src="/assets/images/dccargomall-soft-tiedown-loop-join-2.jpg" width="450px">
+
+<img src="/assets/images/dccargomall-soft-tiedown-loop-over-bar.jpg" width="450px">
+
+<img src="/assets/images/dccargomall-soft-tiedown-loop-pack-of-4.jpg" width="450px">
+
+<h4>
+  How to Properly Use Soft Loops
+  <a href="https://www.discountramps.com/using-soft-loops/a/B37/" target="_blank">discountramps.com/using</a>
+</h4>
+
+<h4>
+  Soft Loop Straps
+  <a href="https://www.youtube.com/watch?v=Et3EZ1zqaxY" target="_blank">DiscountRamps.com youtube</a>
+</h4>
+
+<h4>
+  Soft Loop Cinch Tie-Down Straps (Package of 4) by Discount Ramps $13.99
+  <a href="https://www.walmart.com/ip/Soft-Loop-Cinch-Tie-Down-Straps-Package-of-4/29389525" target="_blank">walmart.com/ip/Soft-Loop</a>
+</h4>
+
+<h4>
+  Soft Loop Tie Down Straps - 6 pack - By AUGO 
+  <a href="https://www.amazon.com/Soft-Loop-Tie-Down-Straps/dp/B01N1NV536/" target="_blank">$8 at amazon</a>
 </h4>
 
 <!--

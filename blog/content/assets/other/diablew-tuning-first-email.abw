@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="32" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Aug 31 12:53:16 2018
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">Craig Anderson</m>
+<m key="dc.date">Fri Aug 31 12:53:16 2018
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="394" last-saved="1535741596" uid="33ab1c92-ad4e-11e8-9f58-a5d642d1a5b7">
+<version id="1" started="1535741596" uid="1ec31234-ad4f-11e8-9f58-a5d642d1a5b7" auto="0" top-xid="32"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="31" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">the first thing you will need to do is download and install the Ignition Updater program - this program is used to update your inTune to the latest updates/fixes - https://www.diablosport.com/downloads/</c></p>
+<p style="Normal" xid="1" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">Once that is installed, then connect the inTune to your computer and let it start up and get to the main menu screen. Then launch/run the Ignition Updater program.  It will search for and find your inTune and will start downloading any new updates.  The inTune will install the updates on itself, you may need to reboot it so follow its on-screen instructions -- and when it's done and everything is up to date, the Ignition Updater program will show that your inTune is now up to date.</c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">You can find the full inTune i3 User Manual here:</c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">http://www.diablosport.com/content/uploads/2016/04/D100080501-1.pdf</c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">After all the updating is done... then you can connect it to your vehicle and go to Tune Vehicle - Advanced Mode - and select one of the preset tunes -- either the "87 Octane Tune" if you use 87/89 octane gas most of the time, OR the "Diablo Tune" if you're going to use 91/93 octane gas all the time....</c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">Then it should ask you to select a TCM tune for the tranny, so select the "Firm Shift" tune...</c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">then select Install/Apply Tune and install the tunes, and that's it for now...  You'll need to drive it however you normally do for a few days, until you get at least about 150 miles put on so that the fuel trims can get relearned by the ecm and settle in...  </c></p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">after the 150+ miles have been put on, then you can record a steady driving log on the highway, and then send me all the files from the tool.   You do NOT record a data log for 150 miles</c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">Every time you install a tune (or disconnect the battery), all of the learned items like idle, airflow, fueling/fuel trims, emissions readiness tests, etc. all get erased/reset... It takes days/150+ miles to be put on for everything to be relearned by the ECM/TCM and settle back in again before you'd be able to do a data log.</c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">So after you've gotten the 150+ miles put on the vehicle with the installed preset canned tune, then you can find the info/instructions for doing the steady driving log for 2-3 minutes, and then getting me copies of all the files (data log file and all tune files), on my site www.diablewtune.com at #5 for the inTune.</c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">If you are experiencing a functionality issue with your inTune/Trinity programmer, you must contact DiabloSport Tech Support - I can not do anything about the tool itself or how it functions/operates - that is a DiabloSport product issue.  You can contact Diablosport Tech Support at support@diablosport.com or 1-561-908-0040 for tech support... Mon-Fri, 8:30am-5pm (Eastern Time).Thanks!--</c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">Lew-- a.k.a. DiabLew / 06MonteSS-- www.diablewtune.com--</c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">www.facebook.com/DiabLewTuneGM-- www.twitter.com/DiabLewTuneHours of</c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">Operation:------------------------------------------Monday-Thursday -</c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">9am-5pm (Eastern time)Friday - 9am-3pm (Eastern time)Saturday/Sunday -</c></p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">Weekend availability is very limited. Will be on/off during weekends when</c></p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">possible, and will get to things whenever I can during this time. Fully</c></p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">back online/available during the week during my normal business hours,</c></p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt">and will reply to unanswered emails/tune requests as soon as possible.</c></p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr"><c props="font-size:11pt"></c></p>
+</section>
+</abiword>

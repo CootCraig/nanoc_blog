@@ -29,6 +29,11 @@ at 15 min.
 
 I’m the pastor of Living Stones Christian Reformed Church in Sacramento California.
 
+
+How to Read the Bible Book by Book: A Guided Tour Paperback by Gordon D. Fee , Douglas Stuart
+
+How to Read the Bible for All Its Worth by Gordon D. Fee, Douglas Stuart
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -102,6 +102,11 @@ charting library. plotly.js ships with 20 chart types, including 3D
 charts, statistical graphs, and SVG maps.  Learn about why we open
 sourced plotly.js or view the source on GitHub.
 
+<h3>
+  <a href="https://www.codewall.co.uk/the-best-javascript-data-visualization-charting-libraries/" target="_blank">codewall.co.uk/the-best-javascript</a>
+  The Best JavaScript Data Visualization & Charting Libraries - July 17, 2018 by Dan Englishby9 Com
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

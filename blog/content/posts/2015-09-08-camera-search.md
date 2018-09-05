@@ -6,6 +6,68 @@ tags:
   - camera
 ---
 
+<h1>Mon Aug  6 2018</h1>
+
+<h4>Survey - 1/1/2006 to 1/1/2010</h4>
+
+<ul>
+  <li>Canon PowerShot A1100 IS - AA battery</li>
+  <li>Canon PowerShot S90 - low light</li>
+  <li>Canon PowerShot SX610 HS</li>
+  <li>Canon PowerShot SX620 HS</li>
+  <li>Kodak EasyShare M380 - value</li>
+  <li>Nikon Coolpix L20 - picture quality</li>
+  <li>Nikon Coolpix S220 - The most compact</li>
+  <li>Nikon Coolpix S630</li>
+  <li>Panasonic Lumix DMC-FS25 - value</li>
+  <li>Panasonic Lumix DMC-TZ7 - video</li>
+  <li>Pentax Optio P70</li>
+  <li>Pentax Optio W80 - wet and rugged</li>
+  <li>Samsung HZ15W - value</li>
+  <li>Samsung SL820 - high-def video</li>
+  <li>Sony TX1 - super slim</li>
+</ul>
+
+<h4>Survey - 1/1/2010 to 1/1/2015</h4>
+
+<ul>
+  <li>Canon PowerShot ELPH 110</li>
+  <li>Canon PowerShot ELPH 300 HS</li>
+  <li>Canon PowerShot ELPH 310 HS - optical zoom</li>
+  <li>Canon PowerShot ELPH 510</li>
+  <li>Canon Powershot A1300 - optical zoom</li>
+  <li>Canon G12 - optical zoom</li>
+  <li>Canon PowerShot G15 - optical zoom</li>
+  <li>Canon PowerShot G16</li>
+  <li>Canon PowerShot G1X Mark II</li>
+  <li>Canon PowerShot S100</li>
+  <li>Canon SX40 HS - optical zoom</li>
+  <li>Canon PowerShot SX50 - optical zoom</li>
+  <li>Canon Powershot Pro Series S3 IS</li>
+  <li>Canon Powershot SX260 HS - optical zoom</li>
+  <li>Canon PowerShot SX280HS</li>
+  <li>Fujifilm FinePix S4200 - optical zoom</li>
+  <li>Fujifilm X100S</li>
+  <li>Nikon 1 J4</li>
+  <li>Nikon COOLPIX AW100 - waterproof</li>
+  <li>Nikon COOLPIX L810 - optical zoom</li>
+  <li>Nikon COOLPIX P510</li>
+  <li>Olympus Stylus 1 - optical zoom</li>
+  <li>Olympus Tough TG-3</li>
+  <li>Panasonic DMC-FZ150K - optical zoom</li>
+  <li>Panasonic LX7</li>
+  <li>Panasonic LX8</li>
+  <li>Panaonic DMC-ZS15 - optical zoom</li>
+  <li>Panasonic Lumix TS20 Waterproof</li>
+  <li>Panasonic Lumix ZS20 - optical zoom</li>
+  <li>Pentax MX-1</li>
+  <li>Sony Cyber-shot DSC-WX150 - optical zoom</li>
+  <li>Sony WX300</li>
+  <li>Sony RX100 I/II</li>
+  <li>Sony RX100 III</li>
+  <li>Sony W800/B</li>
+</ul>
+
 # DSLR
 
 Decision:
@@ -139,8 +201,20 @@ Nikon COOLPIX L18 8.0 MP Digital Camera - Red
 ### Sony Cyber-shot DSC-W230 12.1 MP Digital Camera with 4x Optical 
 
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
-
