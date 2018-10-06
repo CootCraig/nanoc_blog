@@ -9,7 +9,6 @@ tags:
 <h1>Local Harbor Freight</h1>
 
 <pre>
-
 STORE HOURS:
 M-F 8:00AM-7:00PM
 SAT 8:00AM-7:00PM
@@ -20,6 +19,51 @@ PUEBLO, CO #00068
 PUEBLO,CO 81005
 719-561-8098
 </pre>
+
+<h3>
+  <a href="https://www.harborfreight.com/12-in-double-bevel-sliding-compound-miter-saw-with-laser-guide-system-61969.html" target="_blank">$180 at harborfreight.com</a>
+  12 in. Double-Bevel Sliding Compound Miter Saw With Laser Guide System - Chicago Electric Power Tools- item# 61969
+</h3>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=XUh39LC0u7M" target="_blank">Wolvesr4ever38 youtube</a>
+  Harbor Freight (Chicago Electric) 12 inch miter saw tool review:
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=1WlMWFv2pqg" target="_blank">ghostses youtube</a>
+  Harbor Freight 12” Double-Bevel Sliding Compound Miter Saw Review Item 61970
+</h4>
+
+<h4>
+  <a href="" target="_blank">Matt Heere youtube</a>
+  Harbor Freight 12 Inch Sliding Miter Saw
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=NDQiOtErGI4" target="_blank">DoingItCheap youtube</a>
+  PawPaw's Review of the Harbor Freight 12" Compound Miter Saw #61969
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=W-0tVZEyB6Y" target="_blank">SharpshooterJD youtube</a>
+  Harbor Freight 12" Double-Bevel Sliding Compound Miter Saw In Depth Review
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=SLsv3O0Hp0s" target="_blank">Mark Thomas youtube</a>
+  Harbor Freight Sliding Miter Saw Fix Item# 61969 and 61970
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=NDQiOtErGI4" target="_blank">DoingItCheap youtube</a>
+  PawPaw's Review of the Harbor Freight 12" Compound Miter Saw #61969
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=OVQ6qSYM7J8" target="_blank">TheToolAddict youtube</a>
+  Harbor Freight (Chicago Electric) 12" Double-Bevel Sliding Miter Saw Review
+</h4>
 
 <h3>
   120 Volt Electric Body Saw - Chicago Electric Power Tools- item# 65766

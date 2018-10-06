@@ -9,7 +9,29 @@ tags:
   - diy_shims
 ---
 
-# DW364
+<h1>Skilsaw Wormdrive</h1>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=pWR5X5ZffTs" target="_blank">Essential Craftsman youtube</a>
+  Circular Saw Basics
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=jDfpl1_I904" target="_blank">Essential Craftsman youtube</a>
+  Skil Saw Pro Tips
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=8se5MeySZs8" target="_blank">Sparky Channel youtube</a>
+  How To Change the Oil For Your SKILSAW Worm Drive Saw
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=2fTd9VM28jc" target="_blank">Glen Martin youtube</a>
+  Maintaing your skilsaw
+</h3>
+
+<h1>DW364</h1>
 
 
 <a href="/assets/pdf/dewalt-dw364-instruction-manual.pdf" target="_blank">Dewalt DW364 manual</a>
@@ -282,15 +304,20 @@ themrhelperguy - How to make wood shims
 DIY Creators - How To Build A Track Saw | Limited Tools Episode 001
 
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
-

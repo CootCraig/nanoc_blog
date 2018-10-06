@@ -60,6 +60,10 @@ date, mileage, cost, category, Service Parts Notes, Other Notes
 
 <h1>Odyssey</h1>
 
+<h4>Oil change tools</h4>
+
+<img src="/assets/images/odyssey-oil-change-tools-20180915.jpg" width="700px">
+
 <pre>
 4.6 qt. oil - Mobil 1 5w20
 oil filter K&N HP-1004 w/ 1 inch nut or Wix 57356XP
@@ -138,6 +142,7 @@ tire rotation - Craig 4500 mi
 2017-12-19, 199365 mi, $0, tire rotation, discount tire pueblo, other notes
 2018-06-26, 203827 mi, $0, tire rotation, discount tire pueblo, other notes
 2018-06-26, 203849 mi, cost, oil and filter change, 6qt mobil 1 5w-20 oil (10qt for $61.90) - k&n hp-2006 oil filter, other notes
+2018-09-27, 207699 mi, cost, oil and filter change, 6qt mobil 1 5w-20 oil (10qt for $61.90) - Wix 51042xp, other notes
 </pre>
 
 

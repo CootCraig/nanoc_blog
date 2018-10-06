@@ -16,6 +16,16 @@ tags:
   <a href="https://www.youtube.com/watch?v=0y3isER3ovI" target="_blank">CarsThatLast youtube</a>
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=HnSHvkAhZ2I" target="_blank">CarsThatLast youtube</a>
+  Top 5 Trucks That Last 400,000 Miles
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=ayMkIzZEjCM" target="_blank">CarsThatLast youtube</a>
+  Should I Buy a Car with High Miles?
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

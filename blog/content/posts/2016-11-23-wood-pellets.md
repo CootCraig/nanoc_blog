@@ -9,9 +9,9 @@ tags:
 ---
 
 <pre>
-
 The Woodshed Stove Shop  (47.2 miles)
-Canon City CO
+1215 South 9th Street
+Canon City, CO. 81212
 (719) 275-9007
 
 Thu Aug 30 11:01:28 MDT 2018

@@ -12,6 +12,12 @@ tags:
   <a href="https://www.harborfreight.com/zr8-obd2-code-reader-with-live-data-63809.html" target="_blank">harborfreight.com/zr8-obd2</a>
 </h4>
 
+wget -O harborfreight-obd2-codereader-zr13 https://manuals.harborfreight.com/manuals/63000-63999/63806.pdf
+
+<h4>
+  <a href="/assets/pdf/harborfreight-obd2-codereader-zr13.pdf" target="_blank">Zurich ZR13 Owner's Manual</a>
+</h4>
+
 <pre>
 $79.99
 Zurich ODB2 Code Reader
@@ -19,6 +25,11 @@ with live data
 ZR8
 item 
 </pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=TSraHe9T4-U" target="_blank">Revit Auto youtube</a>
+  harborfreight-obd2-codereader-zr13
+</h3>
 
 <h3>
   <a href="https://www.carmd.com/wp/locating-the-obd2-port-or-dlc-locator/" target="_blank">carmd.com/wp/locating-the-obd2-port</a>

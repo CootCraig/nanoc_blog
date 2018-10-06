@@ -8,6 +8,10 @@ tags:
 ---
 
 <h1>
+  <a href="https://www.e-sword.net/links.html" target="_blank">E-SWORD by Rick Meyers</a>
+</h1>
+
+<h1>
   <a href="http://www.crosswire.org/sword/index.jsp" target="_blank">The SWORD Project</a>
 </h1>
 
@@ -20,12 +24,13 @@ and translators of the Bible, and have a growing collection of over 200
 texts in over 50 languages.
 
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>

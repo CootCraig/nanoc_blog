@@ -98,3 +98,49 @@ Autostart Delay: 0
  ...
 ~~~~~~~~~~~~~~
 
+<h1>Snapshots</h1>
+
+<pre>
+Fri Sep 28 22:10:44 MDT 2018
+https://download.virtualbox.org/virtualbox/5.2.18/virtualbox-5.2_5.2.18-124319~Debian~jessie_amd64.deb
+</pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=Qte4X-rdr2Q" target="_blank">Corey Schafer youtube</a>
+  VirtualBox: How to Use Snapshots
+</h3>
+
+<h3>
+<a href="" target="_blank"></a>
+</h3>
+
+<h3>
+<a href="" target="_blank"></a>
+</h3>
+
+<h3>
+<a href="" target="_blank"></a>
+</h3>
+
+<h3>
+<a href="" target="_blank"></a>
+</h3>
+
+<!--
+html boilerplate fragments
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

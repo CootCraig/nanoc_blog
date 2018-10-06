@@ -19,6 +19,11 @@ and encourage respect for the craftsmen,  their tools,  and history. The
 channel is produced by Scott's son Nate who has no idea what he is doing.
 
 <h3>
+  <a href="https://www.youtube.com/watch?v=mbMEG7OVfpg" target="_blank">Essential Craftsman youtube</a>
+  5 Knots Everyone Should Know
+</h3>
+
+<h3>
   <a href="https://www.youtube.com/watch?v=3_f_6QsWutY" target="_blank">Essential Craftsman youtube</a>
   Why I Love Tools
 </h3>

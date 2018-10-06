@@ -9,64 +9,190 @@ tags:
   - ebook_readers
 ---
 
-<h1>Premium Kobo aura one - Kindle Oasis</h1>
+Model B0C9 2nd Generation
+Kindle Fire HD 8.9" e reader in Purple Case
+
+kindle fire hd 8.9" 2nd generation
+
+<h3>
+  <a href="http://www.pueblolibrary.org/digitalmedia" target="_blank">pueblolibrary.org/digitalmedia</a>
+</h3>
+
+<h4>
+  <a href="https://www.amazon.com/hz/mycd/myx#/home/content/booksAll/dateDsc/" target="_blank">Amazon kindle books</a>
+</h4>
+
+<h3>
+<a href="https://teleread.org/" target="_blank">teleread.org/</a>
+</h3>
+
+<pre>
+NOOK GlowLight 3
+InkBook Prime
+Kobo Aura H2O 1st Edition
+Kobo Aura
+Kobo clara HD
+Sony PRS-T2
+Onyx Boox C67
+Fire HDX 8.9 4th Generation (2014)
+</pre>
+
+<pre>
+Goodwill auction
+https://www.shopgoodwill.com/Item/57307502
+Device Model: Kindle Fire HD (3rd Generation)
+Serial Number: 00D2 ...
+
+https://www.ebay.com/itm/Amazon-Kindle-Fire-HDX-3rd-Gen-16GB-Wi-Fi-7in-EXCELLENT-CONDITION/222925528387
+</pre>
+
+<pre>
+amazon kindle fire hd 3rd gen ereader tablet for $30
+amazon kindle fire hdx (3rd gen) 16gb, wi-fi, 7in for $43
+</pre>
+
+<h3>NextBook tablet</h3>
+
+<pre>
+Android – 5.0 Lollipop
+
+Installed - Kobo Books
+
+Installed - The Olive Tree - Ftp Server Pro for $0.99
+ftp://192.168.88.59:2221
+username: francis
+password: francis
+home: /storage/emulated/0
+</pre>
+
+<h2>Fire Tablet</h2>
+
+<h3>
+  <a href="https://www.amazon.com/gp/help/customer/display.html/?nodeId=201263780" target="_blank">amazon.com/gp/help</a>
+  Which Fire Tablet do I have?
+</h3>
+
+<pre>
+Kindle Fire HDX 7" (3rd Generation)
+Distinguishing Features
+
+Amazon logo on the back
+Power and volume buttons on the back
+Front-facing High Definition camera
+On-device Customer Support via "Mayday" button
+7" HDX color touchscreen display
+Released September 2013
+Model number: C9R6QM
+16 / 32 / 64 GB
+4G or Wi-Fi 
+</pre>
+
+<h3>
+  <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201303400" target="_blank">amazon.com/gp/help</a>
+  Get help with Kindle Fire HDX (3rd Generation)
+</h3>
+
+<h3>
+  <a href="https://www.oberondesign.com/pages/identify-your-kindle-model" target="_blank">oberondesign.com/pages/</a>
+  Identify your Kindle Model 
+</h3>
+
+<pre>
+Serial Numbers:
+Kindle Fire HDX 7: D0FB, 00FB, 00FC, 0072, 00FD, 00FE, 0073, 006C, 006D, 006E
+</pre>
+
+<h3>
+  <a href="https://www.theverge.com/2017/5/16/15645878/amazon-fire-hd-8-vs-hdx-7-screen" target="_blank">theverge.com/2017/5/16</a>
+  How is Amazon’s 2013 tablet still the best one it ever released?
+</h3>
+
+<h3>
+  <a href="https://www.mobileread.com/forums/forumdisplay.php?f=166" target="_blank">mobileread.com/forums/</a>
+</h3>
+
+<h1>premium kobo aura one - kindle oasis</h1>
 
 <ul>
   <li>
-    <a href="https://us.kobobooks.com/products/kobo-aura-one" target="_blank">Kobo Aura ONE - $230</a>
+    <a href="https://us.kobobooks.com/products/kobo-aura-one" target="_blank">kobo aura one - $230</a>
   </li>
   <li>
-    <a href="https://www.amazon.com/gp/product/B06XD5YCKX" target="_blank">Kindle Oasis E-reader - $250.00</a>
+    <a href="https://www.amazon.com/gp/product/b06xd5yckx" target="_blank">kindle oasis e-reader - $250.00</a>
   </li>
 </ul>
 
 <h1>
   <a href="https://us.kobobooks.com/products/kobo-aura-one" target="_blank">us.kobobooks.com/products/</a>
-  Kobo aura one
+  kobo aura one
 </h1>
 
 <h3>
-  <a href="https://goodereader.com/blog/electronic-readers/kobo-aura-one%E2%80%8A-%E2%80%8Aa-near-perfect-ereader" target="_blank">goodereader.com/blog/electronic-readers</a>
-  Kobo Aura One - A Near Perfect eReader - October 18, 2017 By Albert Silver
+  <a href="https://goodereader.com/blog/electronic-readers/kobo-aura-one%e2%80%8a-%e2%80%8aa-near-perfect-ereader" target="_blank">goodereader.com/blog/electronic-readers</a>
+  kobo aura one - a near perfect ereader - october 18, 2017 by albert silver
 </h3>
 
-The first, sorry to say, is that question of the ecosystem. I am perfectly
-willing to buy an ebook from the Kobo store so long as I am not paying
-extra for the privilege. There is talk about pricematching, but Kobo
-themselves state that it is not universal and subject to approval (Amazon
-is no different), so when in doubt, I just buy it from Amazon. This
+the first, sorry to say, is that question of the ecosystem. i am perfectly
+willing to buy an ebook from the kobo store so long as i am not paying
+extra for the privilege. there is talk about pricematching, but kobo
+themselves state that it is not universal and subject to approval (amazon
+is no different), so when in doubt, i just buy it from amazon. this
 brings up the issue of accessing my not insignificant number of ebooks
-purchased through Amazon, and that one might worry are locked into
-their ecosystem. Luckily this is not true. Downloading and converting
-my Kindle ebooks to read on the Kobo is very easy once you know how, and
-requires using Cailbre, an ereader software swiss-army knife, and a few
-plugins that remove the DRM and do the conversion. The entire process
+purchased through amazon, and that one might worry are locked into
+their ecosystem. luckily this is not true. downloading and converting
+my kindle ebooks to read on the kobo is very easy once you know how, and
+requires using cailbre, an ereader software swiss-army knife, and a few
+plugins that remove the drm and do the conversion. the entire process
 can take a couple of minutes, from download to copying to the device,
 but is fairly painless.
 
-It needs to be pointed out also, that if you plan to sideload ebooks
+it needs to be pointed out also, that if you plan to sideload ebooks
 (meaning add ebooks via cable from your computer) knowing how to convert
-to the Kepub format is useful as it is the only format that supports
+to the kepub format is useful as it is the only format that supports
 the page counts in chapters.
 
 <h3>
   <a href="https://www.pcworld.com/article/3245384/consumer-electronics/rakuten-kobo-aura-one-limited-edition-review.html" target="_blank">pcworld.com/article/3245384</a>
-  Rakuten Kobo Aura One Limited Edition Review: Keeping up with the Kindles isn't easy
-  What was once a potential Kindle-killer is now playing catch-up.
-  By Séamus Bellamy PCWorld | Jan 2, 2018
+  rakuten kobo aura one limited edition review: keeping up with the kindles isn't easy
+  what was once a potential kindle-killer is now playing catch-up.
+  by séamus bellamy pcworld | jan 2, 2018
 </h3>
 
-When the Kobo Aura One was released in 2016, with its large, bright
-display and exclusives like Pocket and OverDrive integration, it had
-the potential to be a Kindle-killer. It was a flagship device that
-cost less and arguably did more than Amazon’s Kindle Oasis. In 2017,
-however, the Kindle Oasis has caught up, and the Limited Edition has
-little new to offer. Unless you’re tied into Kobo’s ebook ecosystem,
-or resisting the inexorable pull of Amazon, the excellent 2017 Kindle
-Oasis is likely your better bet for a premium reading experience.
+when the kobo aura one was released in 2016, with its large, bright
+display and exclusives like pocket and overdrive integration, it had
+the potential to be a kindle-killer. it was a flagship device that
+cost less and arguably did more than amazon’s kindle oasis. in 2017,
+however, the kindle oasis has caught up, and the limited edition has
+little new to offer. unless you’re tied into kobo’s ebook ecosystem,
+or resisting the inexorable pull of amazon, the excellent 2017 kindle
+oasis is likely your better bet for a premium reading experience.
+
+<h1>Kobo Android App</h1>
+
+<h3>
+  <a href="https://www.kobo.com/help/en-US/article/1654/importing-content-from-an-sd-card-to-the-kobo-app-for-android" target="_blank">kobo.com/help/en-US</a>
+  Importing items from an SD card to the Kobo eBooks app for Android
+</h3>
+
+<pre>
+Sun Sep  9 13:14:47 MDT 2018
+Version 8.5.1.24241
+
+Ftp Server Pro
+</pre>
+
+<pre>
+Sun Sep  9 13:29:41 MDT 2018
+Post to
+ 	MobileRead Forums > E-Book Readers > Kobo Reader
+Title: 
+
+ftp://ipaddress:port/storage/sdcard0/Android/data/com.kobobooks.android/files/e08a238f2e14e78f67c629f25b32a5e6/epubs/
+/storage/sdcard0/Android/data/com.kobobooks.android/files/e08a238f2e14e78f67c629f25b32a5e6/epubs/
+</pre>
 
 <h1>
-  <a href="http://calibre-ebook.com/" target="_blank">Calibre Ebook Mgr</a>
+  <a href="http://calibre-ebook.com/" target="_blank">calibre ebook mgr</a>
 </h1>
 
 <h4>
@@ -216,6 +342,23 @@ Publisher : Open Road Media
 Author : Trollope, Anthony 
 Category : Fiction > Classics
 </pre>
+
+<h4>
+  <a href="https://www.mobileread.com/forums/showpost.php?p=3734653&postcount=4" target="_blank">mobileread.com/forums/</a>
+  post by ZodWallop
+</h4>
+
+Originally Posted by HarryT
+
+Just to note that Kindles aren’t “vendor locked”. Only around
+half my ebook library was bought from Amazon; I buy books at all sorts
+of different bookstores (mainly in ePub format) and convert to Kindle
+format with Calibre. Every book on my Kindle is sideloaded.
+
+Yeah, avoiding 'vendor lock' seems to be so important before you actually
+buy a reader. But once you're familiar with Calibre and Alf, you realize
+that no reader needs to be locked to any vendor. At that point, it's
+just which hardware/software combo most appeals to you.
 
 <!--
 html boilerplate fragments

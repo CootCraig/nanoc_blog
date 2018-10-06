@@ -23,6 +23,8 @@ tags:
   The Valley of Vision - Ligon Duncan
 </h4>
 
+<h4>ePub is available</h4>
+
 <h4>
   <a href="https://www.youtube.com/watch?v=MkYQkBsMHOI" target="_blank">Banner of Truth youtube</a>
   Why Should You Read John Calvin's Sermons?

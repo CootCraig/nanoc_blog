@@ -271,6 +271,49 @@ This cap is on my 2002 Silverado 1500.
   <a href="http://www.leer.com/122" target="_blank">Leer 122 cap product page</a>
 </h4>
 
+<h1>Selling 2002 Silverado</h1>
+
+<h2>Replace stereo</h2>
+
+<h3>How to replace stereo</h3>
+
+<pre>
+Tue Oct  2 21:29:15 MDT 2018
+https://www.silveradosierra.com/mobile-electronics/
+subject: DIY stereo replacement. 2002 Silverado 1500?
+
+I want to replace the stereo in my 2002 Silverado 1500.  The current stereo in a non factory basic single DIN unit that has some damage and I'd like to replace with a similar new unit.  A local auto sound place wants $100 for labor on the replacement, so I'm hoping I can do it myself.  I haven't found remove/replace instructions on this forum or on youtube.
+
+Can someone point to good DIY information?
+</pre>
+
+<h4>
+  <a href="https://www.amazon.com/Kenwood-KDC-168U-Dash-Stereo-Receiver/dp/B01M5KTTVA" target="_blank">$57.33 at Amazon</a>
+  Kenwood KDC-168U In-Dash 1-DIN CD Car Stereo Receiver with Front USB Input 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/Pioneer-DEH-150MP-Single-DIN-Auxiliary-Detachable/dp/B0091V0A9U" target="_blank">$63 at Amazon</a>
+  Pioneer DEH-150MP In-Dash Single-DIN CD/CD-R/CD-RW, MP3/WAV/WMA Car Stereo Receiver w/ 3.5mm Auxiliary Input, Remote Control & Detachable face plate 
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/KDC-158U-Kenwood-Dash-Receiver-Interface/dp/B00HNX8KNQ" target="_blank">$70 at Amazon</a>
+  KDC-158U - Kenwood Single DIN In-Dash CD/MP3 Stereo Receiver with USB Interface 
+</h4>
+
+<h4>
+  <a href="https://www.crutchfield.com/p_130DS1100U/Pioneer-DEH-S1100UB.html" target="_blank">$70 at Crutchfield</a>
+  Pioneer DEH-S1100UB
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=3r5Lnhc3pLc" target="_blank">Do It Yourself Bri youtube</a>
+  How To Install A Stereo In A Chevy Silverado. Head Unit
+</h4>
+
+https://www.crutchfield.com/Car/outfitmycar/mycar.aspx
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

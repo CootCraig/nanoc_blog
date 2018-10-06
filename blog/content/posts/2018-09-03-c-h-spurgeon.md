@@ -47,12 +47,12 @@ the 63-volume “Works of Charles Spurgeon,” for free.
 </h4>
 
 <h4>
-  <a href="/assets/html/spurgeon-sermons/1855-01-07-sermon-2-the-remembrance-of-christ.html" target="_blank">1855-01-07-sermon-2</a>
+  <a href="/assets/html/spurgeon-sermons/1855-01-07-sermon-2-the-remembrance-of-christ/index.html" target="_blank">1855-01-07-sermon-2</a>
   The Remembrance of Christ
 </h4>
 
 <h4>
-  <a href="/assets/html/spurgeon-sermons/1855-01-14-sermon-3-the-sin-of-unbelief.html" target="_blank">1855-01-14-sermon-3</a>
+  <a href="/assets/html/spurgeon-sermons/1855-01-14-sermon-3-the-sin-of-unbelief/index.html" target="_blank">1855-01-14-sermon-3</a>
   The Sin of Unbelief
 </h4>
 

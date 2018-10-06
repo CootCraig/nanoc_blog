@@ -24,6 +24,9 @@ $("#output").text(id);
 1 => 374kr - ReefMaster Pro Windows 7 Pro
 2 => grj2q
 3 => jrok7
+4 => 8qxer - windows7-8qxer - 20180927
+5 => 1q8o7 - arch-vm-1q8o7 - 20180927
+6 => 57ejq - windows7-recover-57ejq - 20180930
 ~~~~~~~~~~~~~~
 
 

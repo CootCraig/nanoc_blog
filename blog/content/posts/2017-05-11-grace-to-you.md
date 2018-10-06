@@ -51,19 +51,31 @@ than four decades of ministry, are available for free on this website.
 
 <h1>GTY bible reading Plan</h2>
 
+<h1>
+  <a href="https://www.gty.org/library/resources/sermons-library/scripture/1?book=1&chapter=0" target="_blank">gty.org/library/resources/sermons</a>
+  Sermon Archive
+</h1>
+
 <h2>Macarthur Daily Bible</h2>
 
+<h3>
+  <a href="https://www.youtube.com/watch?time_continue=4&v=N2H-NNUS3RQ" target="_blank">Grace to You youtube</a>
+  Social Justice and the Gospel, Part 3 - Published on Sep 19, 2018
+</h3>
 
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>

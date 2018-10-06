@@ -568,17 +568,7 @@ Disk identifier: 1949B270-86FC-4340-A94F-230556CF35D7
 Device     Start      End  Sectors  Size Type
 /dev/sdd1   2048 30277598 30275551 14.4G Linux filesystem
 
-w
-
 mkfs.ext2 -L photo01 /dev/sdd1
-
-
-
-
-
-
-
-
 
 gparted
   close when done
@@ -587,7 +577,6 @@ blkid /dev/sdd1
 /dev/sdd1: LABEL="photo01" UUID="072a7689-e02c-4b3e-a788-0629f5c55527" TYPE="ext2" PARTUUID="fb297370-b451-42a7-b529-6a5f13701bd3"
 
 mke2fs -L photo01 -t ext2 /dev/sdd1
-
 </pre>
 
 <!--

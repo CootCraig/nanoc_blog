@@ -6,7 +6,19 @@ tags:
   - wristwatch
   - clock
   - alarm_clock
+  - timex_indiglo
+  - donna_watch
 ---
+
+<h2>
+  <a href="https://www.timex.com/easy-reader-25mm-bracelet-watch/T2H3519J.html" target="_blank">timex.com/easy-reader</a>
+  Timex T2H3519J Women's Easy Reader for Donna
+</h2>
+
+<h4>
+  <a href="https://www.ebay.com/p/Timex-Easy-Reader-T2H3519J-Wrist-Watch-for-Women/70451575" target="_blank">ebay.com/p/Timex-Easy-Reader</a>
+  Timex T2H3519J Women's Easy Reader
+</h4>
 
 # Seiko Men's SNK803 Seiko 5 Automatic Watch with Beige Canvas Strap
 
@@ -67,3 +79,21 @@ Timex Men's Easy Reader Watch T200119J
 brown leather strap, white face, gold case, weekday-date, 18mm band
 $23
 
+<!--
+html boilerplate fragments
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+-->

@@ -221,7 +221,7 @@ Flue Flange Gasket , Wing 812-1300
 36:45 - fire-pot wear - check for holes
 37:26 - clean the firepot
 38:29 - no cleaning of the igniter is necessary
-38:49 - small convection blower checked and cleaned every 6 months
+38:40 - small convection blower checked and cleaned every 6 months
 39:05 - large convection blower cleaned once a year
 39:20 - clean the exhaust stack
 39:50 - parts replacement
