@@ -16,6 +16,9 @@ tags:
 
 use editpad.org for copy and paste.
 
+<a href="https://debian-handbook.info/browse/stable/" target="_blank">Stable/Debian 8 Debian Administrator's Handbook</a>
+should be a good reference.
+
 <h4>
   <a href="http://mirrors.advancedhosters.com/archlinux/iso/2018.09.01/archlinux-2018.09.01-x86_64.iso" target="_blank">Live Iso Image 2018.09.01</a>
 </h4>

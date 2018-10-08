@@ -14,6 +14,15 @@ tags:
 
 <h1>Pellet Burn Journal</h1>
 
+<h4>Sept. 2018 purchased 60 bags of pellets $349</h4>
+
+Black Hills Gold by Spearfish Pellet Company purhcased from The Woodshed Stove Shop
+
+<pre>
+2018-10-06 0 bags loaded - 60 bags left (first day burning pellets)
+2018-10-07 1 bags loaded - 59 bags left
+</pre>
+
 
 <h4>2018-03-12 Mon Mar 12 2018 - purchased 20 bags TerrAmigo wood pellets</h4>
 
@@ -21,6 +30,7 @@ tags:
 20 ea. 5.59 total 111.80
 tax 8.50
 </pre>
+
 <pre>
 2018-03-14 1 bags loaded
 2018-03-15 1 bags loaded

@@ -8,6 +8,17 @@ tags:
   - cleaning
 ---
 
+<h4>
+  <a href="https://shop.drbronner.com/pure-castile-liquid-soap#scent=Baby%20Unscented" target="_blank">drbronner.com/pure-castile-liquid</a>
+  Pure-Castile Liquid Soap Baby Unscented
+</h4>
+
+<pre>
+8 oz $6.70 - 6.7/8.0 => 0.84/oz
+32 oz $18 - 18.0/32.0 => 0.56/oz
+1 gallon $64 - 64.0/128.0 => 0.50/oz
+</pre>
+
 <h1>
   <a href="http://www.lisabronner.com/" target="_blank">www.lisabronner.com/</a>
 </h1>

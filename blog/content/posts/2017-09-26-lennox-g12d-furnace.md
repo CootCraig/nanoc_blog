@@ -27,15 +27,38 @@ The pilot is located behind and under the middle of the burners.
 
 <h2>18x24x1 or 18x25x1 filter</h2>
 
+<h4>
+  <a href="https://www.amazon.com/Filtrete-Healthy-Living-Allergen-Reduction/dp/B00TUDHVIW" target="_blank">$31.76 for 2 at Amazon</a>
+  Filtrete MPR 1500 18 x 24 x 1 Healthy Living Ultra Allergen Reduction HVAC Air Filter, 2-Pack 
+</h4>
+
+<pre>
+Sat Oct  6 16:31:52 MDT 2018
+
+Ultra Allergen 1500
+310 microns - 90%
+MERV 12
+pressure drop .15
+</pre>
+
 <h3>
   <a href="https://www.filtrete.com/3M/en_US/filtrete/products/~/Filtrete-Healthy-Living-Air-Filter?N=4315+3292675507+3294529207&rt=rud" target="_blank">filtrete.com/3M/</a>
   Filtrete ultra allergen Healthy Living Air Filter 1500
 </h3>
 
 <pre>
+Filtrete 1500 2021DC-9
 18x24x1 	
 2021 	
 2021-6
+MPR 1500
+17 3/4 x 23 3/4 actual dimensions
+</pre>
+
+Nordic pure 12x24x1 MERV 12
+
+<pre>
+Actual Size of Filter: 17 3/8 x 23 3/8 x ¾ 
 </pre>
 
 <h4>
@@ -63,6 +86,7 @@ Sales Tax $2.25
 Total $59.95
 </pre>
 
+https://filterbuy.com/merv-mpr-fpr-ratings/
 
 <!--
 html boilerplate
