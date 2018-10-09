@@ -28,6 +28,11 @@ We focus on the Bible's overarching themes and each book’s literary
 design and are committed to understanding the Bible in its historical
 context.
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=vFwNZNyDu9k" target="_blank">The Bible Project youtube</a>
+  What is the Bible Project?
+</h3>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

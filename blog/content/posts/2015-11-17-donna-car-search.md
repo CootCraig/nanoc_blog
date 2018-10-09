@@ -45,7 +45,7 @@ hondaautomotiveparts <a href="http://www.hondaautomotiveparts.com/auto/jsp/mws/v
 
 Recommended Maintenance Schedule <a href="http://owners.honda.com/service-maintenance/minder?year=2004&model=Odyssey#mid^RL1854PKW" target="_blank">online schedule</a>
 
-Recommended Maintenance Schedule <a href="/assets/other/honda-odyssey-2004-schedule" target="_blank">local txt</a>
+Recommended Maintenance Schedule <a href="/assets/html/honda-odyssey-2004-schedule" target="_blank">local copy</a>
 
 ### Keys
 

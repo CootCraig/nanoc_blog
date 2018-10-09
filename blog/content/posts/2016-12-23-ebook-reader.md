@@ -360,6 +360,13 @@ buy a reader. But once you're familiar with Calibre and Alf, you realize
 that no reader needs to be locked to any vendor. At that point, it's
 just which hardware/software combo most appeals to you.
 
+<h1>Linux</h1>
+
+<pre>
+FBreader
+bookworm
+</pre>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>
