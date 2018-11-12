@@ -31,6 +31,13 @@ and private git repos would just have
 <h4>Make a bare repo</h4>
 
 <pre>
+cd /media/craig/git1/data/git/
+git init --bare writer2epub.git
+cd /to/a/git-working-dir
+git remote add git1 /media/craig/git1/data/git/writer2epub.git
+</pre>
+
+<pre>
 git clone --bare some-git-source/ some-git-source.git
 </pre>
 

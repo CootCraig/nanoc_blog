@@ -6,6 +6,13 @@ tags:
   - python
 ---
 
+<h3>
+  <a href="https://automatetheboringstuff.com/" target="_blank">automatetheboringstuff.com</a>
+  Automate the Boring Stuff with Python by Al Sweigart
+</h3>
+
+Practical programming for total beginners. Written by Al Sweigart.
+
 # pyenv pyenv-virtualenv
 
 <a href="https://spin.atomicobject.com/2015/01/02/python-environment-mgmt/" target="_blank">spin.atomicobject.com article</a>
@@ -56,6 +63,16 @@ PyData - James Powell - Generators Will Free Your Mind
 
 <a href="https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/" target="_blank">realpython.com/blog</a>
 VIM and Python - a Match Made in Heaven 
+
+<h3>
+  <a href="https://opensource.com/article/18/9/python-programming-book-list" target="_blank">opensource.com/article</a>
+  18 Python programming books for beginners and veterans
+</h3>
+
+<h3>
+  <a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-dp-1491946008/dp/1491946008" target="_blank">Amazon</a>
+  Fluent Python: Clear, Concise, and Effective Programming
+</h3>
 
 <!--
 html boilerplate

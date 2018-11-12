@@ -314,6 +314,16 @@ Can someone point to good DIY information?
 
 https://www.crutchfield.com/Car/outfitmycar/mycar.aspx
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=_lBlPWNoc-s" target="_blank">Crutchfield youtube</a>
+  Posi-Product Wire Connectors
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=A_U2qF9yKTg" target="_blank">Johnny Sanders youtube</a>
+  Car stereo wiring with posi-twist connectors
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

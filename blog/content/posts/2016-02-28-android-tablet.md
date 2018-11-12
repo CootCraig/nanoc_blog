@@ -7,6 +7,37 @@ tags:
   - android_tablet
 ---
 
+<h2>
+  <a href="https://www.lenovo.com/us/en/tablets/android-tablets/tab-4-series/Lenovo-TB-8504/p/ZZITZTATB08" target="_blank">lenovo.com/us/en/tablets</a>
+  Lenovo tab 4 8
+</h2>
+
+<h4>
+  <a href="https://www.amazon.com/Lenovo-Android-Quad-Core-Processor-ZA2B0009US/dp/B07193VPNF" target="_blank">$110 at amazon</a>
+  Lenovo Tab 4, 8" Android Tablet, Quad-Core Processor, 1.4GHz, 16GB Storage, Slate Black, ZA2B0009US 
+</h4>
+
+Lenovo Tab 4 10.1 is $150
+
+<h4>
+  <a href="https://www.amazon.com/dp/B07HMBWH4J/ref=twister_B07DTYJQK7?_encoding=UTF8&th=1" target="_blank">$175 at amazon</a>
+  Lenovo Tab 4, 10.1" with case
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/1byone-Wireless-Bluetooth-Multi-touch-Smartphones/dp/B00VRC6D3S" target="_blank">$31 at amazon</a>
+  1byone Wireless Bluetooth Keyboard with Built-in Multi-touch Touchpad, Touch Keyboard for Windows/Android Tablet/Galaxy Tabs/Smartphones, Black 
+</h4>
+
+AAA batteries
+
+<h4>
+  <a href="https://www.amazon.com/Logitech-Wireless-Keyboard-Control-Touchpad/dp/B014EUQOGK" target="_blank">$26 at amazon</a>
+  Logitech K400 Plus Wireless Touch TV Keyboard with Easy Media Control and Built-in Touchpad 
+</h4>
+
+AAA batteries. not bluetooth
+
 ### Pecking Order
 
 <ol>
@@ -288,10 +319,21 @@ August 2011).
 
 Android Authority - Samsung Galaxy Tab PRO 10.1 Review <a href="https://www.youtube.com/watch?v=DQRE_kVAzJg" target="_blank">youtube</a>
 
-
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
 -->
-

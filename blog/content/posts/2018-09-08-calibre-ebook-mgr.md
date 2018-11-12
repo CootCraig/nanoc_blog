@@ -147,6 +147,19 @@ Craig’s Kindle for PC
 You have selected content that is not compatible with any of your registered devices. Please remove incompatible content from selection for eligible devices to appear.
 </pre>
 
+<h4>Script to clean bible text copied out of calibre</h4>
+
+<pre>
+~/bin/textify
+
+#!/bin/bash
+sed 's/\[.*\]//g' | \
+sed 's/[0-9]//g' | \
+tr -s '\302\240' '^' | \
+sed 's/\^[A-Za-z][A-Za-z]*^//g' | \
+tr -d '^'
+</pre>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

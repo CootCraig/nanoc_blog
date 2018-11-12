@@ -233,6 +233,57 @@ Good information here. Recommends quality of more expensive 68843
   Neiko 30702A Pistol Type Air Rivet Gun 
 </h4>
 
+<h2>Blow gun</h2>
+
+<h4>
+  <a href="https://www.miltonindustries.com/blow-guns/safety-tip-blo-gun-kit.html" target="_blank">miltonindustries.com/blow-guns</a>
+  S-174KIT Pistol Grip Blow Gun Kit
+</h4>
+
+S-174KIT Pistol Grip Blow Gun Kit - Safety Tip Nozzle and KWIK-CHANGE® Universal Tip System (4-Piece) 
+
+Safety tip blow gun and universal Kwik Change system (rubber tip, venturi tip & universal adapter)
+
+<pre>
+Maximum PSI 	Max pressure 90 PSI
+Air inlet NPT size 	1/4" NPT air inlet
+</pre>
+
+<h4>
+  <a href="https://www.amazon.com/gp/product/B07FKTHNSL" target="_blank">$31 at amazon</a>
+  Safety Tip Blow Gun Kit, 1/4" NPT 
+</h4>
+
+
+<h4>
+  <a href="https://www.amazon.com/Milton-S-153-Lever-Style-Blow/dp/B0002SRL0C" target="_blank">amazon</a>
+  Milton - Safety Tip Blow Gun Kit, 1/4" NPT
+</h4>
+
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+
+Very nice tool, easy to imagine this is what they built them like in the
+1950's/60's - About as far away from cheap asian imports as you can get.
+
+It does have 1 glaring design omission though, there is no hook built
+into the body as is the norm for most blowers like this. Simply no way
+to hang it, hanging with the air lever is not an option since it points
+the wrong way. I simply but a twisted S hook on it and it hangs fine now,
+but looks a bit tacky.
+
+Not taking away any stars for that though, I knew looking at the pic
+before I bought it that this would be a problem. I was thinking I would
+just weld a hook on but the body in aluminum.
+
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+
+Milton makes the best quality blower in the industry! We ordered 2 of
+these for our shop. We replaced a milton that was 30 years old with this
+one. Pleasure to use, don't waste money on cheap imitations, this is a
+high quality piece!
+
+Don't forget to get 1/4 male fittings to use this blower.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

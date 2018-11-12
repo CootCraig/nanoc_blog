@@ -9,6 +9,33 @@ tags:
   - virtualbox_guest
 ---
 
+<pre>
+Hard Disk
+Type: Normal (VDI)
+Virtual Size: 64.00 GB
+Actual Size: 7.30 GB
+Details: Dynamically allocated differencing storage
+Location: /home/craig/VirtualBox VMs/windows7-8qxer/windows7-8qxer.vdi
+</pre>
+
+<h1>Backup</h1>
+
+<pre>
+/media/craig/vmback374kr/windows7-8qxer/windows7-8qxer-20181011-0236.vdi
+Thu Oct 11 02:36:58 MDT 2018
+dd bs=256k if='/home/craig/VirtualBox VMs/windows7-8qxer/windows7-8qxer.vdi' of=/media/craig/vmback374kr/windows7-8qxer/windows7-8qxer-20181011-0236.vdi
+
+d7393ce3abd068446b214d7124277f22de05e5cf  /home/craig/VirtualBox VMs/windows7-8qxer/windows7-8qxer.vdi
+d7393ce3abd068446b214d7124277f22de05e5cf  /media/craig/vmback374kr/windows7-8qxer/windows7-8qxer-20181011-0236.vdi
+
+Hard Disk
+Type: Normal (VDI)
+Virtual Size: 64.00 GB
+Actual Size: 7.30 GB
+Details: Dynamically allocated differencing storage
+Location: /home/craig/VirtualBox VMs/windows7-8qxer/windows7-8qxer.vdi
+</pre>
+
 <h4>Generate unique private host id hash</h4>
 
 <a href="https://codepen.io/ivanakimov/pen/bNmExm" target="_blank">Based on this codepen - ivanakimov</a>

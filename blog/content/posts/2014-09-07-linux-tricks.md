@@ -2,7 +2,8 @@
 title: "Linux Tricks"
 created_at: Sun Sep  7 13:43:52 MDT 2014
 kind: article
-tags: [ 'linux' ]
+tags:
+  - linux
 ---
 
 <h4>
@@ -300,9 +301,14 @@ apt-get install p7zip-full
 
 * [30 Best Sources For Linux Documentation](http://www.cyberciti.biz/tips/linux-unix-bsd-documentations.html)
 
-## sed
+<h2>sed</h2>
 
-### [site](http://www.grymoire.com/Unix/Sed.html) Sed Tutorial by Bruce Barnett
+<p>
+  <a href="http://www.grymoire.com/Unix/Sed.html" target="_blank">grymoire.com/Unix</a>
+  Sed Tutorial by Bruce Barnett
+</p>
+
+<h4>sed script to strip ebook scripture copy text</h4>
 
 ## awk
 
@@ -579,13 +585,28 @@ blkid /dev/sdd1
 mke2fs -L photo01 -t ext2 /dev/sdd1
 </pre>
 
+<h1>imagemagick</h1>
+
+<h4>pull page images out of an image pdf file</h4>
+
+<pre>
+convert -density 150 input.pdf -quality 90 output.jpg
+</pre>
+
+<h4>convert jpg file to pdf</h4>
+
+<pre>
+convert -density 150 output.pdf -quality 90 output.pdf
+</pre>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>

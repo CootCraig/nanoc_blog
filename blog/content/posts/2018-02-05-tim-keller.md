@@ -27,6 +27,102 @@ tags:
   <a href="/assets/audio/tim-keller/Entering_His_Rest_4th.mp3" target="_blank">/assets/audio/tim-keller/</a>
 </h4>
 
+<h2>
+  <a href="https://www.youtube.com/user/gospelinlife/videos" target="_blank">Gospel in Life youtube</a>
+  Gospel in Life videos
+</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=52ZXFH1wzc8" target="_blank">Gospel in Life youtube</a>
+  The Gospel – Timothy Keller [Sermon] Published on Aug 10, 2015
+</h3>
+
+Tim Keller sermons via Gospel in Life: The gospel is not moral conformity,
+which is religion, nor is it self-discovery, which is secularism. The
+gospel is something else altogether — a grid through which we see the
+world. There are three results of the gospel: the restructuring of our
+hearts, the removal of our sin, and the reversal of our values.
+
+Gospel is not
+
+<ul>
+  <li>moral conformity, which is religion</li>
+  <li>self-discovery, which is secularism</li>
+</ul>
+
+<h4>There are three results of the gospel:</h4>
+
+<ul>
+  <li>Isaiah 43:4-11</li>
+  <li>Isaiah 54:1-5</li>
+  <li>Isaiah 54:11-14</li>
+</ul>
+
+<ul>
+  <li>the restructuring of our hearts</li>
+  <li>the removal of our sin</li>
+  <li>the reversal of our values.</li>
+</ul>
+
+The barren woman.
+
+<h3>
+  <a href="https://www.amazon.com/Prayer-Experiencing-Awe-Intimacy-God-ebook/dp/B00INIXGIO" target="_blank">$9.99 at Kindle</a>
+  Prayer: Experiencing Awe and Intimacy with God Kindle Edition by Timothy Keller
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=ulmaUtbayGY" target="_blank">HTB Church youtube</a>
+  How to deal with dark times | Tim Keller
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=QPJRWyIMcoc" target="_blank">주나임 TV youtube</a>
+  Breaking The Yoke Of Sin - Timothy Keller
+</h3>
+
+James 1:9-15
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=VcuE9ewrwVw" target="_blank">Gospel in Life youtube</a>
+  How Sin Makes Us Addicts – Timothy Keller [Sermon]
+</h3>
+
+Jeremiah 2:1-8;23-32
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=SNCHvtBc3QY" target="_blank">KINGDOM LIFE youtube</a>
+  TIM KELLER 2017 : The Still Small Voice (POWERFUL SERMON 2017)
+</h3>
+
+1 kings 19:1-18
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=-N_178ASBg0" target="_blank">New Canaan Society youtube</a>
+  Keynote: Tim Keller - An Identity That Can Handle Either Success or Failure
+</h3>
+
+Linked to next talk.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=DQgxuDl8DXs" target="_blank">New Canaan Society youtube</a>
+  Keynote: Tim Keller - How To Change Deeply
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=LyoqvoX-b-w" target="_blank">The Gospel Coalition youtube</a>
+  Session 9 Tim Keller—“Boasting in Nothing Except the Cross” (Galatians 6)
+</h3>
+
+Galations 6
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=LTxJ6HIh0U0" target="_blank">RedeemerCFW youtube</a>
+  Tim Keller: Our Cultural Tension
+</h3>
+
+Robert Bella Habits of the Heart
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

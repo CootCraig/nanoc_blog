@@ -234,6 +234,25 @@ key aren’t quite in the format the tools expect. To try to fix this:
   <li>Download the ebook again. Do not use the files you have downloaded previously.</li>
 </ol>
 
+<h3>
+  <a href="https://www.ereader-palace.com/convert-azw4-perfect-pdf/" target="_blank">ereader-palace.com</a>
+  How to Convert AZW4 to a Perfect PDF
+</h3>
+
+And here I reveal another fact:  every single AZW4 book contains a
+complete PDF file inside, or we can say, it is actually a PDF file with
+a shell called AZW4.
+
+I guess some of you readers have tried using some software like Calibre
+to convert AZW4 to EPUB or PDF, and the output layout is totally messed
+up. That makes sense because AZW4 books are always textbooks, they contain
+lots of images, tables and complex patterns, all of these elements are
+difficult to keep the original layout when converting to another format.
+
+Can we just rip off the shell and extract the PDF inside AZW4? The answer
+is a big YES and this is why I write this post.
+
+Calibre plugin: Kindle Unpack
 
 <!--
 html boilerplate fragments

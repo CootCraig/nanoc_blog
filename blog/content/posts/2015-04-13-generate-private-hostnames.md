@@ -27,6 +27,8 @@ $("#output").text(id);
 4 => 8qxer - windows7-8qxer - 20180927
 5 => 1q8o7 - arch-vm-1q8o7 - 20180927
 6 => 57ejq - windows7-recover-57ejq - 20180930
+7 => vr2kr - arcolinux-vr2kr - 20181009
+8 => 0qw5q - arcolinuxb-mate-0qw5q - 20181019
 ~~~~~~~~~~~~~~
 
 

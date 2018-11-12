@@ -318,6 +318,43 @@ at 5m 50s - see use of orbit mushroom bubbler. One of few orbit products he like
 
 funny pipe - rainbird spx-flex
 
+<h2>
+  <a href="http://www.woodfordmfg.com/woodford/Yard_Hydrant_Pages/model-y34.html" target="_blank">woodfordmfg.com/woodford</a>
+  Freezeless IOWA Yard Hydrant model Y34 
+</h2>
+
+<h3>
+  <a href="https://www.lowes.com/pd/Woodford-36-in-L-3-4-in-FNPT-Brass-Frost-Proof-Garden-Valve/3126707" target="_blank">$117 at Lowes</a>
+  Woodford 36-in L 3/4-in FNPT Brass Frost Proof Garden Valve 
+  Model # Y34-3
+</h3>
+
+<pre>
+3-ft bury 72-1/2-in overall length of hydrant
+Immediate-flowing even in sub-zero conditions
+Adjustable linkage allows for fine adjustments of the handle
+</pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=gmnzVpl0ZbE" target="_blank">Red Poppy Ranch youtube</a>
+  The Best Way To Install A Yard Hydrant (Woodford Y34)
+</h4>
+
+<pre>
+4m 25s cutting homer bucket
+  cutout on lid for hydrant pipe. Lid can be put on with hydrant in ground.
+  cutout bottom of bucket and opening on bottom side for poly pipe.
+</pre>
+
+<pre>
+angle grinder and blade to cut bucket
+homer bucket
+gravel to fill 5 gal. bucket
+1" poly pipe
+t-post
+galvanized tie wire
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -34,6 +34,9 @@ How to Read the Bible Book by Book: A Guided Tour Paperback by Gordon D. Fee , D
 
 How to Read the Bible for All Its Worth by Gordon D. Fee, Douglas Stuart
 
+Ran into this book reading Amazon Reviews of Fee & Stuart.
+Hermeneutics: Principles and Processes of Biblical Interpretation by Henry A. Virkler
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

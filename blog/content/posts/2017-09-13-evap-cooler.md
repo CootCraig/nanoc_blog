@@ -7,13 +7,18 @@ tags:
   - swamp_cooler
 ---
 
-28"x30" pads
-
 <img src="/assets/images/evap-cooler-control.png" width="700px">
 
 <h3>
 <a href="/assets/images/evap-cooler-control-fig.fig" target="_blank">xfig source for cooler control dial</a>
 </h3>
+
+<h1>Pad size</h1>
+
+<pre>
+measured WxH 27 3/4 inch x 28 3/4 inch
+28"x30" pads
+</pre>
 
 <h4>
   <a href="http://www.ppspackaging.com/pre-season-maintenance/" target="_blank">article at ppspackaging.com</a>
@@ -77,6 +82,8 @@ Found Coolpad 7150 20' roll on ebay for $69.
 </h3>
 
 <pre>
+Dura-Cool Cooler Pad part 3078
+
 Part # 3078 	29 x 144
 Part # 3079 	33 x 160
 Part # 3080 	36 x 240
@@ -84,6 +91,18 @@ Part # 3095 	36 x 576
 </pre>
 
 search: dura-cool cooler pad roll 3078
+
+<h4>
+  <a href="https://www.lowes.com/pd/Dial-Foamed-Polyester-Evaportative-Cooler-Replacement-Pad/3093045" target="_blank">$34.98 at Lowes Pueblo</a>
+  Item # 203424 Model # 3078 - Dial Foamed Polyester Evaportative Cooler Replacement Pad 
+</h4>
+
+<pre>
+Tue Oct  9 16:07:45 MDT 2018
+2 available today at Pueblo Lowe's!  Aisle 17 , Bay 1
+
+144.0 / 28.0 => 5.1 pads from 144" roll 27" wide
+</pre>
 
 <h3>
   <a href="http://dialmfg.com/catalog/cooler-pads/aspen-pads/maxcool-aspen-pads/" target="_blank">dialmfg.com/catalog/cooler-pads/</a>
