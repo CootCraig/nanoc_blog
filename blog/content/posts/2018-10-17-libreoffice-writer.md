@@ -7,6 +7,25 @@ tags:
   - libreoffice_writer
 ---
 
+<h1>Top Documentation</h1>
+
+<h4>Designing with LibreOffice by Bruce Byfield</h4>
+
+<pre>
+/assets/pdf/DWL_fullbook.pdf
+</pre>
+
+<h4>Writer Guide: Version 6.0 odt</h4>
+
+<pre>
+/assets/other/libreoffice-writer-guide-60-odt.odt
+</pre>
+
+<h4>
+  <a href="https://www.ahuka.com/?page_id=286" target="_blank">ahuka.com</a>
+  LibreOffice Writer - Ahuka Communications
+</h4>
+
 <h4>
   <a href="/assets/pdf/DWL_fullbook.pdf" target="_blank">local copy</a>
   Designing with LibreOffice by Bruce Byfield

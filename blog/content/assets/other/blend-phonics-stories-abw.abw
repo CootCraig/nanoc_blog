@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="55" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Mon Nov 12 13:32:14 2018
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">Craig Anderson</m>
+<m key="dc.date">Mon Nov 12 13:26:34 2018
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="7" edit-time="4477" last-saved="1542054734" uid="9df5eb3c-e6af-11e8-8799-de600e757424">
+<version id="7" started="1542054394" uid="0a3f422a-e6ba-11e8-8799-de600e757424" auto="0" top-xid="26"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+<s type="P" name="Heading 1" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Liberation Sans; font-size:17pt"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="5" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr"><c>Story 1, Unit 1</c></p>
+<p style="Heading 1" xid="1" props="dom-dir:ltr"><c>Sam, a cat</c></p>
+<p style="Normal" xid="4" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="7" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">Sam sat. Sam and Nan sat. Nan can pat Sam.</c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c><pbr/></c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c>Story 2, Unit 2</c></p>
+<p style="Heading 1" xid="9" props="dom-dir:ltr"><c>The Tin Can</c></p>
+<p style="Normal" xid="12" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="13" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">Fill the tin can. Dip the lid. Mix the fig in the tin can. Win the tin can.</c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c><pbr/></c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c>Story 3, Unit 3</c></p>
+<p style="Heading 1" xid="16" props="dom-dir:ltr"><c>The Mop</c></p>
+<p style="Normal" xid="19" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="20" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">Hop on the mop, not on top. The mop cannot sob.  The mop got off the box.</c></p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr"><c><pbr/></c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c>Story 4, Unit 4</c></p>
+<p style="Heading 1" xid="22" props="dom-dir:ltr"><c>A Bug</c></p>
+<p style="Normal" xid="25" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="26" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">The Bug cut up a muff. Can a bug hum? Can a bug hug? A bug can hug a jug and a cub.</c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr"><c><pbr/></c></p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr"><c>Story 5, Unit 5</c></p>
+<p style="Heading 1" xid="28" props="dom-dir:ltr"><c>The Wet Hen</c></p>
+<p style="Normal" xid="31" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="32" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">The hen got fed in a pen. The hen fell in the cup.  The hen got wet, a wet mess.</c></p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr"><c><pbr/></c></p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr"><c>Story 6, Unit 5</c></p>
+<p style="Heading 1" xid="34" props="dom-dir:ltr"><c>The Pug</c></p>
+<p style="Normal" xid="37" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="38" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">Nat got a hip pug. The pug sat on a bag in the bog.  The pug fell in the bog—sad, wet pug.</c></p>
+<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr"><c><pbr/></c></p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr"><c>Story 7, Unit 5</c></p>
+<p style="Heading 1" xid="40" props="dom-dir:ltr"><c>The Fox</c></p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">The fox can fix the fax and the box. The fox wed a dog. The fox and the dog will sit in a den.</c></p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr"><c><pbr/></c></p>
+<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr"><c>Story 8, Unit 6</c></p>
+<p style="Heading 1" xid="44" props="dom-dir:ltr"><c>The Lamp</c></p>
+<p style="Normal" xid="47" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="48" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">Will Max mend (fix) the lamp? The lamp will sit in the silk tent. Pick up the lamp quick and lift it off the pump.</c></p>
+<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt"><pbr/></c></p>
+<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt"></c></p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr"><c>Story 9, Unit 7</c></p>
+<p style="Heading 1" xid="51" props="dom-dir:ltr"><c>Sink the Ship</c></p>
+<p style="Normal" xid="54" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="55" props="dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr"><c props="font-size:24pt">The ship can sink. Shall it sink? The ship sat on the sand shelf, it did not sink.</c></p>
+<p style="Normal" xid="53" props="text-align:left; dom-dir:ltr"><c></c></p>
+</section>
+</abiword>
