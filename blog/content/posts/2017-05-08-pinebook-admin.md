@@ -305,18 +305,31 @@ post was last modified: 07-25-2017
 - MD5 (XZ file): 11d8f75be9a1b337a27041a9ee7b55a6 
 </pre>
 
+<h3>
+  <a href="https://www.forbes.com/sites/jasonevangelho/2018/11/21/pinebook-my-first-few-surprising-hours-with-a-99-linux-laptop/" target="_blank">www.forbes.com</a>
+  Pinebook: My First Few Surprising Hours With A $99 Linux Laptop
+</h3>
+
+<h3>
+  <a href="http://wiki.pine64.org/index.php/NOOB" target="_blank">wiki.pine64.org</a>
+  NOOB
+</h3>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
--->
+:-->

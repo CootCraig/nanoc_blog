@@ -114,7 +114,7 @@ Our time together is at most 30 minutes a week. In order to best use the time I 
   Reading Made Easy With Blend Phonics for First Grade by Don Potter
 </h3>
 
-Overview video on how Don Potter teaches with Blend Phonics.
+Overview video on how Don Potter teaches with Blend Phonics. 54 min.
 
 <h2>Collected but not in use</h2>
 

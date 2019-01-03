@@ -18,6 +18,11 @@ and ends with Joseph's family, the young nation of Israel, settling in
 Egypt. How does the life of Joseph fit into such a sprawling story? John
 Lennox investigates.
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=Wfbw0JNCTSA" target="_blank">Christ Church youtube</a>
+  Daniel’s message to the church today - Professor John Lennox
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

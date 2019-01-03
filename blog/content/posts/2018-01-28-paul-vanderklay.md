@@ -5,6 +5,8 @@ kind: article
 tags:
   - paul_vanderklay
 ---
+ 	
+paulvanderklay@gmail.com 
 
 <h2>
   <a href="https://www.youtube.com/user/paulvanderklay" target="_blank">Paul VanderKlay youtube channel</a>
@@ -36,6 +38,47 @@ How to Read the Bible for All Its Worth by Gordon D. Fee, Douglas Stuart
 
 Ran into this book reading Amazon Reviews of Fee & Stuart.
 Hermeneutics: Principles and Processes of Biblical Interpretation by Henry A. Virkler
+
+<h1>Paul VanderKlay converstion topics</h1>
+
+<pre>
+to: paulvanderklay@gmail.com 
+subject: Talking points in my head.
+
+I'm not ready for a youtube conversation with you, but perhaps some talking points in an email.
+
+love your laughter Paul VanderKlay(PVK)
+
+JDP captured my attention.
+  PVK became my filter to JBP and much else
+The art of conversation.
+protestant schisms and decline
+  vision of protestants carving the church into meaningless splinters
+Orthodox church
+  JDP, PVK, Pageau point to Orthodoxy
+  Orthodox icon of the last judgement meaning and reenactment.
+    I'm a type of John the Baptist at the left hand of Jesus with the goats.
+    Service work done with love.
+      The joy of tutoring a 2nd grade boy with classical phonics.
+  Pageau, local Orthodox church, Fr. Hopko touch my heart.
+Proper useful use and interpretation of the Bible
+  marcionism
+  Conservative christian literal frozen,dead, unhelpful angry
+  protestant avoidance and reduction to helpful hints for the week
+  Allegory, symbolism, parable and patterns in the Bible
+How to deal with angels and demons.
+  Have mercy on me God, the demons are strong and assertive.
+  Name my angels and demons.
+  Call forth and enable my angels to center and better myself.
+  Ask Jesus to exorcise my demons.
+discipline of writing to center an unruly mind.
+Pray ceaselessly
+  Orthodoxy: anyone can pray and weep.
+tech giants of Babylon
+  movie "The Creepy Line": facebook and google
+  google Don't be evil. Push to the creepy line.
+  Crafted to be addictive
+</pre>
 
 <!--
 html boilerplate

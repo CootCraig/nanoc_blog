@@ -17,16 +17,26 @@ guide to the tutorials and articles
 
 # <a href="https://fstoppers.com/" target="_blank">fstoppers.com</a>
 
+<h3>
+  <a href="https://expertphotography.com/dslr-basics/" target="_blank">expertphotography.com</a>
+  Photography Basics: Understanding Your First DSLR Camera by Sarah Rodriguez-Martinez
+</h3>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
--->
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

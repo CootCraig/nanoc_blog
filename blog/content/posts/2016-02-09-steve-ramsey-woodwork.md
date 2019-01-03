@@ -61,6 +61,11 @@ dollar store silicone basting brush
   <a href="/assets/pdf/Basic-Mobile-Workbench-METRIC-1-steve-ramsey.pdf" target="_blank">Basic Mobile Bench pdf</a>
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=7bzxhv_Q33Q" target="_blank">Steve Ramsey - Woodworking for Mere Mortals youtube</a>
+  How to break down plywood. A guide to cutting, moving and hauling plywood by yourself.
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

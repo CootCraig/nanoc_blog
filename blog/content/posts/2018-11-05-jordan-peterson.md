@@ -16,6 +16,11 @@ tags:
   Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=qT_YSPxxFJk" target="_blank">The Mill Series youtube</a>
+  Jordan Peterson @ Lafayette, A Conversation and Q&A, Full Event
+</h3>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

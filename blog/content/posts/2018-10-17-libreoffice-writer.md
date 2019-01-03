@@ -15,6 +15,12 @@ tags:
 /assets/pdf/DWL_fullbook.pdf
 </pre>
 
+<h4>Writer Guide: Version 6.0 - pdf</h4>
+
+<pre>
+/assets/pdf/libreoffice-writer-guide-60-pdf.pdf
+</pre>
+
 <h4>Writer Guide: Version 6.0 odt</h4>
 
 <pre>
@@ -24,11 +30,6 @@ tags:
 <h4>
   <a href="https://www.ahuka.com/?page_id=286" target="_blank">ahuka.com</a>
   LibreOffice Writer - Ahuka Communications
-</h4>
-
-<h4>
-  <a href="/assets/pdf/DWL_fullbook.pdf" target="_blank">local copy</a>
-  Designing with LibreOffice by Bruce Byfield
 </h4>
 
 <h1>

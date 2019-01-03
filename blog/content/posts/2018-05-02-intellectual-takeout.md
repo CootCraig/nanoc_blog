@@ -39,6 +39,20 @@ vast social media and e-mail networks. Additionally, we host events,
 publish a monthly newsletter, provide commentary for traditional media
 shows, and give speeches to groups of all size.
 
+<h3>
+  <a href="https://www.intellectualtakeout.org/blog/middle-school-reading-lists-100-years-ago-vs-today" target="_blank">intellectualtakeout.org</a>
+  Middle School Reading Lists 100 Years Ago vs. Today by Annie Holmquist July 19, 2016
+</h3>
+
+A second striking difference between the two book lists are the themes
+they explore. The first is full of historical references and settings
+which stretch from ancient Greece (Tanglewood Tales) to the Middle Ages
+(Harold, Last of Saxon Kings) to the founding of America (Courtship of
+Miles Standish). Through highly recognized authors such as Longfellow,
+Stevenson, Kipling, and Dickens, these titles introduce children to a
+vast array of themes crucial to understanding the foundations upon which
+America and western civilization were built.
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

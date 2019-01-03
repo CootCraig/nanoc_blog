@@ -123,6 +123,16 @@ Galations 6
 
 Robert Bella Habits of the Heart
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=D4ft_S-XbwA" target="_blank">KINGDOM LIFE youtube</a>
+  TIM KELLER 2017 - WHO IS THE SPIRIT (POWERFUL SERMON 2017)
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=G0tcEc16HSQ" target="_blank">KINGDOM LIFE youtube</a>
+  TIM KELLER 2017 - BETTER THAN MIRACLES (POWERFUL SERMON 2017)
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -6,6 +6,11 @@ tags:
   - headphones
 ---
 
+<pre>
+Superlux HD668B - $44
+Sony MDR7506 Professional Large Diaphragm Headphone - $80
+</pre>
+
 ## Superlux HD668B
 
 <a href="http://audio.jimboulter.com/superlux-hd668b/" target="_blank">jimboulter.com</a> Jim's Audio Impressions - Superlux HD668B
@@ -153,15 +158,58 @@ Oppo PM-3
 
 ### <a href="http://www.amazon.com/OPPO-PM-3-Closed-Back-Magnetic-Headphones/dp/B00UW0FZWQ" target="_blank">$399 at amazon prime</a> OPPO PM-3 Closed-Back Planar Magnetic Headphones
 
+<h1>Earbuds</h1>
+
+I have some Koss that I like. The cord is frayed at the plug. What model is it? Is it available?
+
+<h3>
+  <a href="https://www.amazon.com/dp/B003EM8008/ref=twister_B07K579NKG?_encoding=UTF8&psc=1" target="_blank">$8.99 at amazon</a>
+  Panasonic ErgoFit In-Ear Earbud Headphones RP-HJE120-K (Black) Dynamic Crystal Clear Sound, Ergonomic Comfort-Fit 
+</h3>
+
+The ErgoFit earbuds come in a variety of colors, which should appeal to
+the fashion-conscious. They also deliver crisp highs, warm mids and deep
+lows despite their low price. Compared to other earbuds in their price
+range, the ErgoFit produced cleaner, clearer audio. Even better, they
+conform to the shape of your ear canal, creating a snug but comfortable
+fit for those long jam sessions.
+
+<h3>
+  <a href="https://www.amazon.com/Betron-Headphones-Definition-Smartphones-Microphone/dp/B00XBZY0EI" target="_blank">$13.99 at amazon</a>
+  Betron YSM1000 Headphones, Earbuds, High Definition, in-Ear, Noise Isolating, Heavy Deep Bass for Apple iPhone, iPod, iPad, Samsung Cell Phones and Smartphones (Gold with Microphone) 
+</h3>
+
+The Betron YSM1000 earphones come out of the package ready to take
+on your favorite music selections with ease. They delivered a richer
+experience than most other low-cost earphones, including a punchy bass,
+noticeable midrange and clean high notes that can be heard across all
+music selections. I think the draw to these earphones is the quality
+construction, which includes metal buds and no-tangle cord design. The
+buds offer a comfortable fit, allowing for long periods of listening
+to music or podcasts without breaking a sweat. I was disappointed that
+they lacked an in-line mic or control button, which meant I couldn't
+make calls or skip tracks without taking out the earphones.
+
+<h3>
+  <a href="https://www.amazon.com/gp/product/B07KVZM5DD" target="_blank">$13.99 at amazon</a>
+  Kurso Earbuds
+</h3>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
--->
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

@@ -48,6 +48,11 @@ channel is produced by Scott's son Nate who has no idea what he is doing.
   Sawzall Basics and Tips
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=uZlkIOHOkNo" target="_blank">Essential Craftsman youtube</a>
+  How To Use A Ratchet Strap
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

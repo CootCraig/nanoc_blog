@@ -4,6 +4,8 @@ created_at: Thu Nov 24 01:24:06 MST 2016
 kind: article
 tags:
   - portable_music_player
+  - sansa_music_player
+  - clip_zip_player
 ---
 
 Want high music quality.
@@ -80,6 +82,42 @@ audio kit to have around!
 <h4>
   <a href="https://www.youtube.com/watch?v=UKvP-_b4WJ0" target="_blank">Nikolaus Matheis youtube</a>
   Cayin N3 Walkthrough
+</h4>
+
+<h2>Have Sansa clip zip</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=K2Qgtkkv8s0" target="_blank">RJ The Bike Guy youtube</a>
+  How To Fix Sansa Clip That Won't Turn On/Frozen
+</h4>
+
+<h3>
+  <a href="https://www.innerfidelity.com/content/survey-digital-audio-players-part-1-sansa-clip-clip-zip-and-fuse" target="_blank">innerfidelity.com</a>
+  A Survey of Digital Audio Players Part 1 Sansa Clip+, Clip Zip, and Fuse
+</h3>
+
+Clip later evolved to the Clip+, Clip Zip, and a larger sibling called Fuze.
+The Clip+, Clip Zip, and Fuze are basically identical where it counts, so
+I tend to lump them all together. Avoid the new Clip Sport and the Fuze+
+as they don't share the same DNA and frankly aren't very good. The Fuze
+seems to be discontinued but shouldn't be too hard to find if a slightly
+larger device sounds appealing.
+
+<h2>
+  <a href="https://kb.sandisk.com/app/answers/detail/a_id/3249/~/sansa-fuze-support-information-page" target="_blank">kb.sandisk.com</a>
+  Sansa Fuze support information page
+</h2>
+
+<h4>
+  <a href="https://en.wikipedia.org/wiki/Sansa_Fuze" target="_blank">wikipedia.org</a>
+  Sansa Fuze
+</h4>
+
+can it be charged with a standard USB cable?
+
+<h4>
+  <a href="https://www.hardwaresecrets.com/sansa-fuze-mp3-player-review-2/" target="_blank">hardwaresecrets.com</a>
+  Sansa Fuze MP3 Player Review By Sandy Berger - February 23, 2009 932
 </h4>
 
 <!--

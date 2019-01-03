@@ -444,6 +444,11 @@ Demonstrates tension on a load.
   How To Thread A Ratchet Strap
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=uZlkIOHOkNo" target="_blank">Essential Craftsman youtube</a>
+  How To Use A Ratchet Strap
+</h3>
+
 At least 3 turns.
 
 <h2>Ratchet Strap Storage</h2>

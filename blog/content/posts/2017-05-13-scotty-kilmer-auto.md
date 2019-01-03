@@ -148,6 +148,51 @@ United States
   <a href="https://www.youtube.com/watch?v=QB1-NBBWhto" target="_blank">Scotty Kilmer youtube</a>
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=oqFpg7jS3ro" target="_blank">Scotty Kilmer youtube</a>
+  The End of DIY Car Repair, Why New Cars are So Hard to Work On
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=YYnYkx8Rwp0" target="_blank">Scotty Kilmer youtube</a>
+  Who Makes the Best Automatic Transmission Cars in the World
+</h3>
+
+<pre>
+aisin transmission - used in toyota - best
+assison transmission
+</pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=GvD9I19480A" target="_blank">Scotty Kilmer youtube</a>
+  5 Things You Should Never Do to Your Car in the Winter
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=eWr7V173p5U" target="_blank">Scotty Kilmer youtube</a>
+  Why You Should Buy a Beater Car
+</h3>
+
+<h5>Dick Tickles - comment</h5>
+
+Can't go wrong with a 4.9L inline 6 Ford. No timing chains or belts,
+just gears. Last forever, plenty of power to do most driving, plus the
+early 90s trucks those engines have a look that has aged very well. When
+you look at an early 90s Ford truck, it's got class and you know it's a
+truck being what it is. Trucks today look like pro wrestlers all jacked
+up on roids and look like Crossovers or SUV's trying to be a truck.
+
+<h5>Jesse - comment</h5>
+
+Them 92-96 were so well made and look damn good too !! Last great ford pick ups ever made
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=LG0QmvHuvxc" target="_blank">Scotty Kilmer youtube - 1m10s</a>
+  Scotty owns Toyota cars, uses Castrol motor oil, high end filter from Amazon
+</h3>
+
+Castrol GTX ULTRACLEAN 5W-30 Motor Oil, 5 QT. - $17.27/5qt at Walmart
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

@@ -522,6 +522,10 @@ Volume 54
   Great Books of the Western World (60 vols.)
 </h4>
 
+<h1>
+  <a href="https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list" target="_blank">St. John's College Great Books Curriculum</a>
+</h1>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

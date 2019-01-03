@@ -66,8 +66,10 @@ date, mileage, cost, category, Service Parts Notes, Other Notes
 
 <pre>
 4.6 qt. oil - Mobil 1 5w20
+20.0/32.0 => 0.625 so 20oz. on a 1 qt. bottle for measure
 oil filter K&N HP-1004 w/ 1 inch nut or Wix 57356XP
 oil pan bolt - 17mm
+Thu Dec 27 18:16:31 MST 2018 - installed fumoto oil drain valve
 </pre>
 
 <img src="/assets/images/odyssey-oil-change-kit.jpg" width="900px">

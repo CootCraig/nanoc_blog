@@ -11,7 +11,7 @@ tags:
 Founder & President of Ravi Zacharias International Ministries. Atlanta
 Helping Thinkers Believe & Believers Think.
 John 14:19 - Because I live, you also will live.
-<pre>
+</pre>
 
 <h1>
   <a href="https://rzim.org/about/" target="_blank">/rzim.org/about</a>
@@ -151,6 +151,13 @@ sovereign
   <a href="https://www.youtube.com/watch?v=1u5cXb4zHbM" target="_blank">Ravi Zacharias International Ministries youtube</a>
   How do I defend the Bible?
 </h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=-_vTZVIYdR4" target="_blank">Ravi Zacharias International Ministries youtube</a>
+  University of Florida Open Forum with Ravi Zacharias and Vince Vitale
+</h3>
+
+Ravi Zacharias and Vince Vitale speak on “Jesus Among Secular Gods"
 
 <!--
 html boilerplate fragments

@@ -63,6 +63,11 @@ than four decades of ministry, are available for free on this website.
   Social Justice and the Gospel, Part 3 - Published on Sep 19, 2018
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=6LFzk1afiD8" target="_blank">Ligonier Ministries youtube</a>
+  John MacArthur: Why Does God Allow So Much Suffering and Evil
+</h3>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

@@ -91,6 +91,17 @@ talks about statins and L-Arginine working synergistically together.
   NO More Heart Disease: How Nitric Oxide Can Prevent--Even Reverse--Heart Disease and Strokes by Louis Ignarro
 </h3>
 
+<h4>Orders</h4>
+
+<pre>
+Sun Dec 23 21:52:46 MST 2018
+Your order # is: 181224106610.
+L-Citrulline DL-Malate 2:1 Powder 1kg Pure Powder $38.96
+L-Arginine Base Powder 	500g Pure Powder $21.96
+Ascorbic Acid Powder / Vitamin C Powder 1kg Pure Powder $19.96
+Grand Total 	$80.88
+<pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

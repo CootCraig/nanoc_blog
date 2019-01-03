@@ -35,11 +35,77 @@ etc.
 
 <img src="/assets/images/reading-list-middle-school-1908.png" width="900px">
 
+<h3>
+  <a href="https://readaloud.com/britches.html" target="_blank">readaloud.com</a>
+  Little Britches series by Ralph Moody
+</h3>
+
+<h3>Laura Ingalls Wilder</h3> 
+
+<h3>Carol Ryrie Brink</h3>
+
+<h2>Memoria Press</h2>
+
+<h3>
+  <a href="https://www.memoriapress.com/curriculum/read-alouds/first-grade/" target="_blank">memoriapress.com</a>
+  First Grade Read-Aloud Set
+</h3>
+
+<h3>
+  <a href="https://www.memoriapress.com/curriculum/read-alouds/second-grade/" target="_blank">memoriapress.com</a>
+  Second Grade Read-Aloud Set
+</h3>
+
+<h3>
+  <a href="https://www.memoriapress.com/curriculum/read-alouds/third-grade-picture-books/" target="_blank">memoriapress.com</a>
+  Third Grade Read-Aloud Picture Books
+</h3>
+
+<h3>
+  <a href="https://www.memoriapress.com/curriculum/read-alouds/third-grade-novels/" target="_blank">memoriapress.com</a>
+  Third Grade Read-Aloud Novels
+</h3>
+
+<h3>
+  <a href="https://www.acatulsa.org/classical-education/resources/recommended-reading-lists" target="_blank">acatulsa.org</a>
+  Recommended Reading Lists 
+</h3>
+
+<h3>
+  <a href="https://www.goodreads.com/list/show/20907.A_Christian_Classical_School_Reading_List_2nd_grade" target="_blank">goodreads.com</a>
+  A Christian Classical School Reading List: 2nd grade 
+</h3>
+
+<h3>
+  <a href="https://www.focusonthefamily.com/parenting/parenting-challenges/finding-great-books-for-kids/choose-better-read-aloud-books" target="_blank">focusonthefamily.com</a>
+  100+ Books to Read to Children By Sheila Seifert 
+</h3>
+
+<h3>
+  <a href="https://www.intentionalhomeschooling.com/40-best-classic-read-alouds-kids/" target="_blank">intentionalhomeschooling.com</a>
+  The 40 Best Classic Read Alouds for Kids
+</h3>
+
+<h3>
+  <a href="http://www.classicalcurriculum.com/ModelCurriculum.htm" target="_blank">classicalcurriculum.com</a>
+  The Classical Curriculum
+</h3>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
--->
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

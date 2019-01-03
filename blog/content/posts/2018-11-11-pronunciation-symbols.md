@@ -25,9 +25,8 @@ American English phonemic chart
 </h4>
 
 <pre>
-wget -O american-heritage-dictionary-pronunciation-key.pdf https://www.ahdictionary.com/application/resources/misc/pronkey.pdf
-
 /assets/pdf/american-heritage-dictionary-pronunciation-key.pdf
+/assets/other/american-heritage-dictionary-pronunciation-key.zabw
 </pre>
 
 <h4>

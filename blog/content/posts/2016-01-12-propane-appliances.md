@@ -8,11 +8,14 @@ tags:
   - refill_propane-bottle
 ---
 
-# Refill Coleman Bottle
+<h1>Refill Coleman Bottle</h1>
 
 $2.87 at Walmart
 
-### <a href="https://www.youtube.com/watch?v=fD1CmorB_qM" target="_blank">FULLY Refill a 1lb Propane Bottle</a>
+<h3>
+  <a href="https://www.youtube.com/watch?v=fD1CmorB_qM" target="_blank">WheeliePete youtube</a>
+  NO Pre-Chilling! FULLY Refill a 1lb Propane Bottle (Avoid 600%+ Markup on Propane) Coleman
+</h3>
 
 * 1 US gallon liquid propane = 4.11 lb
 * Coleman bottle = 16.4 oz = 1.02 lb
@@ -185,10 +188,21 @@ with positive tip polarity
 
 <a href="http://www.amazon.com/HEATER-F276127-800MA-Power-Adapter/dp/B000HE6OAE" target="_blank">Amazon - $15 - MR HEATER CORP F276127 6V/800MA Power Adapter</a>
 
-
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
--->
-
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

@@ -30,6 +30,43 @@ tags:
 
 <h1>Local pages</h1>
 
+<h1>L Citrulline, L Arginine</h1>
+
+<h3>
+  <a href="https://curemyerectiledysfunction.com/l-citrulline-vs-l-arginine" target="_blank">cure my</a>
+  L Citrulline Vs L Arginine – Which is Better For You?
+</h3>
+
+I prefer a combination of the two due to L Citrulline being  rather
+slow to convert the Amino acid into the other amino acid and eventually
+Nitric Oxide.
+
+A little L Arginine can and will give me an almost instant elevation of
+Arginine in my blood and a quicker elevation of Nitric Oxide levels while
+I wait for the L Citrulline to kick in and give a long slow constant
+release of Nitric Oxide.
+
+The recommended dosage for L Citrulline is 3500mg daily for sufferers of
+erectile dysfunction, for L Arginine the dosage is 6,000mg daily. The
+dosage for amino acids are best spread evenly throughout the day at
+8-hour intervals.
+
+If you are interested in taking a combination of the two amino acids
+I suggest taking a lower dose of L Arginine, I have taken 2,400mg of
+L Citrulline with 600mg of L Arginine to great effect. I don’t use
+combo tablets as they tend to be too weak or the ratio of L Citrulline
+to L Arginine is not right.
+
+<h3>
+  <a href="https://curemyerectiledysfunction.com/l-citrulline-dosage-for-erectile-dysfunction" target="_blank">cure my</a>
+  L Citrulline Dosage
+</h3>
+
+<h3>
+  <a href="https://curemyerectiledysfunction.com/l-arginine-dosage-for-erectile-dysfunction" target="_blank">cure my</a>
+  L Arginine Dosage
+</h3>
+
 <h1>Vendor Notes</h1>
 
 <h2>

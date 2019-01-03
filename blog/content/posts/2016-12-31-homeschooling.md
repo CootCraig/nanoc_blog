@@ -144,6 +144,73 @@ Government schools not public schools.
   <a href="https://en.wikipedia.org/wiki/John_Dewey" target="_blank">John Dewey at wikipedia</a>
 </h4>
 
+<h3>
+<a href="https://www.4onemore.com/i-dont-use-printables/" target="_blank">4onemore.com</a>
+I don’t use printables (and you shouldn’t either)
+</h3>
+
+There’s an unspoken rule in the schooling world that the more written
+work a student produces, the more he has learned.  I just don’t agree.
+
+<ul>
+  <li>Living Books</li>
+  <li>Notebooking</li>
+  <li>Lapbooks</li>
+  <li>Reading</li>
+  <li>Student-produced stories</li>
+  <li>Student-produced outlines or fact sheets</li>
+  <li>Student-produced collages of information</li>
+  <li>Narration</li>
+  <li>Discussion</li>
+  <li>Oral questions and answers</li>
+</ul>
+
+<h1>Lapbooking</h1>
+
+<h3>
+  <a href="https://www.homeschoolshare.com/lapbooking_resources.php" target="_blank">homeschoolshare.com</a>
+  Lapbook Resources
+</h3>
+
+<h3>
+  <a href="https://www.homeschoolshare.com/lapbook-templates.php" target="_blank">homeschoolshare.com</a>
+  Lapbook Templates
+</h3>
+
+<h3>
+  <a href="https://www.yearroundhomeschooling.com/lapbook-make-one/" target="_blank">yearroundhomeschooling.com</a>
+  What is a Lapbook?
+</h3>
+
+<h3>
+  <a href="https://orisonorchards.com/lazy-homeschoolers-raise-geniuses/" target="_blank">orisonorchards.com</a>
+  Lazy Homeschoolers Raise Geniuses
+</h3>
+
+<h4>Sweet piece on home schooling</h4>
+
+The funny thing is, the lazier I grew at providing education, the better my children became at seeking it out.
+
+Children are naturally predisposed, from birth, to seek learning and growth.
+
+Children are intrinsically motivated to learn.
+
+Children learn by making mistakes and then noticing and correcting their own mistakes.
+
+Children learn best with minimal interference (the scientific process is instinctive to them).
+
+Provide a rich learning environment, model correct behavior, and support your child’s choices.
+
+Force is detrimental to learning.
+
+Do not overschedule your child.
+
+Genius can only be realized by it’s owner.
+
+How will it look?
+
+What if? 
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
