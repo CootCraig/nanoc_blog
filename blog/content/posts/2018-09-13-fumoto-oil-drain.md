@@ -11,6 +11,11 @@ tags:
 (800) 918-3406
 
 <h3>
+  <a href="https://www.amazon.com/HOSE-KIT-NIPPLE-FUMOTO-VALVES/dp/B01JTEOQAC" target="_blank">$9.57 at amazon</a>
+  HOSE KIT FOR 3/8" ID NIPPLE FUMOTO VALVES 
+</h3>
+
+<h3>
   <a href="http://www.fumotousa.com/parts.php?partname=F107N&partnumber=34" target="_blank">fumotousa.com/parts.php</a>
   Silverado - Fumoto f107n drain valve w/nipple
 </h3>
@@ -24,6 +29,7 @@ Nipple Length: 5/8" - 15 mm
 Weight: 2.7 oz
 </pre>
 
+Make note of SX versions. allows rotation to align.
 
 <h4>
   <a href="http://www.fumotousa.com/parts.php?partname=ADP-107&partnumber=7" target="_blank">fumotousa.com/parts.php</a>
@@ -46,6 +52,18 @@ M14-1.5 DRAIN VALVE W/SHORT NIPPLE
 fumoto ADL-106
 ADAPTER (LONG) FOR F-106 M14-1.5
 </pre>
+
+<h1>Stahlbus oil drain</h1>
+
+<h2>
+  <a href="https://www.stahlbus-us.com/oil-drain-valve/" target="_blank">stahlbus-us.com</a>
+  Stahlbus oil drain valve
+</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=lven6V-wkpk" target="_blank">o3djeeps [ OVERCLOCK3D Jeeps ] youtube</a>
+  Stahlbus Oil Drain Valve - Compared to Fumoto - Jeep Wrangler
+</h3>
 
 <!--
 html boilerplate fragments

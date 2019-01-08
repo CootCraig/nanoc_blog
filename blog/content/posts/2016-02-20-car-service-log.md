@@ -60,6 +60,19 @@ date, mileage, cost, category, Service Parts Notes, Other Notes
 
 <h1>Odyssey</h1>
 
+<h4>Oil Change Stock</h4>
+
+Consider Castrol GTX ULTRACLEAN 5W-20 Motor Oil, 5 QT. - $18.92/5qt at Walmart
+
+<pre>
+Fri Jan  4 14:48:49 MST 2019
+Mobil 1 5w-20 7qt
+
+purchase Wix 57356XP
+  amazon $9.61
+  o'reilly $12
+</pre>
+
 <h4>Oil change tools</h4>
 
 <img src="/assets/images/odyssey-oil-change-tools-20180915.jpg" width="700px">
@@ -110,8 +123,14 @@ change oil at 126579+5000 => 131579 or Sept. 16, 2018
 <h3>Stock Items</h3>
 
 <pre>
-Fram XG7317 oil filter for full synthetic
+Mobil 1 5w-30 2.5 qt
+  purchase 5 qt
+Wix oil filter 57060xp
+  Amazon $11.60
+  o'reilly $12
 </pre>
+
+Consider Castrol GTX ULTRACLEAN 5W-30 Motor Oil, 5 QT. - $17.27/5qt at Walmart
 
 <h1>Silverado</h1>
 
