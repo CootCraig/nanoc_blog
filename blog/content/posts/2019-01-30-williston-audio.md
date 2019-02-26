@@ -1,25 +1,21 @@
 ---
-title: "Podcasts"
-created_at: Wed Dec 24 09:33:00 MST 2014
+title: "Williston Audio"
+created_at: Wed Jan 30 13:25:30 MST 2019
 kind: article
 tags:
-  - podcast
-  - podcast_list
+  - williston_audio_labs
+  - audio
+  - budget_audio
 ---
 
-<h3>
-  <a href="http://getrssfeed.com/" target="_blank">getrssfeed.com/</a>
-  from Podcast Addict Xavier Guillemane
-</h3>
-
-Paste your iTunes / SoundCloud urls and let the service retrieve the podcast public RSS feed for you
+<h1>
+  <a href="https://www.youtube.com/channel/UCGW-qPM8-xJE4-uSLA5BAGQ" target="_blank">Williston Audio Labs youtube</a>
+</h1>
 
 <h3>
-  <a href="http://twit.tv/show/floss-weekly" target="_blank">twit.tv/show</a>
-  FLOSS Weekly
+  <a href="https://www.youtube.com/watch?v=TeLpiYxftCk" target="_blank">Williston Audio Labs youtube</a>
+  Big Power in the Palm of Your Hand - TDA7498E 160+160 watts
 </h3>
-
-<h1>Manage mp3 player</h1>
 
 <!--
 html boilerplate fragments

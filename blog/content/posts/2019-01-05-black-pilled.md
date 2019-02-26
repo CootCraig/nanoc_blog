@@ -6,6 +6,7 @@ tags:
   - black_pilled
   - youtube
   - youtube_channel
+  - devon_stack
 ---
 
 Devon Stack
@@ -17,6 +18,11 @@ Devon Stack
 <h3>
   <a href="https://www.amazon.com/Day-Rope-Days/dp/1727381270" target="_blank">book at amazon</a>
   The Day of the Rope (The Days of the Rope) (Volume 1) by Devon Stack (Author) 
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=vwFshwxECq0" target="_blank">Black Pilled youtube</a>
+  How Boomers Were Taught to Hate (Themselves)
 </h3>
 
 <!--

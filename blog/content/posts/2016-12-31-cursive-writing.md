@@ -671,6 +671,11 @@ graders or to improve the handwriting of older students or adults.
   Desktop Publishing Expert
 </h4>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=q6rfoRiWa8A" target="_blank">CJ's Creative Studio youtube</a>
+  Improving Your Cursive Handwriting
+</h3>
+
 <h1>Zaner-Bloser</h1>
 
 <h3>

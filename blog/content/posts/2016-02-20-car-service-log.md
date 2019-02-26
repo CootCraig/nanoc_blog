@@ -217,6 +217,33 @@ Accessories Included 	ratchet, breaker bar, extension, case
 driver side - $53
 passenger side - $51
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=TvK2_2hGygw" target="_blank">Autobytel youtube</a>
+  Tire tread check
+</h3>
+
+<pre>
+Penny - see top of head - < 2/32"
+Quarter - see top of head - < 4/32"
+Indicator on side of tire - 2/32" ?
+</pre>
+
+<h2>Wiper Blades</h2>
+
+<h3>Honda Odyssey</h3>
+
+<pre>
+driver 24"
+passenger 21"
+rear 17"
+</pre>
+
+<h3>2012 Silverado 1500</h3>
+
+<pre>
+both 22"
+</pre>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

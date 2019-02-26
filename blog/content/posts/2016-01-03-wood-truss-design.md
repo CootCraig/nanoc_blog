@@ -403,10 +403,26 @@ material.
 
 Jon Peters Art & Home - Building Roof truss systems for shed, barn, or a tiny house by Jon Peters <a href="https://www.youtube.com/watch?v=mfs4rxBeyK0" target="_blank">youtube</a>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=X6fTaqxeR34" target="_blank">B-Spot youtube</a>
+  Building Roof Trusses
+</h3>
 
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
--->
-
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

@@ -91,6 +91,16 @@ etc.
   The Classical Curriculum
 </h3>
 
+<h2>
+  <a href="https://www.amazon.com/Books-Children-Love-Elizabeth-Wilson/dp/1581341989" target="_blank">amazon.com</a>
+  Books Children Love - 2002 by Elizabeth Wilson
+<h2>
+
+<h2>
+  <a href="https://www.amazon.com/gp/product/0310242460" target="_blank">amazon.com</a>
+  Honey for a Child's Heart 2002 by Gladys Hunt (Author) 
+<h2>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

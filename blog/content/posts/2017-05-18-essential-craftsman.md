@@ -43,6 +43,10 @@ channel is produced by Scott's son Nate who has no idea what he is doing.
   Screws: What You Need to Know
 </h3>
 
+<pre>
+Exterior deck screws.
+</pre>
+
 <h3>
   <a href="https://www.youtube.com/watch?v=wgwBKyWyS_s" target="_blank">Essential Craftsman youtube</a>
   Sawzall Basics and Tips
@@ -52,6 +56,60 @@ channel is produced by Scott's son Nate who has no idea what he is doing.
   <a href="https://www.youtube.com/watch?v=uZlkIOHOkNo" target="_blank">Essential Craftsman youtube</a>
   How To Use A Ratchet Strap
 </h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=_ugkCBG1PSY" target="_blank">Essential Craftsman youtube</a>
+  Marking and Cutting Pro Tips
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=p-AlTvciSQ8" target="_blank">Essential Craftsman youtube</a>
+  Tape Measure Pro Tips
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=HM-UJl7DSn0" target="_blank">Essential Craftsman youtube</a>
+  Occidental Leather Tool Bags
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=wDZa2ZNmy78" target="_blank">Essential Craftsman youtube</a>
+  Tool Belt Setup for Framing
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=qP1AmDRhoas" target="_blank">Essential Craftsman youtube</a>
+  How To Be More Productive
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=YFP6MAEN55U" target="_blank">Essential Craftsman youtube</a>
+  A Good Way To Make Great Friends
+</h3>
+
+snap lock roof
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=Dinf4z14EYk" target="_blank">Essential Craftsman youtube</a>
+  How to Change the Blade on a Skil Saw
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=Ps24A8WZfFk" target="_blank">Essential Craftsman youtube</a>
+  Nail Guns: A Quick Intro
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=c9Z3iiu6z5Y" target="_blank">Essential Craftsman youtube</a>
+  Tips For Drilling Holes
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=RoXK7v9USeg" target="_blank">Essential Craftsman youtube</a>
+  How to Fasten to Concrete
+</h3>
+
+tapcon 7m 50s
 
 <!--
 html boilerplate

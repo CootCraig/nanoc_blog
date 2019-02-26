@@ -7,7 +7,31 @@ tags:
   - pickup_tires
   - silverado
   - pickup
+  - tire_tread_depth_check
 ---
+
+<h4>
+  <a href="https://www.tirerack.com/tires/tiretech/techpage.jsp?techid=51" target="_blank">tirerack.com</a>
+  Tire Tech: Measuring Tire Tread Depth with a Coin
+</h4>
+
+2/32" - Place a penny into several tread grooves across the tire.  If part of
+Lincoln's head is always covered by the tread, you have more than 2/32"
+of tread depth remaining.
+
+4/32" - Place a quarter into several tread grooves across the tire.  If part of
+Washington's head is always covered by the tread, you have more than 4/32"
+of tread depth remaining.
+
+6/32"  - Place a penny into several tread grooves across the tire.
+If the top of the Lincoln Memorial is always covered by the tread,
+you have more than 6/32" of tread depth remaining.
+
+<h4>
+  <a href="https://www.tirerack.com/tires/tiretech/techpage.jsp?techid=35" target="_blank">tirerack.com</a>
+
+  Tire Tech: How to Read Speed Rating, Load Index & Service Descriptions
+</h4>
 
 # Research
 
@@ -65,4 +89,21 @@ Sun: CLOSED
 * Can be delivered Wed, 06/17 to 81001 for $26.84 per tire.
 * Set of 4 589.76
 
-
+<!--
+html boilerplate fragments
+<a href="" target="_blank"></a>
+<a name=""></a>
+<img src="" width="400px">
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

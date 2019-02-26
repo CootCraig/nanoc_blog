@@ -152,6 +152,104 @@ user files.
   backintime
 </h4>
 
+<h3>
+  <a href="https://itsfoss.com/icon-themes-arch-linux/" target="_blank">itsfoss.com</a>
+  Best Themes For Arch Linux, Antergos, Apricity OS And Manjaro
+</h3>
+
+<h3>
+  <a href="https://www.deviantart.com/me4oslav/art/Numix-Circle-Linux-Desktop-Icon-Theme-414741466" target="_blank">deviantart.com/me4oslav</a>
+  Numix-Circle Linux Desktop Icon Theme by me4oslav
+</h3>
+
+https://www.deviantart.com/users/outgoing?https://github.com/numixproject/numix-icon-theme-circle/issues/2430
+
+<pre>
+conflicting files:
+numix-circle-icon-theme-git: /usr/share/icons/Numix-Circle/icon-theme.cache already exists in filesystem
+</pre>
+
+<h3>
+  <a href="https://aur.archlinux.org/packages/numix-circle-icon-theme-git" target="_blank">aur.archlinux.org</a>
+  Package Details: numix-circle-icon-theme-git 0.r35.cf7cb7c-1
+</h3>
+
+<pre>
+erikdubois commented on 2019-01-08 20:52
+Delete the obstructing cache file
+sudo rm /usr/share/icons/Numix-Circle/icon-theme.cache
+</pre>
+
+<h1>Mate</h1>
+
+<h3>
+  <a href="https://wiki.archlinux.org/index.php/MATE" target="_blank">wiki.archlinux.org</a>
+  Mate
+</h3>
+
+The MATE Desktop Environment is the continuation of GNOME 2. It provides
+an intuitive and attractive desktop environment using traditional
+metaphors for Linux and other Unix-like operating systems. MATE is under
+active development to add support for new technologies while preserving
+a traditional desktop experience.
+
+<table class="wikitable">
+<tbody><tr>
+<th>Application
+</th>
+<th>GNOME 2
+</th>
+<th>MATE
+</th></tr>
+<tr>
+<td>menu editor
+</td>
+<td>Alacarte
+</td>
+<td><span class="plainlinks archwiki-template-pkg"><a rel="nofollow" class="external text" href="https://www.archlinux.org/packages/?name=mozo">mozo</a></span>
+</td></tr>
+<tr>
+<td>file manager
+</td>
+<td>Nautilus
+</td>
+<td><span class="plainlinks archwiki-template-pkg"><a rel="nofollow" class="external text" href="https://www.archlinux.org/packages/?name=caja">caja</a></span>
+</td></tr>
+<tr>
+<td>window manager
+</td>
+<td>Metacity
+</td>
+<td><span class="plainlinks archwiki-template-pkg"><a rel="nofollow" class="external text" href="https://www.archlinux.org/packages/?name=marco">marco</a></span>
+</td></tr>
+<tr>
+<td>text editor
+</td>
+<td>Gedit
+</td>
+<td><span class="plainlinks archwiki-template-pkg"><a rel="nofollow" class="external text" href="https://www.archlinux.org/packages/?name=pluma">pluma</a></span>
+</td></tr>
+<tr>
+<td>image viewer
+</td>
+<td>Eye of GNOME
+</td>
+<td>Eye of MATE (<span class="plainlinks archwiki-template-pkg"><a rel="nofollow" class="external text" href="https://www.archlinux.org/packages/?name=eom">eom</a></span>)
+</td></tr>
+<tr>
+<td>document viewer
+</td>
+<td>Evince
+</td>
+<td><span class="plainlinks archwiki-template-pkg"><a rel="nofollow" class="external text" href="https://www.archlinux.org/packages/?name=atril">atril</a></span>
+</td></tr>
+<tr>
+<td>archive manager
+</td>
+<td>File Roller
+</td>
+<td><span class="plainlinks archwiki-template-pkg"><a rel="nofollow" class="external text" href="https://www.archlinux.org/packages/?name=engrampa">engrampa</a></span>
+</td></tr></tbody></table>
 
 <!--
 html boilerplate fragments

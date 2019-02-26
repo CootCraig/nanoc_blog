@@ -494,12 +494,35 @@ wipe off products. They will not remove below surface contaminants. If
 you're the type of person that finds yourself applying a different wax
 every chance you get, a spray on wax remover is for you.
 
+<h2>Turtle Wax Ice Spray Wax</h2>
 
-<!-- 
-html boilerplate
+<h3>
+  <a href="https://www.youtube.com/watch?v=bFy19i_uVUY" target="_blank">Auto Detailing Podcast youtube</a>
+  CHEAP VS EXPENSIVE: TURTLE WAX ICE SPRAY WAX VS GRIOTS GARAGE SPRAY WAX
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=hO8N9w-B62w" target="_blank">Dallas Paint Correction & Auto Detailing youtube</a>
+  Turtle Wax Ice Spray Wax - Excellent For Pro's & DIYer
+</h3>
+
+Also uses a lot of Meguiar's D15601 Synthetic X-Press Spray Wax - 1 Gallon $32.99
+
+<!--
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
--->
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

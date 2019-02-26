@@ -66,6 +66,11 @@ dollar store silicone basting brush
   How to break down plywood. A guide to cutting, moving and hauling plywood by yourself.
 </h3>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=8vFGrNjT4P4" target="_blank">Steve Ramsey youtube</a>
+  How to make a basic box. And why you need to know how. | Woodworking BASICS.
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

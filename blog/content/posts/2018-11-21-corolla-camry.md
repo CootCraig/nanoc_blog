@@ -181,6 +181,18 @@ allison transmission
   Here's Why the 90's Toyota Camry Live Forever
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=vdnkVF0xsZE" target="_blank">CarsThatLast youtube</a>
+</h3>
+
+This video will give you insights on driving a 1996 Camry worth about
+$1500.  You will also find helpful tips on the pop-ups throughout the
+video about important repairs and maintenance for a 3rd generation Camry.
+
+I drive a 2001 Camry with the same engine. 196k now and drive it to work every day from Westchester to Manhattan. Bought it new and check the oil every week. Consumes a quart over a 5K oil change. Reliable, reliable and reliable.
+
+If you're getting anything from the 90s make sure it's a 96 or newer so you have OBD2 to figure out what's going wrong
+
 <h1>Non Toyota</h1>
 
 <h3>

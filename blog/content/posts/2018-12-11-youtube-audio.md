@@ -69,6 +69,25 @@ https://listentoyoutube.online/
 
 https://www.quora.com/Are-there-any-safe-YouTube-to-MP3-converters
 
+<h2>RSS feed for Youtube Channel</h2>
+
+<h3>
+  <a href="https://danielmiessler.com/blog/rss-feed-youtube-channel/" target="_blank">danielmiessler.com</a>
+  How to Get an RSS Feed for a YouTube Channel By Daniel Miessler
+</h3>
+
+<h4>Steps</h4>
+
+<ol>
+  <li>Go to the YouTube channel you want to track</li>
+  <li>View the page’s source code</li>
+  <li>Look for the following text: channel-external-id</li>
+  <li>Get the value for that element (it’ll look something like UCBcRF18a7Qf58cCRy5xuWwQ</li>
+  <li>Replace that value into this URL:</li>
+</ol>
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBcRF18a7Qf58cCRy5xu
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

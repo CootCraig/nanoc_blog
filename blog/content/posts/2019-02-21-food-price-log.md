@@ -1,25 +1,17 @@
 ---
-title: "Podcasts"
-created_at: Wed Dec 24 09:33:00 MST 2014
+title: "Food Price log"
+created_at: Thu Feb 21 16:41:39 MST 2019
 kind: article
 tags:
-  - podcast
-  - podcast_list
+  - food_price_log
 ---
 
-<h3>
-  <a href="http://getrssfeed.com/" target="_blank">getrssfeed.com/</a>
-  from Podcast Addict Xavier Guillemane
-</h3>
+<h4>CSV Data</h4>
 
-Paste your iTunes / SoundCloud urls and let the service retrieve the podcast public RSS feed for you
-
-<h3>
-  <a href="http://twit.tv/show/floss-weekly" target="_blank">twit.tv/show</a>
-  FLOSS Weekly
-</h3>
-
-<h1>Manage mp3 player</h1>
+<pre>
+category, product, price, quantity, units, price per quantity, vendor, date
+meat, ground chuck, 46.68, 12, pounds, , Frank's Meat Market, 2019-02-21
+</pre>
 
 <!--
 html boilerplate fragments

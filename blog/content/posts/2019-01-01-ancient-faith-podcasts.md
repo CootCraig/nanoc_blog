@@ -11,29 +11,36 @@ tags:
 
 <h1>Current Listening</h1>
 
+atw
+coffee-cup
+healing
+hopko
+let-my-prayer
+wholecounsel
+
 <ul>
   <li>
-    <a href="https://www.ancientfaith.com/podcasts/wardrobe" target="_blank">Approaching the Wardrobe</a>
+    <a href="https://www.ancientfaith.com/podcasts/wardrobe" target="_blank">atw - Approaching the Wardrobe</a>
     Jeff Wisniewski
   </li>
   <li>
-    <a href="https://www.ancientfaith.com/podcasts/healingpresence" target="_blank">Becoming a Healing Presence</a>
-    Dr. Albert Rossi
-  </li>
-  <li>
-    <a href="https://www.ancientfaith.com/podcasts/coffeecup" target="_blank">Coffee Cup Commentaries</a>
+    <a href="https://www.ancientfaith.com/podcasts/coffeecup" target="_blank">coffee-cup - Coffee Cup Commentaries</a>
     Fr. Lawrence R. Farley
   </li>
   <li>
-    <a href="https://www.ancientfaith.com/podcasts/letmyprayer" target="_blank">Let My Prayer Arise</a>
-    Fr. Wilbur Ellsworth
+    <a href="https://www.ancientfaith.com/podcasts/healingpresence" target="_blank">healing - Becoming a Healing Presence</a>
+    Dr. Albert Rossi
   </li>
   <li>
-    <a href="https://www.ancientfaith.com/podcasts/hopko" target="_blank">Speaking the Truth in Love</a>
+    <a href="https://www.ancientfaith.com/podcasts/hopko" target="_blank">hopko - Speaking the Truth in Love</a>
     Fr. Tom Hopko
   </li>
   <li>
-    <a href="https://www.ancientfaith.com/podcasts/wholecounsel" target="_blank">The Whole Counsel of God</a>
+    <a href="https://www.ancientfaith.com/podcasts/letmyprayer" target="_blank">let-my-prayer - Let My Prayer Arise</a>
+    Fr. Wilbur Ellsworth
+  </li>
+  <li>
+    <a href="https://www.ancientfaith.com/podcasts/wholecounsel" target="_blank">wholecounsel - The Whole Counsel of God</a>
     Fr. Stephen De Young
   </li>
 </ul>
@@ -57,69 +64,70 @@ tags:
 
 <h1>Last podcast</h1>
 
-<h2>Approaching the Wardrobe</h2>
+<h2>atw - Approaching the Wardrobe</h2>
 
 <pre>
-x atw-2013-01-10.mp3
-x atw-2013-01-17.mp3
-x atw-2013-01-31.mp3
-  marian necessity faith and philosophy clark Carlton
-  our life in christ 2004
-x atw-2013-02-07.mp3
-x atw-2013-02-21.mp3
   play for Donna
-atw-2013-03-07.mp3
-atw-2013-03-21.mp3
-atw-2013-04-04.mp3
+Womanhood Venerated in Orthodoxy
+book - The Sacrament of Love
+https://www.ancientfaith.com/podcasts/wardrobe/womanhood_venerated_in_orthodoxy
+The Redemptive Love of the Woman
+https://www.ancientfaith.com/podcasts/wardrobe/the_redemptive_love_of_the_woman
+
+atw_2013-04-18.mp3
+atw_2013-05-02.mp3
+atw_2013-05-16.mp3
+atw_2013-05-30.mp3
+atw_2013-06-13.mp3
 </pre>
 
-<h2>Becoming a Healing Presence</h2>
+<h2>coffee-cup - Coffee Cup Commentaries</h2>
 
 <pre>
-heal-2012-01-30.mp3
-heal-2012-02-10.mp3
-heal-2012-02-24.mp3
-heal-2012-03-12.mp3
-heal-2012-03-24.mp3
-heal-2012-04-06.mp3
-</pre>
-
-<h2>Coffee Cup Commentaries</h2>
-
-<pre>
-coffee-cup-2008-10-20.mp3
-coffee-cup-2008-10-20o2.mp3
-coffee-cup-2008-10-22.mp3
 coffee-cup-2008-10-23.mp3
 coffee-cup-2008-10-24.mp3
 </pre>
 
-<h2>Let My Prayer Arise</h2>
+<h2>healing - Becoming a Healing Presence</h2>
 
 <pre>
-x letmyprayer-2010-12-23.mp3
-letmyprayer-2011-01-06.mp3
-letmyprayer-2011-02-25.mp3
-letmyprayer-2011-03-17.mp3
+healing_2012-04-20.mp3
+healing_2012-05-04.mp3
+healing_2012-05-18.mp3
+healing_2012-06-01.mp3
+healing_2012-06-16.mp3
 </pre>
 
-<h2>Speaking the Truth in Love</h2>
+<h2>hopko - Speaking the Truth in Love</h2>
 
 <pre>
-x hopko-2008-05-29.mp3
-hopko-2008-06-06.mp3
-hopko-2008-06-12.mp3
-hopko-2008-06-16.mp3
+hopko_2008-06-19.mp3
+hopko_2008-06-23.mp3
+hopko_2008-07-03.mp3
+hopko_2008-07-06.mp3
+hopko_2008-07-10.mp3
+hopko_2008-07-14.mp3
 </pre>
 
-<h2>The Whole Counsel of God</h2>
+<h2>letmyprayer - Let My Prayer Arise</h2>
 
 <pre>
-x wholecounsel-2017-02-13.mp3
-x wholecounsel-2017-02-20.mp3
-wholecounsel-2017-02-27.mp3
-wholecounsel-2017-03-06.mp3
-wholecounsel-2017-03-13.mp3
+letmyprayer_2011-03-26.mp3
+letmyprayer_2011-04-02.mp3
+letmyprayer_2011-04-09.mp3
+letmyprayer_2011-04-15.mp3
+</pre>
+
+<h2>wholecounsel - The Whole Counsel of God</h2>
+
+<pre>
+wholecounsel_2017-03-20.mp3
+wholecounsel_2017-03-27.mp3
+wholecounsel_2017-04-03.mp3
+wholecounsel_2017-04-10.mp3
+wholecounsel_2017-04-17.mp3
+wholecounsel_2017-04-24.mp3
+wholecounsel_2017-05-01.mp3
 </pre>
 
 <!--

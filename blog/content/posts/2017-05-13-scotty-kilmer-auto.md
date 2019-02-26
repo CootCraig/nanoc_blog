@@ -7,6 +7,9 @@ tags:
   - replace_brakes
 ---
 
+No on Tercel, Scion good car, but not sold as a Toyota.
+
+
 <h2>
   <a href="https://www.youtube.com/user/scottykilmer/featured" target="_blank">Scotty Kilmer youtube channel</a>
 </h2>
@@ -149,6 +152,11 @@ United States
 </h3>
 
 <h3>
+  <a href="https://www.youtube.com/watch?v=DeaDrH0gXZk" target="_blank">Headlight Revolution youtube</a>
+  The TRUTH about LED Headlight Bulbs! WATCH BEFORE BUYING ANYTHING
+</h3>
+
+<h3>
   <a href="https://www.youtube.com/watch?v=oqFpg7jS3ro" target="_blank">Scotty Kilmer youtube</a>
   The End of DIY Car Repair, Why New Cars are So Hard to Work On
 </h3>
@@ -192,6 +200,69 @@ Them 92-96 were so well made and look damn good too !! Last great ford pick ups 
 </h3>
 
 Castrol GTX ULTRACLEAN 5W-30 Motor Oil, 5 QT. - $17.27/5qt at Walmart
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=WTkbwli1i2Y" target="_blank">Scotty Kilmer youtube</a>
+  Life Hack That Will Keep Your Car's Windshield Clean Forever
+</h3>
+
+clean with alcohol, then
+<a href="https://www.amazon.com/gp/product/B000BPSW7C" target="_blank">Nu Finish Liquid polish</a>
+
+Reviewer likes Nu Finish and Turtle wax ICE spray wax. I plan to try the ICE spray wax as well.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=I5RT55H5mUM" target="_blank">Scotty Kilmer youtube</a>
+  Doing This Will Make Your Car Paint Last Twice as Long
+</h3>
+
+<ul>
+  <li><a href="https://amzn.to/2sNR2Le" target="_blank">Goo Gone - Goo Gone Automotive - 3 Fl. Oz</a></li>
+  <li><a href="https://amzn.to/2Sb01nO" target="_blank">Nu Finish Polish - Nu Finish Paste Car Polish </a></li>
+  <li><a href="https://amzn.to/2MugXAq" target="_blank">Meguiars Soap - Meguiar's G17748 Ultimate Wash & Wax, 48 oz </a></li>
+</ul>
+
+<h3>
+  <a href="" target="_blank">Scotty Kilmer youtube</a>
+  Doing This Will Make Your Car Battery Last Twice as Long
+</h3>
+
+<pre>
+use it - battery tender
+terminals clean and tight, spray electrical cleaner, spray terminal protector
+correct battery
+check alternator
+check acid level, add distilled water
+</pre>
+
+<h4>
+  <a href="https://www.amazon.com/gp/product/B07DDDDSK9" target="_blank">$53.99 at amazon</a>
+  TT TOPDON AB101 Automotive Battery Tester on Cranking System, Charging System and Battery Load test with 100-2000 CCA for 12V Cars/SUVs/Light Trucks 
+</h4>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=ux2IZ8hIbqs" target="_blank">Scotty Kilmer youtube</a>
+  5 Secrets to Buying a Cheap Used Car
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=FTxZWYouCMc" target="_blank">Scotty Kilmer youtube</a>
+  5 Used Cars You Should Never Buy
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=FN30KqBl6HA" target="_blank">Scotty Kilmer youtube</a>
+  5 Used Cars You Should Buy
+</h3>
+
+<pre>
+2012 honda accord - 4 cyl.
+2012 ford fusion
+2013 honda civic
+2012 toyota corolla
+2011 toyota camry - sold more camry than corolla in 2011
+</pre>
+
 
 <!--
 html boilerplate fragments

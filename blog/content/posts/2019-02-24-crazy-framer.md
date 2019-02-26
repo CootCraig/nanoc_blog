@@ -1,25 +1,16 @@
 ---
-title: "Podcasts"
-created_at: Wed Dec 24 09:33:00 MST 2014
+title: "Crazy Framer"
+created_at: Sun Feb 24 04:25:37 MST 2019
 kind: article
 tags:
-  - podcast
-  - podcast_list
+  - crazy_framer
+  - construction
 ---
 
-<h3>
-  <a href="http://getrssfeed.com/" target="_blank">getrssfeed.com/</a>
-  from Podcast Addict Xavier Guillemane
-</h3>
-
-Paste your iTunes / SoundCloud urls and let the service retrieve the podcast public RSS feed for you
-
-<h3>
-  <a href="http://twit.tv/show/floss-weekly" target="_blank">twit.tv/show</a>
-  FLOSS Weekly
-</h3>
-
-<h1>Manage mp3 player</h1>
+<h2>
+  <a href="https://www.youtube.com/user/Thecrazyframer/playlists" target="_blank">The Crazy Framer youtube</a>
+  Playlists
+</h2>
 
 <!--
 html boilerplate fragments

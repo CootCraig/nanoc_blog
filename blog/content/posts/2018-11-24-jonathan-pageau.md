@@ -18,6 +18,11 @@ Recommended
   Laurus Paperback by Eugene Vodolazkin (Author), Lisa C. Hayden (Translator) 
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=zQTMhuQVYaU" target="_blank">Jonathan Pageau</a>
+  Bird Box - The Politics of Censorship - with Thomas Wijnaendts van Resandt
+</h3>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

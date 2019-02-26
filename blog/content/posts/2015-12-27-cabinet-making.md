@@ -38,12 +38,52 @@ Anytime you need to hold two large workpieces at a right angle, say while you're
 
 The more you use this shop helper the more jobs you'll find for it. Although we designed the brace for carcase assembly, we also found it handy for holding an on-edge picture frame rigidly to a bench as we sanded the frame's edges.
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=XrepSmd8S90" target="_blank">THISisCarpentry youtube</a>
+  Simple Cabinet Construction, Part 1: Story Poles & Boxes
+</h3>
+
+Gary Striegler demonstrates how to build a simple two-piece cabinet--
+including doors, drawers, and moldings, with basic carpentry tools.
+
+<h4>
+  <a href="https://www.thisiscarpentry.com/2015/07/10/bisquick-cabinets/" target="_blank"></a>
+  Bisquick Cabinets by Gary Striegler on July 10, 2015 
+</h4>
+
+Where can one get American made plywood?
+
+Columbia Forest Products,,, try Home Depot for starters
+
+<h4>
+  <a href="https://www.columbiaforestproducts.com/products/" target="_blank">columbiaforestproducts.com</a>
+  Columbia Forest Products
+</h4>
+
+<pre>
+2755 East Las Vegas
+Colorado Springs, Colorado 80906
+United States
+
+Austin Hardwoods - Denver
+Denver, Colorado 
+</pre>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
--->
-
-
-
-
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

@@ -1,25 +1,18 @@
 ---
-title: "Podcasts"
-created_at: Wed Dec 24 09:33:00 MST 2014
+title: "Ancient Christian Commentary"
+created_at: Sun Jan 27 16:11:53 MST 2019
 kind: article
 tags:
-  - podcast
-  - podcast_list
+  - bible
+  - bible_commentary
+  - church_fathers
+  - thomas_c_oden
 ---
 
 <h3>
-  <a href="http://getrssfeed.com/" target="_blank">getrssfeed.com/</a>
-  from Podcast Addict Xavier Guillemane
+  <a href="https://www.ivpress.com/ancient-christian-commentary-on-scripture" target="_blank">ivpress.com</a>
+  Ancient Christian Commentary on Scripture Edited by Thomas C. Oden 
 </h3>
-
-Paste your iTunes / SoundCloud urls and let the service retrieve the podcast public RSS feed for you
-
-<h3>
-  <a href="http://twit.tv/show/floss-weekly" target="_blank">twit.tv/show</a>
-  FLOSS Weekly
-</h3>
-
-<h1>Manage mp3 player</h1>
 
 <!--
 html boilerplate fragments

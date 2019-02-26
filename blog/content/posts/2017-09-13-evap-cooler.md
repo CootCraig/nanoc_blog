@@ -187,7 +187,10 @@ A set of 3 pads, 28 in. x 32 in.  Our Aspen Snow Cool Pads are made with
 Grid-Flo stitching. This creates an even flow of water throughout the
 pad. It also prevents sagging. This delivers cool air more efficiently.
 
+<pre>
 Order #W784742779 Order Total: $18.25. Thu Sep 28 23:46:16 MDT 2017
+Ordered again fall of 2018.
+</pre>
 
 <h1>Cooler Covers</h1>
 

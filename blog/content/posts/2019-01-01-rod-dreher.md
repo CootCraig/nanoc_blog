@@ -16,6 +16,11 @@ tags:
 </h3>
 
 <h3>
+  <a href="https://journeytoorthodoxy.com/2010/06/crunchy-cons-conversion-crisis/" target="_blank">journeytoorthodoxy.com</a>
+  Crunchy Con’s Conversion Crisis by Rod Dreher
+</h3>
+
+<h3>
   <a href="https://journeytoorthodoxy.com/2011/03/whats-so-appealing-about-orthodoxy/" target="_blank">journeytoorthodoxy.com</a>
   What’s So Appealing About Orthodoxy?
 </h3>

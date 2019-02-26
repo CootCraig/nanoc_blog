@@ -166,18 +166,46 @@ Arctic Alpine M1 Passive Cooler, OCZ Trion 150 480GB SSD, Crucial
 Ballistix Sport 8GB DDR3 1600 RAM, Seasonic 400 watt modular fan-less
 power supply, LIAN LI HTPC Case. The whole system is completely fan-less.
 
+<h1>Zotac Zbox</h1>
+
+<h3>
+  <a href="https://www.cnx-software.com/2019/02/06/zotac-zbox-pro-embedded-mini-pc/" target="_blank"></a>
+  ZOTAC Unveils ZBOX PRO Embedded Mini PC Line-up
+</h3>
+
+<h3>
+  <a href="https://www.zotac.com/pk" target="_blank">zotac.com</a>
+  Zotac
+</h3>
+
+<h3>
+  <a href="https://www.fanlesstech.com/2019/02/introducing-zbox-pro-family.html" target="_blank"></a>
+  2.04.2019 Introducing the ZBOX PRO family 
+</h3>
+
+<h3>
+<a href="" target="_blank"></a>
+</h3>
+
+<h3>
+<a href="" target="_blank"></a>
+</h3>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
--->
+:-->

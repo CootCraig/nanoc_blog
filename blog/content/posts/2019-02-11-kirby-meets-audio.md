@@ -1,25 +1,15 @@
 ---
-title: "Podcasts"
-created_at: Wed Dec 24 09:33:00 MST 2014
+title: "Kirby Meets Audio"
+created_at: Mon Feb 11 09:32:50 MST 2019
 kind: article
 tags:
-  - podcast
-  - podcast_list
+  - speaker_building
 ---
 
 <h3>
-  <a href="http://getrssfeed.com/" target="_blank">getrssfeed.com/</a>
-  from Podcast Addict Xavier Guillemane
-</h3>
-
-Paste your iTunes / SoundCloud urls and let the service retrieve the podcast public RSS feed for you
-
+<a href="https://www.youtube.com/watch?v=3yzxKVf9ygE" target="_blank">Kirby Meets Audio youtube</a>
+  Walnut Bookshelf Speakers | BUILD PLANS | DIY Passive Speaker Build
 <h3>
-  <a href="http://twit.tv/show/floss-weekly" target="_blank">twit.tv/show</a>
-  FLOSS Weekly
-</h3>
-
-<h1>Manage mp3 player</h1>
 
 <!--
 html boilerplate fragments

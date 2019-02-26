@@ -1,25 +1,20 @@
 ---
-title: "Podcasts"
-created_at: Wed Dec 24 09:33:00 MST 2014
+title: "Christopher Dawson"
+created_at: Tue Jan 29 21:15:51 MST 2019
 kind: article
 tags:
-  - podcast
-  - podcast_list
+  - christopher_dawson
 ---
 
 <h3>
-  <a href="http://getrssfeed.com/" target="_blank">getrssfeed.com/</a>
-  from Podcast Addict Xavier Guillemane
+  <a href="https://theimaginativeconservative.org/category/the-imaginative-conservative/christopher-dawson" target="_blank">theimaginativeconservative.org</a>
+  Christopher Dawson
 </h3>
-
-Paste your iTunes / SoundCloud urls and let the service retrieve the podcast public RSS feed for you
 
 <h3>
-  <a href="http://twit.tv/show/floss-weekly" target="_blank">twit.tv/show</a>
-  FLOSS Weekly
+  <a href="https://en.wikipedia.org/wiki/Christopher_Dawson" target="_blank">wikipedia.org</a>
+  Christopher Dawson
 </h3>
-
-<h1>Manage mp3 player</h1>
 
 <!--
 html boilerplate fragments

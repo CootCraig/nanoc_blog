@@ -16,7 +16,7 @@ tags:
 
 <h4>Sept. 2018 purchased 60 bags of pellets $349</h4>
 
-Black Hills Gold by Spearfish Pellet Company purhcased from The Woodshed Stove Shop
+Black Hills Gold by Spearfish Pellet Company purchased from The Woodshed Stove Shop
 
 <pre>
 2018-10-06 0 bags loaded - 60 bags left (first day burning pellets)
@@ -27,6 +27,8 @@ Black Hills Gold by Spearfish Pellet Company purhcased from The Woodshed Stove S
 2018-10-14 2 bags loaded - 54 bags left
 2018-11-09 1 bags loaded - 53 bags left
 2018-12-06 1 bags loaded - 52 bags left
+2019-02-04 1 bags loaded - 51 bags left
+2019-02-09 1 bags loaded - 50 bags left
 </pre>
 
 

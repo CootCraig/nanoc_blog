@@ -706,6 +706,35 @@ The Falken SN-828 is a T speed rated touring tire designed for a wide
 range of vehicles in sizes 13 inch to 16 inch. All-season traction,
 positive handling and a quiet ride help deliver solid value.
 
+
+<h2>replace tires 2019-02-02</h2>
+
+225/60r16
+
+Check TireRack and DiscountTire
+
+<pre>
+Discount Tire
+Friday, Feb 8 - 12:00 PM
+1826 highway 50 west, pueblo, CO 81008-1615
+719-545-3407
+
+GT RadialTouring VP Plus225 /60 R16 98H SL BSW
+Item #31666
+Total including tax and installation. $372.41
+
+GT Radial Touring VP Plus
+225 /60 R16 98H SL BSW
+ITEM: 31666
+64.00 QTY 4 	TOTAL 256.00
+Tire Disposal Fee 	10.00
+Environmental Fee (State Required) 	2.20
+Installation & Lifetime Spin Balancing 	84.00
+Subtotal 	$352.20
+Taxes 	$20.21
+Total 	$372.41 
+</pre>
+
 <h3>
   <a href="https://www.amazon.com/dp/B003V9JWHO" target="_blank">$13 at amazon</a>
   Form-A-Funnel Flexible Draining Tool - 6.5" x 14.5" 

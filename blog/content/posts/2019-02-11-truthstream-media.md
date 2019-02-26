@@ -1,25 +1,20 @@
 ---
-title: "Podcasts"
-created_at: Wed Dec 24 09:33:00 MST 2014
+title: "Truthstream Media"
+created_at: Mon Feb 11 09:35:12 MST 2019
 kind: article
 tags:
-  - podcast
-  - podcast_list
+  - truthstream_media
+  - conspiracy
 ---
 
-<h3>
-  <a href="http://getrssfeed.com/" target="_blank">getrssfeed.com/</a>
-  from Podcast Addict Xavier Guillemane
-</h3>
-
-Paste your iTunes / SoundCloud urls and let the service retrieve the podcast public RSS feed for you
+<h1>
+  <a href="http://www.truthstreammedia.com/about-tsm" target="_blank">Truthstream Media - about</a>
+</h1>
 
 <h3>
-  <a href="http://twit.tv/show/floss-weekly" target="_blank">twit.tv/show</a>
-  FLOSS Weekly
+  <a href="https://www.youtube.com/watch?v=LQucESRF3Sg" target="_blank">Truthstream Media youtube</a>
+  The Minds of Men | Official Documentary by Aaron & Melissa Dykes
 </h3>
-
-<h1>Manage mp3 player</h1>
 
 <!--
 html boilerplate fragments
