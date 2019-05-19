@@ -12,6 +12,9 @@ tags:
 
 # Consumables
 
+Purple Power Pressure Wash.  $8.49 at O'Reilly. special order.
+For stripping wax, deep cleaning
+
 ## Spray Foam Soap
 
 <ul>
@@ -507,6 +510,35 @@ every chance you get, a spray on wax remover is for you.
 </h3>
 
 Also uses a lot of Meguiar's D15601 Synthetic X-Press Spray Wax - 1 Gallon $32.99
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=pHLvGCnyBZw" target="_blank">Wilson Auto Detailing youtube</a>
+  Meguiars Synthetic Express Spray Wax: Dry Your Car!
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=01qDr-TtJvo" target="_blank">Million Reflections - Luxury Automotive Detailing youtube</a>
+  Meguiars Synthetic X-Press Spray Wax - Easy Way To Wax And Maintain Your Vehicle
+</h3>
+
+<pre>
+uses as clay bar lubricant
+</pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=tzLlo3ySIrs" target="_blank">Dallas Paint Correction & Auto Detailing youtube</a>
+  No Water Spots When Washing In The Sun - Secret Told!
+</h3>
+
+<pre>
+10m 30s - pdms chemical used in car wash tunnels
+11m 19s Superior Products Formula 4 Spray Wax
+
+Superior Products Liquid Spray Wax - available from O'Reilly
+https://superiorproducts.com/product/formula-4-spray-wax/
+https://www.oreillyauto.com/detail/b/superior-products-4886/waxes---washes-16651/wax-25273/0a1bd7bea73e/superior-products-liquid-spray-wax/c841/4710789/2012/chevrolet/silverado-1500
+</pre>
+
 
 <!--
 html boilerplate fragments

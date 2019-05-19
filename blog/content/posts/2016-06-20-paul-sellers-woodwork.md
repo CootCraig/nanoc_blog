@@ -9,7 +9,8 @@ tags:
   - paul_sellers
   - american_woodworker
   - router_jigs
-  - router-planer
+  - router_planer
+  - workbench
 ---
 
 # <a href="https://paulsellers.com/" target="_blank">Paul Sellers Site</a>
@@ -90,15 +91,26 @@ jointer and planer, such as an end-grain cutting board. All you have to
 do is build a simple jig that lets you slide your router back and forth
 above the stock. It's just like having a CNC machine—without the CNC!
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=53PrmkFpdI0" target="_blank">Paul Sellers youtube</a>
+  The Paul Sellers Plywood Workbench | Episode 1
+</h3>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
--->
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

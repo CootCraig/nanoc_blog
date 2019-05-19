@@ -6,6 +6,7 @@ tags:
   - woodworking
   - jigsaw
   - bandsaw
+  - workbench
 ---
 
 ## [youtube](https://www.youtube.com/watch?v=_68LOm7KCR4) Video
@@ -56,6 +57,16 @@ Silicon carbide.
 Aluminum oxide.
 
 Dan Harold1 - Old document scanners and copiers may be a good source of flat tempered glass.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=m4e5BRqRwy8" target="_blank">Stumpy Nubs youtube</a>
+  NO BS- What every woodworker needs to know about workbenches
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=o7yF5av6MDM" target="_blank">Stumpy Nubs youtube</a>
+  2X6 Andre Roubo Workbench- Old-Timey Woodworking with Stumpy Nubs #4
+</h3>
 
 <!--
 html boilerplate

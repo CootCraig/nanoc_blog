@@ -20,6 +20,18 @@ Ubuntu 14.04.5 LTS (Trusty Tahr)
 Ubuntu 12.04.5 LTS (Precise Pangolin) 
 </pre>
 
+<h4>
+  <a href="https://github.com/ayufan-pine64/linux-build/releases/tag/0.7.28" target="_blank">github.com/ayufan-pine64</a>
+  xenial-mate-pinebook-bspkernel-0.7.28-136.img.xz 
+</h4>
+
+<h3>
+  <a href="https://askubuntu.com/questions/770135/apt-full-upgrade-versus-apt-get-dist-upgrade/770140#770140" target="_blank">askubuntu.com/questions</a>
+  apt full-upgrade versus apt-get dist-upgrade
+</h3>
+
+apt full-upgrade
+
 <h3>
   <a href="https://mate-desktop.org/" target="_blank">mate-desktop.org</a>
 </h3>

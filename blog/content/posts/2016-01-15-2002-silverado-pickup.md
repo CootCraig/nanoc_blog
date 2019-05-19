@@ -6,6 +6,20 @@ tags:
   - 2002_Silverado_pickup
 ---
 
+<h1>April 2019 sale</h1>
+
+edmunds
+autotrader
+craig's list
+
+Lowest price found: 
+$2990 on edmunds, from dealer.
+$2600 on craig's list private seller.
+
+2600 - 1200 = 1400
+
+Ask 1700. take 1200.
+
 <h2>
   <a href="https://en.wikipedia.org/wiki/GMT800" target="_blank">wikipedia.org/wiki/</a>
   gmt800 platform - 1999 to 2005
@@ -323,6 +337,25 @@ https://www.crutchfield.com/Car/outfitmycar/mycar.aspx
   <a href="https://www.youtube.com/watch?v=A_U2qF9yKTg" target="_blank">Johnny Sanders youtube</a>
   Car stereo wiring with posi-twist connectors
 </h4>
+
+<h1>Sale</h1>
+
+Tue Apr 23 18:08:39 MDT 2019
+
+<pre>
+bob51@tradermail.info
+VIN: 1GCEK19TX2E233277.
+4WD. 8 cyl. 5.3L engine. 4 speed automatic transmission.
+Cruise control works, but dash light is out.
+Air conditioning works.
+Tires: P245/75R16.
+Willing to meet buyer in Pueblo.
+VIN build report: http://www.compnine.com/mycar.php?id=5e3f4cec4e27969d49e32e806f723c41
+
+should have added: clean title.
+</pre>
+
+<h4>Mailinator email address on Craig's List</h4>
 
 <!--
 html boilerplate

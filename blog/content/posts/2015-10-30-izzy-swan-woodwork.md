@@ -12,6 +12,7 @@ tags:
   - diy_wedge
   - router_jigs
   - router_as_jointer
+  - sawmill
 ---
 
 <a href="https://www.youtube.com/watch?v=E7Qc2FNaLyU" target="_blank">Izzy's Track Guide</a>
@@ -31,15 +32,26 @@ izzy swan - Build A Simple Jig To Make Wood Shims/Wedges
 <a href="https://www.youtube.com/watch?v=ryaL6buKmyo" target="_blank">youtube</a>
 izzy swan - SIMPLE JIG! Turns Table Saw into a jointer! Flatten Stock!!!
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=09ixWGEvlAI" target="_blank">izzy swan youtube</a>
+  Insanely Cheap Chainsaw Sawmill | How To
+</h3>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
--->
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

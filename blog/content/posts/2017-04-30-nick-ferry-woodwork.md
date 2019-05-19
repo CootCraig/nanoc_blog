@@ -12,6 +12,11 @@ tags:
   <a href="https://www.youtube.com/channel/UCrbGKAwkVaQmTowmTYBm5Vg" target="_blank">Nick Ferry Youtube Channel</a>
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=Il5vFKGv3Uc" target="_blank">Nick Ferry Youtube</a>
+  Best Way For Gluing Wood Together To Get Thick Pieces (ep86)
+</h3>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

@@ -101,6 +101,11 @@ etc.
   Honey for a Child's Heart 2002 by Gladys Hunt (Author) 
 <h2>
 
+<h3>
+  <a href="https://www.amazon.com/000-Books-Read-Before-Life-Changing/dp/1523504455" target="_blank">$23 at amazon</a>
+  1,000 Books to Read Before You Die: A Life-Changing List by James Mustich
+</h3>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

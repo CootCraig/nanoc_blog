@@ -456,6 +456,11 @@ Chemical Guys CWS201 Microfiber Wash Cleaning Detergent Concentrate - 1 gal.
 
 The Rag Company youtube channel <a href="https://www.youtube.com/channel/UCQ2F2qAuOn1WT-I-hDUG2YA" target="_blank">youtube</a>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=SNPtBeyOlNA" target="_blank">The Rag Company youtube</a>
+  WATER SPOT REMOVAL: What Works Best? | Product Comparison
+</h3>
+
 ### Everest 800 16 x 16 Ultra Plush Microfiber Towel
 
 Everest 800 16 x 16 Ultra Plush Microfiber Towel
@@ -815,9 +820,41 @@ Meguiar's G17516 Ultimate Quik Wax <a href="http://www.amazon.com/Meguiars-G1751
 
 Optimum (ID2008P) Instant Detailer & Gloss Enhancer - 17 oz.  <a href="http://www.amazon.com/Optimum-ID2008P-Instant-Detailer-Enhancer/dp/B00GG9FBJ4" target="_blank">$11.32/17oz at Amazon $43/1gal</a>
 
+<h3>
+  <a href="" target="_blank">Chicago Auto Pros youtube</a>
+  A detailers SECRETS to hand washing
+</h3>
+
+<pre>
+maintenance watch vs. detailing prep
+rinse with pressure washer
+wheels, use gloves
+degreaser spray
+</pre>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=tWpRnnhKGzY" target="_blank">Dallas Paint Correction & Auto Detailing youtube</a>
+  A Better Soap Than Chemical Guys Clean Slate Or Adam's Strip Wash!
+</h3>
+
+Purple Power Pressure Wash.
+$8.49 at O'Reilly. special order
 
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
+<a name=""></a>
 <img src="" width="400px">
--->
+<ul>
+  <li></li>
+  <li><a href="" target="_blank"></a></li>
+</ul>
+<pre>
+</pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+<pre><code>
+</code></pre>
+<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
+</math>
+:-->

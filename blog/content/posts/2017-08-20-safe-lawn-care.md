@@ -7,6 +7,38 @@ tags:
   - safe_lawn_care
 ---
 
+<pre>
+Tue Apr  9 13:22:18 MDT 2019
+https://www.outsidepride.com/cart/checkout/complete
+Miniclover® Seeds - 5 LBS
+SUBTOTAL $79.99
+SHIPPING $7.50
+GRAND TOTAL $87.49
+</pre>
+
+<pre>
+Overseeding Existing Lawn: Seed at 1/2 - 1 lb per 1,000 square feet
+1 lb = 454g.
+seed at 454g per 1000 sq.ft.
+</pre>
+
+<h3>
+  <a href="https://laidbackgardener.blog/tag/micro-clover-lawn/" target="_blank">laidbackgardener.blog</a>
+  Micro-clover: a New Groundcover to Discover
+</h3>
+
+There are several micro-clover cultivars, but ‘Pipolina’ seems to be
+the only one that is available in North America. It is rarely available
+in local garden centers. You pretty much have to have it delivered. Here
+are a few suppliers that will ship seed to you:
+
+<ul>
+  <li> <a href="https://www.oscseeds.com/product/pipolina-microclover-6737/" target="_blank">Ontario Seed Company</a> Pipolina Micro Clover Seeds 6737</li>
+  <li> <a href="https://www.outsidepride.com/seed/clover-seed/miniclover.html" target="_blank">Outside Pride</a>Miniclover® (Trifolium repens) </li>
+  <li> <a href="https://www.seedworldusa.com/products/micro-clover-seed?variant=411867073" target="_blank">Seed World</a>Micro Clover Seed - 1 Lb. (Pipolina) </li>
+  <li> <a href="https://www.westcoastseeds.com/products/micro-clover-seed-raw" target="_blank">West Coast Seed</a>Micro Clover Seed Raw </li>
+</ul>
+
 <h1>
   <a href="https://www.youtube.com/watch?v=b49Z1S4430o" target="_blank">SafeLawnsOrg on youtube</a>
 </h1>

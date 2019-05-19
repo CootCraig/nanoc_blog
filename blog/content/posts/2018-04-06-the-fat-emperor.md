@@ -52,6 +52,18 @@ LDL near worthless
 
 7m 27s - Insulin Resitance overview
 
+<h3>Lower Insulin on Facebook</h3>
+
+Gabor Erdosi Lower than 6, but preferably <4.
+If it was totally up to my choices I’d go for a triplicate blood draw with 3-minute intervals.
+There are some proxies for insulin, such as the GKI (glucose ketone index), or TG/HDL, but these are not very accurate.
+
+<h3>
+  <a href="https://www.thebloodcode.com/homa-ir-calculator/" target="_blank">thebloodcode.com</a>
+  The Blood Code / HOMA IR – Insulin Resistance Calculator
+</h3>
+
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

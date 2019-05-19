@@ -10,7 +10,9 @@ tags:
 
 <pre>
 category, product, price, quantity, units, price per quantity, vendor, date
-meat, ground chuck, 46.68, 12, pounds, , Frank's Meat Market, 2019-02-21
+meat, ground chuck, 46.68, 12, pounds, 3.89, Frank's Meat Market, 2019-02-21
+meat, ground chuck, 50.57, 13, pounds, 3.89, Frank's Meat Market, 2019-02-27
+meat, ground chuck, 46.68, 12, pounds, 3.89, Frank's Meat Market, 2019-03-07
 </pre>
 
 <!--

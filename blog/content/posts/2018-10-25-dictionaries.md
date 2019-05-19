@@ -7,6 +7,11 @@ tags:
 ---
 
 <h3>
+  <a href="http://webstersdictionary1828.com/" target="_blank">webstersdictionary1828.com</a>
+  Online - An American Dictionary of the English Language by Noah Webster
+</h3>
+
+<h3>
   <a href="https://www.amazon.com/American-Dictionary-English-Language-1828-ebook/dp/B00O3T2AP" target="_blank">$6.95 for Kindle</a>
   American Dictionary of the English Language (1828 Edition) Kindle Edition
 </h3>
@@ -38,12 +43,6 @@ and published in 1828. It contained 70,000 words. It is no exaggeration
 to say that it was immediately accepted as the greatest dictionary of the
 English language on both sides of the Atlantic. Webster had an absolute
 genius for defining words.
-
-<h3>
-
-  <a href="http://webstersdictionary1828.com/" target="_blank">webstersdictionary1828.com</a>
-  Online - An American Dictionary of the English Language by Noah Webster
-</h3>
 
 <h3>
   <a href="http://webstersdictionary1828.com/" target="_blank">webstersdictionary1828.com</a>

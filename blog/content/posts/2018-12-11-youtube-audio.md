@@ -13,6 +13,19 @@ tags:
   simple, fast, has no ads, popups or malware. Enjoy!
 </h4>
 
+<h3>
+<a href="http://ytdl-org.github.io/youtube-dl/download.html" target="_blank">ytdl-org.github.io</a>
+  youtube-dl - Download Page
+</h3>
+
+<h4>You can use pip.</h4>
+
+sudo pip install --upgrade youtube_dl
+
+This command will update youtube-dl if you have already installed it. See the 
+<a href="https://pypi.python.org/pypi/youtube_dl" target="_blank">pypi page</a>
+for more information. 
+
 <h4>
   <a href="https://aur.archlinux.org/packages/youtube-dl-mp3/" target="_blank">https://aur.archlinux.org/packages/youtube-dl-mp3/</a>
 </h4>

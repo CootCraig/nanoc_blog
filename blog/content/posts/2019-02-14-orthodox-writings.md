@@ -102,6 +102,16 @@ The Martyrdom of Polycarp
 The Shepherd of Hermas
 </pre>
 
+<h3>
+  <a href="https://b-ok.cc/book/3691629/51c66a?fbclid=IwAR0re8mn1DJHGbPw0HpmH_FAQC7-U8200xiIGq62rQqqmXCGjOA01MLd0CA" target="_blank">https://b-ok.cc/book</a>
+  Orthodox Dogmatic Theology by Michael Pomazansky
+</h3>
+
+<h3>
+  <a href="https://b-ok.cc/book/3691629/51c66a?fbclid=IwAR0re8mn1DJHGbPw0HpmH_FAQC7-U8200xiIGq62rQqqmXCGjOA01MLd0CA" target="_blank">https://b-ok.cc/book</a>
+  search: Maximus the confessor
+</h3>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

@@ -7,6 +7,26 @@ tags:
   - linux
 ---
 
+<h3>
+  <a href="https://github.com/pine64dev/PINE64-Installer/releases" target="_blank">github.com</a>
+  Pine64 Installer Releases
+</h3>
+
+<h4>
+  <a href="https://forum.pine64.org/showthread.php?tid=6225" target="_blank">forum.pine64.org</a>
+  PINE64 › General › General > Releases and Pre-Releases (Read this before posting!) 
+</h4>
+
+<h3>
+  <a href="https://github.com/ayufan-pine64/linux-build/releases" target="_blank">github.com/ayufan-pine64</a>
+  linux-build/releases
+</h3>
+
+<h3>
+  <a href="https://github.com/anarsoul/linux-build/releases" target="_blank">github.com/anarsoul</a>
+  linux-build/releases
+</h3>
+
 <h1>
   <a href="https://www.pine64.org/" target="_blank">pine64.org</a>
 </h1>
@@ -18,6 +38,11 @@ tags:
 <h2>
   <a href="https://forum.pine64.org/index.php" target="_blank">Pine64 Forum</a>
 </h2>
+
+<h3>
+  <a href="http://wiki.pine64.org/index.php/Pinebook_Software_Release#Xenial_Mate_eMMC" target="_blank">wiki.pine64.org</a>
+  Pinebook Software Release
+</h3>
 
 <h3>
   <a href="https://forum.pine64.org/showthread.php?tid=4633" target="_blank">forum.pine64.org/showthread</a>
@@ -314,6 +339,25 @@ post was last modified: 07-25-2017
   <a href="http://wiki.pine64.org/index.php/NOOB" target="_blank">wiki.pine64.org</a>
   NOOB
 </h3>
+
+<h2>
+  <a href="https://www.debian.org/releases/" target="_blank">debian.org</a>
+  Debian Releases
+</h2>
+
+<pre>
+Sun Apr 28 21:33:06 MDT 2019
+
+The "stable" distribution contains the latest officially released
+distribution of Debian.
+
+This is the production release of Debian, the one which we primarily
+recommend using.
+
+The current "stable" distribution of Debian is version 9, codenamed
+stretch. It was initially released as version 9 on June 17th, 2017 and
+its latest update, version 9.9, was released on April 27th, 2019.
+</pre>
 
 <!--
 html boilerplate fragments

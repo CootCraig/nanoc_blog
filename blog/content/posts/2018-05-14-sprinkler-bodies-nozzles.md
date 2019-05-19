@@ -11,6 +11,11 @@ tags:
   <a href="https://www.hunterindustries.com/en-metric/irrigation-product/mp-rotator/mp-rotator" target="_blank">Hunter MP Rotator Nozzles</a>
 </h2>
 
+<h3>
+  <a href="https://www.hunterindustries.com/sites/default/files/rc_mprotator_dom.pdf" target="_blank">hunterindustries.com</a>
+  MP Rotator Reference Card
+</h3>
+
 <pre>
 MP1000-90 = 2.5 - 4.5 m radius, adjustable from 90º - 210º
 MP1000-210 = 2.5 - 4.5 m radius, adjustable from 210º - 270º
@@ -44,6 +49,36 @@ MPCORNER = 2.5 - 4.5 m radius, adjustable from 45º - 105º
   <a href="http://www.sprinklerwarehouse.com/Hunter-Sprinkler-Rotator-Nozzle-Tool-p/mpstick-kit.htm" target="_blank">$2.60 at sprinklerwarehouse.com/Hunter</a>
 </h3>
 
+<h3>
+  <a href="https://www.sprinklerwarehouse.com/hunter-pro-spray-sprinkler-series" target="_blank"></a>
+  Hunter SI Spray Head 6" | PROS-06 - like side inlet - $5.27
+</h3>
+
+<h3>
+  <a href="https://www.hunterindustries.com/irrigation-product/spray-bodies/pro-spray-prs40" target="_blank">hunterindustries.com</a>
+  Pro-Spray PRS40 - regulated 40psi
+</h3>
+
+<pre>
+PROS-06-PRS40-CV
+Overall Height: 8¾"
+Pop-up Height: 6"
+Exposed Diameter: 2¼"
+Inlet Size: ½" NPT
+</pre>
+
+<h2>
+  <a href="https://www.hunterindustries.com/irrigation-product/rotors/pgp-adj" target="_blank">hunterindustries.com</a>
+  Hunter PGP-ADJ rotor
+</h2>
+
+Purchased PGP ADJ Rotor - pgp04 at Mesa Hardware
+
+<h4>
+  <a href="https://www.hunterindustries.com/sites/default/files/IC_PGP_dom.pdf" target="_blank">hunterindustries.com</a>
+  PGP Installation Document
+</h4>
+
 <h2>
   <a href="http://www.sprinklerwarehouse.com/Hunter-Rotary-Nozzles-Bodies-s/7572.htm" target="_blank">Hunter MP Rotator Nozzles & Bodies at sprinklerwarehouse.com</a>
 </h2>
@@ -76,6 +111,11 @@ at 50s shows ratcheting riser
 <h3>
   MP Rotator - Built to Perform. Efficiency Nozzle Comparison
   <a href="https://www.youtube.com/watch?v=nmsZtby1iOw" target="_blank">Hunter Irrigation youtube</a>
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=a0lMnLb20rQ" target="_blank">JB Projects youtube</a>
+  Hunter MP Rotator - Side Strip
 </h3>
 
 <h3>
@@ -151,6 +191,28 @@ Compatible with all standard female-thread nozzles.
 <h3>
   <a href="https://www.krain.com/pro-s-spray-12-w-male-riser-and-flush-cap-78012" target="_blank">PRO S SPRAY 12" W/ MALE RISER AND FLUSH CAP</a>
 </h3>
+
+<h1>Rain Bird R-VAN</h1>
+
+R-van adjusts with no tools.
+Radius adjusts more than Hunter mp-rotator.
+
+<h2>
+  <a href="https://www.rainbird.com/products/r-van-series-rotary-nozzles" target="_blank">rainbird.com</a>
+  R-VAN Series Rotary Nozzles 
+</h2>
+
+<h3>
+  <a href="http://rvanrotarynozzles.rainbird.com/" target="_blank">rvanrotarynozzles.rainbird.com</a>
+  R-VAN Rotary Nozzles
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=qTlY6u_NO_w" target="_blank">ValleyScape Irrigation & Outdoor Lighting youtube</a>
+  Hunter MP Rotator or Rain Bird RVan? Pro advice.
+</h3>
+
+Prefers Hunter MP-rotator, but RVan good as well.
 
 <!--
 html boilerplate

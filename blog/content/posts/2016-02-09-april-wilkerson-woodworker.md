@@ -6,6 +6,8 @@ tags:
   - woodworking
   - woodworking_people
   - april_wilkerson
+  - sawmill
+  - workbench
 ---
 
 April Wilkerson  <a href="https://www.youtube.com/channel/UC4v2tQ8GqP0RbmAzhp4IFkQ" target="_blank">youtube channel</a>
@@ -34,18 +36,26 @@ Triton Super Jaws
   Building a Garbage Can Enclosure - Part 1
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=581KA3TZtGc" target="_blank">April Wilkerson youtube</a>
+  Crazy Simple Chainsaw Mill : How To Slab Logs
+</h4>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
--->
+:-->

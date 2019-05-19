@@ -8,6 +8,78 @@ tags:
   - nokia_6760_slide
 ---
 
+<pre>
+Thu Mar 21 09:28:25 MDT 2019
+imei 256691510605243975
+battery - Kyocera OEM Part No #: SCP-69LBPS
+Does not use SIM card, so I can't try my BlackBerry.
+
+Ordered Kyocera DuraXTP E4281 - Black ( Sprint) Rugged Cellular Flip Phone
+
+ebay
+Total: $79.99
+Item ID: 123659859629 
+
+
+Kyocera DuraXTP E4281 - micro-sim
+BlackBerry Bold 9930 - physical qwerty - BB7 OS - purchased $20 - Mini-SIM
+Sanyo SCP-3810 - flip phone - purchased $31.15 - no SIM
+BlackBerry Style 9670 - physical qwerty - BB6 OS - purchased $30.99 - Mini-SIM
+</pre>
+
+<pre>
+Mon Mar 18 14:35:23 MDT 2019
+call to Sprint, no luck.
+Blackberry Bold 9930
+IMEI/MEID
+358565.04.454847.7
+</pre>
+
+Tue Mar 19 07:08:50 MDT 2019. Post to CrackBerry
+
+<h3>
+  <a href="http://darkstar.x10host.com/nibble/" target="_blank">darkstar.x10host.com</a>
+  [GUIDE] BlackBerry Bold without BIS: Introduction
+</h3>
+
+<h3>
+  <a href="https://en.wikipedia.org/wiki/Mobile_phone_industry_in_the_United_States" target="_blank">en.wikipedia.org/wiki</a>
+  Mobile phone industry in the United States
+</h3>
+
+There are four major operators in the United States that offer nationwide wireless services.
+Two of these (AT&T and T-Mobile) provide service using the GSM standard,
+while the other two (Verizon and Sprint) primarily use CDMA. 
+All four also operate networks using LTE standard for their 4G services.
+
+<h4>Verizon Wireless - 4G service using LTE</h4>
+
+Verizon Wireless, headquartered in Basking Ridge, New Jersey,
+is a subsidiary of Verizon Communications, that offers 2G service
+using cdmaOne, 3G service using CDMA2000, and 4G service using LTE
+technology. See its coverage area map.
+
+<h4>AT&T Mobility - 4G service using HSPA+ and LTE</h4>
+
+AT&T Mobility, headquartered in Atlanta, Georgia, subsidiary of AT&T
+Inc., offers 2G service using GSM, 3G service using W-CDMA, and 4G
+service using HSPA+ and LTE technology. See its coverage area map.
+
+<h4>T-Mobile US - 4G service using HSPA+ and LTE</h4>
+
+T-Mobile US, headquartered in Bellevue, Washington, is a subsidiary
+of German telecommunications company T-Mobile International AG (with
+Deutsche Telekom as its majority stakeholder). T-Mobile US offers 2G
+service using GSM, 3G service using W-CDMA, and 4G service using HSPA+
+and LTE technology. See its coverage area map.
+
+<h4>Sprint Corporation - 4G service using LTE</h4>
+
+Sprint Corporation, headquartered in Overland Park, Kansas, is majority
+owned by Japanese telecommunications company SoftBank Group. Sprint
+offers 2G service using cdmaOne, 3G service using CDMA2000, and 4G
+service using LTE technology. See its coverage area map.
+
 <h3>
   List of United States mobile virtual network operators
   <a href="https://en.wikipedia.org/wiki/List_of_United_States_mobile_virtual_network_operators" target="_blank">wikipedia.org/wiki/List</a>
@@ -32,13 +104,6 @@ MEID
 Congratulations! Your device is compatible with the Patriot Mobile network and is ready for use immediately!
 </pre>
 
-
-<pre>
-Blackberry Bold 9930
-IMEI/MEID
-268435457804844220
-A000001249EABC
-</pre>
 
 <h2>
   Sprint and T-Mobile merger
@@ -846,6 +911,19 @@ side. It's definitely intended for use as a two-thumb affair, working
 best when you're messaging with both hands, and when used thusly it'll
 easily keep up with your most torrid BBM exchanges.
 
+<pre>
+Tucked beneath that is a microSD slot, where you can add up to 32GB
+of storage to boost the 8GB that's built-in, and a SIM slot. You'll
+be needing that to keep every one of this phone's radios singing, and
+there are many in this chorus line.
+In addition to dual-band CDMA / EVDO (800/1,900MHz)
+you're looking at dual-band UTMS / HSPA (900/2,100MHz) and
+quad-band GSM / GPRS / EDGE (850/900/1,800/1,900MHz), 
+plus 802/11a/b/g/n WiFi at 2.4 and 5.0GHz.
+If you've got a frequency calling, chances are
+this thing can answer -- unless it's 4G, of course.
+</pre>
+
 <h4>
   9900: Favourite tasks/Perfect Device
   <a href="https://forums.crackberry.com/blackberry-bold-9930-9900-f235/9900-favourite-tasks-perfect-device-1136331/#post13129531" target="_blank">crackberry.com/blackberry-bold</a>
@@ -969,6 +1047,182 @@ y Sanyo SCP3810 Sanyo SCP-3810
   <a href="https://www.phonearena.com/reviews/Sanyo-SCP-2700-Review_id2154" target="_blank"></a>
 </h3>
 
+<h1>4G lte feature phone search</h1>
+
+LG Extravert® 2 | Verizon Wireless VN280?
+
+LG Extravert 2 VN280
+
+Sanyo Incognito SCP-6760 Sprint but 3G
+
+LG Exalt LTE - Verizon 4G lte
+
+Verizon VN220 Silver 8GB LG Exalt 4G LTE Flip Phone
+Verizon VN220 LG Exalt
+
+Samsung Stratosphere - 4G LTE - qwerty - android
+Samsung Stratosphere offers 4G LTE access to Verizon's network 
+
+Kyocera Dura XTP?
+
+<h2>Proposal - Tue Mar 19 12:25 2019</h2>
+
+<pre>
+Samsung Stratosphere - 4G LTE
+On Verizon MVNO
+</pre>
+
+<h3>
+  <a href="https://en.wikipedia.org/wiki/List_of_United_States_mobile_virtual_network_operators" target="_blank">wikipedia.org</a>
+  List of United States mobile virtual network operators
+</h3>
+
+<h3>
+  <a href="https://www.visible.com/plan" target="_blank">visible.com/plan</a>
+  Unlimited everything on Verizon’s 4G LTE Network for just $40/mo
+</h3>
+
+<h3>
+Boom MVNO
+</h3>
+
+<pre>
+https://www.affinitycellular.com/
+https://www.entouchwireless.com/plans $20/month
+https://www.pagepluscellular.com/plans/
+http://www.selectelwireless.com/pricing-table/
+https://www.totalwireless.com/serviceplan
+https://mypuppywireless.com/store/x/
+https://www.visible.com/plan
+</pre>
+
+<h3>Shop for Samsung Stratosphere</h3>
+
+<h1>Sprint Flip Phone</h1>
+
+<h2>
+<a href="https://thedroidguy.com/2019/02/9-best-sprint-flip-phones-in-2019-1088195" target="_blank">thedroidguy.com</a>
+  9 Best Sprint Flip Phones In 2019
+</h2>
+
+<h3>Kyocera DuraXTP E4281, Black (Sprint)</h3>
+
+<h3>
+  <a href="https://support.sprint.com/global/pdf/user_guides/kyocera/duraxtp/kyocera_duraxtp_ug.pdf" target="_blank">sprint.com</a>
+  Kyocera DuraXTP User Guide
+</h3>
+
+<h3>
+  <a href="https://www.kyoceramobile.com/duraxtp/DuraXTP-Spec-Sheet-Sprint_en.pdf" target="_blank">kyoceramobile.com</a>
+  Kyocera DuraXTP Spec Sheet
+</h3>
+
+
+Contact Technical Support
+
+Support hours noted below are Monday - Friday, 6am PST - 6pm PST.
+USA and Canada
+1-800-349-4478
+
+<pre>
+Talk Time 	Up to 6.8 hours¹
+Standby Time 	Up to 26.7 days¹
+Battery Type 	1500mAh removable Lithium ion (Li-ion)
+Display 	Internal – 2.4" QVGA TFT (240 x 320 pixels)
+External – 1.08" Mono-color, high-contrast transflective LCD (102 x 90 pixels)
+Operating System 	BMP 1.0.4
+Camera 	5MP auto-focus camera with flash and video
+Chipset 	QSC6185, 480MHz
+Radios 	CDMA: (1x, EVDO Rev. A) BCO/BC1/BC10 (800/1900MHz)
+GSM/GPRS/EDGE: B5/B8/B3/B2 (850/900/1800/1900MHz), 1x Advanced
+Memory 	512MB ROM/256MB RAM
+microSD™ memory card slot (supports up to 32GB)²
+Size 	4.13 x 2.15 x 0.99 in (104.9 x 54.5 x 25.1 mm)
+Weight 	5.75 oz (163g)
+Media Formats 	Audio: AAC, AAC+, eAAC+, MIDI, QCLEP, AMR
+Video: MPEG4, H.263, H.264
+Image: BMP, GIF, JPEG, PNG
+</pre>
+
+<h1>LG 4g phone</h1>
+
+LG Support said only phone is 
+Verizon LG Exalt LTE VN220
+https://www.verizonwireless.com/basic-phones/lg-exalt-lte/
+
+<h1>Sprint flip phone</h1>
+
+Alcatel GO FLIP
+https://www.sprint.com/en/shop/cell-phones/alcatel-go-flip.html?ensembleId=AL4044TKIT
+
+This pocket sized flip phone delivers all the essential features to be productive in a durable compact phone. The 2.8Ã Â¢ display includes an easy-to-use intuitive interface and a keyboard designed for quick dialing and navigation. Check your calendar appointments, reply to e-mail, and surf the web all with the fast speed of 4G LTE. 
+
+<h1>Share SIM duraxtp micro 3FF - BB 9930 mini 2FF</h1>
+
+<pre>
+full-size 1FF (no longer in use)
+mini-sim 2FF (often called full-size)
+micro-sim 3FF
+nano-sim 4ff
+</pre>
+
+<pre>
+Kyocera DuraXTP E4281 - micro-sim
+BlackBerry Bold 9930 - physical qwerty - BB7 OS - purchased $20 - Mini-SIM
+Sanyo SCP-3810 - flip phone - purchased $31.15 - no SIM
+BlackBerry Style 9670 - physical qwerty - BB6 OS - purchased $30.99 - Mini-SIM
+</pre>
+
+<h3>
+  <a href="https://www.amazon.com/gp/product/B00EOABX5S" target="_blank">$11.99 at amazon</a>
+  SAdapter Sim Adapter - Nano To Micro, Nano To Full, Micro To Full Adapters
+</h3>
+
+This product has a nano to micro, a nano to mini, and a micro to mini. The
+"full" sim it refers to is really a mini sim. A true full sim is the
+size of a credit card.
+
+<h3>
+  <a href="https://www.androidcentral.com/warning-using-sim-adapter-incorrectly-brings-down-world-hate" target="_blank">androidcentral.com</a>
+  Warning: Using a SIM adapter incorrectly brings down a world of hate
+</h3>
+
+<h1>Phone Batteries</h1>
+
+<pre>
+Kyocera DuraXTP
+  1500mAh removable Lithium ion
+  Kyocera OEM Part No #: SCP-69LBPS
+  BELTRON SCP-69LBPS
+  OEM Original Kyocera SCP-69LBPS Battery for DuraXV LTE E4610 1530mAh
+BlackBerry Bold 9930 - physical qwerty - BB7 OS - purchased $20 - Mini-SIM
+  Battery Removable Li-Ion 1230 mAh battery
+  BlackBerry JM1
+  Blackberry ASY-18976-003 Extra Battery Charger for BlackBerry J-M1
+BlackBerry Style 9670 - physical qwerty - BB6 OS - purchased $30.99 - Mini-SIM
+  BlackBerry FM1 or F-M1
+  BlackBerry OEM F-M1 BATTERY PEARL 9100 9105 Style 9670 
+  BlackBerry ASY-34812-001 External Battery Charger for BlackBerry D-X1 / F-S1 / F-M1 Battery
+  on ebay - 5 x NEW OEM BlackBerry F-M1 Battery Phone Pearl 9105 9100 Style 9670 fm1 att lot
+Sanyo SCP-3810 - flip phone - purchased $31.15 - no SIM
+</pre>
+
+<h1>Sprint SIM phone search</h1>
+
+<pre>
+HTC Evo 4g LTE PJ175100 - keyboard - mini-sim
+  https://www.ebay.com/itm/HTC-EVO-Shift-4G-2GB-Black-Sprint-Clean-ESN-Used-Working/254053540704
+  https://www.ebay.com/itm/HTC-Evo-4g-LTE-PJ175100-16GB-White-Sprint-ESN-Clear-Read-Carefully-KW753/303102856969
+HTC PPC-6800 Sprint Windows Phone - keyboard
+  https://www.ebay.com/itm/HTC-PPC-6800-Sprint-Windows-Phone-Clean-ESN/123501052187?hash=item1cc13c811b%3Ag%3ABQsAAOSwe9Fb8y6U&LH_BIN=1
+LG LS670 Optimus S  - no sim
+Samsung Moment SPH-M900 - has keyboard - mini-sim
+  https://www.ebay.com/itm/Samsung-Moment-SPH-M900-Android-Sprint-Phone-BLACK-slider-keyboard-A-90067/163607408612?epid=102477396&hash=item2617c2efe4:m:mnXC3AbJuMgqRL0Q4T8DdeA
+Samsung Replenish SPH-M580  - has keyboard - Mini-SIM
+  268435460116649899 - patriot compatible
+  https://www.ebay.com/itm/Samsung-Replenish-SPH-M580-2-8-Qwerty-Android-Smartphone-Sprint-Clean-ESN/202573983645?hash=item2f2a59af9d:g:BdEAAOSwH0lcSAha
+Sanyo SCP 2700 - keyboard
+</pre>
 
 <!--
 html boilerplate

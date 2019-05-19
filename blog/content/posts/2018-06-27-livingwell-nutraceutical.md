@@ -11,6 +11,11 @@ tags:
 <h1>Reviews</h1>
 
 <h3>
+  <a href="https://www.amazon.com/Heal-N-Soothe/dp/B00MH4H3QQ" target="_blank">$60 for 90 at amazon</a>
+  HEAL-N-SOOTHE 
+</h3>
+
+<h3>
   Heal N Soothe Review – Is This Product Safe To Use?
   <a href="https://www.jointhealthmagazine.com/heal-n-soothe.html" target="_blank">jointhealthmagazine.com/heal</a>
 </h3>
@@ -78,26 +83,6 @@ and it takes about 3 days for the effect to kick in. Several of my family
 members have tried it (including myself) and it really seems to work. On
 the downside, taking only 1 capsule a day does not appear to be effective,
 and if you stop taking it, the pain returns.
-
-<h3>
-<a href="" target="_blank"></a>
-</h3>
-
-<h3>
-<a href="" target="_blank"></a>
-</h3>
-
-<h3>
-<a href="" target="_blank"></a>
-</h3>
-
-<h3>
-<a href="" target="_blank"></a>
-</h3>
-
-<h3>
-<a href="" target="_blank"></a>
-</h3>
 
 <!--
 html boilerplate fragments

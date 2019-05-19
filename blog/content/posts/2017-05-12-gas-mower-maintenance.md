@@ -6,7 +6,53 @@ tags:
   - gas_mower
 ---
 
+<pre>
+Husqvarna 7021p lawn mower.
+Honda GCV160 engine.
+</pre>
+
+<h3>
+  <a href="https://engines.honda.com/models/model-detail/gc-vertical#Specifications" target="_blank">engines.honda.com</a>
+  Honda GCV160 engine
+</h3>
+
+<h4>
+  <a href="https://cdn.powerequipment.honda.com/engines/pdf/manuals/00X37Z8B0023.pdf" target="_blank">cdn.powerequipment.honda.com</a>
+  Honda GCV160 engine owners manual
+</h4>
+
+<pre>
+GJARA 4161921 (serial #?)
+Oil Capacity 	0.58 US qt (0.55l)
+
+1 quart = 32 oz.
+18.0 oz. / 32.0 oz.  => 0.5625
+
+5W-30 or 10W30
+Refill amount: 12.0 ~ 13.5 oz (0.35 ~ 0.40 L)
+
+Spark Plug
+NGK - BPR5ES All other applications
+</pre>
+
 <h1>Sharpen Blade</h1>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=orJsGItY6NE" target="_blank">Gardening Products Review youtube</a>
+  How to Sharpen Lawn Mower Blades | Tutorial from Gardening Products Review
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=HkTqhfydrjk" target="_blank">Steve's Small Engine Saloon youtube</a>
+  How Do I Properly Sharpen and Balance a Lawn Mower Blade?
+</h3>
+
+Uses angle grinder.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=jsbTtEG078k" target="_blank">Steve's Small Engine Saloon youtube</a>
+  How Do I Install a Lawn Mower Blade Properly
+</h3>
 
 <h3>
   <a href="https://www.youtube.com/watch?v=qFusHPPmOFo" target="_blank">This Old House youtube</a>
@@ -79,6 +125,13 @@ pneumatic angle grinder with sanding disk.
 <h3>
   <a href="https://www.youtube.com/watch?v=Cpr9b0Qyfds" target="_blank">Foxboss9 youtube</a>
   Fix 90% of Briggs lawn mower not starting problems. Easy repair.
+</h3>
+
+<h2>Oil Change</h2>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=qk1PsuHJ0qs" target="_blank">megalodon1 youtube</a>
+  How To Do An Oil Change On Most HONDA Lawn Mower Models
 </h3>
 
 <!--

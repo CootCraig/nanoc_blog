@@ -208,6 +208,28 @@ prefer 01 or greater Crown Victoria
 90s   Toyota Camry with 2.2L engine
 </pre>
 
+<h2>toyota engine 2AZFE oil consumption</h2>
+
+If this is 2AZFE engine, then it's the biggest oil hog out there due to
+faulty piston rings which made a lot of noise around 2010 that forced
+Toyota to initiate engine repairs for free and extend warranty until
+2015. Not the most reliable as you can see.
+
+I believe the service bulletin was for 2006-2009
+
+<h4>
+  <a href="http://www.toyotaproblems.com/excessive-oil-consumption/" target="_blank">toyotaproblems.com</a>
+  Oil Consumption TSB
+</h4>
+
+On August 11, 2011, Toyota issued a technical service bulletin (TSB)1
+to dealerships which says:
+
+“Some 2006 – 2011 model year vehicles equipped with the 2AZ-FE
+engine may exhibit engine oil consumption. The piston assembly has been
+changed to minimize oil consumption.” And that “P030# (cylinder #
+misfire detected) DTC may also be set as a result of oil consumption.”
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

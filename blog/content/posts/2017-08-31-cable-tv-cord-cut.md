@@ -9,6 +9,16 @@ tags:
 
 <h1>Using</h1>
 
+<h3>
+  <a href="https://www.techradar.com/news/nhl-live-stream-how-to-watch-the-playoffs-and-stanley-cup-online-from-anywhere" target="_blank">techradar.com</a>
+  NHL live stream: how to watch the 2019 playoffs and Stanley Cup online from anywhere
+</h3>
+
+Sling TV starting at $15 per month - Sling TV's Blue package gives you
+access to NBC, NBCSN and USA though you’ll have to add the $5 News
+Extra and $5 Sports Extra packages to your subscription to watch games
+on CNBC and the NHL Network.
+
 Sling orange $20. Sling blue $25. Both $40.
 
 <h2>

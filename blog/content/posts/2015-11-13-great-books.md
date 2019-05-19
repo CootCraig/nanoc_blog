@@ -75,13 +75,63 @@ Simon & Schuster |  256 pages | ISBN 9780743477543 | January 2004
 Simon & Schuster |  272 pages | ISBN 9780743484961 | August 2005 
 </pre>
 
+<h1>Integrated Humanities Program. Univ. of Kansas</h1>
+
+<h3>
+  <a href="https://www.eighthdayinstitute.org/ihp_brochure_content" target="_blank">eighthdayinstitute.org</a>
+  IHP Brochure Content
+</h3>
+
+<pre>
+Semester I                    
+Homer, Odyssey and Illiad     
+Plato, Republic               
+Aesop, Fables                 
+Herodotus, Persian Wars       
+Thucydides, Peloponnesian War  
+Aeschylus, Oresteia            
+
+Semester II
+Virgil, Aeneid
+Caesar, Conquest of Gaul
+Plutarch, Makers of Rome
+Lucretius, The Nature of the Universe
+Cicero, On Duty
+Old Testament, Selections
+
+Semester III
+New Testament
+Augustine, Confessions
+Two Lives of Charlemagne
+Song of Roland
+Memoirs of the Crusades
+Sir Gawain and the Green Knight
+Boethius, Consolation of Philosophy
+St. Francis, Little Flowers
+Chaucer, Canterbury Tales
+
+Semester IV
+Cervantes, Don Quixote, Part I
+St. Cellini, Autobiography
+Shakespeare, Henry IV, Part I
+Shakespeare, Hamlet
+Descartes, Meditations
+Hume, Dialogues Concerning Natural Religion
+Scott, Ivanhoe
+Burke, Reflections on the French Revolution
+Newman and Huxley, Selections on Education
+Parkman, The Oregon Trail
+Dostoyevsky, Crime and Punishment
+</pre>
+
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
@@ -91,4 +141,4 @@ html boilerplate
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
--->
+:-->
