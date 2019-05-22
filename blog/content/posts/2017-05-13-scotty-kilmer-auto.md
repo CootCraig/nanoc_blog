@@ -263,6 +263,10 @@ check acid level, add distilled water
 2011 toyota camry - sold more camry than corolla in 2011
 </pre>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=Q-M0M69lIFY" target="_blank">Scotty Kilmer youtube</a>
+  Here’s Why This Celica is the Greatest Car Ever Made
+</h3>
 
 <!--
 html boilerplate fragments

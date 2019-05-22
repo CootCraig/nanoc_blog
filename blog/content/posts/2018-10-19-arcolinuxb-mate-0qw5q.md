@@ -132,6 +132,53 @@ sudo mount -t vboxsf r1 /mnt/r1
 See
 <a href="/posts/2018/10/arch-linux/#Automounting" target="_blank">virtualbox automounting</a>
 
+<h3>
+  <a href="https://arcolinux.com/updating-a-6-months-old-arcolinux-or-how-to-keep-rolling-and-never-clean-install/" target="_blank">arcolinux.com/</a>
+  Updating a 6 months old ArcoLinux or how to keep rolling and never clean install
+</h3>
+
+<pre>
+Good video, lots of information.
+update command: sudo pacman -Syyu
+  has alias: update
+alias update="sudo pacman -Syyu"
+
+sudo pacman -S archlinux-keyring
+update
+</pre>
+
+<h1>Wallpaper</h1>
+
+<h3>
+  <a href="https://arcolinux.com/how-to-change-the-wallpaper-with-variety/" target="_blank">arcolinux.com/</a>
+  How to change the wallpaper with variety
+</h3>
+
+<h3>
+  <a href="https://arcolinuxforum.com/viewtopic.php?t=1153" target="_blank">arcolinuxforum.com</a>
+  [SOLVED] How to keep wallpaper from changing
+</h3>
+
+<pre>
+There are tons of video's and articles about our wallpaper changer and provider.
+But you need to know the name aka variety
+Search our websites to look what you want to do next
+https://arcolinux.com/?s=variety
+</pre>
+
+<h3>
+  <a href="https://arcolinux.com/how-to-delete-variety-and-all-its-configuration-files/" target="_blank">arcolinux.com/</a>
+  How to delete variety and all its configuration files
+</h3>
+
+<pre>
+See ~/.config/variety/variety.conf
+
+sudo pacman -R variety
+sudo pacman -R arcolinux-variety-git
+Manually remove the folder: ~/.config/variety
+</pre>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

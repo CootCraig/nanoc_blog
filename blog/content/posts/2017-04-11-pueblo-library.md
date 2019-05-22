@@ -44,6 +44,25 @@ Daniel Gaghan tech lead 719-562-5642
 Zia Bravo 719-562-5692 ILL
 </pre>
 
+<pre>
+Adobe Digital Editions (ADE) is on Donna's PC.
+Kobo is authenticated to Craig's ADE account. adobe.com
+
+Overdrive
+  Checkout books online or on Kobo.
+  Synced with Kobo directly
+
+Cloud Library
+  On Windows PC. Use Cloud Library app. Get book. Close app. Connect Kobo. Open ADE. Transfer book to Kobo.
+
+freading
+  On Windows PC. Check out book on web site. Download/Save acsm file. Connect Kobo. Open ADE. Open acsm file. Transfer book to kobo.
+
+Hoopla
+  audiobooks and movies
+  Requires app. use Android.
+</pre>
+
 <h2>freading</h2>
 
 Chromium works, Firefox does not
@@ -95,12 +114,6 @@ Tue Apr 18 18:51:39 MDT 2017
 Tue Apr 25 12:27:37 MDT 2017
 
 <h1>Ebook Checkouts</h1>
-
-<pre>
-Overdrive
-Cloud
-freading
-</pre>
 
 <h1>Cloud Checkouts</h1>
 
