@@ -787,14 +787,38 @@ spanish language Just So Stories by Rudyard Kipling
 espanol The Elephant Child by Rudyard Kipling
 </pre>
 
-<h1>Keboard Spanish Entry</h1>
+<h1>Keyboard Spanish Entry</h1>
 
 <h3>
   <a href="https://www.thoughtco.com/panish-accents-and-symbols-in-ubuntu-3080298" target="_blank">thoughtco.com/</a>
   How To Make Spanish Accents and Symbols in Ubuntu Linux
 </h3>
 
-Key is installing the international English keyboard 
+The USA International (with dead keys) layout gives you a second method
+of typing the accented letters, as well as the only method for Spanish
+punctuation. This method uses the RightAlt key (usually to the right of
+the space bar) pressed at the same time as another key.
+
+<pre>
+á — RightAlt + a
+Á — RightAlt + Shift + a
+é — RightAlt + e
+É — RightAlt + e + Shift
+í — RightAlt + i
+Í — RightAlt + i + Shift
+ñ — RightAlt + n
+Ñ — RightAlt + n + Shift
+ó — RightAlt + o
+Ó — RightAlt + o + Shift
+ú — RightAlt + u
+Ú — RightAlt + u + Shift
+ü — RightAlt + y
+Ü — RightAlt + y + Shift
+¿ — RightAlt + ?
+¡ — RightAlt + !
+« — RightAlt + [
+» — RightAlt + ]
+</pre>
 
 <h3>
   <a href="https://www.thoughtco.com/diacritical-mark-in-spanish-3078371" target="_blank">thoughtco.com/</a>
