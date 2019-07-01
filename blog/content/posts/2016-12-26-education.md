@@ -73,6 +73,11 @@ Reform Or...".
   <a href="http://www.deliberatedumbingdown.com/MomsPDFs/DDDoA.sml.pdf" target="_blank">pdf - the deliberate dumbing down of america</a>
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=69HqxE74P5w&list=PLmmQ8peduhspYv4j-Cj6zppAO75vDP-_t" target="_blank">Tragedy and Hope youtube</a>
+  History... Connected: The Deliberate Dumbing Down of America w/ Charlotte Iserbyt
+</h4>
+
 <h2>
   <a href="http://abcsofdumbdown.blogspot.com/" target="_blank">THE OFFICIAL BLOG OF CHARLOTTE ISERBYT</a>
 </h2>
@@ -280,6 +285,35 @@ choice with charter schools with unelected boards
 poison 2
 
 </pre>
+
+<h3>
+  <a href="https://tragedyandhope.com/trivium/the-lost-tools-of-learning/" target="_blank">tragedyandhope.com</a>
+  The Lost Tools of Learning by Dorothy Sayers
+</h3>
+
+This is a reasonably short document, the “payoff” of reading will
+be found near the end, as Ms. Sayers presents the Trivium as juxtaposed
+to human needs.
+
+<h3>
+  <a href="https://www.memoriapress.com/articles/classical-education-is-more-than-a-method/" target="_blank">memoriapress.com/</a>
+  Classical Education is More Than a Method by Martin Cothran	
+</h3>
+
+<h3>
+  <a href="https://www.circeinstitute.org/blog/dorothy-l-sayers-primer-woman-behind-essay" target="_blank">circeinstitute.org/</a>
+  A Dorothy L. Sayers Primer: The Woman Behind the Essay by Lindsey Scholl
+</h3>
+
+She was more than just the writer of a famous educational treatise.
+
+<h3>
+<a href="" target="_blank"></a>
+</h3>
+
+<h3>
+<a href="" target="_blank"></a>
+</h3>
 
 <!--
 html boilerplate

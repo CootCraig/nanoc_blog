@@ -13,6 +13,17 @@ tags:
 <a href="/assets/images/evap-cooler-control-fig.fig" target="_blank">xfig source for cooler control dial</a>
 </h3>
 
+<h1>Maintenance</h1>
+
+<h4>June 17,18 2019</h4>
+
+<pre>
+Replaced motor belt. 59" (Was 58", cracked. 59" is better fit>
+Replace 3 Aspen Snow Cool 28 in. x 32 in pads.
+Replace pump.
+Replace float valve.
+</pre>
+
 <h1>Pad size</h1>
 
 <pre>
@@ -189,13 +200,14 @@ pad. It also prevents sagging. This delivers cool air more efficiently.
 
 <pre>
 Order #W784742779 Order Total: $18.25. Thu Sep 28 23:46:16 MDT 2017
-Ordered again fall of 2018.
+Ordered again fall of 2018. Installed June 18, 2019
 </pre>
 
 <h1>Cooler Covers</h1>
 
 <h3>
-  <a href="http://s597421862.onlinehome.us/wp-content/uploads/2013/08/side-dischage.pdf" target="_blank">Covers for side discharge coolers at PPS Packaging</a>
+  <a href="http://s597421862.onlinehome.us/wp-content/uploads/2013/08/single-inlet-covers.pdf" target="_blank">PPS Packaging pdf</a>
+  Distributor Packaging Sizes shown.
 </h3>
 
 <h1>Cooler Controller</h1>

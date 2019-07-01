@@ -7,6 +7,8 @@ tags:
   - linux
 ---
 
+Add /snap/bin to path.
+
 <h3>
   <a href="https://itsfoss.com/use-snap-packages-ubuntu-16-04/" target="_blank">itsfoss.com/</a>
   Complete Guide for Using Snap Packages In Ubuntu and Other Linux Distributions

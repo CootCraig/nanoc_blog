@@ -1,21 +1,31 @@
 ---
-title: "E. Michael Jones"
-created_at: Thu Feb 28 05:26:43 MST 2019
+title: "Top Commentary"
+created_at: Sun Jun 23 08:30:19 MDT 2019
 kind: article
 tags:
-  - e_michael_jones
+  - top_commentary
+  - online_commentary
+  - opinion_sites
+  - political_opinion
+  - religion_opinion
 ---
 
+<h2>Sun Jun 23 2019</h2>
 
-<h2>
-  <a href="https://www.youtube.com/channel/UCqu-4AY-501xV5iCtt7dMKQ/featured" target="_blank">E. Michael Jones youtube</a>
-</h2>
+<pre>
+Sun Jun 23 2019
+Jay Dyer
+Owen Benjamin
+Vox Day
+E Michael Jones
 
-<h3>
-  <a href="https://www.youtube.com/watch?v=abuMHohqs9w" target="_blank">Robert Phoenix - The 11th House youtube</a>
-  Friday FARcast -- Live with E. Michael Jones -- The Rise of Logos
-</h3>
+  consider - both had very good talks with E Michael Jones
+Faith Goldy
+Nick Fuentes
 
+Jesse Lee Peterson
+Patrick Coffin
+</pre>
 
 <!--
 html boilerplate fragments

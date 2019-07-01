@@ -110,21 +110,97 @@ https://download.virtualbox.org/virtualbox/5.2.18/virtualbox-5.2_5.2.18-124319~D
   VirtualBox: How to Use Snapshots
 </h3>
 
-<h3>
-<a href="" target="_blank"></a>
-</h3>
+<h1>USB</h1>
 
 <h3>
-<a href="" target="_blank"></a>
+  <a href="https://www.virtualbox.org/manual/UserManual.html#settings-usb" target="_blank">virtualbox.org/manual</a>
+  Oracle VM VirtualBox User Manual
 </h3>
 
-<h3>
-<a href="" target="_blank"></a>
-</h3>
+<h4>3.11.1. USB Settings</h4>
 
-<h3>
-<a href="" target="_blank"></a>
-</h3>
+<b>USB Device Filters:</b> When USB support is enabled for a VM, you
+can determine in detail which devices will be automatically attached
+to the guest. For this, you can create filters by specifying certain
+properties of the USB device. USB devices with a matching filter will be
+automatically passed to the guest once they are attached to the host. USB
+devices without a matching filter can be passed manually to the guest,
+for example by using the Devices, USB menu.
+
+Clicking on the + button to the right of the USB Device Filters window
+creates a new filter. You can give the filter a name, for later reference,
+and specify the filter criteria. The more criteria you specify, the more
+precisely devices will be selected. For instance, if you specify only
+a vendor ID of 046d, all devices produced by Logitech will be available
+to the guest. If you fill in all fields, on the other hand, the filter
+will only apply to a particular device model from a particular vendor,
+and not even to other devices of the same type with a different revision
+and serial number.
+
+In detail, the following criteria are available:
+
+<pre>
+Vendor and Product ID. With USB, each vendor of USB products carries
+an identification number that is unique world-wide, called the vendor
+ID. Similarly, each line of products is assigned a product ID number. Both
+numbers are commonly written in hexadecimal, and a colon separates the
+vendor from the product ID. For example, 046d:c016 stands for Logitech
+as a vendor, and the M-UV69a Optical Wheel Mouse product.
+
+Alternatively, you can also specify Manufacturer and Product by name.
+
+To list all the USB devices that are connected to your host machine with
+their respective vendor IDs and product IDs, use the following command:
+
+VBoxManage list usbhost
+
+On Windows, you can also see all USB devices that are attached to your
+system in the Device Manager. On Linux, you can use the lsusb command.
+
+Serial Number. While vendor ID and product ID are quite specific to
+identify USB devices, if you have two identical devices of the same brand
+and product line, you will also need their serial numbers to filter them
+out correctly.
+
+Remote. This setting specifies whether the device will be local only,
+remote only, such as over VRDP, or either.
+</pre>
+
+<h2>Kobo from Windows 7</h2>
+
+<h4>dmesg on host debian</h4>
+
+<pre>
+] usb 3-2: new high-speed USB device number 6 using xhci_hcd
+[209890.401037] usb 3-2: New USB device found, idVendor=2237, idProduct=4228
+[209890.401039] usb 3-2: New USB device strings: Mfr=3, Product=4, SerialNumber=5
+[209890.401041] usb 3-2: Product: eReader-4.14.12777
+[209890.401042] usb 3-2: Manufacturer: Kobo
+[209890.401044] usb 3-2: SerialNumber: N2498A0323108
+
+Filter?
+  idVendor=2237
+  idProduct=4228
+</pre>
+
+
+<h4>VBoxManage list usbhost</h4>
+
+<pre>
+Host USB Devices:
+ ...
+UUID:               6c175daa-fe05-45d5-83e4-50671748c5ea
+VendorId:           0x2237 (2237)
+ProductId:          0x4228 (4228)
+Revision:           4.1 (0401)
+Port:               1
+USB version/speed:  2/High
+Manufacturer:       Kobo
+Product:            eReader-4.14.12777
+SerialNumber:       N2498A0323108
+Address:            sysfs:/sys/devices/pci0000:00/0000:00:14.0/usb3/3-2//device:/dev/vboxusb/003/006
+Current State:      Busy
+</pre>
 
 <!--
 html boilerplate fragments

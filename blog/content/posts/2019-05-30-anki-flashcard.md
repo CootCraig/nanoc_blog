@@ -1,21 +1,25 @@
 ---
-title: "E. Michael Jones"
-created_at: Thu Feb 28 05:26:43 MST 2019
+title: "Anki Flashcard"
+created_at: Thu May 30 19:19:49 MDT 2019
 kind: article
 tags:
-  - e_michael_jones
+  - anki_flashcard
 ---
 
-
-<h2>
-  <a href="https://www.youtube.com/channel/UCqu-4AY-501xV5iCtt7dMKQ/featured" target="_blank">E. Michael Jones youtube</a>
-</h2>
-
 <h3>
-  <a href="https://www.youtube.com/watch?v=abuMHohqs9w" target="_blank">Robert Phoenix - The 11th House youtube</a>
-  Friday FARcast -- Live with E. Michael Jones -- The Rise of Logos
+  <a href="https://apps.ankiweb.net/docs/manual.html" target="_blank">apps.ankiweb.net/docs</a>
+  User manual
 </h3>
 
+<h3>
+  <a href="https://ankiweb.net/decks/" target="_blank">ankiweb.net/</a>
+  Decks
+</h3>
+
+<h3>
+  <a href="http://foolsworkshop.com/reviews/index.html%3Fp=124.html" target="_blank">foolsworkshop.com/reviews</a>
+  Anki All the Way
+</h3>
 
 <!--
 html boilerplate fragments

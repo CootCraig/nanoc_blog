@@ -1,21 +1,26 @@
 ---
-title: "E. Michael Jones"
-created_at: Thu Feb 28 05:26:43 MST 2019
+title: "Yard and Garden Tools"
+created_at: Tue Jun 25 02:33:15 MDT 2019
 kind: article
 tags:
-  - e_michael_jones
+  - tools
+  - yard_tools
+  - garden_tools
 ---
 
-
-<h2>
-  <a href="https://www.youtube.com/channel/UCqu-4AY-501xV5iCtt7dMKQ/featured" target="_blank">E. Michael Jones youtube</a>
-</h2>
+<h1>Stirrup Hoe</h1>
 
 <h3>
-  <a href="https://www.youtube.com/watch?v=abuMHohqs9w" target="_blank">Robert Phoenix - The 11th House youtube</a>
-  Friday FARcast -- Live with E. Michael Jones -- The Rise of Logos
+  <a href="https://www.youtube.com/watch?v=xEyFVnRy3sA" target="_blank">mark cullen youtube</a>
+  Stirrup hoe demonstration for a garden
 </h3>
 
+<h1>Scythe</h1>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=VVn1kiZnldQ" target="_blank">Justin Rhodes youtube</a>
+  How to Scythe + STOP Weeding, Watering and Fertilizing
+</h3>
 
 <!--
 html boilerplate fragments

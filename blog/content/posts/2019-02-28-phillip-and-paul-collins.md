@@ -5,7 +5,13 @@ kind: article
 tags:
   - theology
   - phillip_and_paul_collins
+  - scientific_dictatorship
 ---
+
+<h3>
+  <a href="https://www.amazon.com/Ascendancy-Scientific-Dictatorship-Examination-Epistemic/dp/0595311644" target="_blank">Book at Amazon</a>
+  The Ascendancy of the Scientific Dictatorship
+</h3>
 
 <h3>
   <a href="https://www.podomatic.com/podcasts/tkelly6785757/episodes/2018-07-03T03_35_29-07_00" target="_blank">podomatic.com/podcasts</a>

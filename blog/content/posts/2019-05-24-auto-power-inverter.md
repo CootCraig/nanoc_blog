@@ -1,21 +1,18 @@
 ---
-title: "E. Michael Jones"
-created_at: Thu Feb 28 05:26:43 MST 2019
+title: "Auto Power Inverter"
+created_at: Fri May 24 13:33:53 MDT 2019
 kind: article
 tags:
-  - e_michael_jones
+  - power_inverter
+  - auto_power_inverter
 ---
 
-
-<h2>
-  <a href="https://www.youtube.com/channel/UCqu-4AY-501xV5iCtt7dMKQ/featured" target="_blank">E. Michael Jones youtube</a>
-</h2>
-
 <h3>
-  <a href="https://www.youtube.com/watch?v=abuMHohqs9w" target="_blank">Robert Phoenix - The 11th House youtube</a>
-  Friday FARcast -- Live with E. Michael Jones -- The Rise of Logos
+  <a href="https://www.youtube.com/watch?v=8XIJSf4fd-g" target="_blank">Scotty Kilmer youtube</a>
+  How to Install Power Inverter in Your Car (How It Works)
 </h3>
 
+https://www.youtube.com/user/knurlgnar24/search?query=inverter
 
 <!--
 html boilerplate fragments

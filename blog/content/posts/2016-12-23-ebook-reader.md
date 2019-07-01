@@ -9,6 +9,14 @@ tags:
   - ebook_readers
 ---
 
+<h1>Tablet from Jillian</h1>
+
+<pre>
+Device name: Galaxy Tab A(2016)
+Model: SM-T280
+Android version: 5.1.1
+</pre>
+
 Model B0C9 2nd Generation
 Kindle Fire HD 8.9" e reader in Purple Case
 
