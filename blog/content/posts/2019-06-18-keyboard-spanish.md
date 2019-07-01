@@ -50,6 +50,80 @@ AltGr key
   “English (intl., with AltGr dead keys)” keyboard layout
 </h3>
 
+<h3>
+  <a href="https://linoxide.com/linux-how-to/configure-keyboard-ubuntu/" target="_blank">linoxide.com/</a>
+  How to Configure Keyboard on Ubuntu 18.04 
+</h3>
+
+<h3>
+  <a href="https://wiki.archlinux.org/index.php/Xorg/Keyboard_configuration" target="_blank">wiki.archlinux.org</a>
+  Xorg/Keyboard configuration
+</h3>
+
+<h3>
+  <a href="https://wiki.archlinux.org/index.php/Linux_console/Keyboard_configuration" target="_blank">wiki.archlinux.org</a>
+  Linux console/Keyboard configuration
+</h3>
+
+<h4>/etc/default/keyboard</h4>
+
+Consult the keyboard(5) manual page.
+
+<pre>
+XKBMODEL="pc105"
+XKBLAYOUT="us"
+XKBVARIANT=""
+XKBOPTIONS=""
+
+BACKSPACE="guess"
+</pre>
+
+<h4>
+/usr/share/X11/xkb/rules/base.lst
+</h4>
+
+<pre>
+! model
+
+! layout
+
+! variant
+
+! option
+</pre>
+
+
+<h3>
+  <a href="https://www.thoughtco.com/panish-accents-and-symbols-in-ubuntu-3080298" target="_blank">thoughtco.com/</a>
+  How To Make Spanish Accents and Symbols in Ubuntu Linux
+</h3>
+
+The USA International (with dead keys) layout gives you a second method
+of typing the accented letters, as well as the only method for Spanish
+punctuation. This method uses the RightAlt key (usually to the right of
+the space bar) pressed at the same time as another key.
+
+<pre>
+á — RightAlt + a
+Á — RightAlt + Shift + a
+é — RightAlt + e
+É — RightAlt + e + Shift
+í — RightAlt + i
+Í — RightAlt + i + Shift
+ñ — RightAlt + n
+Ñ — RightAlt + n + Shift
+ó — RightAlt + o
+Ó — RightAlt + o + Shift
+ú — RightAlt + u
+Ú — RightAlt + u + Shift
+ü — RightAlt + y
+Ü — RightAlt + y + Shift
+¿ — RightAlt + ?
+¡ — RightAlt + !
+« — RightAlt + [
+» — RightAlt + ]
+</pre>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>
