@@ -7,6 +7,8 @@ tags:
   - keyboard_spanish
 ---
 
+Edit /etc/default/keyboard as shown below.
+
 <h1>
   <a href="https://www.coolermaster.com/us/en-us/catalog/peripheral/keyboards/quick-fire-stealth/" target="_blank">coolermaster.com</a>
   Quick Fire Stealth
@@ -65,14 +67,12 @@ AltGr key
   Linux console/Keyboard configuration
 </h3>
 
-<h4>/etc/default/keyboard</h4>
-
-Consult the keyboard(5) manual page.
+<h4>/etc/default/keyboard - this works</h4>
 
 <pre>
 XKBMODEL="pc105"
 XKBLAYOUT="us"
-XKBVARIANT=""
+XKBVARIANT="intl"
 XKBOPTIONS=""
 
 BACKSPACE="guess"
