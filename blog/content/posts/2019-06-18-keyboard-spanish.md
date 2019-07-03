@@ -48,6 +48,51 @@ AltGr key
 </h3>
 
 <h3>
+  <a href="https://lists.x.org/archives/xorg/2007-July/026534.html" target="_blank">lists.x.org/archives</a>
+  International US keyboard - AltGr deadkeys
+</h3>
+
+<h3>
+  <a href="https://tylercipriani.com/blog/2015/01/23/toward-a-useful-keyboard-in-x/" target="_blank">tylercipriani.com</a>
+  Toward a More Useful X Keyboard
+</h3>
+
+<h3>
+  <a href="https://viliampucik.blogspot.com/2011/10/us-international-keyboard.html" target="_blank">viliampucik.blogspot.com</a>
+  US International Keyboard
+</h3>
+
+To enable typing of international characters with AltGr key while using US layout:
+
+<pre>
+Some useful key combinations:
+
+á ← AltGr+a
+ä ← AltGr+q
+č ← Shift+AltGr+.+c
+ď ← Shift+AltGr+.+d
+é ← AltGr+e
+í ← AltGr+i
+ĺ ← AltGr+'+l
+ľ ← Shift+AltGr+.+l
+ň ← Shift+AltGr+.+n
+ó ← AltGr+o
+ô ← AltGr+6+o
+ŕ ← AltGr+'+r
+š ← Shift+AltGr+.+s
+ť ← Shift+AltGr+.+t
+ú ← AltGr+u
+ý ← AltGr+'+y
+ž ← Shift+AltGr+.+z
+£ ← Shift+AltGr+4
+€ ← AltGr+5
+¥ ← AltGr+-
+© ← AltGr+c
+° ← Shift+AltGr+;
+¶ ← AltGr+;
+</pre>
+
+<h3>
   <a href="https://www.scottseverance.us/html/keyboard/win_intl_altgr/" target="_blank">scottseverance.us</a>
   “English (intl., with AltGr dead keys)” keyboard layout
 </h3>
@@ -69,10 +114,12 @@ AltGr key
 
 <h4>/etc/default/keyboard - this works</h4>
 
+XKBVARIANT="intl" or "altgr-intl"
+
 <pre>
 XKBMODEL="pc105"
 XKBLAYOUT="us"
-XKBVARIANT="intl"
+XKBVARIANT="altgr-intl"
 XKBOPTIONS=""
 
 BACKSPACE="guess"
@@ -122,6 +169,116 @@ the space bar) pressed at the same time as another key.
 ¡ — RightAlt + !
 « — RightAlt + [
 » — RightAlt + ]
+</pre>
+
+<h4>Log altgr-intl keys on ivie Debian 9.9 stretch</h4>
+
+<pre>
+Tue Jul  2 14:27:26 MDT 2019
+Release:	9.9
+Codename:	stretch
+
+rightalt-
+RightAlt-shift-
+
+RightAlt-1 ¹
+RightAlt-2 ²
+RightAlt-3 ³
+RightAlt-4 ¤
+RightAlt-5 €
+RightAlt-6 dead
+RightAlt-7 dead
+RightAlt-8 dead
+RightAlt-9 ‘
+RightAlt-0 ’
+RightAlt-- ¥
+RightAlt-= ×
+
+RightAlt-shift-1-!  ¡
+RightAlt-shift-2-@ dead
+RightAlt-shift-3-# dead
+RightAlt-shift-4-$ £
+RightAlt-shift-5-% dead
+RightAlt-shift-6-^ ¼
+RightAlt-shift-7-& ½
+RightAlt-shift-8-* ¾
+RightAlt-shift-9 dead
+RightAlt-shift-_ dead
+RightAlt-shift-+ ÷
+
+RightAlt-q ä
+rightalt-w å
+rightalt-e é
+rightalt-r ë
+rightalt-t þ
+rightalt-y ü
+rightalt-u ú
+rightalt-i í
+rightalt-o ó
+rightalt-p ö
+rightalt-[ «
+rightalt-] »
+rightalt-\ ¬
+
+RightAlt-shift-Q Ä
+RightAlt-shift-W Å
+RightAlt-shift-E É
+RightAlt-shift-R Ë
+RightAlt-shift-T Þ
+RightAlt-shift-Y Ü
+RightAlt-shift-U Ú
+RightAlt-shift-I Í
+RightAlt-shift-O Í
+RightAlt-shift-P Ö
+RightAlt-shift-{ “
+RightAlt-shift-} ”
+RightAlt-shift-| ¦
+
+RightAlt-a á
+RightAlt-s ß
+RightAlt-d ð
+RightAlt-f f
+RightAlt-g g
+RightAlt-h h
+RightAlt-j ï
+RightAlt-k œ
+RightAlt-l ø
+RightAlt-; ¶
+RightAlt-' dead
+
+RightAlt-shift-A Á
+RightAlt-shift-S §
+RightAlt-shift-D Ð
+RightAlt-shift-F F
+RightAlt-shift-G G
+RightAlt-shift-H H
+RightAlt-shift-J Ï
+RightAlt-shift-K Œ
+RightAlt-shift-L Ø
+RightAlt-shift-: °
+RightAlt-shift-" dead
+
+RightAlt-z æ
+RightAlt-x œ
+RightAlt-c ©
+RightAlt-v ®
+RightAlt-b b
+RightAlt-n ñ
+RightAlt-m µ
+RightAlt-, ç
+RightAlt-. dead
+RightAlt-/ ¿
+
+RightAlt-shift-Z Æ
+RightAlt-shift-X Œ
+RightAlt-shift-C ¢
+RightAlt-shift-V ®
+RightAlt-shift-B B
+RightAlt-shift-N Ñ
+RightAlt-shift-M µ
+RightAlt-shift-< ç
+RightAlt-shift-> dead
+RightAlt-shift-? dead
 </pre>
 
 <!--
