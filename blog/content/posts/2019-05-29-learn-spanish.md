@@ -12,7 +12,8 @@ Started DuoLingo June 10,2019
 <h1>Considering</h1>
 
 <pre>
-duolingo - free. paid by addvertising and data harvesting
+duolingo - free. paid by advertising and data harvesting
+CaptionPop - free
 
 LingQ - $13/month
 yabla - $13/month
@@ -309,6 +310,25 @@ it sounds weird but it works.
 </h4>
 
 <h3>
+  <a href="https://www.youtube.com/watch?v=8I5oqYIIvzI" target="_blank">TakeLessons youtube</a>
+  Learn Spanish: How to Roll your R's
+</h3>
+
+<pre>
+T sound and D sound
+butter
+ladder
+d d d d d d - into trill
+d d d d d d - into trill
+
+Perro
+Radio
+Pero
+Por favor
+Trabajo
+</pre>
+
+<h3>
   <a href="https://www.youtube.com/watch?v=8nQjH1TQ4Tk" target="_blank">Mahal Kita youtube</a>
   How to roll your R’s (4 steps)
 </h3>
@@ -517,6 +537,10 @@ yabla and FluentU and LingQ
   <a href="https://www.youtube.com/watch?v=MMPLX5AXRAY" target="_blank">Fingtam Languages youtube</a>
   Duolingo Review: Does it really work?
 </h3>
+
+<h1>
+  <a href="https://www.captionpop.com/" target="_blank">CaptionPop</a>
+</h1>
 
 <h1>
   <a href="http://lwt.sourceforge.net/" target="_blank">lwt.sourceforge.net</a>
@@ -1139,11 +1163,9 @@ Spanish audio at the end of the section.
 <h1>Spanish Alphabet</h1>
 
 <h3>
-  <a href="https://www.youtube.com/watch?v=Vudw7GtB034" target="_blank">FluencyProf youtube</a>
-  Spanish Alphabet and Pronunciation Practice
+  <a href="https://www.youtube.com/watch?v=hsLYD1Jyf3A&list=PLkjyx6Il3YUYu8keDy69o589xvc893QrM" target="_blank">Butterfly Spanish youtube</a>
+  play list - THE SPANISH ALPHABET - letters and their sounds
 </h3>
-
-Put this one into Anki
 
 <h3>
   <a href="https://www.youtube.com/watch?v=hsLYD1Jyf3A" target="_blank">Butterfly Spanish youtube</a>
@@ -1152,6 +1174,20 @@ Put this one into Anki
 
 Put this into Anki also.
 A number of Ana's videos here look worthwhile.
+
+<h3>
+  <a href="https://www.spanishlearninglab.com/spanish-alphabet/" target="_blank">spanishlearninglab.com</a>
+  Spanish Alphabet: Pronunciation and Examples
+</h3>
+
+we will show you the right pronunciation of each letter in the Spanish alphabet, followed by some examples of nouns with the vowels and consonants in the alphabet.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=Vudw7GtB034" target="_blank">FluencyProf youtube</a>
+  Spanish Alphabet and Pronunciation Practice
+</h3>
+
+Put this one into Anki
 
 <h3>
   <a href="https://www.youtube.com/watch?v=3p1vdr83f3w" target="_blank">Real World Spanish Lessons youtube</a>
@@ -1169,13 +1205,20 @@ A number of Ana's videos here look worthwhile.
 </h3>
 
 <h3>
-  <a href="https://www.spanishlearninglab.com/spanish-alphabet/" target="_blank">spanishlearninglab.com</a>
-  Spanish Alphabet: Pronunciation and Examples
+  <a href="https://www.youtube.com/watch?v=cSxuCKhI8UM" target="_blank">PRACTIQUEMOS by Catalina Moreno E. youtube</a>
+  El Abecedario (Spanish Alphabet)
 </h3>
 
 <h3>
-  <a href="https://www.youtube.com/watch?v=cSxuCKhI8UM" target="_blank">PRACTIQUEMOS by Catalina Moreno E. youtube</a>
-  El Abecedario (Spanish Alphabet)
+  <a href="https://www.youtube.com/watch?v=NEwQlU25KAg" target="_blank">Sra. Westerman youtube</a>
+  Spanish Alphabet- El Alfabeto
+</h3>
+
+Good information in this one.
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=v7B2Y0OCr9Y" target="_blank">Sra. Westerman youtube</a>
+  Las Vocales del Alfabeto en Español (The vowels of the Spanish Alphabet)
 </h3>
 
 <!--

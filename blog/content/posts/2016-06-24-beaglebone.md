@@ -26,6 +26,39 @@ computer. Community-supported and fully open-source, the real-time
 performance, flexible networking and rich set of robotics-oriented
 peripherals make building mobile robots quick and affordable.
 
+<h2>
+  <a href="https://beagleboard.org/ai" target="_blank">beagleboard.org/ai</a>
+  BeagleBone® AI
+</h2>
+
+Built on the proven BeagleBoard.org® open source Linux approach,
+BeagleBone® AI fills the gap between small SBCs and more powerful
+industrial computers. Based on the Texas Instruments AM5729, developers
+have access to the powerful SoC with the ease of BeagleBone® Black header
+and mechanical compatibility. BeagleBone® AI makes it easy to explore how
+artificial intelligence (AI) can be used in everyday life via the TI C66x
+digital-signal-processor (DSP) cores and embedded-vision-engine (EVE)
+cores supported through an optimized TIDL machine learning OpenCL API
+with pre-installed tools. Focused on everyday automation in industrial,
+commercial and home applications.
+
+<pre>
+TI C66x digital-signal-processor (DSP) cores
+and embedded-vision-engine (EVE)
+
+</pre>
+
+<h5>Board Feature Highlights</h5>
+
+<ul>
+  <li>BeagleBone Black mechanical and header compatibility</li>
+  <li>1GB RAM and 16GB on-board eMMC flash with high-speed interface</li>
+  <li>USB type-C for power and superspeed dual-role controller; and USB type-A host</li>
+  <li>Gigabit Ethernet, 2.4/5GHz WiFi, and Bluetooth</li>
+  <li>microHDMI</li>
+  <li>Zero-download out-of-box software experience with Debian GNU/Linux</li>
+</ul>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

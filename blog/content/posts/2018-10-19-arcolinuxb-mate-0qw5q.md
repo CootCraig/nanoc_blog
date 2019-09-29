@@ -55,6 +55,13 @@ first user: craig
 want user craig to have uid:gid 1000:1000 - Yes this is install first user 1000:1000
 </pre>
 
+<h1>System updates</h1>
+
+<pre>
+sudo pacman -Syy
+sudo pacman -Su
+</pre>
+
 <h1>Packages added</h1>
 
 <h4>

@@ -150,25 +150,30 @@ of typing the accented letters, as well as the only method for Spanish
 punctuation. This method uses the RightAlt key (usually to the right of
 the space bar) pressed at the same time as another key.
 
+<h4>The following match AltGr-intl</h4>
+
 <pre>
-á — RightAlt + a
-Á — RightAlt + Shift + a
-é — RightAlt + e
-É — RightAlt + e + Shift
-í — RightAlt + i
-Í — RightAlt + i + Shift
-ñ — RightAlt + n
-Ñ — RightAlt + n + Shift
-ó — RightAlt + o
-Ó — RightAlt + o + Shift
-ú — RightAlt + u
-Ú — RightAlt + u + Shift
-ü — RightAlt + y
-Ü — RightAlt + y + Shift
-¿ — RightAlt + ?
-¡ — RightAlt + !
-« — RightAlt + [
-» — RightAlt + ]
+RightAlt-
+RightAlt-shift-
+
+RightAlt-a á
+RightAlt-shift-A Á
+RightAlt-e é
+RightAlt-shift-E É
+RightAlt-i í
+RightAlt-shift-I Í
+RightAlt-n ñ
+RightAlt-shift-N Ñ
+RightAlt-o ó
+RightAlt-shift-O Ó
+RightAlt-u ú
+RightAlt-shift-U Ú
+RightAlt-y ü
+RightAlt-shift-Y Ü
+RightAlt-/ ¿
+RightAlt-shift-! ¡
+RightAlt-[ «
+RightAlt-] »
 </pre>
 
 <h4>Log altgr-intl keys on ivie Debian 9.9 stretch</h4>

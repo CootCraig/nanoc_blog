@@ -214,6 +214,27 @@ Radius adjusts more than Hunter mp-rotator.
 
 Prefers Hunter MP-rotator, but RVan good as well.
 
+<h3>Order Wed Aug 21 2019</h3>
+
+Sprinkler Warehouse
+
+<pre>
+Hunter PROS-06-NSI 6 inch Pro-Spray No Side Inlet - $3.48 each
+Hunter MP Rotator 90 - 210 Degree Adjustable Rotary Nozzle 22 - 30 ft | MP300090 - $4.98 each
+Hunter MP Rotator 360 Degree Rotary Nozzle 22 - 30 ft | MP3000360 - $4.98 each
+Hunter MP Rotator 210 - 270 Degree Adjustable Rotary Nozzle 22 - 30 ft | MP3000210 - $4.98 each
+Hunter MP Rotator 90 - 210 Degree Adjustable Rotary Nozzle 13 - 21 ft | MP200090 - $4.98 each
+Hunter MP Rotator 90 - 210 Degree Adjustable Rotary Nozzle 31 - 35 ft | MP350090 - $4.98 each
+
+6 Hunter PROS-06-NSI
+7 Hunter MP300090
+3 Hunter MP3000360
+3 Hunter MP3000210
+3 Hunter MP200090
+3 Hunter MP350090
+  $185.06
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

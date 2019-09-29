@@ -21,10 +21,9 @@ E Michael Jones
 
   consider - both had very good talks with E Michael Jones
 Faith Goldy
-Nick Fuentes
-
 Jesse Lee Peterson
 Patrick Coffin
+Red Ice TV
 </pre>
 
 <!--

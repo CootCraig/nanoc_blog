@@ -251,6 +251,34 @@ a traditional desktop experience.
 <td><span class="plainlinks archwiki-template-pkg"><a rel="nofollow" class="external text" href="https://www.archlinux.org/packages/?name=engrampa">engrampa</a></span>
 </td></tr></tbody></table>
 
+<h1>AUR helpers</h1>
+
+<h2>
+  <a href="https://github.com/Jguer/yay" target="_blank">github.com/Jguer</a>
+  Yet another Yogurt - An AUR Helper written in Go 
+</h2>
+
+<h4>Installation</h4>
+
+If you are migrating from another AUR helper, you can simply install Yay with that helper.
+
+Alternatively, the initial installation of Yay can be done by cloning the PKGBUILD and building with makepkg:
+
+<pre>
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+</pre>
+
+<h4>
+  <a href="https://www.ostechnix.com/yay-found-yet-another-reliable-aur-helper/" target="_blank">ostechnix.com/</a>
+  Yay – Yet Another Reliable AUR Helper Written In GO
+</h4>
+
+<pre>
+yay -Syu
+yay -Pu
+</pre>
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

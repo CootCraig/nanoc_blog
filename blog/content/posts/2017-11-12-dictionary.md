@@ -124,6 +124,10 @@ Francis Grose - A Classical Dictionary of the Vulgar Tongue - 1784
   <li>The Century Dictionary (American, 1881) dictionary & encyclopedia: 500 000 meanings</li>
 </ul>
 
+https://1828.mshaffer.com/
+
+https://www.amazon.com/American-Dictionary-English-Language-Facsimile/dp/091249803X
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>
