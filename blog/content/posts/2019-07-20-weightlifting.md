@@ -141,6 +141,19 @@ olympic lifts use acceleration
 power is strength displayed quickly
 </pre>
 
+<h2>Squat</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=iVx2O6PXb6U" target="_blank">Warrior Poet Society youtube</a>
+  SQUAT Pro-Tips w/ Mark Rippetoe | Starting Strength
+</h4>
+
+<pre>
+11m 0s - setting the back.
+         lumbar contraction must precede abdominal contraction
+13m 50s - full squat movement shown
+</pre>
+
 <h1>CSU Fitnes Center</h1>
 
 <pre>

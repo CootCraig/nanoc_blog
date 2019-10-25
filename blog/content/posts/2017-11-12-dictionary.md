@@ -124,9 +124,10 @@ Francis Grose - A Classical Dictionary of the Vulgar Tongue - 1784
   <li>The Century Dictionary (American, 1881) dictionary & encyclopedia: 500 000 meanings</li>
 </ul>
 
-https://1828.mshaffer.com/
-
-https://www.amazon.com/American-Dictionary-English-Language-Facsimile/dp/091249803X
+<h4>
+  <a href="https://www.amazon.com/American-Dictionary-English-Language-Facsimile/dp/091249803X" target="_blank">$59.98 at amazon</a>
+  American Dictionary of the English Language (1828 Facsimile Edition) - Noah Webster 1828
+</h4>
 
 <!--
 html boilerplate
