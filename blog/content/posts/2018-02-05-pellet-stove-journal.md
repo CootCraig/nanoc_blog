@@ -31,6 +31,7 @@ Black Hills Gold by Spearfish Pellet Company purchased from The Woodshed Stove S
 2019-02-09 1 bags loaded - 50 bags left
 2019-02-27 1 bags loaded - 49 bags left
 2019-03-18 1 bags loaded - 48 bags left
+2019-10-29 1 bags loaded - 47 bags left
 </pre>
 
 <h4>Oct. 2019</h4>

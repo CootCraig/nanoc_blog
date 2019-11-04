@@ -38,6 +38,11 @@ Pueblo, CO 81004
 </h2>
 
 <h3>
+  <a href="https://www.facebook.com/groups/zioh2/search/?query=beef%20patty%20from%20wendy%27s&epa=SEARCH_BOX" target="_blank">facebook search</a>
+  beef patty from wendy's
+</h3>
+
+<h3>
   Eating Out Thread
   <a href="https://www.facebook.com/media/set/?set=oa.1720953271475243&type=3" target="_blank">facebook.com/media/set/</a>
 </h3>

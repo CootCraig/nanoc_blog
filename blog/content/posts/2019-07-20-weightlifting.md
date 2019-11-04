@@ -144,6 +144,11 @@ power is strength displayed quickly
 <h2>Squat</h2>
 
 <h4>
+  <a href="https://www.youtube.com/watch?v=6vUf8uH1K00" target="_blank">Starting Strength youtube</a>
+  Where to Put the Bar for the Squat with Nick Delgadillo
+</h4>
+
+<h4>
   <a href="https://www.youtube.com/watch?v=iVx2O6PXb6U" target="_blank">Warrior Poet Society youtube</a>
   SQUAT Pro-Tips w/ Mark Rippetoe | Starting Strength
 </h4>
@@ -166,28 +171,6 @@ bartley Blvd
 e side
 6am to 7pm
 Fri 6am to 6pm
-</pre>
-
-<h1>Dr. David Walters</h1>
-
-<pre>
-https://drdavidwalters.com/contact/
-(719) 544-0199
-
-511 W. 29th Street
-Suite D
-Pueblo, CO 81008
-
-My name is Craig Anderson.  I'm 67 years old and live in Avondale.
-
-I'm looking for a gym and coaching for powerlifting barbell training; the basics: squat, deadlift, press, bench press.  The best information I've found is from Mark Rippetoe and Starting Strength.
-
-https://startingstrength.com
-https://startingstrength.com/about/mark-rippetoe
-
-I just met with Cory Sullivan and he thought you would be a good person to talk to.
-
-I had a heart attack treated with a stent 10+ years ago. I've been symptom free since.  My current diet is animal products and water.
 </pre>
 
 <h3>
