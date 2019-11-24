@@ -60,7 +60,7 @@ tags:
   <li>NOWHITHER (novel) Castalia House (forthcoming)</li>
 </ul>
 
-## Tales of Moth and Cobweb
+<h2>Tales of Moth and Cobweb</h2>
 
 <ul>
   <li>GREEN KNIGHT’S SQUIRE (novel) Castalia House</li>
@@ -69,7 +69,7 @@ tags:
   <li>SWAN KNIGHT’S SWORD (Book Three) (October, 2016)</li>
 <ul>
 
-<ul>
+</ul>
   <li>DARK AVENGER’S SIDEKICK (novel) Castalia House (forthcoming)</li>
   <li>DAUGHTER OF DANGER (Book One)</li>
   <li>CITY OF CORPSES (Book Two)</li>
@@ -86,6 +86,11 @@ tags:
 ISBN-10: 0765336693
 ISBN-13: 978-0765336699
 </pre>
+
+<h4>
+  <a href="http://www.scifiwright.com/apologetics/universal-apologia/" target="_blank">www.scifiwright.com/</a>
+  A Universal Apologia for the Catholic Church
+</h4>
 
 <!--
 html boilerplate

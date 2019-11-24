@@ -93,6 +93,10 @@ BloodMoneyandOtherStories0061254878.acsm
 
 <h1>Interlibrary Loan Requests</h1>
 
+<h3>Quest for Atlan (Cradleland Chronicles) by Douglas Hirt</h3>
+ 
+Thu Nov 21 05:41:08 MST 2019
+
 <h3>Uprooted by Naomi Novik</h3>
 
 Tue Apr 11 12:35:55 MDT 2017

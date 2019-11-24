@@ -378,6 +378,67 @@ The Man Born to Be King by Dorothy L. Sayers audio
   On the Question of Free Trade: An Economics Discourse by Vox Day, Dr. James D. Miller PhD
 </h3>
 
+
+<h3>Mentioned by Voxday:</h3>
+
+<pre>
+Jon Del Arroz
+Declan Finn
+</pre>
+
+<h3>Mentioned by Voxday: 2019 reading list</h3>
+
+<pre>
+The Nautical Chart, Arturo Perez-Reverte
+The Seville Communion, Arturo Perez-Reverte
+What We Become, Arturo Perez-Reverte
+Captain Alatriste, Arturo Perez-Reverte
+Purity of Blood, Arturo Perez-Reverte
+The Sun Over Breda, Arturo Perez-Reverte
+</pre>
+
+<h3>
+  <a href="http://thelandmarkancienthistories.com/" target="_blank">thelandmarkancienthistories.com</a>
+  The Landmark Ancient Histories
+</h3>
+
+<pre>
+The Landmark Herodotus:
+The Histories
+Edited by Robert B. Strassler
+Translated by Andrea L. Purvis
+Introduction by Rosalind Thomas
+
+The Landmark Thucydides:
+A Comprehensive Guide to
+the Peloponnesian War  
+Edited by Robert B. Strassler
+Introduction by Victor Davis Hanson
+
+The Landmark
+Xenophon’s Hellenika
+Edited by Robert B. Strassler
+Translated by John Marincola
+Introduction by David Thomas
+
+The Landmark Arrian:
+The Campaigns of Alexander  
+Edited by James Romm
+Series Editor Robert B. Strassler
+Translated by Pamela Mensch
+Introduction by Paul Cartledge
+
+The Landmark Julius Caesar:
+The Complete Works  
+Edited by Kurt A. Raaflaub
+Series Editor Robert B. Strassler
+</pre>
+
+<h4>
+  <a href="https://www.amazon.com/dp/6027005866/" target="_blank">at amazon</a>
+  Exposing Lies of the Empire 1st Edition by Andre Vltchek
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

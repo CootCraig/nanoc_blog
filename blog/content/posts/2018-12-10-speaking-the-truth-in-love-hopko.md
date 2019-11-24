@@ -274,6 +274,16 @@ _hopko_stt15_magnificat_pc.mp3
 /home/craig/dev/nanoc_blog/blog/content/assets/audio/fr-thomas-hopko/_hopko_stt15_magnificat_pc.mp3
 </pre>
 
+<h4>Podcast Log</h4>
+
+<pre>
+p.4 old to new
+THURSDAY, MAY 29, 2008 - Granting Sight to the Blind Man 44:13
+FRIDAY, JUNE 6, 2008 - The Sunday of the Holy Fathers - 47:37
+THURSDAY, JUNE 12, 2008 - Pentecost - 37:34
+MONDAY, JUNE 16, 2008 - The Holy Spirit - THURS
+</pre>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

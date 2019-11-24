@@ -7,6 +7,42 @@ tags:
   - android_tablet
 ---
 
+<pre>
+Nov 12 2019 have tablet
+Samsung Galaxy Tab A (2016)
+model SM-T280
+android version 5.1.1
+
+Loaded apps
+  amaze file manager
+  musicolet mp3 player
+  FE Clock
+  libby
+  hoopla
+</pre>
+
+<h4>FAT1 thumb drive used for transfers to tablet</h4>
+
+<h5>HD sources</h5>
+
+<pre>
+/data/scourby-bible/mp3
+/home/craig/Downloads/youtube
+</pre>
+
+<h5>FAT1 folders</h5>
+
+<pre>
+/media/craig/FAT1/audio/Music/scourby-bible
+
+/media/craig/FAT1/audio/Podcasts/darkstream
+/media/craig/FAT1/audio/Podcasts/e-michael-jones
+/media/craig/FAT1/audio/Podcasts/flat-earth
+/media/craig/FAT1/audio/Podcasts/jay-dyer
+/media/craig/FAT1/audio/Podcasts/owen-benjamin
+/media/craig/FAT1/audio/Podcasts/paul-vanderklay
+</pre>
+
 <h2>
   <a href="https://www.lenovo.com/us/en/tablets/android-tablets/tab-4-series/Lenovo-TB-8504/p/ZZITZTATB08" target="_blank">lenovo.com/us/en/tablets</a>
   Lenovo tab 4 8

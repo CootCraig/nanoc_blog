@@ -313,6 +313,11 @@ back roller, thoracic spine.
 2m15s - neck scalene
 </pre>
 
+<h3>
+  <a href="https://www.youtube.com/user/kabuki07/videos" target="_blank">Chris Duffin youtube</a>
+  Chris Duffin Kabuki Strength
+</h3>
+
 <h4>
   <a href="https://teachmeanatomy.info/neck/muscles/scalene/" target="_blank">teachmeanatomy.info</a>
   The Scalene Muscles
