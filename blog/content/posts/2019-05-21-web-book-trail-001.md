@@ -439,6 +439,8 @@ Series Editor Robert B. Strassler
   Exposing Lies of the Empire 1st Edition by Andre Vltchek
 </h4>
 
+Blood Meridian: Or the Evening Redness in the West Paperback by Cormac McCarthy
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

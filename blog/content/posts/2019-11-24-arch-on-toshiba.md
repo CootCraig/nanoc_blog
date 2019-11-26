@@ -1,20 +1,18 @@
 ---
-title: "Clearly Filtered Pitcher"
-created_at: Thu Nov 14 17:32:10 MST 2019
+title: "Arch on Toshiba"
+created_at: Sun Nov 24 20:52:05 MST 2019
 kind: article
 tags:
-  - clearly_filtered_pitcher
-  - fluoride
-  - health
-  - water_filters
+  - arch_on_toshiba
+  - arch_linux
+  - arch
+  - laptop
+  - notebook_computer
 ---
 
-<h4>Filter log 2019-11-13</h4>
+<h4>Arch ISO image</h4>
 
-<pre>
-14.0 gal
-Mon Nov 25 04:30:48 MST 2019
-</pre>
+665845760 Nov  1 10:33 archlinux-2019.11.01-x86_64.iso
 
 <!--
 html boilerplate fragments

@@ -1,19 +1,28 @@
 ---
-title: "Clearly Filtered Pitcher"
-created_at: Thu Nov 14 17:32:10 MST 2019
+title: "Chicken Recipes"
+created_at: Sun Nov 24 19:03:12 MST 2019
 kind: article
 tags:
-  - clearly_filtered_pitcher
-  - fluoride
-  - health
-  - water_filters
+  - chicken_recipes
+  - cooking
 ---
 
-<h4>Filter log 2019-11-13</h4>
+<h2>Piecing Leg Quarters</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=q1wrDnLbMHM" target="_blank">Fork Meats Food youtube</a>
+  How to cut up a chicken leg quarter
+</h4>
+
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=2XtI-D2Sao8" target="_blank">Butcher Cuisine youtube</a>
+  How to cut a chicken leg quarter
+</h4>
 
 <pre>
-14.0 gal
-Mon Nov 25 04:30:48 MST 2019
+separate back from thigh
+follow the white line
 </pre>
 
 <!--

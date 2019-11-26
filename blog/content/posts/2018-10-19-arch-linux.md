@@ -279,6 +279,34 @@ makepkg -si
 yay -Syu
 yay -Pu
 </pre>
+
+<h1>youtube videos on install</h1>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=dOXYZ8hKdmc" target="_blank">Average Linux User youtube</a>
+  Arch Linux UEFI step-by-step installation guide
+</h4>
+
+<pre>
+16m 40s - grub
+18m 50s - grub config file
+</pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=GKdPSGb9f5s" target="_blank">Average Linux User</a>
+  Installing Arch Linux in less than 10 minutes
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=-zb8220uUiA" target="_blank">ufoludek youtube</a>
+  [NEW - 2019] Installation Guide - Arch Linux (UEFI & systemd-boot)
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=d91_jQ6qJb8" target="_blank">eznix youtube</a>
+  Arch Linux Install - EFI UEFI System - Base MetaPackage - LXQt
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>
