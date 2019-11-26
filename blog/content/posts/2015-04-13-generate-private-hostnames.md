@@ -23,7 +23,9 @@ var numbers = hashids.decode(id);
 
 $("#input").text("["+numbers.join(", ")+"]");
 $("#output").text(id);
+</pre>
 
+<pre>
 1 => 374kr - ReefMaster Pro Windows 7 Pro
 2 => grj2q
 3 => jrok7
@@ -35,20 +37,10 @@ $("#output").text(id);
 9 => 2r9yq - arch-mate-2r9yq - 20191126
 </pre>
 
-[hashids.org](http://hashids.org/)
-Hashids is a small open-source library that generates short, unique, non-sequential ids from numbers.
-
-[Codepen sandbox](http://codepen.io/ivanakimov/pen/bNmExm)
-
-~~~~~~~~~~~~~~
-http://codepen.io/ivanakimov/pen/bNmExm
-var hashids = new Hashids("cloud hidden", 5, "abcdefghijklmnopqrstuvwxyz1234567890");
-
-var id = hashids.encode(1);
-var numbers = hashids.decode(id);
-
-1 => 04mv4
-~~~~~~~~~~~~~~
+<h4>
+  <a href="http://hashids.org/" target="_blank">hashids.org/</a>
+  hashids library
+</h4>
 
 # 1 - 04mv4.gcsww.local
 
@@ -77,64 +69,17 @@ and proxied with puma.
 
 [hashids script at codepen](http://codepen.io/ivanakimov/pen/bNmExm)
 
-~~~~~~~~~~~~~~
-var hashids = new Hashids("cloud hidden", 5, "abcdefghijklmnopqrstuvwxyz1234567890");
-
-var id = hashids.encode(2);
-var numbers = hashids.decode(id);
-
-2 => o4g31
-~~~~~~~~~~~~~~
-
 # 3 - y4ldr.gcsww.local
 
 Test bed for
 Ubuntu / dokku-alt / docker / jruby rails
 
-[hashids script at codepen](http://codepen.io/ivanakimov/pen/bNmExm)
 
-~~~~~~~~~~~~~~
-var hashids = new Hashids("cloud hidden", 5, "abcdefghijklmnopqrstuvwxyz1234567890");
+<h1>9 => 2r9yq - arch-mate-2r9yq</h1>
 
-var id = hashids.encode(3);
-var numbers = hashids.decode(id);
+Tue Nov 26 11:59:15 MST 2019
 
-3 => y4ldr
-~~~~~~~~~~~~~~
-
----
-title: "Chicken Recipes"
-created_at: Sun Nov 24 19:03:12 MST 2019
-kind: article
-tags:
-  - chicken_recipes
-  - cooking
----
-
-<h2>Piecing Leg Quarters</h2>
-
-<h4>
-  <a href="https://www.youtube.com/watch?v=q1wrDnLbMHM" target="_blank">Fork Meats Food youtube</a>
-  How to cut up a chicken leg quarter
-</h4>
-
-
-<h4>
-  <a href="https://www.youtube.com/watch?v=2XtI-D2Sao8" target="_blank">Butcher Cuisine youtube</a>
-  How to cut a chicken leg quarter
-</h4>
-
-<pre>
-separate back from thigh
-follow the white line
-</pre>
-
-<h1>Python hashid</h1>
-
-<h4>
-  <a href="https://pypi.org/project/hashids/" target="_blank">pypi.org/</a>
-  hashids at pypi
-</h4>
+VirtualBox arch install test.
 
 <!--
 html boilerplate fragments
