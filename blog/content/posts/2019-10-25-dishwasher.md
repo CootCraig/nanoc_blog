@@ -11,12 +11,49 @@ tags:
 
 SHE3ARF6UC/22
 
+In Craig's kitchen drawer: Wiring diagram and error code chart
+
 <h4>Error Code E:24 - drain problem</h4>
 
 Check drain strainer.
 User manual does not have codes.
 Called support at
 800-944-2904
+
+<h3>
+  <a href="https://www.appliancepartspros.com/pump-parts-for-bosch-she3arf6uc-22.html" target="_blank">appliancepartspros.com</a>
+  Parts for Bosch SHE3ARF6UC/22
+</h3>
+
+877-477-7278
+
+<pre>
+diagram 455 - drain pump - Bosch Part Number:	AP5972147
+diagram 435 - turbidity sensor - Bosch Part Number: AP4482988
+</pre>
+
+<h4>
+  <a href="https://www.appliancepartspros.com/bosch-pump-drain-00631200-ap5972147.html" target="_blank">appliancepartspros.com</a>
+  Pump-Drain
+</h4>
+
+<pre>
+Pump-Drain
+Part Number:	AP5972147
+OUR PRICE $30.99
+</pre>
+
+<h4>
+  <a href="https://www.appliancepartspros.com/bosch-sensor-611323-ap4482988.html" target="_blank">appliancepartspros.com</a>
+  Turbidity Sensor
+</h4>
+
+<pre>
+Turbidity Sensor
+Part Number:	AP4482988
+OUR PRICE $20.98
+</pre>
+
 
 <!--
 html boilerplate fragments
