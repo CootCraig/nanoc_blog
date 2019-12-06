@@ -102,6 +102,8 @@ Craig 5000 mile or 6 month oil change interval
 2017-12-16, 122108, 0, Tire Rotation, Discount Tire,
 2018-01-18, 123752 mi, $??, oil and filter change, K&N HP-1004 - Mobil 1 5W20, 4.6qt oil - 17mm plug socket
 2018-03-16, 126579 mi, $??, oil and filter change, K&N HP-1004 - Mobil 1 5W20, 4.6qt oil - 17mm plug socket
+
+2019-12-03, 126579 mi, $??, oil and filter change, K&N HP-1004 - Mobil 1 5W20, 4.6qt oil - 17mm plug socket
 </pre>
 
 <h3>Next service items</h3>

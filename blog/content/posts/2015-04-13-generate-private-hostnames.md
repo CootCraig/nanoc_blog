@@ -12,9 +12,9 @@ tags:
   hashids example
 </h4>
 
-# Random hostnames
+<h1>Random hostnames</h1>
 
-## Private for me
+<h2>Private for me</h2>
 
 <pre>
 var hashids = new Hashids("coot private stock", 5, "abcdefghijklmnopqrstuvwxyz1234567890");
@@ -33,8 +33,11 @@ $("#output").text(id);
 5 => 1q8o7 - arch-vm-1q8o7 - 20180927
 6 => 57ejq - windows7-recover-57ejq - 20180930
 7 => vr2kr - arcolinux-vr2kr - 20181009
-8 => 0qw5q - arcolinuxb-mate-0qw5q - 20181019
-9 => 2r9yq - arch-mate-2r9yq - 20191126
+8 => 0qw5q - arcolinuxb-mate-0qw5q - 20181019 - virtual box
+9 => 2r9yq - arch-mate-2r9yq - 20191126 - virtual box
+10 => l7v2r - arch-t500-l7v2r - 20191203 - lenovo t500
+11 => 0rm37 - manjaro-t500-0rm37 - 20191203 - lenovo t500
+12 => 2q1mq - arch-toshiba-2q1mq - 20191204 - Toshiba Satellite
 </pre>
 
 <h4>
