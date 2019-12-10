@@ -6,13 +6,18 @@ tags:
   - dictionaries
 ---
 
+<h4>
+  <a href="https://www.amazon.com/American-Dictionary-English-Language-Facsimile/dp/091249803X" target="_blank">$59.98 at amazon</a>
+  American Dictionary of the English Language (1828 Facsimile Edition) by Noah Webster
+</h4>
+
 <h3>
   <a href="http://webstersdictionary1828.com/" target="_blank">webstersdictionary1828.com</a>
   Online - An American Dictionary of the English Language by Noah Webster
 </h3>
 
 <h3>
-  <a href="https://www.amazon.com/American-Dictionary-English-Language-1828-ebook/dp/B00O3T2AP" target="_blank">$6.95 for Kindle</a>
+  <a href="https://www.amazon.com/American-Dictionary-English-Language-1828-ebook/dp/B00O3T2AP2" target="_blank">$6.95 for Kindle</a>
   American Dictionary of the English Language (1828 Edition) Kindle Edition
 </h3>
 
@@ -102,16 +107,6 @@ Webster's Unabridged Dictionary (2nd 100 Pages) Noah Webster
 <h4>
   <a href="http://www.gutenberg.org/ebooks/38700" target="_blank">gutenberg.org/ebooks/38700</a>
   Chambers's Twentieth Century Dictionary (part 4 of 4: S-Z and supplements)
-</h4>
-
-<h4>
-  <a href="" target="_blank"></a>
-  
-</h4>
-
-<h4>
-  <a href="" target="_blank"></a>
-  
 </h4>
 
 <!--

@@ -12,8 +12,8 @@ tags:
 <h4>Filter log 2019-11-13</h4>
 
 <pre>
-23.0 gal
-Thu Dec  5 06:27:08 MST 2019
+25.5 gal
+Mon Dec  9 09:17:59 MST 2019
 </pre>
 
 <!--

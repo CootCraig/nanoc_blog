@@ -41,9 +41,9 @@ boot archlinux-2019.12.01-x86_64.iso
 ip link -> wlan0
 cd /etc/netctl
 cp examples/wireless-wpa .
-edit examples/wireless-wpa
-wireless-wpa
-netctl wireless-wpa
+edit wireless-wpa
+netctl start wireless-wpa
+ping -c 3 google.com
 
 pacman -Syy
 pacman -S python3
@@ -51,7 +51,7 @@ pacman -S reflector
 reflector -c "United States" -f 20 -l 20 --save /etc/pacman.d/mirrorlist
 
 fdisk -l -> /dev/sdx
-wipefs /dev/sdx
+wipefs -a /dev/sdx
 gdisk /dev/sdx
   o - create new empty GPT
   n - 250M - type ef00
@@ -63,7 +63,7 @@ mkfs.ext4 /dev/sdx3
 
 mount /dev/sdx3 /mnt
 
-pacstrap /mnt base base-devel linux linux-firmware dhcpcd netctl vim python3 reflector
+pacstrap /mnt base base-devel linux linux-headers linux-firmware dhcpcd netctl vim python3 reflector
 
 mkdir /mnt/boot/efi
 mount /dev/sdx1 /mnt/boot/efi
@@ -112,11 +112,72 @@ pull the iso thumb drive.
 <pre>
 systemctl start dhcpd.service
 systemctl enable dhcpd.service
+
+pacman -S broadcom-wl-dkms
+pacman -S wpa_supplicant
+pacman -S iwd
+
+systemctl start/enable iwd
+</pre>
+
+<h4>Reboot the hd</h4>
+<pre>
+iwctl
+
+wpa_passphrase
 </pre>
 
 <h2>Wireless problem after 1st HD boot</h2>
 
+<pre>
+lspci -vnn -d 14e4:
+
+Broadcom ... BCM43142 [14e4:4365]
+ ...
+kernel driver in use: wl
+kernel modules: wl
+</pre>
+
+Broadcom BCM43142 [14e4:4365] not supported in brcm80211 or b43 drivers. See
+<a href="https://wiki.archlinux.org/index.php/Broadcom_wireless#Installation" target="_blank">Broadcom wireless installation</a>
+
+<h3>So try <a href="https://www.archlinux.org/packages/?name=broadcom-wl-dkms" target="_blank">broadcom-wl-dkms</a> </h3>
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/Broadcom_wireless#Interface_is_showing_but_not_allowing_connections" target="_blank">wiki.archlinux.org</a>
+  Interface is showing but not allowing connections
+</h4>
+Try this.  Append the following kernel parameter:
+<pre>
+b43.allhwsupport=1
+</pre>
+
 <h1>Links</h1>
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/broadcom_wireless#broadcom-wl" target="_blank">wiki.archlinux.org/</a>
+  broadcom_wireless broadcom-wl
+</h4>
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/Iwd" target="_blank">wiki.archlinux.org</a>
+  iwd
+<h4>
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/Iwd#Optional_configuration" target="_blank">wiki.archlinux.org</a>
+  Iwd#Optional_configuration
+<h4>
+The PreSharedKey can be calculated from the SSID and the WiFi passphrase using wpa_passphrase (from wpa_supplicant) or wpa-pskAUR:
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/WPA_supplicant" target="_blank">wiki.archlinux.org</a>
+  wpa_supplicant
+</h4>
+
+<h4>
+  <a href="https://bbs.archlinux.org/viewtopic.php?pid=1600517#p1600517" target="_blank">bbs.archlinux.org/</a>
+  [SOLVED] Trying to install and work the Broadcom wireless-BMC43142
+</h4>
 
 <h4>
   <a href="https://appuals.com/partition-configure-drives-linux-uefi-boot/" target="_blank">appuals.com/</a>
@@ -194,6 +255,46 @@ are available on the installation media, but often have to be installed
 explicitly), and to configure the interface. The second is choosing a
 method of managing wireless connections. This article covers both parts,
 and provides additional links to wireless management tools.
+
+<h4>
+  <a href="https://wireless.wiki.kernel.org/en/users/documentation/iw" target="_blank">wireless.wiki.kernel.org</a>
+  About iw
+</h4>
+iw is a new nl80211 based CLI configuration utility for wireless
+devices. It supports all new drivers that have been added to the kernel
+recently. The old tool iwconfig, which uses Wireless Extensions interface,
+is deprecated and it's strongly recommended to switch to iw and nl80211.
+
+Like the rest of the Linux kernel, iw is still under development. Features
+are added 'as we go'. The only documentation for iw is this page and
+output from 'iw help'. Please help expand this page.
+
+<h4>
+  <a href="https://wireless.wiki.kernel.org/en/users/documentation/wpa_supplicant" target="_blank">wireless.wiki.kernel.org</a>
+  wpa_supplicant Linux documentation page
+</h4>
+
+<h4>
+  <a href="https://w1.fi/wpa_supplicant/" target="_blank">w1.fi/</a>
+  Linux WPA/WPA2/IEEE 802.1X Supplicant
+</h4>
+wpa_supplicant is a WPA Supplicant for Linux, BSD, Mac OS X, and Windows
+with support for WPA and WPA2 (IEEE 802.11i / RSN). It is suitable
+for both desktop/laptop computers and embedded systems. Supplicant is
+the IEEE 802.1X/WPA component that is used in the client stations. It
+implements key negotiation with a WPA Authenticator and it controls the
+roaming and IEEE 802.11 authentication/association of the wlan driver.
+
+wpa_supplicant is designed to be a "daemon" program that runs in the
+background and acts as the backend component controlling the wireless
+connection. wpa_supplicant supports separate frontend programs and a
+text-based frontend (wpa_cli) and a GUI (wpa_gui) are included with
+wpa_supplicant.
+
+<h4>
+  <a href="https://w1.fi/cgit/hostap/plain/wpa_supplicant/README" target="_blank">w1.fi/</a>
+  wpa_supplicant README
+</h4>
 
 <!--
 html boilerplate fragments

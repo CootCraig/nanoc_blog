@@ -119,7 +119,7 @@ change oil at 126579+5000 => 131579 or Sept. 16, 2018
 <h1>Silverado</h1>
 
 <pre>
-6 qt. oil - Mobil 1 5w20
+6 qt. oil - Mobil 1 5w30
 Wix oil filter 57060xp
 oil pan bolt - 15mm
 </pre>
