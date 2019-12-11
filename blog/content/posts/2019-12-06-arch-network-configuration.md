@@ -113,10 +113,10 @@ and
   Iwd#Optional configuration
 </h4>
 
-<h4>
+<h3>
   <a href="https://wiki.archlinux.org/index.php/Systemd-networkd" target="_blank">wiki.archlinux.org</a>
   systemd-networkd
-</h4>
+</h3>
 
 systemd-networkd is a system daemon that manages network
 configurations. It detects and configures network devices as they appear;
@@ -129,6 +129,33 @@ The systemd package is part of the default Arch installation and contains
 all needed files to operate a wired network. Wireless adapters, covered
 later in this article, can be set up by services, such as wpa_supplicant
 or iwd.
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/Systemd-networkd#Basic_usage" target="_blank">wiki.archlinux.org/</a>
+  Systemd-networkd Basic_usage
+</h4>
+
+The systemd package is part of the default Arch installation and contains
+all needed files to operate a wired network. Wireless adapters, covered
+later in this article, can be set up by services, such as wpa_supplicant
+or iwd.
+
+<h3>
+  <a href="https://wiki.archlinux.org/index.php/Systemd-resolved" target="_blank">wiki.archlinux.org</a>
+  Systemd-resolved
+</h3>
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/Systemd-resolved#Installation" target="_blank">wiki.archlinux.org/</a>
+  Systemd-resolved Installation
+</h4>
+
+systemd-resolved is a part of the systemd package that is installed by default.
+
+<h4>
+<a href="https://wiki.archlinux.org/index.php/Systemd-resolved#Configuration" target="_blank">wiki.archlinux.org/</a>
+  Systemd-resolved Configuration
+</h4>
 
 <h4>
   <a href="https://wiki.archlinux.org/index.php/Network_configuration#Listing_network_interfaces" target="_blank">wiki.archlinux.org</a>

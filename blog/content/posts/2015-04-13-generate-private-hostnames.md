@@ -38,6 +38,7 @@ $("#output").text(id);
 10 => l7v2r - arch-t500-l7v2r - 20191203 - lenovo t500
 11 => 0rm37 - manjaro-t500-0rm37 - 20191203 - lenovo t500
 12 => 2q1mq - arch-toshiba-2q1mq - 20191204 - Toshiba Satellite
+13 -> p7pzr - arch-toshiba-p7pzr - 20191211 - Toshiba Satellist arch linux systemd-networkd dhcpcd wpa_supplicant
 </pre>
 
 <h4>

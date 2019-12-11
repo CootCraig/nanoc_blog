@@ -34,6 +34,7 @@ lsblk - to get path to media
 sudo dd bs=4M if=/home/craig/Downloads/archlinux-2019.12.01-x86_64.iso of=/dev/sde status=progress oflag=sync
 </pre>
 
+<h3>wifi setup.  Mon Dec  9 21:31:28 MST 2019</h3>
 <h4>Install Log</h4>
 <pre>
 hostname is arch-toshiba-2q1mq
@@ -63,12 +64,11 @@ mkfs.ext4 /dev/sdx3
 
 mount /dev/sdx3 /mnt
 
-pacstrap /mnt base base-devel linux linux-headers linux-firmware dhcpcd netctl vim python3 reflector
+pacstrap /mnt base base-devel linux linux-headers linux-firmware ifplugd vim python3 reflector
 
 mkdir /mnt/boot/efi
 mount /dev/sdx1 /mnt/boot/efi
 
-genfstab -U -p /mnt/boot/efi >> /mnt/etc/fstab
 genfstab -U -p /mnt >> /mnt/etc/fstab
 
 arch-chroot /mnt
@@ -96,6 +96,8 @@ Add matching entries to /etc/hosts
 set the root password
  # passwd
 
+pacman -S broadcom-wl-dkms
+pacman -S iwd
 pacman -S intel-ucode
 pacman -S dosfstools
 pacman -S grub efibootmgr
@@ -110,21 +112,29 @@ pull the iso thumb drive.
 
 <h4>Boot the hd</h4>
 <pre>
-systemctl start dhcpd.service
-systemctl enable dhcpd.service
+  iwd's network configuration feature
+/etc/iwd/main.conf
+[General]
+EnableNetworkConfiguration=true
 
-pacman -S broadcom-wl-dkms
-pacman -S wpa_supplicant
-pacman -S iwd
+  iwd DNS manager systemd-resolved
+/etc/iwd/main.conf
+[Network]
+NameResolvingService=systemd
 
-systemctl start/enable iwd
+ln -sf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
+systemctl start/enable systemd-networkd.service
+systemctl start/enable ifplugd@eth0.service
+systemctl stat/enable iwd.service
+systemctl start/enable systemd-resolved.service
+
+  Tip: In order to check the DNS actually used by systemd-resolved, the command to use is:
+resolvectl status
 </pre>
 
 <h4>Reboot the hd</h4>
 <pre>
 iwctl
-
-wpa_passphrase
 </pre>
 
 <h2>Wireless problem after 1st HD boot</h2>
