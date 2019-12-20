@@ -1,5 +1,5 @@
 ---
-title: "Low Price Laptop"
+title: "Laptop Research"
 created_at: Sun Dec 14 13:26:27 MST 2014
 kind: article
 tags:
@@ -126,7 +126,12 @@ ebay $115
 * Lenovo ThinkPad T420 [4180-WND] 14" [WXGA] 2.50GHz CORE i5 [2520M] 4GB 320GB
 * ebay $259 + 16 shipping
 
-## research links
+<h1>research links</h1.
+
+<h2>
+  <a href="https://bbs.archlinux.org/viewtopic.php?id=22816" target="_blank">bbs.archlinux.org</a>
+Laptop Issues» Laptops which run Arch
+</h2>
 
 * [thinkwiki - ThinkPad History](http://www.thinkwiki.org/wiki/ThinkPad_History)
 
@@ -136,17 +141,20 @@ ebay $115
 Making A Thinkpad Great Again
 
 <!--
-html boilerplate
+html boilerplate fragments
 <a href="" target="_blank"></a>
 <a name=""></a>
 <img src="" width="400px">
 <ul>
   <li></li>
+  <li><a href="" target="_blank"></a></li>
 </ul>
 <pre>
 </pre>
+<p style="margin-bottom: 2em;"></p>
+<hr style="border: 0; height: 3px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 <pre><code>
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
--->
+:-->

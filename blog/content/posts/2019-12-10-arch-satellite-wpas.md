@@ -167,6 +167,60 @@ start/enable dhcpcd@wlan0.service
 start enable wpa_supplicant@wlan0.service
 </pre>
 
+<h3>user craig</h3>
+<pre>
+pacman -S zsh
+
+useradd --create-home --shell /usr/bin/zsh craig
+passwd craig
+usermod -a -G wheel craig
+
+Enable vim for visudo
+As root: vim /etc/sudoers -> must :w!
+Near the top add this line
+Defaults  editor=/usr/bin/vim
+
+visudo
+uncomment this line:
+%wheel ALL=(ALL) NOPASSWD: ALL
+</pre>
+
+<h3>ssh</h3>
+<pre>
+pacman -S openssh
+systemctl start/enable sshd.service
+
+ssh-keygen
+ssh-copy-id username@host-address
+</pre>
+
+<h3>automount</h3>
+<pre>
+pacman -S udisks2 udevil
+chmod -s /usr/bin/udevil
+</pre>
+
+<h3>ntp</h3>
+<pre>
+systemctl stop systemd-timesyncd.service
+systemctl disable systemd-timesyncd.service
+pacman -S chrony
+
+edit /etc/chrony.conf - add
+server 0.pool.ntp.org offline
+server 1.pool.ntp.org offline
+server 2.pool.ntp.org offline
+server 3.pool.ntp.org offline
+
+systemctl start chronyd.service
+systemctl enable chronyd.service
+</pre>
+
+<h3>nfs</h3>
+<pre>
+pacman -S nfs-utils
+</pre>
+
 <h1>Links</h1>
 
 <h2>
@@ -221,7 +275,7 @@ in /etc/systemd/network and symlink it to /dev/null
 
 
 <h4>
-  <a href="https://wiki.archlinux.org/index.php/Systemd-resolved#DNS" target="_blank">wiki.archlinux.org</a>
+  <a href="https://wiki.archlinux.org/index.php/Systemd-desolved#DNS" target="_blank">wiki.archlinux.org</a>
   Systemd-resolved#DNS
 </h4>
 Using the systemd DNS stub file - the systemd DNS stub file

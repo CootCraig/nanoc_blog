@@ -1,27 +1,14 @@
 ---
-title: "SSH"
-created_at: Fri Jan 16 01:44:21 MST 2015
+title: "Raspberry Pi"
+created_at: Fri Dec 20 10:22:10 MST 2019
 kind: article
 tags:
-  - ssh
+  - raspberry_pi
 ---
-
-<h1>Links</h1>
-
 <h4>
-  <a href="https://wiki.archlinux.org/index.php/OpenSSH" target="_blank">wiki.archlinux.org</a>
-  OpenSSH
+  <a href="https://itnext.io/an-introduction-to-raspberry-pi-4-gpio-and-controlling-it-with-node-js-10f2ce41af12" target="_blank">itnext.io/</a>
+  An introduction to Raspberry Pi 4 GPIO and controlling it with Node.js
 </h4>
-
-<h4>
-  <a href="http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/" target="_blank">www.cyberciti.biz</a>
-  nixCraft - OpenSSH Config File Examples
-</h4>
-
-<h3>
-  <a href="https://en.wikibooks.org/wiki/OpenSSH" target="_blank">en.wikibooks.org/</a>
-  OpenSSH
-</h3>
 
 <!--
 html boilerplate fragments

@@ -8,17 +8,30 @@ tags:
   - postgresql
 ---
 
-<a href="https://www.libreoffice.org/discover/base/" target="_blank">Discover Base Page</a>
+<h3>
+  <a href="https://www.libreoffice.org/discover/base/" target="_blank">Discover Base Page</a>
+  Base
+</h3>
 
-https://www.youtube.com/watch?v=jWU0WdMJ2Kw&list=PLy7Kah3WzqrEerJ0VPNWVaR4CYHMr4wmV
+<b>A powerful manager for all databases</b>
 
-# TheFrugalComputerGuy
+Base is a full-featured desktop database front end, designed to meet
+the needs of a broad array of users. Base caters to power users and
+enterprise requirements, providing native-support drivers for some of
+the most widely employed multi-user database engines: MySQL/MariaDB,
+Adabas D, MS Access and PostgreSQL. In addition, the built-in support
+for JDBC- and ODBC-standard drivers allows you to connect to virtually
+any other existing database engine as well.
 
-### <a href="https://www.youtube.com/watch?v=jWU0WdMJ2Kw&list=PLy7Kah3WzqrEerJ0VPNWVaR4CYHMr4wmV" target="_blank">LibreOffice Base videos</a>
+<h3>
+  <a href="https://www.youtube.com/playlist?list=PLEau3ds3SoB_vxeWqtePR__6ztmRyAOdN" target="_blank">Nerd on the Street - Tech youtube</a>
+  LibreOffice Base play list
+</h3>
 
-
-#### <a href="https://www.youtube.com/watch?v=GxINtJp0Ig0&list=PLy7Kah3WzqrEerJ0VPNWVaR4CYHMr4wmV&index=6" target="_blank">Creating a form</a>
-
+<h3>
+  <a href="https://www.youtube.com/playlist?list=PLy7Kah3WzqrEerJ0VPNWVaR4CYHMr4wmV" target="_blank">TheFrugalComputerGuy youtube</a>
+  LibreOffice Base play list
+</h3>
 
 <!--
 html boilerplate fragments

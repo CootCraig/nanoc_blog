@@ -132,7 +132,7 @@ uncomment this line:
 %wheel ALL=(ALL) NOPASSWD: ALL
 </pre>
 
-<h3>mate</h3>
+<h3>install mate</h3>
 
 <pre>
 pacman -S xorg xorg-server

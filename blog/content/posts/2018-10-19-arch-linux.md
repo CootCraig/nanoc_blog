@@ -314,6 +314,49 @@ yay -Pu
   I Changed My Mind, I'm using Mate On My Arch Respin Instead Of XFCE4. Find Out Why!!
 </h4>
 
+<h1>Removable Storage</h1>
+
+<h4>
+  <a href="https://www.archlinux.org/packages/?name=udisks2" target="_blank">archlinux.org/packages</a>
+  udisks2
+</h4>
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/Udisks" target="_blank">wiki.archlinux.org</a>
+  udisks
+</h4>
+
+udisks provides a daemon udisksd, that implements D-Bus interfaces used to
+query and manipulate storage devices, and a command-line tool udisksctl,
+used to query and use the daemon.
+
+There are two versions of udisks called udisksAUR and udisks2. Development
+of udisks has ceased in favor of udisks2. [1]
+
+udisksd(8) (for udisks2) and udisks-daemon (for udisks) are started
+on-demand by D-Bus, and should not be enabled explicitly.
+
+udevil — Includes devmon, which is compatible to udisks and udisks2.
+
+Note: devmon only uses udisks or udisks2 for mounting (in this order)
+if udevil or pmount miss the SUID permission. To remove this permission,
+run chmod -s /usr/bin/udevil as root.
+
+<h4>
+  <a href="https://www.archlinux.org/packages/community/x86_64/udevil/" target="_blank">archlinux.org/packages</a>
+  udevil
+</h4>
+
+<pre>
+udevil 0.4.4-3
+Architecture:	x86_64
+Repository:	Community
+Description:	Mount and unmount without password
+Upstream URL:	http://ignorantguru.github.com/udevil/
+License(s):	GPL3
+Provides:	devmon
+</pre>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

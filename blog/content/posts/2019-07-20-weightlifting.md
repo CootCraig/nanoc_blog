@@ -82,6 +82,13 @@ Chris Devil Dog CrossFit Meeting 7PM Monday August 5, 2019
 
 <h2>Ultimate Performance</h2>
 
+2 memberships and coaching for Donna
+<pre>
+$90/month for 2 in family ($50 individual)
+Donna's membership started on Dec. 9, 2019
+$21 per coaching session for Donna
+</pre>
+
 <pre>
 124 Oneida St (13.94 mi)
 Pueblo, Colorado 81003
@@ -96,6 +103,16 @@ USPA.net
 Ultimate Bumper Plates? yes. 10# and up.
 Prices? $50/month. get door entry code.
 Oldest coached is 75 years old.
+</pre>
+
+<h2>
+  <a href="https://eagleridgefitnesspueblo.com/" target="_blank">eagleridgefitnesspueblo.com</a>
+  Eagle Ridge Fitness
+</h2>
+<pre>
+4710 Eagleridge Circle Suite 110, Pueblo, CO 81008
+(719) 546-2222
+Silver Sneakers?
 </pre>
 
 <h2>Chaos Weightlifting</h2>
@@ -140,6 +157,13 @@ if I know how to teach the movement pattern, then I can teach anybody
 olympic lifts use acceleration
 power is strength displayed quickly
 </pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Mh82iRfkSdU" target="_blank">elitefts youtube</a>
+  Dave Tate's Definitive Guide To Wrapping Wrists
+</h4>
+
+Thu Dec 19 16:35:59 MST 2019 ordered wrist wraps from elitefts
 
 <h2>Squat</h2>
 
