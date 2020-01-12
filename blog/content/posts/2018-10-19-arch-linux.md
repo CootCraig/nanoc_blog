@@ -271,6 +271,11 @@ makepkg -si
 </pre>
 
 <h4>
+  <a href="https://computingforgeeks.com/yay-best-aur-helper-for-arch-linux-manjaro/" target="_blank">computingforgeeks.com</a>
+  yay – Best AUR Helper for Arch Linux / Manjaro
+</h4>
+
+<h4>
   <a href="https://www.ostechnix.com/yay-found-yet-another-reliable-aur-helper/" target="_blank">ostechnix.com/</a>
   Yay – Yet Another Reliable AUR Helper Written In GO
 </h4>
@@ -355,6 +360,64 @@ Description:	Mount and unmount without password
 Upstream URL:	http://ignorantguru.github.com/udevil/
 License(s):	GPL3
 Provides:	devmon
+</pre>
+
+<h1>Printing</h1>
+<pre>
+pacman -Syy cups cups-pdf gutenprint foomatic-db-gutenprint-ppds
+
+systemctl start/enable org.cups.cupsd.service
+
+gimp-print driver escp2-et2550
+usr/share/cups/model/gutenprint/5.3/Global/stp-escp2-et2550.5.3.sim.ppd.gz
+</pre>
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/CUPS" target="_blank">wiki.archlinux.org</a>
+  Cups
+</h4>
+CUPS is the standards-based, open source printing system developed by
+Apple Inc. for macOS® and other UNIX®-like operating systems.
+
+The Linux Foundation's OpenPrinting workgroup provides cups-filters. Those
+are backends, filters, and other binaries that were once part of CUPS but
+are no longer maintained by Apple. They are available in the cups-filters
+package that is a dependency of cups.
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/CUPS#Installation" target="_blank">wiki.archlinux.org</a>
+  Cups Installation
+</h4>
+<b>Install the cups package.</b>
+
+If you intend to "print" into a PDF document, also install
+the cups-pdf package. By default, pdf files are stored in
+/var/spool/cups-pdf/username/. The location can be changed in
+/etc/cups/cups-pdf.conf.
+
+Enable and start org.cups.cupsd.service.
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/CUPS#Gutenprint" target="_blank">wiki.archlinux.org</a>
+  CUPS#Gutenprint
+</h4>
+<b>Gutenprint</b>
+The Gutenprint project provides drivers for Canon, Epson, Lexmark, Sony,
+Olympus, and PCL printers for use with CUPS and GIMP.
+
+Install gutenprint and foomatic-db-gutenprint-ppds.
+
+Note: When the Gutenprint packages get updated, the printers using
+Gutenprint drivers will stop working until you run cups-genppdupdate as
+root and restart CUPS. cups-genppdupdate will update the PPD files of
+the configured printers, see cups-genppdupdate(8) for more details.
+
+<h4>
+  <a href="http://gimp-print.sourceforge.net/p_Supported_Printers.php" target="_blank">gimp-print.sourceforge.net</a>
+  p_Supported_Printers.php
+</h4>
+<pre>
+Epson Expression ET-2550 EcoTank	escp2-et2550
 </pre>
 
 <!--

@@ -7,7 +7,7 @@ tags:
   - fountain_pens
 ---
 
-## Pen Blogs
+<h2>Pen Blogs</h2>
 
 ### [parkablogs](http://www.parkablogs.com/tags/fountain-pen-reviews) Fountain Pen Reviews
 
@@ -19,6 +19,17 @@ Big List of other Pen and Ink Blogs here.
 <a href="http://www.fountainpennetwork.com/forum/" target="_blank">fountainpennetwork.com/forum</a>
   The Fountain Pen Network
 </h3>
+
+<h4>
+  <a href="https://www.menofthewest.net/god-guns-and-the-written-word/" target="_blank">menofthewest.net</a>
+  GOD, GUNS, AND THE WRITTEN WORD
+</h4>
+Editor’s Note: Rolf Nelson, author of many great books, and friend of these pages, shares some thoughts.
+
+<h4>
+  <a href="https://www.jetpens.com/Beginner-Fountain-Pens/ct/1419" target="_blank">jetpens.com</a>
+  Beginner Fountain Pens
+</h4>
 
 <h2>Pen Information</h2>
 
@@ -55,4 +66,4 @@ html boilerplate fragments
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
--->
+:-->

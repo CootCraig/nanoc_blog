@@ -8,6 +8,34 @@ tags:
   - living-well-nutraceutical
 ---
 
+<h1>Orders</h1>
+
+<h4>
+  <a href="https://www.ebay.com/usr/typhb45" target="_blank">ebay Seller: typhb45</a>
+</h4>
+
+<pre>
+ebay Seller: typhb45 (81)
+Total: $76.97
+Order number: 04-04357-91822
+Item ID: 303407188581 
+Price (2 x $38.99) 	$77.98
+Shipping 	Free
+Sales tax 	$2.89
+Gift cards, coupons 	-$3.90
+Total charged to visa x -2969 	$76.97
+</pre>
+
+<pre>
+Delivered on Friday, Oct 11, 2019
+ebay seller szur.as-46 ( 8 )
+Order number: 26-03970-27822
+Living Well Nutraceuticals
+  Heal-N-Soothe Systematic Enzyme Formula 90 Caps NEW!
+Item price	$117.00
+Quantity	3
+</pre>
+
 <h1>Reviews</h1>
 
 <h3>
@@ -30,7 +58,6 @@ name National Enzyme Company but marketed and distributed by Living
 Well Nutraceutical.
 
 <h4>Heal N Soothe Ingredients</h4>
-
 <ul>
   <li>Bromelain – This harvested from the stem of the pineapple plant and it has been used for years to treat inflammation</li>
   <li>Papain – Papain aids in digestion and it is also used to tenderize meat</li>
@@ -38,6 +65,42 @@ Well Nutraceutical.
   <li>Rutin – Believed to strengthen blood vessels</li>
   <li>Boswelliaserrate – It is used to treat arthritis and calm inflammation. It can be used both orally and topically.</li>
   <li>Other ingredients include – Ginger Root, Turmeric extract, Devil’s Claw, Vitamin E, L-glutathione, Serrazimes</li>
+</ul>
+
+<h3>Replacement Mix</h3>
+<pre>
+Ginger Root
+Turmeric extract
+Devil’s Claw
+Vitamin E
+L-glutathione
+Serrazimes
+Bromelain
+Papain
+Citrus Bioflavonoid Complex
+Rutin
+Boswelliaserrate
+</pre>
+<h4>short list</h4>
+<pre>
+Bromelain
+Turmeric extract
+Ginger Root
+Boswellia - 5-loxin
+Devil’s Claw
+</pre>
+<pre>
+SAMe labeled butanedisulfonate
+</pre>
+iherb
+swansons
+vitacost
+<h4>iherb list</h4>
+<ul>
+  <li> <a href="https://www.iherb.com/pr/Doctor-s-Best-SAM-e-Double-Strength-400-mg-60-Enteric-Coated-Tablets/34892" target="_blank">Doctor's Best, SAM-e, Double-Strength, 400 mg, 60</a> </li>
+  <li> <a href="https://www.iherb.com/pr/Natural-Factors-Turmeric-Bromelain-450-mg-90-Capsules/2688" target="_blank">Natural Factors, Turmeric & Bromelain, 450 mg, 90 Capsules</a> </li>
+  <li> <a href="https://www.vitacost.com/vitacost-synergy-5-loxin-akba-boswellia-extract" target="_blank">Vitacost Synergy 5-Loxin(boswellia)</a> </li>
+  <li> <a href="https://www.iherb.com/pr/Jarrow-Formulas-Ginger-500-mg-100-Capsules" target="_blank">Jarrow Formulas, Ginger, 500 mg, 100 Capsules</a> </li>
 </ul>
 
 <h3>

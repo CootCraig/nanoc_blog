@@ -441,6 +441,14 @@ Series Editor Robert B. Strassler
 
 Blood Meridian: Or the Evening Redness in the West Paperback by Cormac McCarthy
 
+Western authors
+<pre>
+Louis L'Amour
+Max Brand
+Zane Gray
+Elmore Leonard
+</pre>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

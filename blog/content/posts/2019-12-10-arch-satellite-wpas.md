@@ -156,7 +156,7 @@ wpa_passphrase MYSSID passphrase > /etc/wpa_supplicant/wpa_supplicant-wlp1s0.con
 <h4>ln resolve/stub-resolv.conf</h4>
 <pre>
  ln -sf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
-<pre>
+</pre>
 
 <h4>start/enable services</h4>
 <pre>
@@ -219,6 +219,13 @@ systemctl enable chronyd.service
 <h3>nfs</h3>
 <pre>
 pacman -S nfs-utils
+</pre>
+
+<h3>yay</h3>
+<pre>
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
 </pre>
 
 <h1>Links</h1>
@@ -289,7 +296,7 @@ can be done by replacing /etc/resolv.conf with a symbolic link to the
 systemd stub:
 <pre>
  ln -sf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
-<pre>
+</pre>
 
 <h2>
   <a href="https://wiki.archlinux.org/index.php/Dhcpcd" target="_blank">wiki.archlinux.org</a>
@@ -350,8 +357,6 @@ Install the wpa_supplicant package, which includes the main program
 wpa_supplicant, the passphrase tool wpa_passphrase, and the text
 front-end wpa_cli.
 
-
-
 <h4>
   <a href="https://wiki.archlinux.org/index.php/WPA_supplicant#At_boot_(systemd)" target="_blank">wiki.archlinux.org</a>
   WPA_supplicant#At_boot_(systemd)
@@ -396,6 +401,37 @@ If security is not a concern, the passphrase can also be defined in
 clear text in the network section by enclosing it in quotes:
 
 psk="passphrase"
+
+<h3>Swap</h3>
+
+<h4>
+  <a href="https://wiki.archlinux.org/index.php/Swap#Swap_partition" target="_blank">wiki.archlinux.org</a>
+  Swap Partition
+</h4>
+<b>Swap Partition</b>
+
+A swap partition can be created with most GNU/Linux partitioning
+tools. Swap partitions are typically designated as type 82. Even though
+it is possible to use any partition type as swap, it is recommended to
+use type 82 in most cases since systemd will automatically detect it
+and mount it (see below).
+
+To set up a partition as Linux swap area, the mkswap command is used. For example:
+<pre>
+mkswap /dev/sdxy
+</pre>
+Warning: All data on the specified partition will be lost.
+
+To enable the device for paging:
+<pre>
+swapon /dev/sdxy
+</pre>
+
+To enable this swap partition on boot, add an entry to /etc/fstab:
+<pre>
+UUID=device_UUID none swap defaults 0 0
+where the device_UUID is the UUID of the swap space.
+</pre>
 
 <!--
 html boilerplate fragments

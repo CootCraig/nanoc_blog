@@ -1,20 +1,12 @@
 ---
-title: "Clearly Filtered Pitcher"
-created_at: Thu Nov 14 17:32:10 MST 2019
+title: "Remote display"
+created_at: Mon Dec 23 02:54:44 MST 2019
 kind: article
 tags:
-  - clearly_filtered_pitcher
-  - fluoride
-  - health
-  - water_filters
+  - remote_display
 ---
 
-<h4>Filter log 2019-11-13</h4>
-
-<pre>
-52.0 gal
-Sun Jan 12 14:40:14 MST 2020
-</pre>
+remote display
 
 <!--
 html boilerplate fragments

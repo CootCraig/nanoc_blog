@@ -370,6 +370,11 @@ dips
   How to do Dips with Mark Rippetoe
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=9aA0-FbxK9E" target="_blank">Starting Strength youtube</a>
+  How to Do Weighted Chin Ups with Mark Rippetoe
+</h4>
+
 <h2>Strand Pulling</h2>
 
 <pre>

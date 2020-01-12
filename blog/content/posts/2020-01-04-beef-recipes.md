@@ -1,20 +1,21 @@
 ---
-title: "Clearly Filtered Pitcher"
-created_at: Thu Nov 14 17:32:10 MST 2019
+title: "Beef Recipes"
+created_at: Sat Jan  4 10:39:55 MST 2020
 kind: article
 tags:
-  - clearly_filtered_pitcher
-  - fluoride
-  - health
-  - water_filters
+  - beef_recipes
+  - recipes
 ---
 
-<h4>Filter log 2019-11-13</h4>
-
+Search Term
 <pre>
-52.0 gal
-Sun Jan 12 14:40:14 MST 2020
+slow cooker chuch roast
 </pre>
+
+<h4>
+  <a href="https://flavormosaic.com/crockpot-chuck-roast/" target="_blank">flavormosaic.com/</a>
+  CROCK POT CHUCK ROAST DEC 5, 2017
+</h4>
 
 <!--
 html boilerplate fragments
