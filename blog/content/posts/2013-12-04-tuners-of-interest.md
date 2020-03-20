@@ -7,6 +7,10 @@ tags:
   - radios
 ---
 
+<pre>
+Sony ST J75 - from post on audioasylum
+</pre>
+
 <h4>
   <a href="http://www.audioasylum.com/forums/tuner/messages/1/16094.html" target="_blank">audioasylum.com/forums/tuner</a>
   Need a second tuner posted by aarocks on September 5, 2016 at 05:39:09:

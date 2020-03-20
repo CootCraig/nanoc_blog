@@ -1,5 +1,5 @@
 ---
-title: "Our Irrigation System"
+title: "Drip Irrigation"
 created_at: Sun Mar 26 17:15:32 MDT 2017
 kind: article
 tags:
@@ -8,6 +8,16 @@ tags:
 ---
 
 search: garden irrigation bubbler
+
+<ul>
+  <li> <a href="https://www.dripworks.com/" target="_blank">Drip Works</a> </li>
+  <li> <a href="https://www.dripdepot.com/" target="_blank">Drip Depot</a> </li>
+  <li> <a href="https://www.berryhilldrip.com/" target="_blank">Berry Hill Drip</a> </li>
+<ul>
+
+https://www.dripworks.com/irritec-p1-emitter-tape-1000-roll
+
+<a href="https://www.dripdepot.com/category/drip-irrigation-tape" target="_blank">Drip Depot drip tape</a>
 
 <h2>
   <a href="https://www.youtube.com/user/dripdepot/featured" target="_blank">dripdepot youtube channel</a>

@@ -4,6 +4,7 @@ created_at: Thu Nov 14 17:32:10 MST 2019
 kind: article
 tags:
   - clearly_filtered_pitcher
+  - propur_nomad_water_filter
   - fluoride
   - health
   - water_filters
@@ -12,9 +13,19 @@ tags:
 <h4>Filter log 2019-11-13</h4>
 
 <pre>
-57.5 gal
-Mon Jan 20 04:14:01 MST 2020
+90.5 gal
 </pre>
+
+<h4>
+  <a href="https://www.clearlyfiltered.com/products/clean-water-pitcher-replacement-filter" target="_blank">clearlyfiltered.com</a>
+  Clean Water Pitcher Replacement Filter - $45
+</h4>
+
+<h1>Water Filters</h1>
+<h4>
+  <a href="https://www.propurusa.com/Propur-Nomad-Gravity-Water-Filter-Systems.html" target="_blank">propurusa.com</a>
+  PROPUR® NOMAD $215.00
+</h4>
 
 <!--
 html boilerplate fragments

@@ -112,6 +112,11 @@ The Shepherd of Hermas
   search: Maximus the confessor
 </h3>
 
+<h4>
+  <a href="https://www.amazon.com/Common-Ground-Introduction-Eastern-Christianity/dp/1880971984/" target="_blank">Book at Amazon</a>
+  Common Ground : An Introduction to Eastern Christianity by Jordan Bajis
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>
