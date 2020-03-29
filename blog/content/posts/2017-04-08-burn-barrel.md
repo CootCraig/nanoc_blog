@@ -7,16 +7,8 @@ tags:
 ---
 
 <pre>
-Muth Inc. Rocky Ford
 sells 28" tractor rims for fire pit.
 stack 2 for trash burning.
-http://muthincorporated.wixsite.com/muthinc/contactus
-18209 State Highway 10
-Rocky Ford, Colorado  81067
-(719) 254-6140
-muthinc@yahoo.com
-facebook.com/muthinc
-
 
 Muth Welding
 sells barrels and screens

@@ -22,6 +22,8 @@ tags:
   What about freezing temps in the outside well shed?
 </pre>
 
+Minimum flow desired is 1GPM
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

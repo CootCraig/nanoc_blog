@@ -207,6 +207,12 @@ will sharpen a knife using my Lansky diamond sharpening kit.
           
 </pre>
 
+<h4>
+  <a href="https://www.edgeproinc.com/apex-model-edge-pro-system/apex-1-kit-apex-model-edge-pro-sharpening-system-p4.html" target="_blank">edgeproinc.com</a>
+  Apex 1 Kit – Apex Model Edge Pro Sharpening System
+</h4>
+<b>Very nice. I want it.</b>
+
 # Water Stone
 
 virtuovice on youtube

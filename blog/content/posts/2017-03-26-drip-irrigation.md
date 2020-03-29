@@ -7,7 +7,17 @@ tags:
   - drip_tape
 ---
 
-search: garden irrigation bubbler
+<h3>Purchase Research</h3>
+Sat Mar 21 11:46:55 MDT 2020
+<pre>
+200' of tape.
+  5/8"
+  15 mil
+  12" spacing
+  flow rate?
+fittings.
+15psi pressure regulator
+</pre>
 
 <ul>
   <li> <a href="https://www.dripworks.com/" target="_blank">Drip Works</a> </li>
@@ -132,6 +142,30 @@ Perma-Loc Tape x Barb Tubing Takeoff Adapter Valve
 </h4>
 
 <h2>Hoss Tools</h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=AkmGORIR9p4" target="_blank">Hoss Tools youtube</a>
+  Drip Tape vs. Soaker Hose - Which is Better?
+</h4>
+<pre>
+Good introduction
+Most is 0.4gal/minute/100ft
+</pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=8fnK_1VKnjk" target="_blank">dripdepot youtube</a>
+  How to Install Drip Tape to Water Row Crops
+</h4>
+
+<h4>
+  <a href="https://help.dripdepot.com/support/solutions/articles/11000043772-irrigation-drip-tape-buying-guide" target="_blank">help.dripdepot.com</a>
+  Irrigation Drip Tape Buying Guide
+</h4>
+
+<h4>
+  <a href="https://help.dripdepot.com/support/solutions/articles/11000053838-burying-drip-tape" target="_blank">help.dripdepot.com</a>
+  Burying Drip Tape
+</h4>
 
 <h4>
   <a href="https://www.youtube.com/watch?v=GvIf-WR52Pc" target="_blank">Hoss Tools youtube</a>
