@@ -3,4 +3,5 @@ gem 'nanoc'
 gem 'adsf'
 gem 'kramdown'
 gem 'haml'
+gem 'nokogiri'
 

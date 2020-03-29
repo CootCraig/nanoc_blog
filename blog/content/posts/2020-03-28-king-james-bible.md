@@ -7,6 +7,10 @@ tags:
   - bible
 ---
 
+<h4>
+  <a href="https://www.kingjamesbibleonline.org/1611-Bible/" target="_blank">kingjamesbibleonline.org/1611-Bible</a>
+</h4>
+
 <h3>
   <a href="https://archive.org/download/1611TheAuthorizedKingJamesBible/1611%20The%20Authorized%20King%20James%20Bible.pdf" target="_blank">archive.org/</a>
   1611 King James Bible Download
