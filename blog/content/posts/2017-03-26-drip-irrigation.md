@@ -19,11 +19,43 @@ fittings.
 15psi pressure regulator
 </pre>
 
+<h3><li> <a href="https://www.berryhilldrip.com/" target="_blank">Berry Hill Drip</a> </li></h3>
+<h4>
+  <a href="https://www.berryhilldrip.com/Super-Garden-Drip-Kits-Water-up-to-20-Rows-Choose-1-000-4000-or-7-500-Drip-Tape-Rolls.html" target="_blank">berryhilldrip.com</a>
+  Super Garden (SG) Drip Kits - Water up to 20 Rows - 
+</h4>
+<pre>
+SKUSG 1000 8" 15 mil
+Video Link Link:View Product Video
+Our price:$185.00
+</pre>
+
+<h4>
+  <a href="https://www.berryhilldrip.com/7001-Battery-Operated-Timer-to-3-4-Faucet.-Controller-Valve-Combo.-Automate-your-Drip-Irrigation-System.-Use-with-hose-or-pipe-thread-connections.html" target="_blank">berryhilldrip.com</a>
+  Galcon 7001 Battery-Operated Timer with Solenoid Valve
+</h4>
+
+<h4>
+  <a href="https://www.berryhilldrip.com/3-4-Poly-Tubing-Blue-Stripe-or-White-Stripe-POL007.html" target="_blank">berryhilldrip.com</a>
+  3/4" x 100' Poly Tubing (Blue-Stripe or White-Stripe) #POL007 100k
+</h4>
+
+<pre>
+5/8 mainline
+
+</pre>
+
 <ul>
   <li> <a href="https://www.dripworks.com/" target="_blank">Drip Works</a> </li>
   <li> <a href="https://www.dripdepot.com/" target="_blank">Drip Depot</a> </li>
   <li> <a href="https://www.berryhilldrip.com/" target="_blank">Berry Hill Drip</a> </li>
 <ul>
+
+<h4><li> <a href="https://www.dripworks.com/" target="_blank">Drip Works</a> </li></h4>
+
+<h4<li> <a href="https://www.dripdepot.com/" target="_blank">Drip Depot</a> </li></h4>
+
+<h4><li> <a href="https://www.berryhilldrip.com/" target="_blank">Berry Hill Drip</a> </li></h4>
 
 https://www.dripworks.com/irritec-p1-emitter-tape-1000-roll
 

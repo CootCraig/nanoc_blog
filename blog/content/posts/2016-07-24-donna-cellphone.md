@@ -12,8 +12,8 @@ tags:
 <h1>Verizon Account</h1>
 
 <pre>
-PIN 7773
-password 200Ndakota*
+PIN 4443
+voicemail pw 1357
 </pre>
 
 <h1>ASUS ZenFone V Live - V500KL - Asus-A009</h1>

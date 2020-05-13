@@ -10,11 +10,14 @@ tags:
   - water_filters
 ---
 
-<h4>Filter log 2019-11-13</h4>
-
+<h4>Filter log 2020-04-14</h4>
 <pre>
-92.5 gal
-Sun Mar 22 13:26:16 MDT 2020
+20.0 gal Tue May 12 22:17:51 MDT 2020
+</pre>
+
+<h4>Filter log 2019-11-13</h4>
+<pre>
+101  gal
 </pre>
 
 <h4>

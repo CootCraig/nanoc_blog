@@ -11,6 +11,26 @@ tags:
   James True Website
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=pdCZkJLc6ho" target="_blank">James True youtube</a>
+  The Pillage of 9/12 - live on Mar 24, 2020
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=y92X9XAawPQ" target="_blank">James True youtube</a>
+  #30 - Dr Andrew Kaufman and Covid19 - live on Apr 17, 2020
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=FTDUnPvrYUI" target="_blank">James True youtube</a>
+  #32 - Aprilocalypse 19th - live on Apr 19, 2020
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=sJ3uhYD3pTE" target="_blank">James True youtube</a>
+  Order out of Chaos - Streamed live on Apr 20, 2020
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>
