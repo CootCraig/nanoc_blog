@@ -1,15 +1,17 @@
 ---
-title: "Home Grain Threshing"
-created_at: Mon May 11 12:41:43 MDT 2020
+title: "Jim Kovaleski"
+created_at: Wed May 27 20:59:21 MDT 2020
 kind: article
 tags:
+  - jim_kovaleski
   - gardening
-  - grain_threshing
 ---
 
+scyther
+
 <h4>
-  <a href="https://www.youtube.com/watch?v=v9UljrbPji4" target="_blank">Sustainable Seed youtube</a>
-  Home grain threshing
+  <a href="https://www.youtube.com/watch?v=SFaW8yfG1BM" target="_blank">Pete Kanaris GreenDreamsFL youtube</a>
+  The Grass-Fed Market Garden: No Water. No Weeds. No Tilling.
 </h4>
 
 <!--

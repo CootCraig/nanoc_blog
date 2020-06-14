@@ -267,6 +267,7 @@ Connect (not the set) and ONLY Gilmour Brass Male Hose End Connector 09QCM
   <li>Anderson Metals Brass Garden Hose Fitting, Connector, 5/8" Barb x 3/4" Male Hose</li>
   <li>Anderson Metals Brass Garden Hose Swivel Fitting, Connector, 1/2" Barb x 3/4" Female Hose</li>
   <li>Anderson Metals Brass Garden Hose Fitting, Connector, 1/2" Barb x 3/4" Male Hose</li>
+  <li>Parker Hannifin 90GH-12-8 Brass Garden Hose Fitting, 3/4" Swivel Female Garden Hose Thread x 1/2" Hose Barb</li>
   <li>Gilmour Zinc Female Hose Coupling 01FZ (5/8,3/4)</li>
   <li>Gilmour Zinc Male Coupling 01MZ (5/8,3/4)</li>
   <li>Gilmour Rubber Hose Washers, 10 Washers Per Package 01RW</li>

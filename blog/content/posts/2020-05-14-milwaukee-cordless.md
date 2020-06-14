@@ -1,16 +1,17 @@
 ---
-title: "Home Grain Threshing"
-created_at: Mon May 11 12:41:43 MDT 2020
+title: "Milwaukee Cordless Tools"
+created_at: Thu May 14 22:45:11 MDT 2020
 kind: article
 tags:
-  - gardening
-  - grain_threshing
+  - milwaukee_cordless
 ---
 
 <h4>
-  <a href="https://www.youtube.com/watch?v=v9UljrbPji4" target="_blank">Sustainable Seed youtube</a>
-  Home grain threshing
+  <a href="https://www.youtube.com/watch?v=P8sMshvuXUU" target="_blank">Fabrication Guy youtube</a>
+  DON'T GET SCAMMED! MILWAUKEE M18 1/2 inch Impact Comparison! 
 </h4>
+Recommends: pricey -
+Milwaukee M18 Fuel 1/2 Inch Impact (2767-20)
 
 <!--
 html boilerplate fragments

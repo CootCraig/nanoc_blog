@@ -1,15 +1,16 @@
 ---
-title: "Home Grain Threshing"
-created_at: Mon May 11 12:41:43 MDT 2020
+title: "Greg Koukl"
+created_at: Mon Jun  8 18:58:54 MDT 2020
 kind: article
 tags:
-  - gardening
-  - grain_threshing
+  - greg_koukl
+  - koukl_tactics
+  - apologetics
 ---
 
 <h4>
-  <a href="https://www.youtube.com/watch?v=v9UljrbPji4" target="_blank">Sustainable Seed youtube</a>
-  Home grain threshing
+  <a href="https://www.youtube.com/watch?v=aTzh6oVbsKk" target="_blank">River Oaks Community Church youtube</a>
+  ROCC October 17, 2018 Equipping and Training from Greg Koukl. "Tactics" Sessions 1
 </h4>
 
 <!--

@@ -1,15 +1,15 @@
 ---
-title: "Home Grain Threshing"
-created_at: Mon May 11 12:41:43 MDT 2020
+title: "Justin Rhodes"
+created_at: Thu May 28 06:18:51 MDT 2020
 kind: article
 tags:
+  - justin_rhodes
   - gardening
-  - grain_threshing
 ---
 
 <h4>
-  <a href="https://www.youtube.com/watch?v=v9UljrbPji4" target="_blank">Sustainable Seed youtube</a>
-  Home grain threshing
+  <a href="https://www.youtube.com/watch?v=IWChH9MHkHg" target="_blank">Justin Rhodes youtube</a>
+  How Karl Hammer Feeds 600 Chickens (Without Grains)
 </h4>
 
 <!--

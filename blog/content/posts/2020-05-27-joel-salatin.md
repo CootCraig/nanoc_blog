@@ -1,15 +1,21 @@
 ---
-title: "Home Grain Threshing"
-created_at: Mon May 11 12:41:43 MDT 2020
+title: "Joel Salatin"
+created_at: Wed May 27 21:17:28 MDT 2020
 kind: article
 tags:
-  - gardening
-  - grain_threshing
+  - joel_salatin
+  - ranching
+  - beef_production
 ---
 
 <h4>
-  <a href="https://www.youtube.com/watch?v=v9UljrbPji4" target="_blank">Sustainable Seed youtube</a>
-  Home grain threshing
+  <a href="https://www.youtube.com/watch?v=HwG8MzUDPBw" target="_blank">Justin Rhodes youtube</a>
+  How Joel Salatin Buys Land For $30 An Acre
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=jBZgANtcXm8" target="_blank">Talks at Google youtube</a>
+  Joel Salatin: "Folks, This Ain't Normal" | Talks at Google
 </h4>
 
 <!--
@@ -30,3 +36,4 @@ html boilerplate fragments
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
 :-->
+

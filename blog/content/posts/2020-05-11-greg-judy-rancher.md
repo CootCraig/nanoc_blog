@@ -12,6 +12,11 @@ tags:
   Mob of Bulls
 </h4>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=WNQNAlMY1Fc" target="_blank">Greg Judy Regenerative Rancher youtube</a>
+  Mob of cows steam rolled entire grass paddock to replenish litter bank.
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

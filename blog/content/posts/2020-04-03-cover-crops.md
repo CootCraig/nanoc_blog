@@ -79,6 +79,11 @@ Seeding rate:
   Buckwheat seed - 10#/$33
 </h4>
 
+<h4>
+  <a href="https://hancockseed.com/collections/grain-rye/products/wrens-abruzzi-grain-rye-seed" target="_blank">hancockseed.com/</a>
+  Wrens Abruzzi Grain Rye Seed 
+</h4>
+
 <h2>
   <a href="https://greatbasinseeds.com/product/fria-annual-ryegrass/" target="_blank">greatbasinseeds.com</a>
   ANNUAL RYEGRASS (LOLIUM PERENNE MULTIFORM)
@@ -115,6 +120,29 @@ drought tolerant and is suitable for dryland conditions and lighter
 soils. It will perform best on well drained to moderately drained soils
 as extended periods of standing water can result in winter kill. Winter
 Triticale is moderately tolerant to saline soils.
+
+<h2>
+  <a href="https://advancecovercrops.com/cover-crops-advance-cover-crops/" target="_blank">advancecovercrops.com</a>
+  Cover Crops
+</h2>
+
+Excellent organization on this page.
+Very informative descriptions.
+
+<h4>
+  <a href="https://farmingsweetbay.wordpress.com/2011/07/17/mowing-sorghum-sudan-cowpea-cover-crop-wow-thats-alotta-mulch/" target="_blank">farmingsweetbay.wordpress.com</a>
+  Mowing Sorghum Sudan & Cowpea Cover Crop – Wow That’s Alotta Mulch!
+</h4>
+
+<h4>
+  <a href="https://covercropexchange.com/products/cowpeas" target="_blank">covercropexchange.com</a>
+  cowpeas
+<h4>
+
+<h4>
+  <a href="" target="_blank">covercropexchange.com</a>
+
+<h4>
 
 <!--
 html boilerplate fragments

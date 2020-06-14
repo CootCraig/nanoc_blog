@@ -7,6 +7,9 @@ tags:
   - drip_tape
 ---
 
+ABC plumbing has Centennial Plastics LLDPE drip tubing with blue dashed line.
+Purchased a 100' roll
+
 <h3>Purchase Research</h3>
 Sat Mar 21 11:46:55 MDT 2020
 <pre>
@@ -136,6 +139,8 @@ Irritec P1?
 <h3>
   <a href="https://www.dripdepot.com/product/p1-ultra-five-eigths-inch-drip-tape" target="_blank">P1 Ultra 5/8” Drip Tape at DripDepot</a>
 </h3>
+
+DripDepot has Irritrol P1 Ultra, 5/8", 8"spacing, emitter 0.25 GPH, 1000', $106.05
 
 P1 drip tape utilizes innovative technology that offers the following
 benefits to the grower. A protected flow system devised by the Irritec
@@ -267,6 +272,86 @@ https://www.dripworks.com/irritec-p1-emitter-tape-1000-roll
 <h1>
   <a href="http://jains.com/irrigation/drip%20tape/Chapin-Twinwall-DDP58.htm" target="_blank">Jain Chapin Deluxe Drip Tape</a>
 </h1>
+
+<h1>3/4" Drip line fittings</h1>
+
+<h3>
+  <a href="https://www.dripirrigation.com/fittings/3-4-fittings" target="_blank">dripirrigation.com/</a>
+  3/4" fittings
+</h3>
+
+<h1>timer/controllers</h1>
+
+<h4>
+  <a href="https://www.dripdepot.com/item/galcon-model-7001-series-controller-w-valve-size-three-quarter-inch-fpt" target="_blank">dripdepot.com/</a>
+  3/4" Galcon 7001 controller - $48
+</h4>
+
+<h4>
+  <a href="https://www.berryhilldrip.com/7001-Battery-Operated-Timer-to-3-4-Faucet.-Controller-Valve-Combo.-Automate-your-Drip-Irrigation-System.-Use-with-hose-or-pipe-thread-connections.html" target="_blank">berryhilldrip.com/</a>
+  3/4" Galcon 7001 controller - $58
+</h4>
+
+<h1>Drip Tape</h1>
+
+<h4>
+  <a href="https://www.dripdepot.com/item/p1-ultra-five-eigths-inch-drip-tape-wall-thickness-15-mil-emitter-spacing-8-inch-emitter-flow-0-25-gph-roll-length-1000-feet" target="_blank">dripdepot.com/</a>
+  Irritec's 5/8" P1 Drip Tape - 15mil, 8" spacing, emitter 0.25GPH, 1000', $106.05
+</h4>
+Irritec's 5/8" P1 Drip Tape is available in a wide range of wall
+thicknesses from 6 mil  to 15 mil, many different emitter spacings,
+and several flow rates. With this many options, P1 drip tape will meet
+your needs!
+
+P1 drip tape utilizes innovative technology offering many benefits to
+the grower. A protected flow system devised by the Irritec research
+department allows the P1 to be buried in the soil without problems
+caused by encroachment of mud and debris and reduces the risk of root
+intrusion to a minimum. The system works through a special “flap”
+design on the outlet hole. During the irrigation cycle the flap opens,
+allowing an even flow of water; when the cycle ends the flap returns to
+its resting position, closing the hole and thus blocking any entry of
+mud and detritus. This drip tape is great for better coverage on longer
+runs. When you water slower and longer, you also water deeper. P1 Ultra
+Tape works with T-Tape, Aqua Traxx and Chapin Drip Tape Systems. If you
+are a first time user of drip tape, we recommend that you start with
+our 15 mil tape.
+
+
+<h4>
+  <a href="https://www.berryhilldrip.com/15-Mil-AquaTraxx-Short-Rolls.-For-an-area-needing-a-tougher-drip-tape-or-for-re-use-in-gardens..html" target="_blank">berryhilldrip.com/</a>
+  Toro AquaTraxx, 15 mil, 8" spacing, emitter 0.34 GPH, 1000', $75
+</h4>
+<b>This is in the Supergarden Kit I purchased</b>
+<pre>
+Blue Stripe Signature Quality -- Stripes go UP which insures proper outlet placement.
+Strength and flexbility means easy installation and savings on time and labor.
+Seamless construction assuring no more split seams.
+Laser slit outlet eliminates startup plugging and impedes root intrusion.
+Better uniformity with reduced clogging.  Highly resistant to clogging.
+</pre>
+
+<h1>5/8" drip tape fittings</h1>
+<h3>
+<a href="https://www.berryhilldrip.com/Drip-Tape-Fittings/" target="_blank">berryhilldrip.com</a>
+  5/8" drip tape fittings
+</h3>
+
+<h4>
+Not finding fittings at DripDepot. strange.
+</h4>
+
+<h1>Avondale water availability</h2>
+<h4>
+  <a href="https://www.dripworks.com/resources/calculators/drip-tape-estimator" target="_blank">dripworks.com</a>
+  Drip tape estimator
+</h4>
+
+<pre>
+11 gal/min. available
+Toro AquaTraxx, 15 mil, 8" spacing, emitter 0.34 GPH, 1000', $75
+
+</pre>
 
 <!--
 html boilerplate

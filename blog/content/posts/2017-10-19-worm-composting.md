@@ -7,6 +7,15 @@ tags:
   - vermicomposting
 ---
 
+<pre>
+Don Mimms
+Belmont in Pueblo
+719-242-3838
+bedding $10
+Use container with 7-8" for bedding. No drains. Opaque, not clear.
+$45 for 10 gal. tote with complete starting kit.
+</pre>
+
 <h3>
   <a href="https://lancaster.unl.edu/pest/resources/vermicompost107.shtml" target="_blank">lancaster.unl.edu/pest/resources/</a>
   Vermicomposting: Composting with Worms by Soni Cochran, Extension Associate
@@ -99,6 +108,16 @@ to let the worms settle in before adding wastes.
 <h2>
   <a href="http://www.wormwoman.com/acatalog/index.html" target="_blank">www.wormwoman.com/</a>
 </h2>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=MYkPAZAiHXg" target="_blank">I AM ORGANIC GARDENING youtube</a>
+  WORM CASTING vs Compost REAL TRUTH - which is better?
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=Z5ozNM-Hb0w" target="_blank">Geoff Lawton: Discover Permaculture youtube</a>
+  Compost Worm Farming
+</h4>
 
 <!--
 html boilerplate

@@ -7,6 +7,27 @@ tags:
   - foodsaver
 ---
 
+<pre>
+Thu Jun 11 11:29:09 MDT 2020
+Considering
+Weston pro-2300
+
+</pre>
+<h4>
+  <a href="https://www.youtube.com/watch?v=SF-VgrgnwD0" target="_blank">SoCals Preps youtube</a>
+  Vacuum sealing Meats Using the Weston 2300 pro - Meat Secrets Revealed
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=-rZ_ehQWLsc" target="_blank">GrillingNetwork youtube</a>
+  Weston Pro 2300 Vacuum Sealer Review
+</h4>
+
+<h4>
+  <a href="" target="_blank"></a>
+
+</h4>
+
 Foodsaver Game Saver Turbo plus
 
 <a href="/assets/pdf/foodsaver-gamesaver-turbo-quick.pdf" target="_blank">quick start guide</a>

@@ -1,16 +1,14 @@
 ---
-title: "Home Grain Threshing"
-created_at: Mon May 11 12:41:43 MDT 2020
+title: "The Honest Carpenter"
+created_at: Thu May 14 22:51:00 MDT 2020
 kind: article
 tags:
-  - gardening
-  - grain_threshing
+  - honest_carpenter
 ---
 
-<h4>
-  <a href="https://www.youtube.com/watch?v=v9UljrbPji4" target="_blank">Sustainable Seed youtube</a>
-  Home grain threshing
-</h4>
+<h2>
+  <a href="https://www.youtube.com/channel/UCDLxnaDQzo8YolFqsBAHVLQ/featured" target="_blank">The Honest Carpenter youtube channel</a>
+</h2>
 
 <!--
 html boilerplate fragments
