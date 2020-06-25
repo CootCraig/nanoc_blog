@@ -14,7 +14,7 @@ GEM
       cri (~> 2.3)
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
-    rack (1.6.0)
+    rack (2.2.3)
     tilt (2.0.1)
 
 PLATFORMS
