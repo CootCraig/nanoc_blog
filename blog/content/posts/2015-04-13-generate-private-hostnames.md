@@ -14,9 +14,23 @@ tags:
 
 <h1>Random hostnames</h1>
 
+<h2>Switched to codycraven</h2>
+<pre>
+Sat Sep 12 21:46:37 MDT 2020
+https://codepen.io/codycraven/pen/MbWwQm
+
+var hashids = new Hashids("coot private stock", 5, "abcdefghijklmnopqrstuvwxyz1234567890");
+var id = hashids.encode(14);
+var numbers = hashids.decode(id);
+
+$("#input").text("["+numbers.join(", ")+"]");
+$("#hashid").text(id);
+</pre>
+
 <h2>Private for me</h2>
 
 <pre>
+import Hashids from 'hashids'
 var hashids = new Hashids("coot private stock", 5, "abcdefghijklmnopqrstuvwxyz1234567890");
 var id = hashids.encode(9);
 var numbers = hashids.decode(id);
@@ -39,6 +53,7 @@ $("#output").text(id);
 11 => 0rm37 - manjaro-t500-0rm37 - 20191203 - lenovo t500
 12 => 2q1mq - arch-toshiba-2q1mq - 20191204 - Toshiba Satellite
 13 -> p7pzr - arch-toshiba-p7pzr - 20191211 - Toshiba Satellist arch linux systemd-networkd dhcpcd wpa_supplicant
+14 -> 87037 - thinkpad-arch-87037 - 20200912 - Lenovo Thinkpad T500
 </pre>
 
 <h4>

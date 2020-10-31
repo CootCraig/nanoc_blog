@@ -9,6 +9,12 @@ tags:
   - diy_shims
 ---
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=6YsnAh-r7nI" target="_blank">VCG Constructionin youtube</a>
+  What Nobody Will Tell You About Circular Saws (DIRTY TRUTH)
+</h4>
+Cleaning blades
+
 <h1>Skilsaw Wormdrive</h1>
 
 <h3>
@@ -320,4 +326,4 @@ html boilerplate fragments
 </code></pre>
 <math xmlns='http://www.w3.org/1998/Math/MathML' display='block'>
 </math>
--->
+:-->

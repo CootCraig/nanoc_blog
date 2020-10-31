@@ -24,6 +24,11 @@ tags:
   <a href="https://www.lawfulmoneytrust.com/" target="_blank">Lawful Money Trust</a>
 </h2>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=iERIeXbaK_o&feature=youtu.be" target="_blank">Robert David Steele youtube</a>
+  Anna von Reitz on the Fundamentals -- How We the People, Owning the Land, Can Reject Banks & Debt
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

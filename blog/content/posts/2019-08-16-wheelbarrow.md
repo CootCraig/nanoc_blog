@@ -19,6 +19,21 @@ tags:
   Marathon 4.80/4.00-8" Flat Free Wheelbarrow Tire on Wheel, 6" Centered Hub, 5/8" Ball Bearings, Ribbed Tread 
 </h3>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=Lf17Er2DIL8" target="_blank">BubbleBeet youtube</a>
+  Fix Flat Tire on Wheelbarrow HOW TO REPAIR inner tube install
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=74fYpGC1vzE" target="_blank">JIMBO'S GARAGE youtube</a>
+  Wheelbarrow Tire Tube Replacement
+</h4>
+
+<h4>
+<a href="https://www.youtube.com/watch?v=03MMjZZtGKs" target="_blank">This Old House youtube</a>
+  How to Repair a Flat Wheelbarrow Tire | This Old House
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

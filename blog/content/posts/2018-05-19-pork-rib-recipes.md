@@ -12,6 +12,14 @@ tags:
   <a href="https://blog.thermoworks.com/2018/05/perfect-temp-smoked-baby-back-ribs-a-thermal-exploration/" target="_blank">blog.thermoworks.com/2018/05</a>
 </h3>
 
+<h4>
+<a href="https://www.smoking-meat.com/august-25-2011-smoked-baby-back-ribs" target="_blank">smoking-meat.com/</a>
+  Smoked Baby Back Ribs
+</h4>
+<pre>
+Buy his rib recipe
+</pre>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

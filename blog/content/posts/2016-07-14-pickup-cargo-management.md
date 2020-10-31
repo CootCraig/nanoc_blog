@@ -453,6 +453,36 @@ At least 3 turns.
 
 <h2>Ratchet Strap Storage</h2>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=YkToDFKYB6o" target="_blank">TomWylie youtube</a>
+  How To Use A Ratchet Strap
+</h4>
+Shows daisy chain storage.
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=p0qJHG-ywSQ" target="_blank">TomWylie youtube</a>
+  How To Organize LARGE RATCHET STRAPS [No More #*%!?\@* TANGLES!!!]
+</h4>
+Note his updated method following.
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=BvzZLRAv4ng" target="_blank">TomWylie youtube</a>
+  Managing LARGE RATCHET STRAPS 2020 Update! | Daisy Chain Method Is King
+</h4>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=SefFpse8uGY" target="_blank">Swedish Homestead youtube</a>
+  Very Helpful Ratchet Strap Trick
+</h3>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=VeqMIgrkroE" target="_blank">Safe Driver Training youtube</a>
+  How to use ratchet Straps
+</h4>
+Nice method of securing excess strap with load.
+Rolls up strap for storage. (Not my favorite)
+However, the rolled up strap can be thrown over the load.
+
 <h1>Using the Newbury method</h1>
 
 <h4>as of Mon Jul 31 17:31:22 MDT 2017</h4>

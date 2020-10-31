@@ -55,6 +55,12 @@ Uses angle grinder.
 </h3>
 
 <h3>
+  <a href="https://youtu.be/eeEVigsVqrE?t=212" target="_blank">Steve's Small Engine Saloon youtube</a>
+  Proper Way To Tip A Lawn Mower Over
+</h3>
+Top dead center on compression stroke so valves are closed.
+
+<h3>
   <a href="https://www.youtube.com/watch?v=qFusHPPmOFo" target="_blank">This Old House youtube</a>
   How to Sharpen a Lawn Mower Blade - This Old House
 </h3>

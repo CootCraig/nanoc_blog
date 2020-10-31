@@ -183,6 +183,7 @@ Defaults  editor=/usr/bin/vim
 visudo
 uncomment this line:
 %wheel ALL=(ALL) NOPASSWD: ALL
+
 </pre>
 
 <h3>ssh</h3>
@@ -207,10 +208,10 @@ systemctl disable systemd-timesyncd.service
 pacman -S chrony
 
 edit /etc/chrony.conf - add
-server 0.pool.ntp.org offline
-server 1.pool.ntp.org offline
-server 2.pool.ntp.org offline
-server 3.pool.ntp.org offline
+server 0.pool.ntp.org iburst
+server 1.pool.ntp.org iburst
+server 2.pool.ntp.org iburst
+server 3.pool.ntp.org iburst
 
 systemctl start chronyd.service
 systemctl enable chronyd.service

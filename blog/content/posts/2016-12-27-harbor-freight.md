@@ -205,6 +205,18 @@ Uses air filter from
 </h4>
 
 <h4>
+  <a href="" target="_blank"></a>
+https://www.youtube.com/watch?v=lju--QC1hjw
+Ozzstar's Cars youtube
+  Air Compressor Dump Valve/Pressure Switch Replacement -- Central Pneumatic - Model 47065
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=UTRI2xmsDk4" target="_blank">mechanical king youtube</a>
+  Harbor Freight air compressor not starting fix
+</h4>
+
+<h4>
   <a href="https://www.youtube.com/watch?v=J5zAeP3t08o" target="_blank">snarlingrabiddog5150 youtube</a>
   Harbor Freight Air Compressor Update 21 Gallon - Still Running Strong!
 </h4>
@@ -375,6 +387,18 @@ milton 1/4 v style
   <a href="https://www.youtube.com/watch?v=SFKoQMyN7nY" target="_blank">DIYmonkey youtube</a>
   Central Pneumatic Framing Nailer - Long Term Review (Harbor Freight)
 </h3>
+<pre>
+Home Depot
+2-3/8 in. x 0.113 Plastic Exterior Galvanized Ring Shank Nails (1,000 per Box)
+by Grip-Rite
+Pueblo Store
+11 in stock
+Aisle 14, Bay 014Text to Me
+For general construction, carpentry, and framing
+Galvanized for outdoor use and with ACQ treated lumber
+See More Details
+$25.98
+</pre>
 
 <h3>
   <a href="https://www.youtube.com/watch?v=F-s7c5WrYVA" target="_blank">toolhead 147 youtube</a>

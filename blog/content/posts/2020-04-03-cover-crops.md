@@ -6,6 +6,14 @@ tags:
   - cover_crops
 ---
 
+  
+<pre>
+Super Sugar DM Sorghum Sudangrass - 25# - Hancock Seed - $53.99
+Buckwheat Cover Crop Seed - 50 LBS - Outside Pride - $94.89
+Daikon Radish Seed - 50 LBS - Outside Pride - $129.89 - order ID is OUT-1949218
+</pre>
+
+
 <h1>Annual</h1>
 <ul>
   <li>Buckwheat FAGOPYRUM ESCULENTUM</li>

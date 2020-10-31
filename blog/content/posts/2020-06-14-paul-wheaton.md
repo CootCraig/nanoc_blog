@@ -4,8 +4,7 @@ created_at: Sun Jun 14 09:09:43 MDT 2020
 kind: article
 tags:
   - paul_wheaton
-  - 
-  - 
+  - permaculture
 ---
 
 <h2>

@@ -37,6 +37,16 @@ tags:
   Oetiker 1" PEX Grip (No-Slip) Stainless Steel Cinch Clamps SSC (50/bag)
 </h3>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=YFOLlhn2iak" target="_blank">Unconventional Thinker youtube</a>
+  PEX Steel Clamp Removal
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=svTi9_6fLCY" target="_blank">striker1211 youtube</a>
+  Removing PEX Cinch Clamps With Just A Screw Driver!
+</h4>
+
 <!--
 html boilerplate fragments
 <a href="" target="_blank"></a>

@@ -6,6 +6,9 @@ tags:
   - laptop
 ---
 
+<h1>2020-08-02</h1>
+
+<h1>older</h1>
 <h3><a href="https://www.pine64.org/?page_id=3707" target="_blank">Pine64 Pinebook</a></h3>
 
 <pre>

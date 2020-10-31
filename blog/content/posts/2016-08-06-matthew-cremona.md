@@ -22,6 +22,11 @@ Matthew Cremona - Flattening Boards with a Router Sled
   Urban Logging Strategies
 </h3>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=B5YfmXOXZCw" target="_blank">Matthew Cremona youtube</a>
+  First Pickup with my new Urban Logging Trailer
+</h4>
+
 <h4>Search Terms</h4>
 
 <pre>

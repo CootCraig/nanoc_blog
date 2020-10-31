@@ -44,6 +44,12 @@ Stamped on the tongue of the trailer
 
 <h1>Hitch</h1>
 
+<h2>2004 Odyssey</h2>
+<h4>
+  <a href="https://www.etrailer.com/Trailer-Hitch/Honda/Odyssey/2004/75270.html?VehicleID=20046109" target="_blank">etrailer.com</a>
+  Draw-Tite Max-Frame Trailer Hitch Receiver - Custom Fit - Class III - 2" Item # 75270 $172.12
+</h4>
+
 <h3>
   Original Rapid Hitch Adjustable Ball Mount Trailer Hitch
   <a href="https://andersenhitches.com/Catalog/rapid-hitch.aspx" target="_blank">andersenhitches.com/Catalog</a>

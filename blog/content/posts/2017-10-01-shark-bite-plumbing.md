@@ -313,6 +313,11 @@ Stop and waste shut-off valve.
 </h3>
 
 <h3>
+  <a href="https://www.youtube.com/watch?v=lwfRCwo_0eo" target="_blank">Home Repair Tutor youtube</a>
+  Repair Copper Pipe Leaks with SharkBites (Super EASY)
+</h3>
+
+<h3>
   <a href="https://www.youtube.com/watch?v=2Oo9PD27Kbw" target="_blank">Indiana Diy youtube</a>
   Sharkbite Fittings and Pex Pipe Review
 </h3>
@@ -368,6 +373,26 @@ Nice video at a job site.
 
 Shows retrofit with Pex to copper.
 Pex 1/3 the cost of copper.
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=gjtMTmHlOnE" target="_blank">Tim Walsh youtube</a>
+  Installing a Tectite Sharkbite Slip Tee onto an existing copper water pipe
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=V48FQBbeZhk" target="_blank">Got2Learn youtube</a>
+  Beginners Guide To SHARKBITE Fittings (Watch till end BEFORE Buying!) 
+</h4>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=ssleq3TkWw$" target="_blank">Jt Tylor youtube</a>
+  Sharkbite Sleeve Removal
+</h4>
+
+<h4>
+  <a href="https://www.amazon.com/DEBO-Pencil-Shape-Deburring-Copper/dp/B002YPWX3Q/" target="_blank">amazon.com</a>
+  Reed Tool DEBO Pencil Shape Deburring Tool for Copper
+</h4>
 
 <h3>
   <a href="https://www.pexuniverse.com/providing-proper-support-long-runs-pex-tubing" target="_blank">article at pexuniverse.com</a>
@@ -436,6 +461,11 @@ $4.75
 SKU: U712
 $1.35
 <pre>
+
+<h4>
+  <a href="https://www.youtube.com/watch?v=gHzec-Ets2A" target="_blank">Matt Risinger youtube</a>
+  Is this new Plumbing PTC connection BETTER than a Sharkbite?
+</h4>
 
 <!--
 html boilerplate

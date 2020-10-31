@@ -6,6 +6,28 @@ tags:
   - electrical_panel
 ---
 
+<h2>Electrical Sub Panel</h2>
+<h4>
+  <a href="https://www.youtube.com/watch?v=0kkVJYNLXo4" target="_blank">Benjamin Sahlstrom youtube</a>
+  How To Install a Sub Panel Start to Finish!
+</h4>
+<h4>
+  <a href="https://www.youtube.com/watch?v=5iEuaAYs5x4" target="_blank">Benjamin Sahlstrom youtube</a>
+  Why Neutrals and Grounds are Separated in a Sub Panel
+</h4>
+<h4>
+  <a href="https://www.youtube.com/watch?v=q-RrufV6Gig" target="_blank">Benjamin Sahlstrom youtube</a>
+  Finding The Source of Stray Current on Grounding System
+</h4>
+<h4>
+  <a href="https://www.homedepot.com/p/Square-D-7-Terminal-Ground-Bar-Kit-PK7GTACP/202353316" target="_blank">homedepot.com</a>
+  Square D 7 Terminal Ground Bar Kit - $5.70
+</h4>
+<h4>
+  <a href="https://www.youtube.com/watch?v=P-W42tk-fWc" target="_blank">The Engineering Mindset youtube</a>
+  Ground Neutral and Hot wires explained
+</h4>
+
 <h3>
   How to Wire an Electrical Panel - Square D
   <a href="https://www.youtube.com/watch?v=YbEZOT8rVW4" target="_blank">Ryndon Ricks youtube</a>

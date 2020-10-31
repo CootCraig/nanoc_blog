@@ -7,6 +7,18 @@ tags:
   - ody_maintenance
 ---
 
+<h1>Trailer Hitch</h1>
+<h4>
+  <a href="https://www.etrailer.com/Trailer-Hitch/Honda/Odyssey/2004/75270.html?VehicleID=20046109" target="_blank">etrailer.com</a>
+  Draw-Tite Max-Frame Trailer Hitch Receiver - Custom Fit - Class III - 2" Item # 75270 $164.65
+</h4>
+<pre>
+Receiver opening: 2" x 2"
+Rating: Class III
+Maximum gross trailer weight: 4,500 lbs
+Maximum tongue weight: 675 lbs
+</pre>
+
 <h3>
   <a href="/assets/pdf/kenwood-dpx500bt-user-manual.pdf" target="_blank">Kenwood DPX500BT Radio</a>
   Local user manual

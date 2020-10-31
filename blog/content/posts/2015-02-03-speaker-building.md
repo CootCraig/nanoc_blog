@@ -45,6 +45,17 @@ tags:
 
 # Designers of note
 
+<h2>
+  <a href="https://www.youtube.com/watch?v=EEh01PX-q9I" target="_blank">Voigt Pipe</a>
+  World's Second Best Speakers! - Tech Ingredients youtube
+</h2>
+
+<h2>
+  <a href="https://www.youtube.com/watch?v=zdkyGDqU7xA&feature=youtu.be&t=1130" target="_blank">Tech Ingredients youtube</a>
+  Flat panel - Fantastic DIY Speakers for less than $30!
+</h2>
+Cymatics at 1130
+
 ### [Wayne Parham - Pi Speakers](http://www.pispeakers.com/contents.html)
 
 * [Forum](http://audioroundtable.com/forum/index.php?t=thread&frm_id=33&)

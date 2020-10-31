@@ -4,6 +4,8 @@ created_at: Thu May 18 10:49:34 MDT 2017
 kind: article
 tags:
   - essential_craftsman
+  - carpentry
+  - framing
 ---
 
 <h2>
@@ -70,6 +72,11 @@ Exterior deck screws.
 <h3>
   <a href="https://www.youtube.com/watch?v=HM-UJl7DSn0" target="_blank">Essential Craftsman youtube</a>
   Occidental Leather Tool Bags
+</h3>
+
+<h3>
+  <a href="https://www.youtube.com/watch?v=l8-LpSRrW44" target="_blank">Essential Craftsman youtube</a>
+  Framing Pro Tips 
 </h3>
 
 <h3>
