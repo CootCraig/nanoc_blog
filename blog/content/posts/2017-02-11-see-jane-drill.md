@@ -24,6 +24,11 @@ tags:
   Air Compressor, Line Setup and How to Use Air Tools for Beginners
 </h3>
 
+<h4>
+  <a href="https://www.youtube.com/watch?v=XN8dlNku0vk" target="_blank">seejanedrill youtube</a>
+  What Nobody Will Tell You About Oscillating Multi-Tools
+</h4>
+
 <!--
 html boilerplate
 <a href="" target="_blank"></a>

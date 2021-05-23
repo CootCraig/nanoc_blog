@@ -8,6 +8,10 @@ tags:
   - nokia_6760_slide
 ---
 
+<h1>Degoogled Android Phone</h1>
+
+
+
 <pre>
 Thu Mar 21 09:28:25 MDT 2019
 imei 256691510605243975

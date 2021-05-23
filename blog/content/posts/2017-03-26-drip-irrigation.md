@@ -329,6 +329,8 @@ Strength and flexbility means easy installation and savings on time and labor.
 Seamless construction assuring no more split seams.
 Laser slit outlet eliminates startup plugging and impedes root intrusion.
 Better uniformity with reduced clogging.  Highly resistant to clogging.
+
+https://www.berryhilldrip.com/15-Mil-AquaTraxx-Short-Rolls.-For-an-area-needing-a-tougher-drip-tape-or-for-re-use-in-gardens..html
 </pre>
 
 <h1>5/8" drip tape fittings</h1>

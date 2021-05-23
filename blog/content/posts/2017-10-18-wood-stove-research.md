@@ -6,6 +6,24 @@ tags:
   - wood_stoves
 ---
 
+<h1>Woodstock Ideal Steel Stove</h1>
+<pre>
+EPA Efficiency. . . . . . . . . . . . . . . . . . . . . . . . . 79.3% LHV
+EPA Efficiency. . . . . . . . . . . . . . . . . . . . . . . . . 73.7% HHV
+Area Heated. . . . . . . . . . . . . . . . . . . . . up to 2,200 sq. ft.
+Burn Time. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10-14 hrs.
+Heat Output Range. . . . . . . . . 9,465 - 37,583 BTU/hr
+Loading Door. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Front
+Loading Door Opening (HxW). . . . . . . . . . . . . 12”x17”
+Back Clearance (no protection). . . . . . . . . . . . . . . . . 14”
+Side Clearance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19”
+Back Clearance (w/Heat Shield Kit) . . . . . . . . . . . . 6”
+Bottom Heat Shield. . . . . . . . . . . . . . . . . . . . . . . Standard
+Draft Control. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Manual
+Wood Length (Maximum). . . . . . . . . . . . . . . . . . . . . . 22”
+Firebox Size (22”W x 18”D x 15”front H - 12” back H). . . 3.2 Cu
+</pre>
+
 <pre>
 Home main floor ~1000 sq.ft
 2nd floor - 590 sq. ft
@@ -553,6 +571,17 @@ Efficiency4: 	78.3%
   </li>
 </ul>
 
+<h1>Energy Alternatives</h1>
+<h2>
+  <a href="https://www.lopistoves.com/product/evergreen-nexgen-fyre/" target="_blank">lopistoves.com</a>
+  Lopi Evergreen
+</h2>
+
+<h1>Big Horn Stove and Spa</h1>
+<h2>
+<a href="" target="_blank"></a>
+</h2>
+
 <pre>
 LOPI
 HARMAN
@@ -743,9 +772,23 @@ The Woodshed
 1215 South 9th
 Canon City, CO
 719.275.9007
+thewoodshedstoveshop@gmail.com
 </pre>
 
 <pre>
+Look at
+Kuma Wood Stoves - hybrid cat
+  aspen
+  tamarac
+Pacific Energy - non cat
+  super 27
+  classic
+</pre>
+<pre>
+</pre>
+
+<pre>
+
 quadra-fire
 hearthstone
 regency
