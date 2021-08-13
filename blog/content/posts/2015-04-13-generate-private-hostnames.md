@@ -54,6 +54,8 @@ $("#output").text(id);
 12 => 2q1mq - arch-toshiba-2q1mq - 20191204 - Toshiba Satellite
 13 -> p7pzr - arch-toshiba-p7pzr - 20191211 - Toshiba Satellist arch linux systemd-networkd dhcpcd wpa_supplicant
 14 -> 87037 - thinkpad-arch-87037 - 20200912 - Lenovo Thinkpad T500
+
+15 ->
 </pre>
 
 <h4>
@@ -99,6 +101,17 @@ Ubuntu / dokku-alt / docker / jruby rails
 Tue Nov 26 11:59:15 MST 2019
 
 VirtualBox arch install test.
+
+<h2>anon 9</h2>
+<pre>
+var hashids = new Hashids("coot private stock", 5, "abcdefghijklmnopqrstuvwxyz1234567890");
+var id = hashids.encode(9);
+var numbers = hashids.decode(id);
+
+$("#input").text("["+numbers.join(", ")+"]");
+$("#output").text(id);
+</pre>
+
 
 <!--
 html boilerplate fragments
